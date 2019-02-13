@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* Andrew <andrew.tarzia@gmail.com>
+* Andrew Tarzia <andrew.tarzia@gmail.com>
