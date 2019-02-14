@@ -5,3 +5,9 @@ Creation-Date: 2019-02-14T15:54:02+00:00
 ====== MOF ======
 Created Thursday 14 February 2019
 
+* in: [[~/projects/cage_collect/databases/MOF]]
+* [[Journal:2019:02:14|14/02/19:]]
+	* used the databases internal to Conquest to collect all REFCODES in the MOF list: [[~/projects/cage_collect/databases/MOF/MOF_subset.gcd]] 
+	* input the search criteria from Moghadam2017 - done [[Journal:2019:02:14|14/02/19]]
+		* confirm that the same REFCODE list comes [[~/projects/cage_collect/src/cage_collect/utils/compare_DB_REFCODES.py]]
+			* there are differences between the two REFCODEs — the search criteria need to be tuned
