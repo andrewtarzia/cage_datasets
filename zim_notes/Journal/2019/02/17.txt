@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-17T17:21:22+00:00
+
+====== Sunday 17 Feb 2019 ======
+
+* unclear things:
+	* query 4:
+		* QA in main figure in paper == QA = O, N, P, C, B, S
+		* QA im Figure S17 (query 4) == QA = N, C — using this in previous test
+	* query 7:
+		* QA in main figure in paper == QA = O, N, P, C, B, S
+		* QA im Figure S22 (query 7) == QA = N, O — using this in previous test
+* changes compared to [[Journal:2019:02:14|14/02/19]]:
+	* added a new query that searches for 'catena-', 'catena(', 'catena[',  in the name item
+		* this actually caused problems — just added 'catena' as name search (instead of text search as in [[Journal:2019:02:14|14/02/19]])
+	* unmerge all merged queries
+* make sure all examples in the supp info show up or don't show up:
+	* criterion2:
+		* ZOMSAV shows up when it shouldn't
+			* how to force rings to have at least one carbon atom?
+			* this structure is in the MOF dataset? when it should not be?
+				* emailing them — done
+	* criterion 1:
+		* ECUHOB shows up when it shouldn't because QA == QB in criteria 1?
+			* why was this not ignored?
+				* didnt show up in q1a and q1b searches only
+				* shows up in q2a search — therefore need to implement that one element in the ring must be a C?
+			* Doesnt show up in MOF subset
