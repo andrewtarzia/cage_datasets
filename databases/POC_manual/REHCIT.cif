@@ -14,10 +14,7 @@
 #######################################################################
 
 data_REHCIT
-_chemical_formula_moiety         
-'C42 H42 N28 O14,C10 H16 N1 1+,0.71(Na1 1+),1.71(H2 O4 P1 1-),0.71(C1 H4 O1),12.9(H2 O1)'
-_chemical_name_systematic        
-'cucurbit[7]uril methamphetamine clathrate sodium dihydrogen phosphate methanol solvate hydrate'
+_chemical_formula_moiety         'C106 H178 N58 Na3 O104 P6 2+'
 _symmetry_cell_setting           trigonal
 _symmetry_space_group_name_H-M   'P -3 c 1'
 _symmetry_Int_Tables_number      165
@@ -44,9 +41,6 @@ _cell_angle_alpha                90
 _cell_angle_beta                 90
 _cell_angle_gamma                120
 _cell_volume                     54342.7
-_exptl_crystal_colour            colorless
-_exptl_crystal_description       block
-_cell_formula_units_Z            24
 loop_
 _atom_site_label
 _atom_site_type_symbol
@@ -54,7 +48,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 Na1 Na 0.3333 0.6667 0.19226(13)
-Na2 Na 0.0000 0.57803(16) 0.2500
+Na2 Na -0.0000 0.57803(16) 0.2500
 Na3 Na 0.3333 0.6667 0.26546(14)
 O1 O 0.1063(2) 0.5008(2) 0.13474(16)
 O2 O 0.1085(2) 0.4822(2) 0.22159(16)

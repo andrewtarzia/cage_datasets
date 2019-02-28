@@ -36,6 +36,14 @@ Authors used for search:
 (100, 'cifs found from', 110, 'CCDC numbers')
 
 Changes made to CIFs:
+- only collect CIFs with chemical_name having one molecule in it, which
+removes the cages with solvents? (leaves 6 cages)
+	- decided not to remove them, but I should note it. 
+- added to output has solvent and has disorder flags to output
+
+
+
+-------------------------------------------------------
 1827870.cif
 1827871.cif
 1827872.cif
