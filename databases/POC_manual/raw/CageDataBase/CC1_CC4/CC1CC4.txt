@@ -1,0 +1,6 @@
+1.Original CIF: LEJPIB.cif
+2. 3 nitrogen molecules were deleted manually
+3. All '?' signed nitrogens were deleted manually 
+4. Cyclopentane rings in CC4 cage, terminal carbons were deleted manually and chosen randomly: C3UA,C3KA,C3EA,C3GA,C3PA,C3O 
+5. They still show up in Materials Studio, so a unitcell was biult and than these symmterically connected C3 atoms were deleted manually and hydrogens were added in MS
+6. CC1CC4.pdb was created containing one unit cell of rebuild crystal and made P1 and also 2x2x2 supercell

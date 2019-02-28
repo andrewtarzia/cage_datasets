@@ -1,0 +1,159 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated directly or indirectly from an entry in the 
+# Cambridge Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting from 
+# the CCDC's data processing and validation procedures. Files generated from 
+# CSD entries are Copyright 2015 Cambridge Crystallographic Data Centre. They 
+# may be used in bona fide research applications only, and may not be copied or 
+# further disseminated in any form, whether machine-readable or not, except for 
+# the purposes of generating routine backup copies on your local computer 
+# system.
+# 
+# Files arising from any other source may also contain material that is the 
+# copyright of third parties, including the originator, and you should check 
+# with the originator concerning the permitted uses of the information 
+# contained in this CIF.
+#
+# For further information on the CCDC and the free tools enCIFer and Mercury
+# for validating and visualising CIF files, please visit www.ccdc.cam.ac.uk
+#
+#######################################################################
+
+data_PALWAA
+_audit_creation_date             1993-05-12
+_database_code_depnum_ccdc_fiz   'CSD 56227'
+_database_code_NBS               621784
+_chemical_formula_moiety         'C36 H36,C1 H1 Cl3'
+_chemical_name_systematic        
+'Heptacyclo(13.13.2.2^8,22^,1^3,27^,1^6,10^,1^13,17^,1^20,24^)hexatriaconta-1,3(33),6,8,10(34),13,15,17(35),20,22,24(36),27-dodecaene chloroform solvate'
+_journal_coden_Cambridge         179
+_journal_volume                  31
+_journal_year                    1992
+_journal_page_first              1069
+_journal_name_full               Angew.Chem.,Int.Ed.
+loop_
+_publ_author_name
+F.Vogtle
+J.Gross
+C.Seel
+M.Nieger
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      193
+_exptl_crystal_density_meas      1.281
+_exptl_crystal_density_diffrn    1.283
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt           0.022
+_refine_ls_wR_factor_gt          0.022
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           rhombohedral
+_symmetry_space_group_name_H-M   'R 3'
+_symmetry_Int_Tables_number      146
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 z,x,y
+3 y,z,x
+_cell_length_a                   9.324(1)
+_cell_length_b                   9.324(1)
+_cell_length_c                   9.324(1)
+_cell_angle_alpha                100.80(1)
+_cell_angle_beta                 100.80(1)
+_cell_angle_gamma                100.80(1)
+_cell_volume                     761.061
+_exptl_crystal_colour            colorless
+_chemical_melting_point          'above 350 deg.C'
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.12120 0.12120 0.12120
+Cl1 Cl 0.03277(20) 0.20895(20) -0.00813(20)
+H1 H 0.1964 0.1964 0.1964
+Cl1A Cl -0.00813 0.03277 0.20895
+Cl1B Cl 0.20895 -0.00813 0.03277
+C2 C 0.43619(26) 0.42255(25) 0.26317(25)
+C3 C 0.48610(25) 0.31046(26) 0.32521(26)
+C4 C 0.60540(26) 0.23912(25) 0.27061(26)
+C5 C 0.74520(27) 0.35233(26) 0.26443(25)
+C6 C 0.81730(25) 0.46619(26) 0.41047(25)
+C7 C 0.85207(25) 0.61865(25) 0.41445(25)
+C8 C 0.91692(24) 0.72497(24) 0.54800(25)
+C9 C 0.94737(24) 0.67645(25) 0.68022(25)
+C10 C 0.91411(24) 0.52456(25) 0.68017(25)
+C11 C 0.84824(25) 0.42113(25) 0.54556(26)
+C12 C 0.95352(26) 0.89076(26) 0.55102(26)
+C13 C 0.94653(26) 0.47042(26) 0.82373(26)
+H2 H 0.4799 0.4564 0.1866
+H3 H 0.5616 0.1764 0.1721
+H4 H 0.6354 0.1759 0.3353
+H5 H 0.7182 0.4046 0.1877
+H6 H 0.8176 0.2982 0.2365
+H7 H 0.8307 0.6518 0.3229
+H8 H 0.9930 0.7496 0.7726
+H9 H 0.8224 0.3163 0.5447
+H10 H 1.0373 0.9120 0.5060
+H11 H 0.9836 0.9461 0.6537
+H12 H 0.8999 0.3654 0.8017
+H13 H 1.0528 0.4810 0.8553
+C3A C 0.32521 0.4861 0.31046
+C2B C 0.42255 0.26317 0.43619
+C13A C 0.82373 0.94653 0.47042
+C12B C 0.89076 0.55102 0.95352
+C2A C 0.26317 0.43619 0.42255
+C4A C 0.27061 0.6054 0.23912
+C3B C 0.31046 0.32521 0.4861
+H2B H 0.4564 0.1866 0.4799
+C10A C 0.68017 0.91411 0.52456
+H12A H 0.8017 0.8999 0.3654
+H13A H 0.8553 1.0528 0.481
+C8B C 0.72497 0.548 0.91692
+H10B H 0.912 0.506 1.0373
+H11B H 0.9461 0.6537 0.9836
+H2A H 0.1866 0.4799 0.4564
+C5A C 0.26443 0.7452 0.35233
+H3A H 0.1721 0.5616 0.1764
+H4A H 0.3353 0.6354 0.1759
+C4B C 0.23912 0.27061 0.6054
+C9A C 0.68022 0.94737 0.67645
+C11A C 0.54556 0.84824 0.42113
+C7B C 0.61865 0.41445 0.85207
+C9B C 0.67645 0.68022 0.94737
+C6A C 0.41047 0.8173 0.46619
+H5A H 0.1877 0.7182 0.4046
+H6A H 0.2365 0.8176 0.2982
+C5B C 0.35233 0.26443 0.7452
+H3B H 0.1764 0.1721 0.5616
+H4B H 0.1759 0.3353 0.6354
+C8A C 0.548 0.91692 0.72497
+H8A H 0.7726 0.993 0.7496
+H9A H 0.5447 0.8224 0.3163
+C6B C 0.46619 0.41047 0.8173
+H7B H 0.6518 0.3229 0.8307
+C10B C 0.52456 0.68017 0.91411
+H8B H 0.7496 0.7726 0.993
+C7A C 0.41445 0.85207 0.61865
+H5B H 0.4046 0.1877 0.7182
+H6B H 0.2982 0.2365 0.8176
+C12A C 0.55102 0.95352 0.89076
+C11B C 0.42113 0.54556 0.84824
+C13B C 0.47042 0.82373 0.94653
+H7A H 0.3229 0.8307 0.6518
+H10A H 0.506 1.0373 0.912
+H11A H 0.6537 0.9836 0.9461
+H9B H 0.3163 0.5447 0.8224
+H12B H 0.3654 0.8017 0.8999
+H13B H 0.481 0.8553 1.0528
+
+#END
+

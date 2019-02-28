@@ -1,0 +1,162 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated directly or indirectly from an entry in the 
+# Cambridge Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting from 
+# the CCDC's data processing and validation procedures. Files generated from 
+# CSD entries are Copyright 2015 Cambridge Crystallographic Data Centre. They 
+# may be used in bona fide research applications only, and may not be copied or 
+# further disseminated in any form, whether machine-readable or not, except for 
+# the purposes of generating routine backup copies on your local computer 
+# system.
+# 
+# Files arising from any other source may also contain material that is the 
+# copyright of third parties, including the originator, and you should check 
+# with the originator concerning the permitted uses of the information 
+# contained in this CIF.
+#
+# For further information on the CCDC and the free tools enCIFer and Mercury
+# for validating and visualising CIF files, please visit www.ccdc.cam.ac.uk
+#
+#######################################################################
+
+data_DOGFUA
+_audit_creation_date             1987-02-04
+_database_code_NBS               565754
+_chemical_formula_moiety         'C48 H48 N6 O12,0.5(C6 H5 Cl1)'
+_chemical_name_systematic        
+'8,9,23,24,35,36-Hexamethoxy-5,12,20,27,32,39-hexa-azaheptacyclo (14.14.10.2^7,10^.2^22,25^.2^34,37^.1^3,29^.1^14,18^)octatetraconta-1,3(43),7,9,14,16,18(46),22,24,29,34,36,41,44,47-pentadecaene-6,11,21,26,33,38-hexaone chlorobenzene clathrate'
+_journal_coden_Cambridge         16
+_journal_volume                  42
+_journal_year                    1986
+_journal_page_first              1859
+_journal_name_full               Tetrahedron
+loop_
+_publ_author_name
+W.Kiggen
+F.Vogtle
+S.Franken
+H.Puff
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      295
+_exptl_crystal_density_meas      1.37
+_exptl_crystal_density_diffrn    1.348
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt           0.095
+_refine_ls_wR_factor_gt          0.095
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   11.427(6)
+_cell_length_b                   13.143(1)
+_cell_length_c                   17.123(3)
+_cell_angle_alpha                81.43(1)
+_cell_angle_beta                 85.09(3)
+_cell_angle_gamma                68.09(3)
+_cell_volume                     2357.97
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.13025(83) 0.81515(64) 0.07709(46)
+N1 N -0.06133(69) 0.69918(58) 0.06715(41)
+C2 C 0.03837(80) 0.66499(62) 0.01838(42)
+O1 O 0.07101(61) 0.72941(44) -0.02956(34)
+C3 C 0.11474(65) 0.54319(53) 0.02467(37)
+C4 C 0.12169(63) 0.46846(56) 0.09235(35)
+O2 O 0.04188(47) 0.50208(40) 0.15714(27)
+C5 C 0.10258(84) 0.53519(73) 0.21636(41)
+C6 C 0.20809(65) 0.36013(53) 0.09710(34)
+O3 O 0.21741(46) 0.29251(37) 0.16817(24)
+C7 C 0.10866(81) 0.25890(69) 0.19265(48)
+C8 C 0.28907(69) 0.32311(53) 0.03333(36)
+C9 C 0.27723(74) 0.39672(57) -0.03655(38)
+C10 C 0.19098(72) 0.50475(57) -0.04126(38)
+C11 C 0.39516(84) 0.21342(59) 0.03342(44)
+O4 O 0.46128(76) 0.19163(49) -0.02621(36)
+N2 N 0.41705(72) 0.14303(56) 0.09871(42)
+C12 C 0.53178(78) 0.04553(59) 0.11258(47)
+C13 C 0.59913(78) 0.05840(51) 0.18128(43)
+C14 C 0.69708(75) 0.09902(52) 0.16624(46)
+C15 C 0.75018(68) 0.11911(51) 0.22946(47)
+C16 C 0.70648(67) 0.10128(52) 0.30758(42)
+C17 C 0.60895(67) 0.06149(49) 0.32082(40)
+C18 C 0.55326(70) 0.03833(50) 0.25924(42)
+C19 C 0.55427(78) 0.04977(58) 0.40395(42)
+N3 N 0.45875(69) 0.15594(51) 0.42188(35)
+C20 C 0.33848(93) 0.18222(63) 0.40808(53)
+O5 O 0.29801(68) 0.11684(53) 0.38871(64)
+C21 C 0.24549(74) 0.29903(53) 0.41573(39)
+C22 C 0.27933(72) 0.38651(55) 0.42862(36)
+O6 O 0.40144(52) 0.37022(41) 0.44532(31)
+C23 C 0.4170(10) 0.38239(90) 0.52721(58)
+C24 C 0.18859(71) 0.49421(53) 0.42302(34)
+O7 O 0.22840(49) 0.57918(37) 0.43239(28)
+C25 C 0.30576(92) 0.60698(72) 0.36525(53)
+C26 C 0.06417(69) 0.51415(52) 0.40995(34)
+C27 C 0.02704(71) 0.42590(57) 0.40185(36)
+C28 C 0.11989(75) 0.31885(58) 0.40390(40)
+C29 C -0.03903(77) 0.62797(58) 0.39361(38)
+O8 O -0.14030(55) 0.63573(44) 0.37055(34)
+N4 N -0.01073(75) 0.71609(50) 0.39970(36)
+C30 C -0.09311(84) 0.82752(56) 0.36645(44)
+C31 C -0.05156(80) 0.85237(51) 0.28149(43)
+C32 C -0.11477(81) 0.82749(55) 0.22171(47)
+C33 C -0.07166(94) 0.84704(60) 0.14247(49)
+C34 C 0.02515(97) 0.88711(61) 0.12322(53)
+C35 C 0.08269(94) 0.90829(56) 0.18472(58)
+C36 C 0.04591(84) 0.89203(54) 0.26346(52)
+C37 C 0.19545(92) 0.94344(63) 0.16566(57)
+N5 N 0.30971(99) 0.84383(67) 0.16406(59)
+C38 C 0.39285(88) 0.80568(64) 0.21720(62)
+O9 O 0.39021(95) 0.85898(71) 0.26577(74)
+C39 C 0.49111(70) 0.69024(53) 0.21715(42)
+C40 C 0.47229(68) 0.60770(53) 0.18478(41)
+O10 O 0.36396(50) 0.62785(38) 0.14399(38)
+C41 C 0.3817(10) 0.61880(84) 0.05993(59)
+C42 C 0.56245(66) 0.49972(52) 0.19499(41)
+O11 O 0.53780(51) 0.41866(37) 0.16326(32)
+C43 C 0.46197(87) 0.36766(69) 0.21585(68)
+C44 C 0.66893(67) 0.47469(53) 0.23683(38)
+C45 C 0.68933(75) 0.55853(60) 0.26832(40)
+C46 C 0.60028(76) 0.66641(62) 0.25830(42)
+C47 C 0.76473(74) 0.35927(62) 0.25387(48)
+O12 O 0.82462(65) 0.32271(50) 0.31415(38)
+N6 N 0.78257(64) 0.29238(47) 0.20007(41)
+C48 C 0.84842(72) 0.17199(55) 0.21319(51)
+H1 H -0.1253(8) 0.8664(6) 0.0222(5)
+H2 H -0.2276(8) 0.8274(6) 0.0932(5)
+H3 H -0.0828(68) 0.6542(55) 0.1000(39)
+H4 H 0.3714(62) 0.1632(51) 0.1308(36)
+H5 H 0.5077(8) -0.0274(6) 0.1269(5)
+H6 H 0.5928(8) 0.0378(6) 0.0601(5)
+H7 H 0.6289(8) 0.0238(6) 0.4454(4)
+H8 H 0.5111(8) -0.0116(6) 0.4093(4)
+H9 H 0.501(11) 0.238(10) 0.4185(69)
+H10 H 0.0681(71) 0.7042(59) 0.4157(42)
+H11 H -0.1892(8) 0.8312(6) 0.3684(4)
+H12 H -0.0872(8) 0.8879(6) 0.4008(4)
+H13 H 0.2020(9) 0.9908(6) 0.2104(6)
+H14 H 0.1851(9) 0.9933(6) 0.1086(6)
+H15 H 0.3249(90) 0.8164(34) 0.1266(52)
+H16 H 0.7232(71) 0.3157(58) 0.1595(42)
+H17 H 0.9053(7) 0.1440(5) 0.1612(5)
+H18 H 0.9081(7) 0.1501(5) 0.2632(5)
+
+#END
+
