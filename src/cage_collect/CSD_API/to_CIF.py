@@ -15,7 +15,7 @@ from ccdc.io import EntryReader, CrystalWriter
 # read in CSD
 entry_reader = EntryReader('CSD')
 
-RCODE_file = 'DB_partway_030319.gcd'
+RCODE_file = 'DB_final_040319.gcd'
 print('reading', RCODE_file, 'is that correct??')
 REFCODEs = []
 for line in open(RCODE_file, 'r'):
@@ -23,7 +23,7 @@ for line in open(RCODE_file, 'r'):
 
 count = 0
 count_no = 0
-for i, RC in enumerate(REFCODEs):
+for i, RC in enumerate(sorted(REFCODEs)):
     # if RC.lower() != 'iqufil':
     #     continue
     count_no += 1
