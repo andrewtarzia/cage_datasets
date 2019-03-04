@@ -1,0 +1,62 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_WAMJUQ
+#This CIF has been generated from an entry in the Cambridge Structural Database
+#No coordinates were deposited by the authors
+_database_code_depnum_ccdc_archive 'CCDC 1289989'
+_database_code_CSD               WAMJUQ
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1080/713738598 2002
+_audit_creation_method           'Created from the CSD'
+_audit_update_record             
+;
+2019-03-04 downloaded from the CCDC.
+;
+_chemical_formula_moiety         'C54 H48 Cl6 Mn2 N4 O8'
+_chemical_name_systematic        
+bis((\m~2~-N,N'-1,1,2,2-Tetramethylethylene-bis(5-chlorosalicylideneiminato))-(5-chlorosalicylaldehydonato)-manganese(iii))
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      296
+_exptl_crystal_density_diffrn    1.539
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt           0.05
+_refine_ls_wR_factor_gt          0.05
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   12.5479(8)
+_cell_length_b                   12.9108(8)
+_cell_length_c                   16.5266(8)
+_cell_angle_alpha                90
+_cell_angle_beta                 103.985(4)
+_cell_angle_gamma                90
+_cell_volume                     2598.01
+_exptl_crystal_colour            'dark brown'
+_cell_formula_units_Z            2
+
+#END

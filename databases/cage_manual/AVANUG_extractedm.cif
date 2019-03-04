@@ -1,0 +1,61 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_AVANUG
+#This CIF has been generated from an entry in the Cambridge Structural Database
+#No coordinates were deposited by the authors
+_database_code_depnum_ccdc_archive 'CCDC 1103899'
+_database_code_CSD               AVANUG
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1021/ja039235b 2004
+_audit_creation_method           'Created from the CSD'
+_audit_update_record             
+;
+2019-03-04 downloaded from the CCDC.
+;
+_database_code_NBS               815632
+_chemical_formula_moiety         'C156 H228 O12 P12 Pt6'
+_chemical_name_systematic        
+tris((\m~2~-Biphenyl-4,4'-dicarboxylato-O,O')-(\m~2~-phenanthrene-2,9-diyl))-dodecakis(triethylphosphine)-hexa-platinum
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      295
+_exptl_crystal_density_diffrn    1.12
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           hexagonal
+_symmetry_space_group_name_H-M   'P 63'
+_symmetry_Int_Tables_number      173
+_space_group_name_Hall           'P 6c'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -y,x-y,z
+4 -x+y,-x,z
+5 x-y,x,1/2+z
+6 y,-x+y,1/2+z
+_cell_length_a                   30.884(6)
+_cell_length_b                   30.884(6)
+_cell_length_c                   13.781(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_volume                     11383.6
+_cell_formula_units_Z            2
+
+#END
