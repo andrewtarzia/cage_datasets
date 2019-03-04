@@ -23,6 +23,7 @@ for line in open(RCODE_file, 'r'):
 
 count = 0
 count_no = 0
+RC_list = []
 for i, RC in enumerate(sorted(REFCODEs)):
     # if RC.lower() != 'iqufil':
     #     continue
@@ -58,9 +59,11 @@ for i, RC in enumerate(sorted(REFCODEs)):
     crystal = entry.crystal
     if entry.has_3d_structure is False:
         print RC, entry.ccdc_number
+        RC_list.append(RC)
     else:
         # write to CIF
         CrystalWriter(RC+'_extracted.cif').write(crystal)
         count += 1
 
 print(count, 'cifs found from', count_no, 'RCs')
+print RC_list
