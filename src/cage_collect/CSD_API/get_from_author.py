@@ -49,6 +49,9 @@ count = 0
 count_no = 0
 idents = []
 for i, author in enumerate(authors):
+    # break at '-----'
+    if '-----' in author:
+        break
     count_no += 1
     query = TextNumericSearch()
     query.add_author(author)
@@ -56,9 +59,10 @@ for i, author in enumerate(authors):
     if len(hits) == 0:
         print(author)
     for hit in hits:
-        print('%s %s' % (hit.identifier, hit.entry.ccdc_number))
-        print(hit.entry.chemical_name)
-        print(hit.entry.is_polymeric)
+        # print('%s %s' % (hit.identifier, hit.entry.ccdc_number))
+        # print(hit.entry.chemical_name)
+        # print(hit.entry.is_polymeric)
+        author_list = [i.strip() for i in hit.entry.publication.authors.split(',')]
         # skip polymeric structures
         if hit.entry.chemical_name is not None:
             if 'catena' in hit.entry.chemical_name:
@@ -71,7 +75,7 @@ for i, author in enumerate(authors):
         # skip structures that are purely organic
         if hit.entry.is_organometallic is False:
             continue
-        print('passed!')
+        # print('passed!')
         # note structures with solvent
         solvent = 'n'
         if hit.entry.chemical_name is not None:
