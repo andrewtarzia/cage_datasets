@@ -25,7 +25,7 @@ count = 0
 count_no = 0
 RC_list = []
 for i, RC in enumerate(sorted(REFCODEs)):
-    # if RC.lower() != 'iqufil':
+    # if RC.lower() != 'dovmuw':
     #     continue
     count_no += 1
     entry = entry_reader.entry(RC)
