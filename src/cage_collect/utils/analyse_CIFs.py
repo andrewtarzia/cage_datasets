@@ -7,13 +7,24 @@ Script to analyze CIFs in a directory.
 
 Author: Andrew Tarzia
 
-Date Created: 04 b 2019Mar
+Date Created: 04 Mar 2019
 
 """
 
 import glob
 import sys
 import pymatgen as pmg
+from pymatgen.io.cif import CifParser
+
+
+def read_cif_pmg(file, primitive=False):
+    '''A function to read CIFs with pymatgen and suppress warnings.
+
+    '''
+    s = CifParser(file, occupancy_tolerance=100)
+    struct = s.get_structures(primitive=primitive)[0]
+    return struct
+
 
 def write_entry(file, CIF, NA):
     '''Write entry DB file with certain properties.
@@ -55,7 +66,7 @@ Usage: analyze_CIFs.py DB_file
         print(cif)
         # read in CIF to pymatgen
         try:
-            structure_pmg = pmg.Structure.from_file(cif)
+            structure_pmg = read_cif_pmg(cif)
             # get pymatgen number of atoms
             NA_pmg = len(structure_pmg)
             print(NA_pmg)
