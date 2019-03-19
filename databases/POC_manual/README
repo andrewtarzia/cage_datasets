@@ -1,10 +1,13 @@
-Andrew Tarzia 
+Andrew Tarzia
+
+== Notes ==  
 - CIFs with REFCODE (6 letter CSD code) as name have been extracted by Python CSD API based on CCDC code
 - CIFs with CCDC code as name (numerical code) were extracted manually from online CSD because they were not in the latest version of the CSD at the time of collection. Not sure how these differ, but it would be worth checking if these can be updated.
 
+== Method == 
 - searched conquest for author names and 'after 2015'
 - note that I visually selected cages from the Conquest search results
-	 - there are some 'ring' structures in there also, which I collected.
+	 - there are some 'ring'/'catenane' structures in there also, which I collected.
 
 Authors used for search:
 	- cooper
@@ -32,28 +35,21 @@ Authors used for search:
 	- C. A. Schalley
 	***
 
-- produces (haven't checked for duplicate structures):
+- produces (haven't checked for duplicate structures) using to_CIF_no_screen.py:
 (100, 'cifs found from', 110, 'CCDC numbers')
 
-Changes made to CIFs:
-- only collect CIFs with chemical_name having one molecule in it, which
-removes the cages with solvents? (leaves 6 cages)
-	- decided not to remove them, but I should note it. 
-- added to output has solvent and has disorder flags to output
+- Visualized all CIFs and CCDC entries and flagged presence of (in DB_sheet.ods):
+	- solvent in CIF
+	- disorder in cage backbone
+	- notes on structures
+	- Whether Squeeze/PLATON was used (based on the presence of that text in the CCDC entry, I did not check the original literature).
 
+Changes made to CIFs:
 
 
 -------------------------------------------------------
-1827870.cif
-1827871.cif
-1827872.cif
-1827874.cif
-1827875.cif
-1827876.cif
-1827879.cif
-1827883.cif
-1827884.cif
-1827885.cif
+list of CIFs (may differ from REFCODEs in CSD_search*.gcd)
+-------------------------------------------------------
 ABIKUU.cif
 ABILAB.cif
 ABILEF.cif
@@ -98,17 +94,26 @@ KENRED.cif
 MAGJUC.cif
 PAWSEO.cif
 PAWSIS.cif
+PIFHIY.cif
 PIFHUK.cif
 PIFJAS.cif
+PIFJEW.cif
 PIFJIA.cif
 PIFJOG.cif
 PIFJUM.cif
+PIFKAT.cif
+PIFKEX.cif
+PIFKIB.cif
 PIFKOH.cif
 PIFKUN.cif
 PIFTOQ.cif
 PIFTUW.cif
 PIFVAE.cif
+PIFVEI.cif
+PIFVIM.cif
+PIFVOS.cif
 PIFVUY.cif
+PIFWAF.cif
 REGDUF.cif
 REHCIT.cif
 RELZEQ.cif
@@ -124,6 +129,7 @@ SENPAF.cif
 SENPIN.cif
 SENPOT.cif
 SENPUZ.cif
+SENPUZ_ordered.cif
 SENQAG.cif
 SENQEK.cif
 SENQIO.cif
@@ -137,8 +143,6 @@ TASQEM.cif
 TASQIQ.cif
 TASQOW02.cif
 TASQOW.cif
-WEDTEH.cif
-WEMPUC.cif
 XAMQEK.cif
 XAMQIO.cif
 XAMQOU.cif
@@ -154,4 +158,5 @@ YEZMUO.cif
 YEZNAV.cif
 YIGPOW.cif
 YIGQEN.cif
+
 
