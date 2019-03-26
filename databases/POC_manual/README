@@ -6,8 +6,6 @@ Andrew Tarzia
 
 == Method == 
 - searched conquest for author names and 'after 2015'
-- note that I visually selected cages from the Conquest search results
-	 - there are some 'ring'/'catenane' structures in there also, which I collected.
 
 Authors used for search:
 	- cooper
@@ -35,20 +33,27 @@ Authors used for search:
 	- C. A. Schalley
 	***
 
-- produces (haven't checked for duplicate structures) using to_CIF_no_screen.py:
-(100, 'cifs found from', 110, 'CCDC numbers')
+- Visually select cages from the Conquest search results
+	 - there are some 'ring'/'catenane' structures in there also
 
-- Visualized all CIFs and CCDC entries and flagged presence of (in DB_sheet.ods):
+- Visualized all CIFs and CCDC entries and flagged presence of: (in DB_sheet.ods)
 	- solvent in CIF
 	- disorder in cage backbone
 	- notes on structures
 	- Whether Squeeze/PLATON was used (based on the presence of that text in the CCDC entry, I did not check the original literature).
 
-Changes made to CIFs:
+- Clean DB based on disorder/presence of solvent, all notes in DB_sheet.ods
+	- CIFs with no solvent copied to ./no_solvent/
+	- use test_shape.py to determine shape persistence:
+		- modularize CIF and extract all independant cages
+		- run pywindow
+		- extract lowest energy conformer from an MD run using OPLS3
+		- run pywindow on lowest energy conformer
+		- comparison of pore diameter used to determine shape persistency
 
 
 -------------------------------------------------------
-list of CIFs (may differ from REFCODEs in CSD_search*.gcd)
+list of ALL CIFs (may differ from REFCODEs in CSD_search*.gcd)
 -------------------------------------------------------
 ABIKUU.cif
 ABILAB.cif
