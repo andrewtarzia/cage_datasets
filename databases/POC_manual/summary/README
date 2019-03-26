@@ -3,6 +3,7 @@ Andrew Tarzia
 == Notes ==  
 - CIFs with REFCODE (6 letter CSD code) as name have been extracted by Python CSD API based on CCDC code
 - CIFs with CCDC code as name (numerical code) were extracted manually from online CSD because they were not in the latest version of the CSD at the time of collection. Not sure how these differ, but it would be worth checking if these can be updated.
+- All python scripts are available in a git repo if required
 
 == Method == 
 - searched conquest for author names and 'after 2015'
