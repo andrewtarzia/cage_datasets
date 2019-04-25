@@ -25,7 +25,8 @@
 % -----------------------------------------------------------------------------
 
 
-\graphicspath{{/home/atarzia/projects/cage_collect/figures/}}
+\graphicspath{{/home/atarzia/projects/cage_collect/figures/}
+	{/home/atarzia/projects/pore_topologies/figures/}}
 \usepackage{mhchem}
 \usepackage{siunitx}
 \DeclareSIUnit{\Molar}{M}
@@ -34,7 +35,7 @@
 % -----------------------------------------------------------------------------
 
 %Information to be included in the title page:
-\title{Updating the database of POCs}
+\title{Databases of Porous Cages}
 
 %\subtitle{Subtitle}
 
@@ -49,7 +50,7 @@
 \frame{\titlepage}
 
 
-\begin{frame}{Search process}
+\begin{frame}{Updating the POC database}
 \begin{itemize}
 	\item Extract all REFCODEs associated with list of 23 authors using \textbf{ConQuest} OR CSD Python API
 	\item Filter by:
@@ -61,6 +62,7 @@
 	\end{itemize}
 	\item Visualize in ConQuest and keep only 'cage-like' structures
 	\item Produces 108 cage structures (CDB41 has 41 structures) although this may not be exhaustive
+	\item Applied the same process searching for metal--organic cages: 63 authors $\rightarrow$ 1131 ``cage-like'' structures
 \end{itemize}
 %\centerline{\includegraphics[width=6cm]{zhu_header}}
 \end{frame}
@@ -73,18 +75,33 @@
 		\item Solvent is present
 		\item Squeeze/Mask is used		
 	\end{itemize}
+	\item Using \textit{pyWindow}:
+	\begin{itemize}
+		\item Extract distinct cages and test if they are shape persistent
+		\item Remove solvent/guest molecules and return CIF with just cage network (defined by their pore diameter)
+	\end{itemize}
+	\item Note that \textit{pyWindow} does not handle disordered structures well
 \end{itemize}
-\centerline{\includegraphics[width=12cm]{POC_sheet_shot}}
+%\centerline{\includegraphics[width=12cm]{POC_sheet_shot}}
 \end{frame}
 
-\begin{frame}{Next steps}
+
+\begin{frame}{Collaboration with Matthew Addicoat}
 \begin{itemize}
-	\item Automatically clean up disorder
-	\item Automatically remove solvent and extract cage molecules (pyWindow)
-	\item The above process is also being applied to collect metal--organic cages from the CSD
+	\item Topological analysis of the pore network of cage structures
+	\item Use \textit{pyWindow} to determine the COM of each cage and the COM of the windows of each cage
 \end{itemize}
-%\centerline{\includegraphics[width=6cm]{zhu_header}}
+\centerline{\includegraphics[width=5.5cm]{arbitrary_cage_figure}}
 \end{frame}
+
+%\begin{frame}{Next steps}
+%\begin{itemize}
+%	\item Automatically clean up disorder
+%	\item Automatically remove solvent and extract cage molecules (pyWindow)
+%	\item The above process is also being applied to collect metal--organic cages from the CSD
+%\end{itemize}
+%%\centerline{\includegraphics[width=6cm]{zhu_header}}
+%\end{frame}
 
 
 
