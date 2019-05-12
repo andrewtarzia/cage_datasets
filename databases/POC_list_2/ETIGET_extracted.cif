@@ -1,0 +1,152 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ETIGET
+_chemical_formula_moiety         'C10 H10 N2 2+,C10 H6 O6 S2 2-,2(H2 O1)'
+_chemical_name_systematic        
+"4,4'-Bipyridinium 1,5-naphthalenedisulfonate dihydrate"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 2/c'
+_symmetry_Int_Tables_number      13
+_space_group_name_Hall           '-P 2yc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 -x,-y,-z
+4 -x,y,1/2-z
+_cell_length_a                   9.8121(9)
+_cell_length_b                   6.6775(6)
+_cell_length_c                   15.6470(10)
+_cell_angle_alpha                90
+_cell_angle_beta                 97.957(2)
+_cell_angle_gamma                90
+_cell_volume                     1015.33
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.75151(5) 0.63522(8) 0.61589(3)
+O1 O 0.7097(2) 0.4480(3) 0.57330(10)
+O2 O 0.6972(2) 0.8078(3) 0.56560(10)
+O3 O 0.8980(2) 0.6489(3) 0.64130(10)
+C1 C 0.6736(2) 0.6384(3) 0.71260(10)
+C2 C 0.7594(2) 0.6403(3) 0.78930(10)
+C3 C 0.7042(2) 0.6389(3) 0.86770(10)
+C4 C 0.5662(2) 0.6370(3) 0.86820(10)
+C5 C 0.5271(2) 0.6378(3) 0.70990(10)
+H4 H 0.8543 0.6426 0.7897
+H5 H 0.7631 0.6393 0.9197
+H6 H 0.5318 0.6351 0.9207
+C5C C 0.4729(2) 0.6378(3) 0.79010(10)
+C1C C 0.3264(2) 0.6384(3) 0.78740(10)
+S1C S 0.24849(5) 0.63522(8) 0.88411(3)
+O1C O 0.2903(2) 0.4480(3) 0.92670(10)
+O2C O 0.3028(2) 0.8078(3) 0.93440(10)
+O3C O 0.1020(2) 0.6489(3) 0.85870(10)
+C2C C 0.2406(2) 0.6403(3) 0.71070(10)
+C3C C 0.2958(2) 0.6389(3) 0.63230(10)
+C4C C 0.4338(2) 0.6370(3) 0.63180(10)
+H6C H 0.4682 0.6351 0.5793
+H5C H 0.2369 0.6393 0.5803
+H4C H 0.1457 0.6426 0.7103
+O4 O 0.5272(2) 0.1319(3) 0.59910(10)
+H1 H 0.571(3) 0.238(3) 0.591(2)
+H2 H 0.574(3) 0.033(3) 0.587(2)
+N1 N 0.2441(2) 0.1582(3) 0.60950(10)
+C6 C 0.1137(3) 0.1892(4) 0.5782(2)
+C7 C 0.0137(2) 0.1895(4) 0.63180(10)
+C8 C 0.0519(2) 0.1569(3) 0.71990(10)
+C9 C 0.1893(2) 0.1253(3) 0.7497(2)
+C10 C 0.2847(3) 0.1271(3) 0.6927(2)
+H3 H 0.306(2) 0.154(3) 0.576(2)
+H7 H 0.0893 0.2110 0.5194
+H8 H -0.0780 0.2111 0.6096
+H9 H 0.2175 0.1028 0.8082
+H10 H 0.3774 0.1065 0.7127
+C8C C -0.0519(2) 0.1569(3) 0.78010(10)
+C7C C -0.0137(2) 0.1895(4) 0.86820(10)
+C6C C -0.1137(3) 0.1892(4) 0.9218(2)
+N1C N -0.2441(2) 0.1582(3) 0.89050(10)
+C10C C -0.2847(3) 0.1271(3) 0.8073(2)
+C9C C -0.1893(2) 0.1253(3) 0.7503(2)
+H9C H -0.2175 0.1028 0.6918
+H10C H -0.3774 0.1065 0.7873
+H3C H -0.306(2) 0.154(3) 0.924(2)
+H7C H -0.0893 0.2110 0.9806
+H8C H 0.0780 0.2111 0.8904
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 O1 1_555 1_555
+O2 S1 1_555 1_555
+O3 S1 1_555 1_555
+O4 H1 1_555 1_555
+N1 C6 1_555 1_555
+C1 S1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+C5 C1 1_555 1_555
+C6 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 N1 1_555 1_555
+H2 O4 1_555 1_555
+H3 N1 1_555 1_555
+H4 C2 1_555 1_555
+H5 C3 1_555 1_555
+H6 C4 1_555 1_555
+H7 C6 1_555 1_555
+H8 C7 1_555 1_555
+H9 C9 1_555 1_555
+H10 C10 1_555 1_555
+C5C C4 1_555 1_555
+C1C C5C 1_555 1_555
+S1C C1C 1_555 1_555
+O1C S1C 1_555 1_555
+O2C S1C 1_555 1_555
+O3C S1C 1_555 1_555
+C2C C1C 1_555 1_555
+C3C C2C 1_555 1_555
+C4C C5 1_555 1_555
+H6C C4C 1_555 1_555
+H5C C3C 1_555 1_555
+H4C C2C 1_555 1_555
+C8C C8 1_555 1_555
+C7C C8C 1_555 1_555
+C6C C7C 1_555 1_555
+N1C C6C 1_555 1_555
+C10C N1C 1_555 1_555
+C9C C8C 1_555 1_555
+H9C C9C 1_555 1_555
+H10C C10C 1_555 1_555
+H3C N1C 1_555 1_555
+H7C C6C 1_555 1_555
+H8C C7C 1_555 1_555
+C5 C5C 1_555 1_555
+C3C C4C 1_555 1_555
+C10C C9C 1_555 1_555
+
+#END

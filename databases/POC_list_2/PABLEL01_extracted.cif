@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_PABLEL
+_chemical_formula_moiety         'C9 H18 B10'
+_chemical_name_systematic        
+1,2-(2-Methylcyclohexa-2,5-diene-1,4-diyl)-1,2-dicarba-closo-dodecaborane
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 x,1/2-y,1/2+z
+8 1/2-x,1/2+y,z
+_cell_length_a                   9.776(2)
+_cell_length_b                   12.704(3)
+_cell_length_c                   21.986(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2730.54
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0335(2) 0.37135(16) 0.40165(9)
+C2 C -0.0411(2) 0.31214(16) 0.34688(9)
+C3 C -0.0415(2) 0.48046(18) 0.41127(11)
+H1 H -0.0005 0.5214 0.4444
+C4 C -0.1910(3) 0.45681(19) 0.42293(11)
+H2 H -0.2347 0.4754 0.4589
+C5 C -0.2548(2) 0.40789(18) 0.37822(11)
+C6 C -0.3993(3) 0.3694(2) 0.37803(14)
+H3 H -0.4435 0.3901 0.4151
+H4 H -0.4000 0.2941 0.3748
+H5 H -0.4472 0.3994 0.3441
+C7 C -0.1617(2) 0.38457(18) 0.32396(10)
+H6 H -0.2120 0.3523 0.2902
+C8 C -0.0376(3) 0.53914(18) 0.35131(12)
+H7 H 0.0049 0.6041 0.3465
+C9 C -0.1003(3) 0.4894(2) 0.30631(12)
+H8 H -0.1061 0.5166 0.2671
+B1 B 0.1256(3) 0.3604(2) 0.33349(12)
+H9 H 0.1532 0.4256 0.3030
+B2 B 0.2067(3) 0.3443(2) 0.40412(12)
+H10 H 0.2843 0.4003 0.4204
+B3 B 0.0911(3) 0.2833(2) 0.45565(12)
+H11 H 0.0951 0.3010 0.5046
+B4 B -0.0652(3) 0.2584(2) 0.41978(12)
+H12 H -0.1617 0.2573 0.4455
+B5 B 0.0725(3) 0.2385(2) 0.30456(11)
+H13 H 0.0618 0.2255 0.2553
+B6 B 0.2345(3) 0.2548(2) 0.34229(12)
+H14 H 0.3325 0.2505 0.3179
+B7 B 0.2173(3) 0.2065(2) 0.41731(12)
+H15 H 0.3046 0.1719 0.4418
+B8 B 0.0507(3) 0.1557(2) 0.42600(13)
+H16 H 0.0308 0.0875 0.4556
+B9 B -0.0409(3) 0.1770(2) 0.35624(13)
+H17 H -0.1228 0.1249 0.3398
+B10 B 0.1358(3) 0.1409(2) 0.35551(13)
+H18 H 0.1698 0.0633 0.3392
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C7 1_555 1_555
+C3 C1 1_555 1_555
+H1 C3 1_555 1_555
+C4 C3 1_555 1_555
+H2 C4 1_555 1_555
+C5 C4 1_555 1_555
+C6 C5 1_555 1_555
+H3 C6 1_555 1_555
+H4 C6 1_555 1_555
+H5 C6 1_555 1_555
+C7 C5 1_555 1_555
+H6 C7 1_555 1_555
+C8 C3 1_555 1_555
+H7 C8 1_555 1_555
+C9 C7 1_555 1_555
+H8 C9 1_555 1_555
+B1 C1 1_555 1_555
+H9 B1 1_555 1_555
+B2 C1 1_555 1_555
+H10 B2 1_555 1_555
+B3 C1 1_555 1_555
+H11 B3 1_555 1_555
+B4 C1 1_555 1_555
+H12 B4 1_555 1_555
+B5 C2 1_555 1_555
+H13 B5 1_555 1_555
+B6 B1 1_555 1_555
+H14 B6 1_555 1_555
+B7 B2 1_555 1_555
+H15 B7 1_555 1_555
+B8 B3 1_555 1_555
+H16 B8 1_555 1_555
+B9 C2 1_555 1_555
+H17 B9 1_555 1_555
+B10 B5 1_555 1_555
+H18 B10 1_555 1_555
+C2 B1 1_555 1_555
+C2 B4 1_555 1_555
+C8 C9 1_555 1_555
+B1 B2 1_555 1_555
+B1 B5 1_555 1_555
+B2 B3 1_555 1_555
+B2 B6 1_555 1_555
+B3 B4 1_555 1_555
+B3 B7 1_555 1_555
+B4 B8 1_555 1_555
+B4 B9 1_555 1_555
+B5 B6 1_555 1_555
+B5 B9 1_555 1_555
+B6 B7 1_555 1_555
+B6 B10 1_555 1_555
+B7 B8 1_555 1_555
+B7 B10 1_555 1_555
+B8 B9 1_555 1_555
+B8 B10 1_555 1_555
+B9 B10 1_555 1_555
+
+#END

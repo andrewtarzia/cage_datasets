@@ -1,0 +1,90 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CTCNSE
+_chemical_formula_moiety         'C6 Cl4 N4 S2 Se1'
+_chemical_name_systematic        
+1,1-Dichloro-2,5-bis(N-chlorothioimino)-3,4-dicyanoselenophene
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'I 2/a'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-I 2ya'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,1/2+z
+3 1/2-x,y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,1/2-z
+7 1/2+x,-y,z
+8 x,1/2-y,1/2+z
+_cell_length_a                   14.206(6)
+_cell_length_b                   13.737(3)
+_cell_length_c                   6.882(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 91.60(5)
+_cell_angle_gamma                90
+_cell_volume                     1342.48
+_exptl_crystal_colour            black
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se 0.25000 0.08029 0.50000
+Cl1 Cl 0.40625 0.19986 0.30160
+Cl2 Cl 0.33697 0.07045 0.79800
+S1 S 0.47190 0.07145 0.24240
+N1 N 0.40780 -0.01490 0.31540
+N2 N 0.37480 -0.27600 0.36160
+C1 C 0.33160 -0.02420 0.40430
+C2 C 0.29120 -0.11760 0.45190
+C3 C 0.33820 -0.20540 0.40120
+Cl2B Cl 0.16303 0.07045 0.20200
+C1B C 0.16840 -0.02420 0.59570
+C2B C 0.20880 -0.11760 0.54810
+N1B N 0.09220 -0.01490 0.68460
+C3B C 0.16180 -0.20540 0.59880
+S1B S 0.02810 0.07145 0.75760
+N2B N 0.12520 -0.27600 0.63840
+Cl1B Cl 0.09375 0.19986 0.69840
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Se1 Cl2 1_555 1_555
+Cl1 S1 1_555 1_555
+S1 N1 1_555 1_555
+N1 C1 1_555 1_555
+N2 C3 1_555 1_555
+C1 Se1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+Cl2B Se1 1_555 1_555
+C1B Se1 1_555 1_555
+C2B C2 1_555 1_555
+N1B C1B 1_555 1_555
+C3B C2B 1_555 1_555
+S1B N1B 1_555 1_555
+N2B C3B 1_555 1_555
+Cl1B S1B 1_555 1_555
+C1B C2B 1_555 1_555
+
+#END

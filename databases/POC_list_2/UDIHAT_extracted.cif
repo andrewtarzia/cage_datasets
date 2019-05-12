@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_UDIHAT
+_chemical_name_common            Ellipticine
+_chemical_formula_moiety         'C17 H14 N2'
+_chemical_name_systematic        5,11-dimethyl-6H-pyrido[4,3-b]carbazole
+_chemical_properties_biological  'Ellipticine is an anticancer drug'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 x,1/2-y,1/2+z
+8 1/2-x,1/2+y,z
+_cell_length_a                   16.8027(5)
+_cell_length_b                   7.2490(3)
+_cell_length_c                   20.7982(8)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2533.28
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       needle
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method 'dimethyl sulfoxide'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.06000(9) 0.4600(2) 0.79348(8)
+C1 C 0.11710(11) 0.5009(3) 0.83828(9)
+H1 H 0.1003 0.5327 0.8805
+C2 C 0.19663(11) 0.4985(2) 0.82570(9)
+H2 H 0.2332 0.5306 0.8587
+N2 N 0.40125(9) 0.3595(2) 0.66120(7)
+H3 H 0.4484(13) 0.391(3) 0.6791(10)
+C3 C 0.22564(10) 0.4485(2) 0.76364(8)
+C4 C 0.30761(10) 0.4417(2) 0.74883(8)
+C5 C 0.39409(11) 0.3005(2) 0.59849(8)
+C6 C 0.32671(10) 0.3824(2) 0.68706(8)
+C7 C 0.45462(11) 0.2617(3) 0.55438(9)
+H4 H 0.5091 0.2742 0.5657
+C8 C 0.43212(12) 0.2043(3) 0.49338(9)
+H5 H 0.4720 0.1766 0.4625
+C9 C 0.35203(12) 0.1865(3) 0.47655(9)
+H6 H 0.3384 0.1470 0.4344
+C10 C 0.29225(11) 0.2253(3) 0.52020(8)
+H7 H 0.2379 0.2128 0.5083
+C11 C 0.31301(11) 0.2832(2) 0.58213(8)
+C12 C 0.26825(10) 0.3353(2) 0.63994(8)
+C13 C 0.18796(10) 0.3449(2) 0.65333(8)
+C14 C 0.16630(10) 0.4024(2) 0.71633(8)
+C15 C 0.08569(11) 0.4141(2) 0.73564(9)
+H8 H 0.0465 0.3865 0.7041
+C16 C 0.37164(10) 0.4902(3) 0.79631(8)
+H9 H 0.4187 0.5347 0.7732
+H10 H 0.3857 0.3805 0.8214
+H11 H 0.3523 0.5869 0.8253
+C17 C 0.12766(10) 0.2947(3) 0.60252(9)
+H12 H 0.1268 0.3904 0.5693
+H13 H 0.0748 0.2848 0.6222
+H14 H 0.1422 0.1762 0.5831
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 H1 1_555 1_555
+C2 C1 1_555 1_555
+H2 C2 1_555 1_555
+N2 H3 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+C5 N2 1_555 1_555
+C6 N2 1_555 1_555
+C7 C5 1_555 1_555
+H4 C7 1_555 1_555
+C8 C7 1_555 1_555
+H5 C8 1_555 1_555
+C9 C8 1_555 1_555
+H6 C9 1_555 1_555
+C10 C9 1_555 1_555
+H7 C10 1_555 1_555
+C11 C5 1_555 1_555
+C12 C6 1_555 1_555
+C13 C12 1_555 1_555
+C14 C3 1_555 1_555
+C15 N1 1_555 1_555
+H8 C15 1_555 1_555
+C16 C4 1_555 1_555
+H9 C16 1_555 1_555
+H10 C16 1_555 1_555
+H11 C16 1_555 1_555
+C17 C13 1_555 1_555
+H12 C17 1_555 1_555
+H13 C17 1_555 1_555
+H14 C17 1_555 1_555
+C4 C6 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+C13 C14 1_555 1_555
+C14 C15 1_555 1_555
+
+#END

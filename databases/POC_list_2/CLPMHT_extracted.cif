@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CLPMHT
+_chemical_formula_moiety         'C20 H18 Cl2'
+_chemical_name_systematic        1,6-Di-p-chlorophenyl-3,4-dimethylhexatriene
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,-z
+7 x,-y,1/2+z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   36.400(10)
+_cell_length_b                   4.184(2)
+_cell_length_c                   11.454(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 107.95(2)
+_cell_angle_gamma                90
+_cell_volume                     1659.51
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.03050 0.38230 0.16500
+C1 C 0.13150 0.20920 0.02190
+C2 C 0.22200 0.01010 -0.15080
+C3 C 0.09510 0.08770 -0.03990
+C4 C 0.06330 0.14060 0.00250
+C5 C 0.06930 0.31280 0.10960
+C6 C 0.10500 0.43880 0.17460
+C7 C 0.13590 0.38300 0.12950
+C8 C 0.16360 0.14430 -0.02800
+C9 C 0.19970 0.25440 0.01890
+C10 C 0.23180 0.19460 -0.02890
+C10E C 0.26820 0.30540 0.02890
+C2E C 0.27800 0.48990 0.15080
+C9E C 0.30030 0.24560 -0.01890
+C8E C 0.33640 0.35570 0.02800
+C1E C 0.36850 0.29080 -0.02190
+C3E C 0.40490 0.41230 0.03990
+C7E C 0.36410 0.11700 -0.12950
+C4E C 0.43670 0.35940 -0.00250
+C6E C 0.39500 0.06120 -0.17460
+C5E C 0.43070 0.18720 -0.10960
+Cl1E Cl 0.46950 0.11770 -0.16500
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C5 1_555 1_555
+C1 C3 1_555 1_555
+C2 C10 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C1 1_555 1_555
+C8 C1 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C10E C10 1_555 1_555
+C2E C10E 1_555 1_555
+C9E C10E 1_555 1_555
+C8E C9E 1_555 1_555
+C1E C8E 1_555 1_555
+C3E C1E 1_555 1_555
+C7E C1E 1_555 1_555
+C4E C3E 1_555 1_555
+C6E C7E 1_555 1_555
+C5E C4E 1_555 1_555
+Cl1E C5E 1_555 1_555
+C6E C5E 1_555 1_555
+
+#END

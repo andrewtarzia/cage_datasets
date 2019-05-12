@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DUSZEY
+_chemical_formula_moiety         'C13 H16 Br1 N5 O4,C1 H2 Cl2'
+_chemical_name_systematic        
+"8-Bromo-2',3'-O-isopropylideneadenosine dichloromethane solvate"
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a                   8.6974(5)
+_cell_length_b                   8.8945(6)
+_cell_length_c                   23.1746(18)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1792.76
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method dichloromethane/isopropanol/n-pentane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 1.21217(3) 0.60468(4) 0.371387(16)
+O1 O 0.9649(2) 0.4825(2) 0.22060(10)
+O2 O 0.9062(3) 0.7131(2) 0.18289(10)
+O3 O 0.7731(2) 0.7516(2) 0.30851(9)
+O4 O 0.4832(2) 0.6287(3) 0.27231(11)
+H1 H 0.523(4) 0.597(4) 0.3069(10)
+N1 N 0.8942(3) 0.5590(3) 0.35770(11)
+N2 N 0.9954(3) 0.4414(3) 0.43474(11)
+N3 N 0.5899(3) 0.3158(3) 0.44695(12)
+N4 N 0.6288(3) 0.4786(3) 0.36577(12)
+N5 N 0.7804(3) 0.2468(3) 0.51064(12)
+H2 H 0.889(2) 0.231(4) 0.5181(16)
+H3 H 0.701(3) 0.196(4) 0.5348(15)
+C1 C 0.8866(4) 0.6401(3) 0.30298(14)
+H4 H 0.988(4) 0.690(4) 0.2959(14)
+C2 C 0.8392(3) 0.5435(4) 0.25135(14)
+H5 H 0.765(4) 0.474(4) 0.2643(14)
+C3 C 1.0044(4) 0.5866(4) 0.17489(14)
+C4 C 0.7715(4) 0.6613(3) 0.21227(14)
+H6 H 0.702(4) 0.619(4) 0.1866(16)
+C5 C 0.7082(4) 0.7823(3) 0.25161(13)
+H7 H 0.750(3) 0.882(4) 0.2363(14)
+C6 C 1.0210(3) 0.5264(3) 0.39057(14)
+C7 C 0.8377(3) 0.4138(3) 0.43155(13)
+C8 C 0.7387(3) 0.3241(3) 0.46453(14)
+C9 C 0.5479(3) 0.3904(4) 0.40020(13)
+H8 H 0.432(3) 0.376(5) 0.3872(18)
+C10 C 0.7759(3) 0.4851(3) 0.38372(13)
+C11 C 0.9744(4) 0.5120(4) 0.11744(15)
+H9 H 0.860(5) 0.486(4) 0.1193(19)
+H10 H 1.011(4) 0.589(4) 0.0866(16)
+H11 H 1.028(4) 0.402(5) 0.1167(18)
+C12 C 1.1688(4) 0.6349(4) 0.18172(17)
+H12 H 1.187(4) 0.681(5) 0.2155(19)
+H13 H 1.199(4) 0.698(4) 0.1451(11)
+H14 H 1.230(5) 0.543(5) 0.1790(19)
+C13 C 0.5349(4) 0.7765(4) 0.25890(16)
+H15 H 0.496(3) 0.852(3) 0.2904(11)
+H16 H 0.494(3) 0.791(3) 0.2170(9)
+Cl1 Cl 0.55177(16) 0.70104(13) 0.49107(5)
+Cl2 Cl 0.45819(13) 0.93695(12) 0.41297(5)
+C14 C 0.6149(5) 0.8497(5) 0.4473(2)
+H17 H 0.699(4) 0.817(4) 0.4149(15)
+H18 H 0.688(4) 0.920(4) 0.4655(16)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 C6 1_555 1_555
+O1 C2 1_555 1_555
+O2 C3 1_555 1_555
+O3 C1 1_555 1_555
+O4 H1 1_555 1_555
+N1 C1 1_555 1_555
+N2 C6 1_555 1_555
+N3 C8 1_555 1_555
+N4 C9 1_555 1_555
+N5 H2 1_555 1_555
+H3 N5 1_555 1_555
+C1 H4 1_555 1_555
+C2 C1 1_555 1_555
+H5 C2 1_555 1_555
+C3 O1 1_555 1_555
+C4 O2 1_555 1_555
+H6 C4 1_555 1_555
+C5 O3 1_555 1_555
+H7 C5 1_555 1_555
+C6 N1 1_555 1_555
+C7 N2 1_555 1_555
+C8 N5 1_555 1_555
+C9 N3 1_555 1_555
+H8 C9 1_555 1_555
+C10 N1 1_555 1_555
+C11 C3 1_555 1_555
+H9 C11 1_555 1_555
+H10 C11 1_555 1_555
+H11 C11 1_555 1_555
+C12 C3 1_555 1_555
+H12 C12 1_555 1_555
+H13 C12 1_555 1_555
+H14 C12 1_555 1_555
+C13 O4 1_555 1_555
+H15 C13 1_555 1_555
+H16 C13 1_555 1_555
+Cl1 C14 1_555 1_555
+Cl2 C14 1_555 1_555
+C14 H17 1_555 1_555
+H18 C14 1_555 1_555
+N4 C10 1_555 1_555
+C2 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C13 1_555 1_555
+C7 C8 1_555 1_555
+C7 C10 1_555 1_555
+
+#END

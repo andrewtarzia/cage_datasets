@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WOWZEP
+_chemical_formula_moiety         'C19 H20 N2 Se1'
+_chemical_name_systematic        
+1,3-bis(2,6-Dimethylphenyl)-1,3-dihydro-2H-imidazole-2-selenone
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 2/n'
+_symmetry_Int_Tables_number      13
+_space_group_name_Hall           '-P 2yac'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,y,1/2-z
+3 -x,-y,-z
+4 1/2+x,-y,1/2+z
+_cell_length_a                   8.3318(11)
+_cell_length_b                   7.4265(9)
+_cell_length_c                   13.6459(19)
+_cell_angle_alpha                90
+_cell_angle_beta                 98.798(3)
+_cell_angle_gamma                90
+_cell_volume                     834.42
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       platelet
+_cell_formula_units_Z            2
+_exptl_crystal_recrystallization_method acetone/pentane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se 0.25000 1.02781(4) 0.25000
+N1 N 0.2281(2) 0.6698(3) 0.32594(12)
+C1 C 0.25000 0.7806(4) 0.25000
+C2 C 0.2361(4) 0.4924(3) 0.29739(19)
+C3 C 0.1982(3) 0.7248(3) 0.42301(14)
+C4 C 0.0385(3) 0.7359(3) 0.43984(16)
+C5 C 0.0129(3) 0.7851(3) 0.53471(17)
+C6 C 0.1422(3) 0.8174(4) 0.60844(16)
+C7 C 0.2992(3) 0.8059(4) 0.58973(15)
+C8 C 0.3317(3) 0.7601(3) 0.49541(15)
+C9 C -0.1017(3) 0.7012(4) 0.35835(18)
+C10 C 0.5025(3) 0.7544(4) 0.47224(17)
+H1 H 0.22417 0.38946 0.33702
+H2 H -0.09487 0.79653 0.54874
+H3 H 0.12249 0.84808 0.67313
+H4 H 0.38668 0.8294 0.64148
+H5 H -0.10938 0.57186 0.34417
+H6 H -0.08416 0.76642 0.29846
+H7 H -0.2027 0.74274 0.37943
+H8 H 0.52633 0.63304 0.45019
+H9 H 0.5788 0.78523 0.53185
+H10 H 0.51349 0.84115 0.41957
+N1A N 0.2719(2) 0.6698(3) 0.17406(12)
+C2A C 0.2639(4) 0.4924(3) 0.20261(19)
+C3A C 0.3018(3) 0.7248(3) 0.07699(14)
+C4A C 0.4615(3) 0.7359(3) 0.06016(16)
+C5A C 0.4871(3) 0.7851(3) -0.03471(17)
+C6A C 0.3578(3) 0.8174(4) -0.10844(16)
+C7A C 0.2008(3) 0.8059(4) -0.08973(15)
+C8A C 0.1683(3) 0.7601(3) 0.00459(15)
+C9A C 0.6017(3) 0.7012(4) 0.14165(18)
+C10A C -0.0025(3) 0.7544(4) 0.02776(17)
+H1A H 0.27583 0.38946 0.16298
+H2A H 0.59487 0.79653 -0.04874
+H3A H 0.37751 0.84808 -0.17313
+H4A H 0.11332 0.8294 -0.14148
+H5A H 0.60938 0.57186 0.15583
+H6A H 0.58416 0.76642 0.20154
+H7A H 0.7027 0.74274 0.12057
+H8A H -0.02633 0.63304 0.04981
+H9A H -0.0788 0.78523 -0.03185
+H10A H -0.01349 0.84115 0.08043
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Se1 C1 1_555 1_555
+N1 C1 1_555 1_555
+C1 N1A 1_555 1_555
+C2 N1 1_555 1_555
+C3 N1 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+C8 C3 1_555 1_555
+C9 C4 1_555 1_555
+C10 C8 1_555 1_555
+H1 C2 1_555 1_555
+H2 C5 1_555 1_555
+H3 C6 1_555 1_555
+H4 C7 1_555 1_555
+H5 C9 1_555 1_555
+H6 C9 1_555 1_555
+H7 C9 1_555 1_555
+H8 C10 1_555 1_555
+H9 C10 1_555 1_555
+H10 C10 1_555 1_555
+N1A C2A 1_555 1_555
+C2A C2 1_555 1_555
+C3A N1A 1_555 1_555
+C4A C3A 1_555 1_555
+C5A C4A 1_555 1_555
+C6A C5A 1_555 1_555
+C7A C6A 1_555 1_555
+C8A C3A 1_555 1_555
+C9A C4A 1_555 1_555
+C10A C8A 1_555 1_555
+H1A C2A 1_555 1_555
+H2A C5A 1_555 1_555
+H3A C6A 1_555 1_555
+H4A C7A 1_555 1_555
+H5A C9A 1_555 1_555
+H6A C9A 1_555 1_555
+H7A C9A 1_555 1_555
+H8A C10A 1_555 1_555
+H9A C10A 1_555 1_555
+H10A C10A 1_555 1_555
+C7 C8 1_555 1_555
+C7A C8A 1_555 1_555
+
+#END

@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_HIKMIA
+_chemical_formula_moiety         'C10 H14 N8 O8,H2 O1'
+_chemical_name_systematic        
+"dimethyl 2,2'-[2,5-bis(nitroimino)hexahydroimidazo[4,5-d]imidazole-1,4-diyl]diacetate monohydrate"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,1/2+z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   15.796(3)
+_cell_length_b                   13.833(3)
+_cell_length_c                   8.5990(17)
+_cell_angle_alpha                90
+_cell_angle_beta                 107.63(3)
+_cell_angle_gamma                90
+_cell_volume                     1790.68
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.03291(15) 0.29921(19) 0.0865(3)
+C1 C 0.04626(18) 0.3524(2) 0.2385(3)
+H1 H 0.0688 0.4179 0.2332
+O1 O 0.0922(2) 0.4494(2) -0.0652(4)
+O2 O 0.19228(15) 0.35450(17) -0.1231(3)
+C2 C -0.05195(18) 0.2678(2) 0.0267(3)
+N2 N -0.09962(16) 0.2993(2) 0.1203(3)
+H2 H -0.1557 0.2892 0.0995
+N3 N -0.07238(16) 0.2147(2) -0.1093(3)
+C3 C 0.10272(18) 0.2825(2) 0.0142(3)
+H3 H 0.0840 0.2325 -0.0682
+H4 H 0.1550 0.2592 0.0976
+O3 O -0.21285(17) 0.1993(3) -0.0994(3)
+O4 O -0.17250(18) 0.1270(2) -0.2816(3)
+N4 N -0.15597(18) 0.1799(2) -0.1630(3)
+C4 C 0.1266(2) 0.3720(2) -0.0629(3)
+C5 C 0.2259(3) 0.4349(3) -0.1923(5)
+H5 H 0.2732 0.4134 -0.2323
+H6 H 0.2479 0.4834 -0.1101
+H7 H 0.1790 0.4617 -0.2806
+N1A N -0.03291(15) 0.29921(19) 0.4135(3)
+C1A C -0.04626(18) 0.3524(2) 0.2615(3)
+H1A H -0.0688 0.4179 0.2668
+O1A O -0.0922(2) 0.4494(2) 0.5652(4)
+O2A O -0.19228(15) 0.35450(17) 0.6231(3)
+C2A C 0.05195(18) 0.2678(2) 0.4733(3)
+N2A N 0.09962(16) 0.2993(2) 0.3797(3)
+H2A H 0.1557 0.2892 0.4005
+N3A N 0.07238(16) 0.2147(2) 0.6093(3)
+C3A C -0.10272(18) 0.2825(2) 0.4858(3)
+H3A H -0.0840 0.2325 0.5682
+H4A H -0.1550 0.2592 0.4024
+O3A O 0.21285(17) 0.1993(3) 0.5994(3)
+O4A O 0.17250(18) 0.1270(2) 0.7816(3)
+N4A N 0.15597(18) 0.1799(2) 0.6630(3)
+C4A C -0.1266(2) 0.3720(2) 0.5629(3)
+C5A C -0.2259(3) 0.4349(3) 0.6923(5)
+H5A H -0.2732 0.4134 0.7323
+H6A H -0.2479 0.4834 0.6101
+H7A H -0.1790 0.4617 0.7806
+O5 O 0.0000 -0.0359(8) -0.2500
+H8 H 0.0030 -0.0923 -0.2093
+H8A H -0.0030 -0.0923 -0.2907
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 H1 1_555 1_555
+O1 C4 1_555 1_555
+O2 C4 1_555 1_555
+C2 N1 1_555 1_555
+N2 C2 1_555 1_555
+H2 N2 1_555 1_555
+N3 C2 1_555 1_555
+C3 N1 1_555 1_555
+H3 C3 1_555 1_555
+H4 C3 1_555 1_555
+O3 N4 1_555 1_555
+O4 N4 1_555 1_555
+N4 N3 1_555 1_555
+C4 C3 1_555 1_555
+C5 O2 1_555 1_555
+H5 C5 1_555 1_555
+H6 C5 1_555 1_555
+H7 C5 1_555 1_555
+O5 H8 1_555 1_555
+N1A C1A 1_555 1_555
+C1A C1 1_555 1_555
+H1A C1A 1_555 1_555
+O1A C4A 1_555 1_555
+O2A C4A 1_555 1_555
+C2A N1A 1_555 1_555
+N2A C1 1_555 1_555
+H2A N2A 1_555 1_555
+N3A C2A 1_555 1_555
+C3A N1A 1_555 1_555
+H3A C3A 1_555 1_555
+H4A C3A 1_555 1_555
+O3A N4A 1_555 1_555
+O4A N4A 1_555 1_555
+N4A N3A 1_555 1_555
+C4A C3A 1_555 1_555
+C5A O2A 1_555 1_555
+H5A C5A 1_555 1_555
+H6A C5A 1_555 1_555
+H7A C5A 1_555 1_555
+H8A O5 1_555 1_555
+N2 C1A 1_555 1_555
+C2A N2A 1_555 1_555
+
+#END

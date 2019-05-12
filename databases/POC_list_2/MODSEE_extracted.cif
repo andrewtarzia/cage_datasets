@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_MODSEE
+_chemical_formula_moiety         'C5 H10 N1 O1 1+,H1 O4 S1 1-'
+_chemical_name_systematic        
+'5-Hydroxy-1-methyl-3,4-dihydro-2H-pyrrolium hydrogensulfate'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a                   6.5418(14)
+_cell_length_b                   10.964(2)
+_cell_length_c                   11.614(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     833.006
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prism
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 'petroleum/ethyl acetate'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.6096(4) 0.42511(19) 0.26605(17)
+C2 C 0.5508(4) 0.3055(2) 0.31637(19)
+H1 H 0.5667 0.2389 0.2596
+H2 H 0.4078 0.3068 0.3443
+C3 C 0.7017(4) 0.2912(2) 0.4163(2)
+H3 H 0.6369 0.3142 0.4902
+H4 H 0.7507 0.2060 0.4219
+C4 C 0.8773(4) 0.3774(2) 0.38749(19)
+H5 H 0.9259 0.4207 0.4571
+H6 H 0.9932 0.3326 0.3526
+C5 C 0.8878(4) 0.5749(2) 0.2701(2)
+H7 H 0.8521 0.5941 0.1902
+H8 H 1.0361 0.5644 0.2766
+H9 H 0.8438 0.6418 0.3203
+N1 N 0.7857(3) 0.46269(17) 0.30466(16)
+O1 O 0.5090(3) 0.48791(14) 0.19136(14)
+H10 H 0.4010 0.4508 0.1739
+O2 O 0.1546(3) 0.27995(19) -0.05492(17)
+O3 O -0.1165(2) 0.40674(14) 0.01936(15)
+H11 H -0.1724 0.3407 0.0382
+O4 O 0.1944(3) 0.49886(18) -0.03734(17)
+O5 O 0.1898(3) 0.37202(16) 0.13185(14)
+S1 S 0.11940(8) 0.38873(5) 0.01336(4)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+H2 C2 1_555 1_555
+C3 C2 1_555 1_555
+H3 C3 1_555 1_555
+H4 C3 1_555 1_555
+C4 C3 1_555 1_555
+H5 C4 1_555 1_555
+H6 C4 1_555 1_555
+C5 H7 1_555 1_555
+H8 C5 1_555 1_555
+H9 C5 1_555 1_555
+N1 C1 1_555 1_555
+O1 C1 1_555 1_555
+H10 O1 1_555 1_555
+O2 S1 1_555 1_555
+O3 H11 1_555 1_555
+O4 S1 1_555 1_555
+O5 S1 1_555 1_555
+S1 O3 1_555 1_555
+C4 N1 1_555 1_555
+C5 N1 1_555 1_555
+
+#END

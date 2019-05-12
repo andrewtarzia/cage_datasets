@@ -1,0 +1,100 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_KORTOA
+_chemical_formula_moiety         'C18 H16 N2 O2'
+_chemical_name_systematic        
+1-(4-Dimethylaminophenyl)-2-(3,4-methylenedioxyphenyl)acrylonitrile
+_chemical_properties_biological  
+'agent active in inhibiting prostaglandin biosynthesis'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   7.972(6)
+_cell_length_b                   6.446(3)
+_cell_length_c                   28.906(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 95.59(8)
+_cell_angle_gamma                90
+_cell_volume                     1478.34
+_exptl_crystal_colour            yellow
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.3650(7) -0.2947(8) 0.5200(2)
+O2 O -0.3500(6) -0.1019(8) 0.4530(1)
+N1 N 0.4011(7) 0.1834(9) 0.8312(2)
+N2 N 0.1098(9) 0.571(1) 0.6136(2)
+C1 C 0.0324(8) 0.080(1) 0.6550(2)
+C2 C -0.0023(8) 0.197(1) 0.6169(2)
+C3 C 0.0606(9) 0.406(1) 0.6162(2)
+C4 C -0.4076(9) -0.294(1) 0.4706(2)
+C5 C 0.4146(9) 0.014(1) 0.8638(2)
+C6 C 0.505(1) 0.367(1) 0.8412(3)
+C7 C 0.3131(8) 0.161(1) 0.7882(2)
+C8 C 0.3117(9) 0.314(1) 0.7544(2)
+C9 C 0.2222(9) 0.293(1) 0.7118(2)
+C10 C 0.1281(8) 0.117(1) 0.6997(2)
+C11 C 0.1317(8) -0.040(1) 0.7328(2)
+C12 C 0.2217(9) -0.018(1) 0.7760(2)
+C13 C -0.0989(7) 0.130(1) 0.5733(2)
+C14 C -0.1909(8) -0.059(1) 0.5718(2)
+C15 C -0.2700(8) -0.119(1) 0.5298(2)
+C16 C -0.2614(8) -0.004(1) 0.4897(2)
+C17 C -0.1768(9) 0.179(1) 0.4907(2)
+C18 C -0.0966(9) 0.241(1) 0.5324(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C4 1_555 1_555
+O2 C4 1_555 1_555
+N1 C5 1_555 1_555
+N2 C3 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C6 N1 1_555 1_555
+C7 N1 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C1 1_555 1_555
+C11 C10 1_555 1_555
+C12 C7 1_555 1_555
+C13 C2 1_555 1_555
+C14 C13 1_555 1_555
+C15 O1 1_555 1_555
+C16 O2 1_555 1_555
+C17 C16 1_555 1_555
+C18 C13 1_555 1_555
+C9 C10 1_555 1_555
+C11 C12 1_555 1_555
+C14 C15 1_555 1_555
+C15 C16 1_555 1_555
+C17 C18 1_555 1_555
+
+#END

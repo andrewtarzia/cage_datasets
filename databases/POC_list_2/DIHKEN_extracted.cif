@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DIHKEN
+_chemical_compound_source        
+'endophytic fungus Penicillium commune QQF-3 from fresh fruit of the mangrove plant Kandelia candel'
+_chemical_name_common            'Peniisocoumarin E'
+_chemical_formula_moiety         'C13 H13 Cl1 O5'
+_chemical_name_systematic        
+3-(2-chloro-3-hydroxypropyl)-8-hydroxy-6-methoxy-1H-2-benzopyran-1-one
+_chemical_properties_biological  'Inhibitory effect against alpha-Glucosidase'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2'
+_symmetry_Int_Tables_number      5
+_space_group_name_Hall           'C 2y'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,-z
+_cell_length_a                   22.0660(6)
+_cell_length_b                   9.1694(3)
+_cell_length_c                   6.5996(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 107.302(2)
+_cell_angle_gamma                90
+_cell_volume                     1274.89
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '107-108 deg.C'
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl -0.36349(3) -0.79650(9) -0.45956(10)
+O1 O -0.66754(8) -1.2988(3) -0.4051(3)
+O2 O -0.37903(9) -1.1158(2) -0.1153(3)
+O3 O -0.36551(9) -1.3525(2) -0.1317(3)
+C1 C -0.60323(11) -1.2974(4) -0.3465(3)
+C2 C -0.56570(13) -1.4223(3) -0.3127(4)
+H1 H -0.5842 -1.5144 -0.3303
+C3 C -0.47193(12) -1.2675(3) -0.2236(4)
+C4 C -0.51114(12) -1.1424(3) -0.2592(4)
+C5 C -0.57650(12) -1.1579(3) -0.3224(4)
+H2 H -0.6025 -1.0759 -0.3487
+C6 C -0.49997(13) -1.4071(3) -0.2520(4)
+O4 O -0.46455(9) -1.5295(2) -0.2214(3)
+H3 H -0.4268 -1.5077 -0.1803
+C7 C -0.48022(12) -1.0023(3) -0.2204(4)
+H4 H -0.5045 -0.9176 -0.2482
+O5 O -0.25581(10) -0.7260(3) 0.1338(4)
+H5 H -0.2209 -0.7641 0.1544
+C8 C -0.40410(12) -1.2522(3) -0.1568(4)
+C9 C -0.41699(12) -0.9925(3) -0.1450(4)
+C10 C -0.32664(12) -0.8344(3) -0.1802(4)
+H6 H -0.3006 -0.9225 -0.1657
+C11 C -0.37832(12) -0.8592(3) -0.0738(5)
+H7 H -0.3586 -0.8652 0.0784
+H8 H -0.4064 -0.7753 -0.1011
+C12 C -0.28408(13) -0.7051(3) -0.0866(5)
+H9 H -0.2513 -0.6953 -0.1562
+H10 H -0.3090 -0.6162 -0.1105
+C13 C -0.69863(13) -1.4371(3) -0.4313(5)
+H11 H -0.6860 -1.4935 -0.5345
+H12 H -0.7438 -1.4229 -0.4788
+H13 H -0.6870 -1.4880 -0.2981
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C10 1_555 1_555
+O1 C1 1_555 1_555
+O2 C8 1_555 1_555
+O3 C8 1_555 1_555
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C1 1_555 1_555
+H2 C5 1_555 1_555
+C6 C2 1_555 1_555
+O4 C6 1_555 1_555
+H3 O4 1_555 1_555
+C7 C4 1_555 1_555
+H4 C7 1_555 1_555
+O5 H5 1_555 1_555
+C8 C3 1_555 1_555
+C9 O2 1_555 1_555
+C10 H6 1_555 1_555
+C11 C9 1_555 1_555
+H7 C11 1_555 1_555
+H8 C11 1_555 1_555
+C12 O5 1_555 1_555
+H9 C12 1_555 1_555
+H10 C12 1_555 1_555
+C13 O1 1_555 1_555
+H11 C13 1_555 1_555
+H12 C13 1_555 1_555
+H13 C13 1_555 1_555
+C3 C6 1_555 1_555
+C7 C9 1_555 1_555
+C10 C11 1_555 1_555
+C10 C12 1_555 1_555
+
+#END

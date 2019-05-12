@@ -1,0 +1,72 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TUZNOR
+_chemical_formula_moiety         'C1 H1 N6 O2 1-,Cs1 1+'
+_chemical_name_systematic        'Cesium 5-nitramino-tetrazolide'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   5.145(18)
+_cell_length_b                   17.982(9)
+_cell_length_c                   6.433(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 92.46(4)
+_cell_angle_gamma                90
+_cell_volume                     594.616
+_exptl_crystal_colour            colorless
+_chemical_melting_point          'decomposes at 212 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method aqueous
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cs1 Cs 0.56010(5) 0.67453(3) 0.14021(5)
+O1 O 1.0404(6) 0.7459(2) 0.4693(5)
+O2 O 1.2969(6) 0.6619(2) 0.6068(6)
+N1 N 0.6905(6) 0.5367(2) 0.7280(5)
+N2 N 0.7874(7) 0.4696(2) 0.7884(6)
+N3 N 1.0385(7) 0.4680(2) 0.7823(5)
+N4 N 1.1127(6) 0.5361(2) 0.7174(5)
+N5 N 0.8607(6) 0.6477(2) 0.6026(6)
+N6 N 1.0734(7) 0.6848(2) 0.5623(6)
+C1 C 0.8971(7) 0.5777(2) 0.6818(6)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 N6 1_555 1_555
+O2 N6 1_555 1_555
+N1 N2 1_555 1_555
+N2 N3 1_555 1_555
+N3 N4 1_555 1_555
+N4 C1 1_555 1_555
+N5 N6 1_555 1_555
+C1 N1 1_555 1_555
+N5 C1 1_555 1_555
+
+#END

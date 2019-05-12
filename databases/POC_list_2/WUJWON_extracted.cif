@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WUJWON
+_chemical_compound_source        'roots of Scrophularia buergeriana Miq'
+_chemical_formula_moiety         'C9 H12 O4'
+_chemical_name_systematic        'Buergerinin G'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   7.241(1)
+_cell_length_b                   8.360(1)
+_cell_length_c                   7.625(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 105.06(1)
+_cell_angle_gamma                90
+_cell_volume                     445.724
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prismatic
+_chemical_melting_point          '152-154 deg.C'
+_cell_formula_units_Z            2
+_exptl_crystal_recrystallization_method 'petroleum ether/ethyl acetate'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3301(3) 0.5526 0.0782(2)
+O2 O 0.1248(2) 0.7402(2) 0.1135(2)
+O3 O 0.3502(2) 0.9124 0.4411(2)
+O4 O 0.2180(2) 1.1598(2) 0.4755(2)
+C1 C 0.3033(3) 0.6878(3) 0.1199(3)
+C2 C 0.4470(3) 0.8195(3) 0.1803(3)
+C3 C 0.3383(2) 0.9456(3) 0.2529(2)
+C4 C 0.1264(3) 0.9094(3) 0.1614(2)
+C5 C 0.0250(3) 0.9383(3) 0.3103(3)
+C6 C 0.1876(3) 0.9918(3) 0.4729(3)
+C7 C 0.2498(3) 1.2221(3) 0.3097(3)
+C8 C 0.3900(3) 1.1206(3) 0.2409(3)
+C9 C 0.1690(3) 0.9470(4) 0.6589(3)
+H1 H 0.5659 0.7761 0.2753
+H2 H 0.4889 0.8621 0.0747
+H3 H 0.0784 0.9762 0.0450
+H4 H -0.0338 0.8361 0.3404
+H5 H -0.0764 1.0223 0.2769
+H6 H 0.1233 1.2305 0.2187
+H7 H 0.3052 1.3276 0.3381
+H8 H 0.5235 1.1323 0.3265
+H9 H 0.3813 1.1466 0.1140
+H10 H 0.2840 0.9886 0.7496
+H11 H 0.0506 1.0030 0.6819
+H12 H 0.1497 0.8338 0.6640
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C1 1_555 1_555
+O3 C3 1_555 1_555
+O4 C6 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 O2 1_555 1_555
+C5 C4 1_555 1_555
+C6 O3 1_555 1_555
+C7 O4 1_555 1_555
+C8 C3 1_555 1_555
+C9 C6 1_555 1_555
+H1 C2 1_555 1_555
+H2 C2 1_555 1_555
+H3 C4 1_555 1_555
+H4 C5 1_555 1_555
+H5 C5 1_555 1_555
+H6 C7 1_555 1_555
+H7 C7 1_555 1_555
+H8 C8 1_555 1_555
+H9 C8 1_555 1_555
+H10 C9 1_555 1_555
+H11 C9 1_555 1_555
+H12 C9 1_555 1_555
+C5 C6 1_555 1_555
+C7 C8 1_555 1_555
+
+#END

@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_OPELAX
+_chemical_compound_source        'Porella densifolia'
+_chemical_name_common            norpinguisone
+_chemical_formula_moiety         'C14 H18 O2'
+_chemical_name_systematic        
+4a,7,7a-Trimethyl-4a,5,6,7,7a,8-hexahydro-4H-indeno[5,6-b]furan-4-one
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a                   7.3420(3)
+_cell_length_b                   11.7470(5)
+_cell_length_c                   14.1500(8)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1220.39
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.1151(2) -0.00368(16) -0.00580(10)
+C1 C -0.0034(2) -0.00010(18) 0.07090(13)
+C2 C 0.1532(2) 0.13482(15) 0.17423(12)
+C3 C 0.2166(2) 0.03320(14) 0.23461(12)
+C4 C 0.4044(2) -0.05640(15) 0.11825(13)
+C5 C 0.2311(2) -0.08001(13) 0.17722(12)
+C6 C 0.0340(3) 0.10885(16) 0.09486(13)
+O2 O 0.1946(3) 0.23244(12) 0.19539(11)
+C7 C 0.0616(3) -0.10502(15) 0.11724(15)
+C8 C 0.4162(3) 0.0533(2) 0.26464(17)
+C9 C 0.2601(3) -0.18315(18) 0.24294(15)
+C10 C 0.5337(3) 0.0024(2) 0.18775(19)
+C11 C 0.4885(3) -0.1583(2) 0.06868(19)
+C12 C 0.0808(4) 0.0306(2) 0.31783(15)
+C13 C -0.0608(3) 0.1790(2) 0.02759(15)
+C14 C -0.1463(3) 0.1090(2) -0.02997(16)
+H1 H 0.3713 0.0006 0.0665
+H2 H 0.0969 -0.1806 0.0610
+H3 H -0.0519 -0.1465 0.1623
+H4 H 0.4419 0.1353 0.2856
+H5 H 0.4461 0.0199 0.3237
+H6 H 0.3874 -0.1777 0.2885
+H7 H 0.2935 -0.2652 0.1994
+H8 H 0.1334 -0.1955 0.2872
+H9 H 0.6296 -0.0696 0.2095
+H10 H 0.6206 0.0645 0.1569
+H11 H 0.5761 -0.1335 0.0201
+H12 H 0.5329 -0.2078 0.1129
+H13 H 0.4039 -0.1908 0.0367
+H14 H 0.1244 -0.0256 0.3705
+H15 H -0.1046 0.0199 0.3064
+H16 H 0.0880 0.1113 0.3578
+H17 H -0.0573 0.2526 0.0243
+H18 H -0.1944 0.1222 -0.0831
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+C1 C6 1_555 1_555
+C2 C3 1_555 1_555
+C3 C5 1_555 1_555
+C4 C5 1_555 1_555
+C5 C7 1_555 1_555
+C6 C2 1_555 1_555
+O2 C2 1_555 1_555
+C7 C1 1_555 1_555
+C8 C3 1_555 1_555
+C9 C5 1_555 1_555
+C10 C4 1_555 1_555
+C11 C4 1_555 1_555
+C12 C3 1_555 1_555
+C13 C6 1_555 1_555
+C14 O1 1_555 1_555
+H1 C4 1_555 1_555
+H2 C7 1_555 1_555
+H3 C7 1_555 1_555
+H4 C8 1_555 1_555
+H5 C8 1_555 1_555
+H6 C9 1_555 1_555
+H7 C9 1_555 1_555
+H8 C9 1_555 1_555
+H9 C10 1_555 1_555
+H10 C10 1_555 1_555
+H11 C11 1_555 1_555
+H12 C11 1_555 1_555
+H13 C11 1_555 1_555
+H14 C12 1_555 1_555
+H15 C12 1_555 1_555
+H16 C12 1_555 1_555
+H17 C13 1_555 1_555
+H18 C14 1_555 1_555
+C8 C10 1_555 1_555
+C13 C14 1_555 1_555
+
+#END

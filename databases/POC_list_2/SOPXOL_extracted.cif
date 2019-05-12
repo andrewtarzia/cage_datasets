@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SOPXOL
+_chemical_formula_moiety         'C21 H14 O1 S2'
+_chemical_name_systematic        3,3-Di(2-thienyl)-3H-benzo[f]chromene
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   8.2349(14)
+_cell_length_b                   6.1964(11)
+_cell_length_c                   32.458(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 95.051(3)
+_cell_angle_gamma                90
+_cell_volume                     1649.79
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '138-139 deg.C'
+_cell_formula_units_Z            4
+_chemical_properties_physical    light-sensitive
+_exptl_crystal_recrystallization_method acetone
+_exptl_crystal_preparation       photochromic
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S -0.30958(10) 0.11143(14) 0.09536(3)
+S2 S 0.21236(14) -0.11581(17) 0.07307(3)
+O1 O 0.0098(2) -0.0086(3) 0.13573(6)
+C1 C -0.0102(3) 0.0120(4) 0.17749(8)
+C2 C -0.0852(3) -0.1630(5) 0.19542(9)
+H1 H -0.1240 -0.2791 0.1793
+C3 C -0.1005(3) -0.1607(5) 0.23706(10)
+H2 H -0.1510 -0.2761 0.2491
+C4 C -0.0412(3) 0.0129(5) 0.26213(9)
+C5 C -0.0555(4) 0.0159(6) 0.30548(10)
+H3 H -0.1054 -0.0989 0.3178
+C6 C 0.0029(4) 0.1848(6) 0.32904(10)
+H4 H -0.0074 0.1842 0.3573
+C7 C 0.0779(4) 0.3587(6) 0.31126(10)
+H5 H 0.1168 0.4734 0.3278
+C8 C 0.0947(4) 0.3621(5) 0.26958(9)
+H6 H 0.1459 0.4786 0.2581
+C9 C 0.0350(3) 0.1904(5) 0.24383(8)
+C10 C 0.0506(3) 0.1875(4) 0.20008(8)
+C11 C 0.1372(3) 0.3502(5) 0.17814(9)
+H7 H 0.1988 0.4544 0.1930
+C12 C 0.1291(3) 0.3514(5) 0.13735(9)
+H8 H 0.1883 0.4532 0.1238
+C13 C 0.0253(3) 0.1901(5) 0.11249(8)
+C14 C -0.1435(3) 0.2790(5) 0.10030(9)
+C15 C -0.1874(4) 0.4867(5) 0.08816(10)
+H9 H -0.1152 0.6023 0.0887
+C16 C -0.3550(4) 0.5018(6) 0.07488(11)
+H10 H -0.4051 0.6293 0.0655
+C17 C -0.4348(4) 0.3139(6) 0.07715(11)
+H11 H -0.5457 0.2967 0.0696
+C18 C 0.1056(3) 0.1185(5) 0.07422(9)
+C19 C 0.1107(3) 0.2375(5) 0.03660(8)
+H12 H 0.0624 0.3710 0.0308
+C20 C 0.2031(4) 0.1154(7) 0.00928(10)
+H13 H 0.2204 0.1631 -0.0171
+C21 C 0.2623(5) -0.0705(7) 0.02441(12)
+H14 H 0.3241 -0.1648 0.0099
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C14 1_555 1_555
+S2 C18 1_555 1_555
+O1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+C3 C2 1_555 1_555
+H2 C3 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+H3 C5 1_555 1_555
+C6 C5 1_555 1_555
+H4 C6 1_555 1_555
+C7 C6 1_555 1_555
+H5 C7 1_555 1_555
+C8 C7 1_555 1_555
+H6 C8 1_555 1_555
+C9 C4 1_555 1_555
+C10 C1 1_555 1_555
+C11 C10 1_555 1_555
+H7 C11 1_555 1_555
+C12 C11 1_555 1_555
+H8 C12 1_555 1_555
+C13 O1 1_555 1_555
+C14 C13 1_555 1_555
+C15 C14 1_555 1_555
+H9 C15 1_555 1_555
+C16 C15 1_555 1_555
+H10 C16 1_555 1_555
+C17 S1 1_555 1_555
+H11 C17 1_555 1_555
+C18 C13 1_555 1_555
+C19 C18 1_555 1_555
+H12 C19 1_555 1_555
+C20 C19 1_555 1_555
+H13 C20 1_555 1_555
+C21 S2 1_555 1_555
+H14 C21 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C12 C13 1_555 1_555
+C16 C17 1_555 1_555
+C20 C21 1_555 1_555
+
+#END

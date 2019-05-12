@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SIMTEQ01
+_chemical_name_common            'bis(collidine)bromanium hexafluorophosphate'
+_chemical_formula_moiety         'C16 H22 Br1 N2 1+,F6 P1 1-'
+_chemical_name_systematic        
+'bis(2,4,6-trimethylpyridine)bromanium hexafluorophosphate'
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   7.9058(3)
+_cell_length_b                   8.2573(3)
+_cell_length_c                   15.1037(6)
+_cell_angle_alpha                98.632(3)
+_cell_angle_beta                 98.087(3)
+_cell_angle_gamma                100.308(3)
+_cell_volume                     944.744
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.48025(2) 0.50967(2) 0.218970(11)
+N1 N 0.3554(2) 0.52486(19) 0.08490(10)
+C1 C 0.2596(2) 0.3838(2) 0.02962(12)
+C2 C 0.1660(2) 0.3935(2) -0.05347(13)
+C3 C 0.1685(2) 0.5472(2) -0.08099(12)
+C4 C 0.2700(2) 0.6891(2) -0.02284(13)
+C5 C 0.3635(2) 0.6759(2) 0.05986(12)
+C6 C 0.2570(3) 0.2188(2) 0.06015(13)
+C7 C 0.0664(3) 0.5577(3) -0.17067(13)
+C8 C 0.4739(3) 0.8265(2) 0.12345(13)
+N2 N 0.5981(2) 0.49217(19) 0.34875(10)
+C9 C 0.6412(2) 0.6300(2) 0.41533(12)
+C10 C 0.7263(2) 0.6192(2) 0.50010(13)
+C11 C 0.7681(2) 0.4691(2) 0.51788(13)
+C12 C 0.7189(2) 0.3303(2) 0.44804(13)
+C13 C 0.6338(2) 0.3428(2) 0.36356(13)
+C14 C 0.5980(3) 0.7915(2) 0.39510(13)
+C15 C 0.8634(3) 0.4583(3) 0.60917(13)
+C16 C 0.5812(3) 0.1949(2) 0.28739(13)
+H1 H 0.1911 0.1310 0.0133
+H2 H 0.2064 0.2181 0.1137
+H3 H 0.3753 0.2009 0.0743
+H4 H 0.1001 0.2963 -0.0918
+H5 H 0.2757 0.7938 -0.0390
+H6 H 0.5912 0.8106 0.1369
+H7 H 0.4275 0.8460 0.1779
+H8 H 0.4738 0.9218 0.0950
+H9 H 0.1215 0.5102 -0.2178
+H10 H 0.0663 0.6722 -0.1752
+H11 H -0.0502 0.4975 -0.1777
+H12 H 0.6307 0.8731 0.4487
+H13 H 0.4749 0.7781 0.3746
+H14 H 0.6615 0.8274 0.3503
+H15 H 0.7573 0.7149 0.5464
+H16 H 0.8952 0.3525 0.6097
+H17 H 0.9679 0.5433 0.6261
+H18 H 0.7911 0.4746 0.6537
+H19 H 0.7473 0.2289 0.4573
+H20 H 0.6402 0.2157 0.2388
+H21 H 0.4580 0.1732 0.2663
+H22 H 0.6126 0.0988 0.3073
+P1 P 0.04316(6) -0.00886(6) 0.27690(3)
+F1 F -0.05439(18) 0.07894(17) 0.35023(10)
+F2 F -0.10235(18) 0.01331(18) 0.19617(10)
+F3 F 0.15622(16) 0.17121(15) 0.27285(9)
+F4 F 0.18934(19) -0.02958(18) 0.35667(10)
+F5 F -0.07114(18) -0.18783(16) 0.27985(11)
+F6 F 0.14071(18) -0.09500(19) 0.20269(11)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 N1 1_555 1_555
+N1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 N1 1_555 1_555
+C6 C1 1_555 1_555
+C7 C3 1_555 1_555
+C8 C5 1_555 1_555
+N2 Br1 1_555 1_555
+C9 N2 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+C12 C11 1_555 1_555
+C13 N2 1_555 1_555
+C14 C9 1_555 1_555
+C15 C11 1_555 1_555
+C16 C13 1_555 1_555
+H1 C6 1_555 1_555
+H2 C6 1_555 1_555
+H3 C6 1_555 1_555
+H4 C2 1_555 1_555
+H5 C4 1_555 1_555
+H6 C8 1_555 1_555
+H7 C8 1_555 1_555
+H8 C8 1_555 1_555
+H9 C7 1_555 1_555
+H10 C7 1_555 1_555
+H11 C7 1_555 1_555
+H12 C14 1_555 1_555
+H13 C14 1_555 1_555
+H14 C14 1_555 1_555
+H15 C10 1_555 1_555
+H16 C15 1_555 1_555
+H17 C15 1_555 1_555
+H18 C15 1_555 1_555
+H19 C12 1_555 1_555
+H20 C16 1_555 1_555
+H21 C16 1_555 1_555
+H22 C16 1_555 1_555
+P1 F1 1_555 1_555
+F2 P1 1_555 1_555
+F3 P1 1_555 1_555
+F4 P1 1_555 1_555
+F5 P1 1_555 1_555
+F6 P1 1_555 1_555
+C12 C13 1_555 1_555
+
+#END

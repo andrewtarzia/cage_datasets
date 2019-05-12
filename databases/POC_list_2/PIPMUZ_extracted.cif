@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_PIPMUZ
+_chemical_formula_moiety         'C8 H8 O8 2-,2(C4 H12 N1 O3 1+)'
+_chemical_name_systematic        
+'bis(1,3-dihydroxy-2-(hydroxymethyl)propan-2-aminium) 2,3-bis(carboxymethyl)butanedioate'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   8.3729(8)
+_cell_length_b                   6.4558(7)
+_cell_length_c                   19.4930(18)
+_cell_angle_alpha                90
+_cell_angle_beta                 99.964(2)
+_cell_angle_gamma                90
+_cell_volume                     1037.78
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       BLOCK
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.5129(2) 0.3516(3) 0.26273(8)
+H1 H 0.5164 0.2407 0.2901
+H2 H 0.4396 0.4405 0.2733
+H3 H 0.6099 0.4121 0.2692
+O1 O 0.19585(16) 0.2177(2) 0.21492(7)
+H4 H 0.1398 0.3021 0.1901
+O2 O 0.66200(18) 0.0027(2) 0.21275(8)
+H5 H 0.6100 -0.1014 0.1991
+O3 O 0.55447(19) 0.6337(2) 0.15807(8)
+H6 H 0.6226 0.6138 0.1332
+C1 C 0.3204(2) 0.1447(3) 0.18030(11)
+H7 H 0.2768 0.1285 0.1312
+H8 H 0.3551 0.0092 0.1986
+C2 C 0.4310(3) 0.4817(3) 0.14378(11)
+H9 H 0.4175 0.4438 0.0950
+H10 H 0.3295 0.5408 0.1520
+C3 C 0.6099(3) 0.1704(3) 0.16719(11)
+H11 H 0.5786 0.1179 0.1202
+H12 H 0.6995 0.2657 0.1673
+C4 C 0.4671(2) 0.2868(3) 0.18802(9)
+O4 O 1.01195(19) 0.5280(2) 0.14433(7)
+O5 O 0.77533(18) 0.5865(2) 0.07558(7)
+O6 O 0.9227(2) 0.0490(2) 0.09246(8)
+O7 O 0.7286(2) -0.0569(2) 0.00682(8)
+H13 H 0.7254 -0.1556 0.0330
+C5 C 0.9190(3) 0.5169(3) 0.08749(10)
+C6 C 0.9806(3) 0.4162(3) 0.02560(10)
+H14 H 1.0809 0.3411 0.0435
+C7 C 0.8555(3) 0.2606(3) -0.00927(10)
+H15 H 0.7508 0.3283 -0.0204
+H16 H 0.8859 0.2143 -0.0526
+C8 C 0.8411(3) 0.0764(3) 0.03606(11)
+O4B O 0.98805(19) 0.4720(2) -0.14433(7)
+O5B O 1.22467(18) 0.4135(2) -0.07558(7)
+O6B O 1.0773(2) 0.9510(2) -0.09246(8)
+O7B O 1.2714(2) 1.0569(2) -0.00682(8)
+H13B H 1.2746 1.1556 -0.0330
+C5B C 1.0810(3) 0.4831(3) -0.08749(10)
+C6B C 1.0194(3) 0.5838(3) -0.02560(10)
+H14B H 0.9191 0.6589 -0.0435
+C7B C 1.1445(3) 0.7394(3) 0.00927(10)
+H15B H 1.2492 0.6717 0.0204
+H16B H 1.1141 0.7857 0.0526
+C8B C 1.1589(3) 0.9236(3) -0.03606(11)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 H1 1_555 1_555
+H2 N1 1_555 1_555
+H3 N1 1_555 1_555
+O1 H4 1_555 1_555
+O2 H5 1_555 1_555
+O3 H6 1_555 1_555
+C1 O1 1_555 1_555
+H7 C1 1_555 1_555
+H8 C1 1_555 1_555
+C2 O3 1_555 1_555
+H9 C2 1_555 1_555
+H10 C2 1_555 1_555
+C3 O2 1_555 1_555
+H11 C3 1_555 1_555
+H12 C3 1_555 1_555
+C4 N1 1_555 1_555
+O4 C5 1_555 1_555
+O5 C5 1_555 1_555
+O6 C8 1_555 1_555
+O7 H13 1_555 1_555
+C5 C6 1_555 1_555
+C6 H14 1_555 1_555
+C7 C6 1_555 1_555
+H15 C7 1_555 1_555
+H16 C7 1_555 1_555
+C8 O7 1_555 1_555
+O4B C5B 1_555 1_555
+O5B C5B 1_555 1_555
+O6B C8B 1_555 1_555
+O7B H13B 1_555 1_555
+C5B C6B 1_555 1_555
+C6B C6 1_555 1_555
+H14B C6B 1_555 1_555
+C7B C6B 1_555 1_555
+H15B C7B 1_555 1_555
+H16B C7B 1_555 1_555
+C8B O7B 1_555 1_555
+C1 C4 1_555 1_555
+C2 C4 1_555 1_555
+C3 C4 1_555 1_555
+C7 C8 1_555 1_555
+C7B C8B 1_555 1_555
+
+#END

@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_FULTIP
+_chemical_name_common            'Hexamethylmelamine hexafluorobenzene solvate'
+_chemical_formula_moiety         'C9 H18 N6,C6 F6'
+_chemical_name_systematic        
+'2,4,6-tris(Dimethylamino)-1,3,5-triazine hexafluorobenzene solvate'
+_chemical_properties_biological  'anticancer drug activity'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/m'
+_symmetry_Int_Tables_number      12
+_space_group_name_Hall           '-C 2y'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,-z
+7 x,-y,z
+8 1/2+x,1/2-y,z
+_cell_length_a                   17.631(6)
+_cell_length_b                   6.771(1)
+_cell_length_c                   15.979(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 91.87(3)
+_cell_angle_gamma                90
+_cell_volume                     1906.55
+_cell_formula_units_Z            4
+_chemical_properties_physical    Air-sensitive
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.6977(10) 0.0000 0.2433(17)
+C1 C 0.6682(13) 0.0000 0.3226(19)
+N2 N 0.5912(13) 0.0000 0.3331(12)
+C2 C 0.5434(12) 0.0000 0.2581(13)
+N3 N 0.5681(10) 0.0000 0.1897(10)
+C3 C 0.6477(14) 0.0000 0.1847(19)
+N4 N 0.7091(12) 0.0000 0.3900(16)
+C4 C 0.7970(15) 0.0000 0.3845(18)
+C5 C 0.6775(14) 0.0000 0.4687(13)
+N5 N 0.4700(12) 0.0000 0.2709(13)
+C6 C 0.4376(15) 0.0000 0.3596(17)
+C7 C 0.4190(19) 0.0000 0.1888(26)
+N6 N 0.6757(11) 0.0000 0.0932(16)
+C8 C 0.6250(19) 0.0000 0.0224(18)
+C9 C 0.7496(12) 0.0000 0.0890(17)
+F1 F 0.2314(15) 0.0000 0.3087(16)
+F2 F 0.2211(15) 0.0000 0.1472(21)
+F3 F 0.0998(25) 0.0000 0.0586(25)
+F4 F -0.0433(24) 0.0000 0.1588(28)
+F5 F -0.0467(19) 0.0000 0.3237(26)
+F6 F 0.1036(20) 0.0000 0.4017(20)
+C10 C 0.1570(22) 0.0000 0.2893(23)
+C11 C 0.1558(16) 0.0000 0.2022(22)
+C12 C 0.0937(20) 0.0000 0.1463(28)
+C13 C 0.0268(27) 0.0000 0.1901(18)
+C14 C 0.0260(14) 0.0000 0.2770(17)
+C15 C 0.0893(13) 0.0000 0.3315(21)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 N2 1_555 1_555
+N2 C2 1_555 1_555
+C2 N3 1_555 1_555
+N3 C3 1_555 1_555
+C3 N1 1_555 1_555
+N4 C1 1_555 1_555
+C4 N4 1_555 1_555
+C5 N4 1_555 1_555
+N5 C2 1_555 1_555
+C6 N5 1_555 1_555
+C7 N5 1_555 1_555
+N6 C3 1_555 1_555
+C8 N6 1_555 1_555
+C9 N6 1_555 1_555
+F1 C10 1_555 1_555
+F2 C11 1_555 1_555
+F3 C12 1_555 1_555
+F4 C13 1_555 1_555
+F5 C14 1_555 1_555
+F6 C15 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+C12 C13 1_555 1_555
+C13 C14 1_555 1_555
+C14 C15 1_555 1_555
+C15 C10 1_555 1_555
+
+#END

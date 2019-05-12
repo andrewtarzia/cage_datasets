@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_IYEGIE02
+_chemical_formula_moiety         'C14 H14 N16 Si1'
+_chemical_name_systematic        
+bis(azido)-(2,2'-bipyridine)-bis(5-methyltetrazolato)-silicon
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,1/2+z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   11.7941(6)
+_cell_length_b                   13.5508(6)
+_cell_length_c                   12.6135(6)
+_cell_angle_alpha                90
+_cell_angle_beta                 104.555(2)
+_cell_angle_gamma                90
+_cell_volume                     1951.19
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 1.0000 0.46053(3) 0.2500
+C1 C 0.70716(11) 0.43659(9) 0.34531(10)
+C2 C 0.63687(11) 0.42049(10) 0.42678(11)
+H1 H 0.6436 0.3514 0.4504
+H2 H 0.5545 0.4361 0.3932
+H3 H 0.6663 0.4634 0.4903
+C3 C 0.91693(10) 0.36314(10) 0.03761(10)
+H4 H 0.9051 0.4275 0.0070
+C4 C 0.89139(11) 0.28173(10) -0.03067(10)
+H5 H 0.8619 0.2903 -0.1074
+C5 C 0.90914(12) 0.18805(10) 0.01359(11)
+H6 H 0.8915 0.1317 -0.0324
+C6 C 0.95302(12) 0.17703(10) 0.12571(11)
+H7 H 0.9666 0.1132 0.1576
+C7 C 0.97664(10) 0.26063(9) 0.19018(9)
+N1 N 0.84734(9) 0.45179(7) 0.27236(8)
+N2 N 0.75038(10) 0.45873(9) 0.19229(9)
+N3 N 0.66041(10) 0.44974(10) 0.23716(9)
+N4 N 0.82324(9) 0.43796(8) 0.36992(8)
+N5 N 0.95828(9) 0.54925(8) 0.14047(8)
+N6 N 0.89624(10) 0.61915(8) 0.14915(9)
+N7 N 0.83881(13) 0.68580(10) 0.15309(12)
+N8 N 0.95829(8) 0.35249(7) 0.14663(8)
+C1A C 1.29284(11) 0.43659(9) 0.15469(10)
+C2A C 1.36313(11) 0.42049(10) 0.07322(11)
+H1A H 1.3564 0.3514 0.0496
+H2A H 1.4455 0.4361 0.1068
+H3A H 1.3337 0.4634 0.0097
+C3A C 1.08307(10) 0.36314(10) 0.46239(10)
+H4A H 1.0949 0.4275 0.4930
+C4A C 1.10861(11) 0.28173(10) 0.53067(10)
+H5A H 1.1381 0.2903 0.6074
+C5A C 1.09086(12) 0.18805(10) 0.48641(11)
+H6A H 1.1085 0.1317 0.5324
+C6A C 1.04698(12) 0.17703(10) 0.37429(11)
+H7A H 1.0334 0.1132 0.3424
+C7A C 1.02336(10) 0.26063(9) 0.30982(9)
+N1A N 1.15266(9) 0.45179(7) 0.22764(8)
+N2A N 1.24962(10) 0.45873(9) 0.30771(9)
+N3A N 1.33959(10) 0.44974(10) 0.26284(9)
+N4A N 1.17676(9) 0.43796(8) 0.13008(8)
+N5A N 1.04172(9) 0.54925(8) 0.35953(8)
+N6A N 1.10376(10) 0.61915(8) 0.35085(9)
+N7A N 1.16119(13) 0.68580(10) 0.34691(12)
+N8A N 1.04171(8) 0.35249(7) 0.35337(8)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Si1 N1 1_555 1_555
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+H2 C2 1_555 1_555
+H3 C2 1_555 1_555
+C3 H4 1_555 1_555
+C4 C3 1_555 1_555
+H5 C4 1_555 1_555
+C5 C4 1_555 1_555
+H6 C5 1_555 1_555
+C6 C5 1_555 1_555
+H7 C6 1_555 1_555
+C7 C6 1_555 1_555
+N1 N2 1_555 1_555
+N2 N3 1_555 1_555
+N3 C1 1_555 1_555
+N4 C1 1_555 1_555
+N5 Si1 1_555 1_555
+N6 N5 1_555 1_555
+N7 N6 1_555 1_555
+N8 Si1 1_555 1_555
+C1A C2A 1_555 1_555
+C2A H1A 1_555 1_555
+H2A C2A 1_555 1_555
+H3A C2A 1_555 1_555
+C3A H4A 1_555 1_555
+C4A C3A 1_555 1_555
+H5A C4A 1_555 1_555
+C5A C4A 1_555 1_555
+H6A C5A 1_555 1_555
+C6A C5A 1_555 1_555
+H7A C6A 1_555 1_555
+C7A C7 1_555 1_555
+N1A Si1 1_555 1_555
+N2A N1A 1_555 1_555
+N3A C1A 1_555 1_555
+N4A C1A 1_555 1_555
+N5A Si1 1_555 1_555
+N6A N5A 1_555 1_555
+N7A N6A 1_555 1_555
+N8A Si1 1_555 1_555
+C3 N8 1_555 1_555
+C7 N8 1_555 1_555
+N1 N4 1_555 1_555
+C3A N8A 1_555 1_555
+C6A C7A 1_555 1_555
+C7A N8A 1_555 1_555
+N1A N4A 1_555 1_555
+N2A N3A 1_555 1_555
+
+#END

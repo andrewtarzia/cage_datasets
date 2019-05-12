@@ -1,0 +1,85 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_PHNDMC11
+_chemical_formula_moiety         'C6 H10 N2 2+,2(Cl1 1-)'
+_chemical_name_systematic        'p-Phenylenediamine dihydrochloride'
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   8.680(3)
+_cell_length_b                   5.835(3)
+_cell_length_c                   4.333(2)
+_cell_angle_alpha                99.86(9)
+_cell_angle_beta                 96.28(4)
+_cell_angle_gamma                110.19(9)
+_cell_volume                     199.532
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.37150 0.17385 0.06901
+N1 N 0.32594 -0.31805 0.36052
+C1 C 0.15761 -0.41028 0.43337
+C2 C 0.04835 -0.29404 0.35874
+C3 C 0.11193 -0.61488 0.57266
+H1 H 0.08100 -0.15500 0.24800
+H2 H 0.19200 -0.69300 0.62000
+H3 H 0.34200 -0.44200 0.23100
+H4 H 0.34000 -0.19500 0.25200
+H5 H 0.40400 -0.26300 0.54700
+C3A C -0.11193 -0.38512 0.42734
+C2A C -0.04835 -0.70596 0.64126
+C1A C -0.15761 -0.58972 0.56663
+H2A H -0.19200 -0.30700 0.38000
+H1A H -0.08100 -0.84500 0.75200
+N1A N -0.32594 -0.68195 0.63948
+H3A H -0.34200 -0.55800 0.76900
+H4A H -0.34000 -0.80500 0.74800
+H5A H -0.40400 -0.73700 0.45300
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+C3 C1 1_555 1_555
+H2 C3 1_555 1_555
+H3 N1 1_555 1_555
+H4 N1 1_555 1_555
+H5 N1 1_555 1_555
+C3A C2 1_555 1_555
+C2A C3 1_555 1_555
+C1A C3A 1_555 1_555
+H2A C3A 1_555 1_555
+H1A C2A 1_555 1_555
+N1A C1A 1_555 1_555
+H3A N1A 1_555 1_555
+H4A N1A 1_555 1_555
+H5A N1A 1_555 1_555
+C2A C1A 1_555 1_555
+
+#END

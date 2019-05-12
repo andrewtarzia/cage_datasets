@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ETHUSS03
+_chemical_name_common            'Tetraethylthiuram disulfide'
+_chemical_formula_moiety         'C10 H20 N2 S4'
+_chemical_name_systematic        bis(N,N-Diethyldithiocarbamate)
+_chemical_properties_biological  
+'fungicidal, bactericidal and insecticidal activity; used in treatment of alcoholism'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   10.922(3)
+_cell_length_b                   15.946(4)
+_cell_length_c                   8.444(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 91.92(1)
+_cell_angle_gamma                90
+_cell_volume                     1469.8
+_exptl_crystal_colour            'light yellow'
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.33902(2) 0.32931(2) 0.21369(4)
+S2 S 0.17121(2) 0.45458(1) 0.04104(3)
+S3 S 0.32812(2) 0.51775(1) 0.07935(3)
+S4 S 0.16509(2) 0.57670(2) 0.34438(4)
+N1 N 0.10008(7) 0.30736(5) 0.14707(9)
+N2 N 0.40232(7) 0.61394(5) 0.3179(1)
+C1 C 0.13503(9) 0.15642(6) 0.0930(1)
+C2 C 0.10587(8) 0.22234(6) 0.2162(1)
+C3 C -0.02314(7) 0.33544(6) 0.0929(1)
+C4 C -0.09174(9) 0.37724(7) 0.2261(1)
+C5 C 0.20047(7) 0.35510(5) 0.1422(1)
+C6 C 0.30146(7) 0.57459(5) 0.2628(1)
+C7 C 0.5239(8) 0.60513(6) 0.2478(1)
+C8 C 0.59326(9) 0.53014(6) 0.3183(1)
+C9 C 0.39824(9) 0.66489(6) 0.4634(1)
+C10 C 0.3547(1) 0.75369(7) 0.4285(2)
+H1 H 0.134 0.101 0.139
+H2 H 0.217 0.166 0.050
+H3 H 0.073 0.157 0.007
+H4 H 0.023 0.211 0.257
+H5 H 0.167 0.222 0.299
+H6 H -0.063 0.289 0.057
+H7 H -0.014 0.373 0.002
+H8 H -0.102 0.340 0.311
+H9 H -0.047 0.425 0.266
+H10 H -0.174 0.397 0.191
+H11 H 0.568 0.657 0.266
+H12 H 0.513 0.601 0.135
+H13 H 0.606 0.536 0.429
+H14 H 0.674 0.524 0.272
+H15 H 0.551 0.479 0.296
+H16 H 0.482 0.665 0.511
+H17 H 0.346 0.637 0.538
+H18 H 0.413 0.785 0.363
+H19 H 0.276 0.753 0.370
+H20 H 0.346 0.785 0.534
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C5 1_555 1_555
+S2 S3 1_555 1_555
+S3 C6 1_555 1_555
+S4 C6 1_555 1_555
+N1 C2 1_555 1_555
+N2 C6 1_555 1_555
+C1 C2 1_555 1_555
+C2 H4 1_555 1_555
+C3 N1 1_555 1_555
+C4 C3 1_555 1_555
+C5 S2 1_555 1_555
+C7 N2 1_555 1_555
+C8 C7 1_555 1_555
+C9 N2 1_555 1_555
+C10 C9 1_555 1_555
+H1 C1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C1 1_555 1_555
+H5 C2 1_555 1_555
+H6 C3 1_555 1_555
+H7 C3 1_555 1_555
+H8 C4 1_555 1_555
+H9 C4 1_555 1_555
+H10 C4 1_555 1_555
+H11 C7 1_555 1_555
+H12 C7 1_555 1_555
+H13 C8 1_555 1_555
+H14 C8 1_555 1_555
+H15 C8 1_555 1_555
+H16 C9 1_555 1_555
+H17 C9 1_555 1_555
+H18 C10 1_555 1_555
+H19 C10 1_555 1_555
+H20 C10 1_555 1_555
+N1 C5 1_555 1_555
+
+#END

@@ -1,0 +1,87 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BABPAV
+_chemical_formula_moiety         'C4 H6 Cl2 F4 Si2'
+_chemical_name_systematic        
+cis-4,5-Dichloro-1,1,2,2-tetrafluoro-1,2-disilacyclohexane
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   6.901(4)
+_cell_length_b                   10.002(8)
+_cell_length_c                   13.478(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 91.55(4)
+_cell_angle_gamma                90
+_cell_volume                     929.962
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 0.71260 0.66060 0.24460
+Si2 Si 0.46720 0.78960 0.30930
+Cl1 Cl 0.22310 0.90420 0.01160
+Cl2 Cl 0.34120 0.58700 0.09710
+F1 F 0.54650 0.90540 0.37820
+F2 F 0.32580 0.70820 0.37420
+F3 F 0.68750 0.50600 0.26960
+F4 F 0.92120 0.69610 0.28820
+C1 C 0.32290 0.86200 0.20380
+C2 C 0.41140 0.85720 0.10100
+C3 C 0.50290 0.72390 0.06500
+C4 C 0.70630 0.69520 0.10890
+H1 H 0.30080 0.94840 0.21820
+H2 H 0.20950 0.81760 0.19990
+H3 H 0.50520 0.91970 0.10030
+H4 H 0.51070 0.72740 -0.00150
+H5 H 0.78170 0.76580 0.09770
+H6 H 0.75440 0.62350 0.07760
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Si1 Si2 1_555 1_555
+Si2 F1 1_555 1_555
+Cl1 C2 1_555 1_555
+Cl2 C3 1_555 1_555
+F2 Si2 1_555 1_555
+F3 Si1 1_555 1_555
+F4 Si1 1_555 1_555
+C1 Si2 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+C4 Si1 1_555 1_555
+H1 C1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C2 1_555 1_555
+H4 C3 1_555 1_555
+H5 C4 1_555 1_555
+H6 C4 1_555 1_555
+C3 C4 1_555 1_555
+
+#END

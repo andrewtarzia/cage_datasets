@@ -1,0 +1,79 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_JOJYOY
+_chemical_formula_moiety         'C3 D5 N2 1+,I1 O4 1-'
+_chemical_name_systematic        'perdeutero-1H-Imidazol-3-ium periodate'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   5.103(3)
+_cell_length_b                   12.240(7)
+_cell_length_c                   5.523(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 94.797(8)
+_cell_angle_gamma                90
+_cell_volume                     343.762
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.383(4) 0.6650(11) -1.145(2)
+D1 D -0.2998 0.6526 -1.2859
+N1 N -0.647(3) 0.6594(8) -0.857(2)
+D2 D -0.7750 0.6403 -0.7738
+N2 N -0.3230(18) 0.7443(7) -0.967(2)
+D3 D -0.1964 0.7906 -0.9681
+C2 C -0.584(3) 0.6119(12) -1.068(3)
+D4 D -0.6681 0.5524 -1.1445
+C3 C -0.482(2) 0.7383(7) -0.8012(18)
+D5 D -0.4810 0.7827 -0.6645
+I1 I -0.14274(6) 0.42741(13) -0.65622(6)
+O1 O -0.0205(17) 0.5550(7) -0.5629(15)
+O2 O -0.0820(12) 0.4069(6) -0.9666(9)
+O3 O -0.4853(8) 0.4275(11) -0.6267(10)
+O4 O 0.0028(19) 0.3203(7) -0.4766(15)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 D1 1_555 1_555
+N1 D2 1_555 1_555
+N2 C1 1_555 1_555
+D3 N2 1_555 1_555
+C2 C1 1_555 1_555
+D4 C2 1_555 1_555
+C3 N1 1_555 1_555
+D5 C3 1_555 1_555
+I1 O1 1_555 1_555
+O2 I1 1_555 1_555
+O3 I1 1_555 1_555
+O4 I1 1_555 1_555
+N1 C2 1_555 1_555
+N2 C3 1_555 1_555
+
+#END

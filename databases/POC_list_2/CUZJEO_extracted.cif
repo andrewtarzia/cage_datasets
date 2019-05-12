@@ -1,0 +1,72 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CUZJEO
+_chemical_formula_moiety         'C3 H2 N6 O1'
+_chemical_name_systematic        tetrazolo[1,5-b][1,2,4]triazin-7(8H)-one
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P 1'
+_symmetry_Int_Tables_number      1
+_space_group_name_Hall           'P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+_cell_length_a                   5.8623(4)
+_cell_length_b                   8.3411(7)
+_cell_length_c                   10.9619(17)
+_cell_angle_alpha                90.000
+_cell_angle_beta                 90.000
+_cell_angle_gamma                90.000
+_cell_volume                     536.015
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.1081(2) -0.7535(2) -0.1721(1)
+H1 H -0.0309 -0.7203 -0.1103
+O1 O 0.1513(2) -0.6616(1) -0.3095(1)
+N2 N -0.3579(3) -0.8772(2) -0.3706(1)
+N3 N -0.4218(2) -0.8853(2) -0.2516(1)
+N4 N -0.6140(2) -0.9604(2) -0.2137(2)
+N5 N -0.6152(3) -0.9430(2) -0.0976(2)
+N6 N -0.4281(3) -0.8595(2) -0.0560(1)
+C1 C -0.3107(3) -0.8274(2) -0.1551(1)
+C2 C -0.0256(3) -0.7314(2) -0.2882(2)
+C3 C -0.1694(3) -0.8019(2) -0.3848(2)
+H2 H -0.1175 -0.7904 -0.4645
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 H1 1_555 1_555
+O1 C2 1_555 1_555
+N2 N3 1_555 1_555
+N3 N4 1_555 1_555
+N4 N5 1_555 1_555
+N5 N6 1_555 1_555
+N6 C1 1_555 1_555
+C1 N1 1_555 1_555
+C2 N1 1_555 1_555
+C3 N2 1_555 1_555
+H2 C3 1_555 1_555
+N3 C1 1_555 1_555
+C2 C3 1_555 1_555
+
+#END

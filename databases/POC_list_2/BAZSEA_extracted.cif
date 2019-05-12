@@ -1,0 +1,82 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BAZSEA
+_chemical_formula_moiety         'C8 F8'
+_chemical_name_systematic        Octafluorocyclo-octatetraene
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   9.96(1)
+_cell_length_b                   7.04(1)
+_cell_length_c                   12.66(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 111.6(1)
+_cell_angle_gamma                90
+_cell_volume                     825.362
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.85820 0.95600 1.15140
+C2 C 0.76440 0.95540 1.20280
+C3 C 0.61880 1.03010 1.15760
+C4 C 0.57840 1.20420 1.11920
+C5 C 0.67130 1.35930 1.11540
+C6 C 0.76530 1.36090 1.06410
+C7 C 0.79660 1.20470 1.00210
+C8 C 0.83590 1.03000 1.03910
+F1 F 0.98810 0.87210 1.20280
+F2 F 0.80110 0.87270 1.30500
+F3 F 0.51670 0.90440 1.15840
+F4 F 0.43670 1.24960 1.08090
+F5 F 0.65160 1.51860 1.16670
+F6 F 0.83980 1.52030 1.06450
+F7 F 0.78500 1.25020 0.89560
+F8 F 0.86380 0.90410 0.97010
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 C1 1_555 1_555
+F1 C1 1_555 1_555
+F2 C2 1_555 1_555
+F3 C3 1_555 1_555
+F4 C4 1_555 1_555
+F5 C5 1_555 1_555
+F6 C6 1_555 1_555
+F7 C7 1_555 1_555
+F8 C8 1_555 1_555
+
+#END

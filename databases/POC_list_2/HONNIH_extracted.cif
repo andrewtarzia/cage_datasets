@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_HONNIH
+_chemical_formula_moiety         'C12 H28 Si4'
+_chemical_name_systematic        
+cis,cis-1,1,2,2,5,5,6,6-Octamethyl-1,2,5,6-tetrasilacyclo-octa-3,7-diene
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P n m a'
+_symmetry_Int_Tables_number      62
+_space_group_name_Hall           '-P 2ac 2n'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,1/2+z
+8 x,1/2-y,z
+_cell_length_a                   12.400(1)
+_cell_length_b                   19.271(2)
+_cell_length_c                   7.678(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1834.74
+_exptl_crystal_colour            white
+_exptl_crystal_description       platelets
+_chemical_melting_point          '88-89 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method ethanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 0.8612(1) 0.6487(1) 0.5316(1)
+Si2 Si 0.8971(1) 0.6491(1) 0.2322(1)
+C1 C 0.7610(2) 0.7153(2) 0.6051(4)
+C2 C 0.9906(3) 0.6532(2) 0.6578(4)
+C3 C 0.7951(3) 0.5621(2) 0.5792(5)
+C4 C 0.9984(2) 0.7154(2) 0.1618(4)
+C5 C 0.9632(3) 0.5627(2) 0.1846(5)
+C6 C 0.7686(2) 0.6535(2) 0.1042(4)
+H1 H 0.7047(27) 0.6996(19) 0.6391(50)
+H2 H 1.0270 0.6986 0.6347
+H3 H 1.0390 0.6143 0.6210
+H4 H 0.9748 0.6489 0.7851
+H5 H 0.8451 0.5237 0.5455
+H6 H 0.7267 0.5581 0.5109
+H7 H 0.7785 0.5588 0.7065
+H8 H 1.0578(26) 0.6956(18) 0.1272(49)
+H9 H 1.0308 0.5584 0.2547
+H10 H 0.9811 0.5599 0.0578
+H11 H 0.7320 0.6988 0.1272
+H12 H 0.7200 0.6146 0.1399
+H13 H 0.7853 0.6495 -0.0229
+C4G C 0.9984(2) 0.7846(2) 0.1618(4)
+Si2G Si 0.8971(1) 0.8509(1) 0.2322(1)
+Si1G Si 0.8612(1) 0.8513(1) 0.5316(1)
+C1G C 0.7610(2) 0.7847(2) 0.6051(4)
+H1G H 0.7047(27) 0.8004(19) 0.6391(50)
+C2G C 0.9906(3) 0.8468(2) 0.6578(4)
+H2G H 1.0270 0.8014 0.6347
+H3G H 1.0390 0.8857 0.6210
+H4G H 0.9748 0.8511 0.7851
+C3G C 0.7951(3) 0.9379(2) 0.5792(5)
+H5G H 0.8451 0.9763 0.5455
+H6G H 0.7267 0.9419 0.5109
+H7G H 0.7785 0.9412 0.7065
+C5G C 0.9632(3) 0.9373(2) 0.1846(5)
+H9G H 1.0308 0.9416 0.2547
+H10G H 0.9811 0.9401 0.0578
+C6G C 0.7686(2) 0.8465(2) 0.1042(4)
+H11G H 0.7320 0.8012 0.1272
+H12G H 0.7200 0.8854 0.1399
+H13G H 0.7853 0.8505 -0.0229
+H8G H 1.0578(26) 0.8044(18) 0.1272(49)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Si1 Si2 1_555 1_555
+Si2 C4 1_555 1_555
+C1 Si1 1_555 1_555
+C2 Si1 1_555 1_555
+C3 Si1 1_555 1_555
+C4 H8 1_555 1_555
+C5 Si2 1_555 1_555
+C6 Si2 1_555 1_555
+H1 C1 1_555 1_555
+H2 C2 1_555 1_555
+H3 C2 1_555 1_555
+H4 C2 1_555 1_555
+H5 C3 1_555 1_555
+H6 C3 1_555 1_555
+H7 C3 1_555 1_555
+H9 C5 1_555 1_555
+H10 C5 1_555 1_555
+H11 C6 1_555 1_555
+H12 C6 1_555 1_555
+H13 C6 1_555 1_555
+C4G C4 1_555 1_555
+Si2G C4G 1_555 1_555
+Si1G Si2G 1_555 1_555
+C1G C1 1_555 1_555
+H1G C1G 1_555 1_555
+C2G Si1G 1_555 1_555
+H2G C2G 1_555 1_555
+H3G C2G 1_555 1_555
+H4G C2G 1_555 1_555
+C3G Si1G 1_555 1_555
+H5G C3G 1_555 1_555
+H6G C3G 1_555 1_555
+H7G C3G 1_555 1_555
+C5G Si2G 1_555 1_555
+H9G C5G 1_555 1_555
+H10G C5G 1_555 1_555
+C6G Si2G 1_555 1_555
+H11G C6G 1_555 1_555
+H12G C6G 1_555 1_555
+H13G C6G 1_555 1_555
+H8G C4G 1_555 1_555
+Si1G C1G 1_555 1_555
+
+#END

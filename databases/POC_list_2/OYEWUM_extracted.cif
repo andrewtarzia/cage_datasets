@@ -1,0 +1,79 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_OYEWUM
+_chemical_formula_moiety         '0.66(C4 H4 Cl2 N2),0.34(C3 H1 Br3 N2)'
+_chemical_name_systematic        
+'4,5-dichloro-2-methyl-1H-imidazole 2,4,5-tribromo-1H-imidazole'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'A m a 2'
+_symmetry_Int_Tables_number      40
+_space_group_name_Hall           'A 2 -2a'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2+x,-y,z
+4 1/2-x,y,z
+5 x,1/2+y,1/2+z
+6 -x,1/2-y,1/2+z
+7 1/2+x,1/2-y,1/2+z
+8 1/2-x,1/2+y,1/2+z
+_cell_length_a                   9.971(2)
+_cell_length_b                   16.255(4)
+_cell_length_c                   3.8480(8)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     623.678
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       needle
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.5732(13) 0.8277(7) -0.133(2)
+C1 C 0.7500 1.1024(7) 0.377(7)
+N1 N 0.6389(3) 0.97699(16) 0.1440(10)
+C2 C 0.6817(3) 0.90401(19) 0.0100(10)
+C3 C 0.7500 1.0192(3) 0.2220(14)
+Cl1C Cl 0.9268(13) 0.8277(7) -0.133(2)
+N1C N 0.8611(3) 0.97699(16) 0.1440(10)
+C2C C 0.8183(3) 0.90401(19) 0.0100(10)
+Br1? Br 0.5684(11) 0.8256(6) -0.146(2)
+Br2? Br 0.7500 1.12730(13) 0.3957(6)
+H1? H 0.7221 1.1427 0.2021
+H2? H 0.8405 1.1158 0.4590
+H3? H 0.6874 1.1038 0.5736
+H4? H 0.5553 0.9931 0.1733
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C2 1_555 1_555
+C1 C3 1_555 1_555
+N1 C2 1_555 1_555
+C2 C2C 1_555 1_555
+C3 N1 1_555 1_555
+Cl1C C2C 1_555 1_555
+N1C C3 1_555 1_555
+C2C N1C 1_555 1_555
+
+#END

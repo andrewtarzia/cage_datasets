@@ -1,0 +1,150 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_JUDMEA
+_chemical_formula_moiety         'C12 H24 O6,2(H1 B1 F4),2(H2 O1)'
+_chemical_name_systematic        '18-Crown-6 bis(fluoroboric acid) dihydrate'
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   7.341(2)
+_cell_length_b                   8.364(2)
+_cell_length_c                   10.631(3)
+_cell_angle_alpha                71.48(2)
+_cell_angle_beta                 67.91(2)
+_cell_angle_gamma                67.94(2)
+_cell_volume                     548.598
+_exptl_crystal_colour            colorless
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0390(4) 0.1918(4) -0.2926(3)
+O2 O 0.1419(5) 0.2907(5) -0.1038(3)
+O3 O 0.1970(5) 0.0437(4) 0.1569(3)
+C1 C 0.0615(8) 0.3640(6) -0.3159(5)
+C2 C 0.2174(8) 0.3425(7) -0.2482(5)
+C3 C 0.2820(8) 0.2762(8) -0.0324(6)
+C4 C 0.1944(9) 0.2250(7) 0.1189(6)
+C5 C 0.1431(8) -0.0156(7) 0.3038(5)
+C6 C -0.1280(8) 0.1996(7) -0.3389(5)
+H1 H 0.107 0.413 -0.418
+H2 H -0.072 0.445 -0.272
+H3 H 0.248 0.457 -0.271
+H4 H 0.346 0.251 -0.284
+H5 H 0.412 0.181 -0.061
+H6 H 0.313 0.391 -0.057
+H7 H 0.048 0.299 0.144
+H8 H 0.271 0.247 0.169
+H9 H 0.248 -0.011 0.340
+H10 H 0.005 0.062 0.346
+H11 H -0.101 0.248 -0.441
+H12 H -0.260 0.276 -0.288
+C6A C 0.1280(8) -0.1996(7) 0.3389(5)
+C5A C -0.1431(8) 0.0156(7) -0.3038(5)
+O1A O -0.0390(4) -0.1918(4) 0.2926(3)
+H11A H 0.101 -0.248 0.441
+H12A H 0.260 -0.276 0.288
+O3A O -0.1970(5) -0.0437(4) -0.1569(3)
+H9A H -0.248 0.011 -0.340
+H10A H -0.005 -0.062 -0.346
+C1A C -0.0615(8) -0.3640(6) 0.3159(5)
+C4A C -0.1944(9) -0.2250(7) -0.1189(6)
+C2A C -0.2174(8) -0.3425(7) 0.2482(5)
+H1A H -0.107 -0.413 0.418
+H2A H 0.072 -0.445 0.272
+C3A C -0.2820(8) -0.2762(8) 0.0324(6)
+H7A H -0.048 -0.299 -0.144
+H8A H -0.271 -0.247 -0.169
+O2A O -0.1419(5) -0.2907(5) 0.1038(3)
+H3A H -0.248 -0.457 0.271
+H4A H -0.346 -0.251 0.284
+H5A H -0.412 -0.181 0.061
+H6A H -0.313 -0.391 0.057
+B1 B 0.4734(9) -0.2355(8) -0.3479(6)
+F1 F 0.3476(5) -0.0952(4) -0.2632(3)
+F2 F 0.6527(6) -0.1984(7) -0.4263(5)
+F3 F 0.3694(6) -0.2387(6) -0.4276(4)
+F4 F 0.5165(6) -0.3903(5) -0.2572(4)
+H13 H 0.247 0.016 -0.300
+O4 O 0.2136(5) -0.1735(5) -0.0077(3)
+H14 H 0.094 -0.203 0.032
+H15 H 0.191 -0.076 0.039
+H16? H 0.289 -0.136 -0.137
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C2 1_555 1_555
+O3 C4 1_555 1_555
+C1 C2 1_555 1_555
+C2 H3 1_555 1_555
+C3 O2 1_555 1_555
+C4 C3 1_555 1_555
+C5 O3 1_555 1_555
+C6 O1 1_555 1_555
+H1 C1 1_555 1_555
+H2 C1 1_555 1_555
+H4 C2 1_555 1_555
+H5 C3 1_555 1_555
+H6 C3 1_555 1_555
+H7 C4 1_555 1_555
+H8 C4 1_555 1_555
+H9 C5 1_555 1_555
+H10 C5 1_555 1_555
+H11 C6 1_555 1_555
+H12 C6 1_555 1_555
+B1 F1 1_555 1_555
+F1 H13 1_555 1_555
+F2 B1 1_555 1_555
+F3 B1 1_555 1_555
+F4 B1 1_555 1_555
+O4 H14 1_555 1_555
+H15 O4 1_555 1_555
+C6A C5 1_555 1_555
+C5A C6 1_555 1_555
+O1A C6A 1_555 1_555
+H11A C6A 1_555 1_555
+H12A C6A 1_555 1_555
+O3A C5A 1_555 1_555
+H9A C5A 1_555 1_555
+H10A C5A 1_555 1_555
+C1A O1A 1_555 1_555
+C4A O3A 1_555 1_555
+C2A C1A 1_555 1_555
+H1A C1A 1_555 1_555
+H2A C1A 1_555 1_555
+C3A C4A 1_555 1_555
+H7A C4A 1_555 1_555
+H8A C4A 1_555 1_555
+O2A C2A 1_555 1_555
+H3A C2A 1_555 1_555
+H4A C2A 1_555 1_555
+H5A C3A 1_555 1_555
+H6A C3A 1_555 1_555
+C3A O2A 1_555 1_555
+
+#END

@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_FETZAG
+_chemical_formula_moiety         'C12 H10 N2 O2 S1'
+_chemical_name_systematic        
+2'-(2-Thienylmethylidene)-2-hydroxybenzohydrazide
+_chemical_properties_biological  'potential biological activity'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   4.9785(6)
+_cell_length_b                   21.127(2)
+_cell_length_c                   10.9004(13)
+_cell_angle_alpha                90
+_cell_angle_beta                 102.209(2)
+_cell_angle_gamma                90
+_cell_volume                     1120.58
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method DMF
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S -0.45865(12) 0.09364(3) 0.82342(5)
+O1 O 0.1811(3) 0.27992(7) 0.85782(13)
+O2 O 0.3403(3) 0.25906(7) 0.50113(13)
+N1 N 0.0674(3) 0.22826(8) 0.67378(16)
+N2 N -0.1047(3) 0.18823(8) 0.71908(16)
+C1 C 0.2070(4) 0.27295(9) 0.74908(17)
+C2 C 0.3931(4) 0.31426(9) 0.69461(17)
+C3 C 0.5158(4) 0.36443(11) 0.76886(19)
+H1 H 0.4754 0.3703 0.8476
+C4 C 0.6922(5) 0.40494(11) 0.7302(2)
+H2 H 0.7690 0.4383 0.7814
+C5 C 0.7572(5) 0.39622(10) 0.6136(2)
+H3 H 0.8798 0.4235 0.5868
+C6 C 0.6407(4) 0.34758(10) 0.53858(18)
+H4 H 0.6852 0.3419 0.4606
+C7 C 0.4567(4) 0.30648(9) 0.57679(17)
+C8 C -0.2448(4) 0.15127(10) 0.63850(19)
+C9 C -0.4286(4) 0.10531(10) 0.67242(18)
+C10 C -0.6064(4) 0.06556(11) 0.5907(2)
+H5 H -0.6228 0.0646 0.5041
+C11 C -0.7577(5) 0.02715(12) 0.6575(3)
+H6 H -0.8856 -0.0027 0.6192
+C12 C -0.7003(4) 0.03764(11) 0.7805(2)
+H7 H -0.7847 0.0163 0.8368
+H8 H 0.089(4) 0.2226(9) 0.604(2)
+H9 H 0.422(5) 0.2538(11) 0.448(2)
+H10 H -0.215(5) 0.1544(12) 0.561(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C9 1_555 1_555
+O1 C1 1_555 1_555
+O2 C7 1_555 1_555
+N1 N2 1_555 1_555
+N2 C8 1_555 1_555
+C1 N1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+H1 C3 1_555 1_555
+C4 C3 1_555 1_555
+H2 C4 1_555 1_555
+C5 C4 1_555 1_555
+H3 C5 1_555 1_555
+C6 C5 1_555 1_555
+H4 C6 1_555 1_555
+C7 C2 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 H5 1_555 1_555
+C11 C10 1_555 1_555
+H6 C11 1_555 1_555
+C12 S1 1_555 1_555
+H7 C12 1_555 1_555
+H8 N1 1_555 1_555
+H9 O2 1_555 1_555
+H10 C8 1_555 1_555
+C6 C7 1_555 1_555
+C11 C12 1_555 1_555
+
+#END

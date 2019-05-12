@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_MOFWIO
+_chemical_formula_moiety         'C2 H6 Cl4 N5 P3'
+_chemical_name_systematic        
+1,1-(Ethylenediamino-N,N')-3,3,5,5-tetrachlorocyclotriphosphazene
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,-z
+7 x,-y,1/2+z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   23.263(3)
+_cell_length_b                   8.8861(12)
+_cell_length_c                   19.615(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 114.732(2)
+_cell_angle_gamma                90
+_cell_volume                     3682.84
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          199deg.C
+_cell_formula_units_Z            12
+_exptl_crystal_recrystallization_method 'chloromethane/petroleum ether'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+P1 P 0.0000 0.12048(11) 0.2500
+P3 P 0.05499(4) 0.39679(9) 0.24231(5)
+N6 N 0.0000 0.4865(4) 0.2500
+N7 N 0.03222(17) -0.0033(3) 0.31548(16)
+N8 N 0.05154(13) 0.2225(3) 0.23723(18)
+Cl5 Cl 0.06719(7) 0.47615(14) 0.15508(8)
+Cl6 Cl 0.13576(5) 0.46176(17) 0.32511(8)
+C3 C 0.0126(2) -0.1560(4) 0.29164(19)
+H5 H -0.0199 -0.1874 0.3075
+H6 H 0.0482 -0.2242 0.3131
+H7 H 0.0462(18) 0.017(4) 0.355(2)
+P3B P -0.05499(4) 0.39679(9) 0.25769(5)
+N7B N -0.03222(17) -0.0033(3) 0.18452(16)
+N8B N -0.05154(13) 0.2225(3) 0.26277(18)
+Cl5B Cl -0.06719(7) 0.47615(14) 0.34492(8)
+Cl6B Cl -0.13576(5) 0.46176(17) 0.17489(8)
+C3B C -0.0126(2) -0.1560(4) 0.20836(19)
+H5B H 0.0199 -0.1874 0.1925
+H6B H -0.0482 -0.2242 0.1869
+H7B H -0.0462(18) 0.017(4) 0.145(2)
+P2 P 0.17030(4) -0.02444(9) 0.52970(4)
+P4 P 0.09387(4) 0.19516(9) 0.53848(5)
+P5 P 0.17840(4) 0.05703(10) 0.67110(4)
+Cl1 Cl 0.23871(5) 0.03904(14) 0.49952(5)
+Cl2 Cl 0.10993(5) 0.40316(10) 0.51150(7)
+Cl3 Cl 0.00049(5) 0.20205(12) 0.50149(7)
+Cl4 Cl 0.14869(6) -0.22499(11) 0.48009(6)
+N1 N 0.11075(13) 0.0798(3) 0.48775(14)
+N2 N 0.19824(14) -0.0426(3) 0.61624(15)
+N3 N 0.12445(17) 0.1751(4) 0.62490(16)
+N4 N 0.16200(17) -0.0522(4) 0.72729(17)
+N5 N 0.23744(18) 0.1371(4) 0.73854(19)
+C1 C 0.1923(2) -0.0032(5) 0.8047(2)
+H1 H 0.2028 -0.0889 0.8384
+H2 H 0.1646 0.0634 0.8164
+C2 C 0.2504(3) 0.0771(6) 0.8120(2)
+H3 H 0.2602 0.1577 0.8485
+H4 H 0.2861 0.0084 0.8281
+H8 H 0.1282(19) -0.083(5) 0.715(2)
+H9 H 0.258(2) 0.182(5) 0.729(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+P1 N7 1_555 1_555
+P2 Cl1 1_555 1_555
+P3 N6 1_555 1_555
+P4 Cl2 1_555 1_555
+P5 N2 1_555 1_555
+Cl3 P4 1_555 1_555
+Cl4 P2 1_555 1_555
+N1 P2 1_555 1_555
+N2 P2 1_555 1_555
+N3 P4 1_555 1_555
+N4 P5 1_555 1_555
+N5 P5 1_555 1_555
+C1 N4 1_555 1_555
+H1 C1 1_555 1_555
+H2 C1 1_555 1_555
+C2 N5 1_555 1_555
+H3 C2 1_555 1_555
+H4 C2 1_555 1_555
+N6 P3B 1_555 1_555
+N7 C3 1_555 1_555
+N8 P1 1_555 1_555
+Cl5 P3 1_555 1_555
+Cl6 P3 1_555 1_555
+C3 H5 1_555 1_555
+H6 C3 1_555 1_555
+H7 N7 1_555 1_555
+H8 N4 1_555 1_555
+H9 N5 1_555 1_555
+P3B N8B 1_555 1_555
+N7B P1 1_555 1_555
+N8B P1 1_555 1_555
+Cl5B P3B 1_555 1_555
+Cl6B P3B 1_555 1_555
+C3B C3 1_555 1_555
+H5B C3B 1_555 1_555
+H6B C3B 1_555 1_555
+H7B N7B 1_555 1_555
+P3 N8 1_555 1_555
+P4 N1 1_555 1_555
+P5 N3 1_555 1_555
+C1 C2 1_555 1_555
+N7B C3B 1_555 1_555
+
+#END

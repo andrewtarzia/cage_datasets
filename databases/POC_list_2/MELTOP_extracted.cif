@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_MELTOP
+_chemical_compound_source        'marine bacterium Bacilluus hunanensis'
+_chemical_name_common            'discoipyrrole C'
+_chemical_formula_moiety         'C20 H21 N1 O4,C4 H8 O2'
+_chemical_name_systematic        
+'2-hydroxy-4,5-bis(4-hydroxyphenyl)-2-(2-methylpropyl)-1,2-dihydro-3H-pyrrol-3-one ethyl acetate solvate'
+_chemical_properties_biological  
+'Inhibited the discoidin domain receptor 2 (DDR2)-dependent migration of BR5 fibroblasts. Selective cytotoxicity toward DDR2 mutant lung cancer cell lines with IC50 values in the 120 to 400 nM range.'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   9.87260(10)
+_cell_length_b                   12.68010(10)
+_cell_length_c                   18.1414(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 92.3150(10)
+_cell_angle_gamma                90
+_cell_volume                     2269.19
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 
+'ethyl acetate/acetone/petroleum ether (40-60)'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.31647(7) 0.46160(6) 0.53444(4)
+O2 O 0.59405(7) 0.47023(6) 0.59559(4)
+H1 H 0.6140(13) 0.4929(11) 0.5501(8)
+O3 O -0.23007(8) 0.47375(7) 0.72477(5)
+H2 H -0.2868(17) 0.4688(14) 0.6834(10)
+O4 O 0.38789(8) 0.10485(7) 0.96226(4)
+H3 H 0.3220(16) 0.0544(13) 0.9606(9)
+N1 N 0.52881(9) 0.32404(8) 0.66144(5)
+H4 H 0.5951(14) 0.2795(11) 0.6714(7)
+C1 C 0.40812(10) 0.32084(8) 0.69376(6)
+C2 C 0.30569(10) 0.37293(8) 0.65221(6)
+C3 C 0.36519(10) 0.40731(8) 0.58688(5)
+C4 C 0.51620(10) 0.37563(8) 0.59035(6)
+C5 C 0.56303(11) 0.30670(9) 0.52709(6)
+H5 H 0.6605 0.2985 0.5332
+H6 H 0.5455 0.3452 0.4815
+C6 C 0.50124(12) 0.19640(10) 0.51731(7)
+H7 H 0.5042 0.1611 0.5654
+C7 C 0.35499(15) 0.19838(13) 0.48763(10)
+H8 H 0.2994 0.2327 0.5226
+H9 H 0.3236 0.1275 0.4798
+H10 H 0.3496 0.2362 0.4418
+C8 C 0.58843(16) 0.13363(11) 0.46515(9)
+H11 H 0.5890 0.1685 0.4182
+H12 H 0.5517 0.0640 0.4588
+H13 H 0.6794 0.1290 0.4857
+C9 C 0.16554(10) 0.39665(8) 0.67277(6)
+C10 C 0.05909(11) 0.38395(9) 0.62069(6)
+H14 H 0.0768 0.3575 0.5742
+C11 C -0.07264(10) 0.41000(9) 0.63690(6)
+H15 H -0.1423 0.4011 0.6014
+C12 C -0.10081(10) 0.44924(9) 0.70586(6)
+C13 C 0.00383(11) 0.46328(9) 0.75874(6)
+H16 H -0.0144 0.4899 0.8051
+C14 C 0.13555(10) 0.43725(9) 0.74189(6)
+H17 H 0.2053 0.4470 0.7773
+C15 C 0.39894(10) 0.26694(8) 0.76453(6)
+C16 C 0.50860(11) 0.26849(10) 0.81556(6)
+H18 H 0.5863 0.3061 0.8050
+C17 C 0.50292(11) 0.21495(10) 0.88151(6)
+H19 H 0.5761 0.2173 0.9154
+C18 C 0.38763(11) 0.15730(9) 0.89744(5)
+C19 C 0.27689(10) 0.15607(8) 0.84711(6)
+H20 H 0.1993 0.1184 0.8578
+C20 C 0.28247(10) 0.21062(9) 0.78156(6)
+H21 H 0.2082 0.2100 0.7484
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C3 1_555 1_555
+O2 H1 1_555 1_555
+O3 H2 1_555 1_555
+O4 H3 1_555 1_555
+N1 H4 1_555 1_555
+C1 N1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+C4 O2 1_555 1_555
+C5 C4 1_555 1_555
+H5 C5 1_555 1_555
+H6 C5 1_555 1_555
+C6 C5 1_555 1_555
+H7 C6 1_555 1_555
+C7 C6 1_555 1_555
+H8 C7 1_555 1_555
+H9 C7 1_555 1_555
+H10 C7 1_555 1_555
+C8 C6 1_555 1_555
+H11 C8 1_555 1_555
+H12 C8 1_555 1_555
+H13 C8 1_555 1_555
+C9 C2 1_555 1_555
+C10 C9 1_555 1_555
+H14 C10 1_555 1_555
+C11 C10 1_555 1_555
+H15 C11 1_555 1_555
+C12 O3 1_555 1_555
+C13 C12 1_555 1_555
+H16 C13 1_555 1_555
+C14 C9 1_555 1_555
+H17 C14 1_555 1_555
+C15 C1 1_555 1_555
+C16 C15 1_555 1_555
+H18 C16 1_555 1_555
+C17 C16 1_555 1_555
+H19 C17 1_555 1_555
+C18 O4 1_555 1_555
+C19 C18 1_555 1_555
+H20 C19 1_555 1_555
+C20 C15 1_555 1_555
+H21 C20 1_555 1_555
+N1 C4 1_555 1_555
+C3 C4 1_555 1_555
+C11 C12 1_555 1_555
+C13 C14 1_555 1_555
+C17 C18 1_555 1_555
+C19 C20 1_555 1_555
+
+#END

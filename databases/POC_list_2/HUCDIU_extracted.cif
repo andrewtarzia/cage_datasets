@@ -1,0 +1,79 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_HUCDIU
+_chemical_formula_moiety         'C6 H3 Cl1 N2 O1 S1'
+_chemical_name_systematic        
+2-amino-4-chloro-5-formylthiophene-3-carbonitrile
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P n'
+_symmetry_Int_Tables_number      7
+_space_group_name_Hall           'P -2yac'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,-y,1/2+z
+_cell_length_a                   7.4127(17)
+_cell_length_b                   3.8087(9)
+_cell_length_c                   13.097(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 100.620(3)
+_cell_angle_gamma                90
+_cell_volume                     363.431
+_exptl_crystal_colour            brown
+_exptl_crystal_description       block
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2121(3) 0.8883(6) 1.02894(19)
+C2 C 0.1712(3) 0.8287(6) 0.9212(2)
+C3 C 0.3217(3) 0.6790(6) 0.88446(19)
+C4 C 0.4724(3) 0.6195(6) 0.9595(2)
+C5 C -0.0018(3) 0.9032(7) 0.8569(2)
+C6 C 0.6429(3) 0.4607(7) 0.9489(2)
+Cl1 Cl 0.31091(7) 0.58246(19) 0.75541(5)
+H1 H 0.652(4) 0.380(8) 0.880(3)
+H2 H 0.154(5) 1.058(9) 1.155(3)
+H3 H 0.000(6) 1.108(12) 1.061(4)
+N1 N 0.1056(3) 1.0292(7) 1.0882(2)
+N2 N -0.1385(3) 0.9586(7) 0.80378(19)
+O1 O 0.7708(3) 0.4143(6) 1.02235(18)
+S1 S 0.43384(9) 0.75443(16) 1.08099(6)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C6 1_555 1_555
+C5 C2 1_555 1_555
+C6 H1 1_555 1_555
+Cl1 C3 1_555 1_555
+H2 N1 1_555 1_555
+H3 N1 1_555 1_555
+N1 C1 1_555 1_555
+N2 C5 1_555 1_555
+O1 C6 1_555 1_555
+S1 C1 1_555 1_555
+C4 S1 1_555 1_555
+
+#END

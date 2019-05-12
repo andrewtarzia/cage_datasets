@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_EMIQOI04
+_chemical_name_common            'fluoxetine nitrate racemate'
+_chemical_formula_moiety         'C17 H19 F3 N1 O1 1+,N1 O3 1-'
+_chemical_name_systematic        
+'(rac)-N-methyl-3-phenyl-3-(4-(trifluoromethyl)phenoxy)propylammonium nitrate'
+_chemical_properties_biological  'Fluoxetine is an antidepressant drug.'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   6.53400(10)
+_cell_length_b                   24.7430(5)
+_cell_length_c                   11.4310(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 108.1730(10)
+_cell_angle_gamma                90
+_cell_volume                     1755.88
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+F1 F 0.2619(6) 0.04402(10) 1.0655(3)
+F2 F 0.3767(3) 0.12383(12) 1.11031(19)
+F3 F 0.0576(8) 0.1119(3) 1.0006(6)
+O1 O 0.55705(17) 0.10351(5) 0.60987(10)
+C1 C 0.2524(3) 0.09426(7) 0.41970(15)
+N1 N 0.6165(2) 0.24131(6) 0.43939(13)
+H1 H 0.5609 0.2407 0.3577
+H2 H 0.5076 0.2423 0.4705
+C2 C 0.4365(3) 0.12902(7) 0.49552(14)
+H3 H 0.3779 0.1633 0.5141
+C3 C 0.5869(3) 0.07264(7) 0.80745(15)
+H4 H 0.7146 0.0558 0.8086
+C4 C 0.2042(3) 0.12218(7) 0.80345(15)
+H5 H 0.0757 0.1387 0.8023
+C5 C 0.4685(3) 0.10128(7) 0.70367(15)
+C6 C 0.5154(3) 0.06920(7) 0.90866(15)
+H6 H 0.5954 0.0502 0.9780
+C7 C 0.6025(3) 0.14117(7) 0.42996(15)
+H7 H 0.6956 0.1100 0.4373
+H8 H 0.5279 0.1468 0.3431
+C8 C 0.0933(3) 0.11828(7) 0.32287(15)
+H9 H 0.1016 0.1550 0.3073
+C9 C 0.2476(3) 0.09023(7) 1.01711(16)
+C10 C 0.2383(3) 0.03927(7) 0.44141(16)
+H10 H 0.3429 0.0227 0.5060
+C11 C 0.2750(3) 0.12579(7) 0.70094(15)
+H11 H 0.1939 0.1444 0.6312
+C12 C 0.3232(3) 0.09424(6) 0.90721(15)
+C13 C 0.7407(3) 0.19055(7) 0.48060(16)
+H12 H 0.7900 0.1891 0.5699
+H13 H 0.8664 0.1904 0.4525
+C14 C -0.0894(3) 0.03333(8) 0.27191(17)
+H14 H -0.2039 0.0130 0.2229
+C15 C 0.7469(3) 0.29119(7) 0.47638(18)
+H15 H 0.8039 0.2928 0.5645
+H16 H 0.6578 0.3222 0.4466
+H17 H 0.8635 0.2908 0.4420
+C16 C -0.0767(3) 0.08816(8) 0.24966(16)
+H18 H -0.1825 0.1046 0.1855
+C17 C 0.0682(3) 0.00904(8) 0.36676(17)
+H19 H 0.0606 -0.0278 0.3809
+O2 O -0.75516(18) 0.24765(5) 0.02153(11)
+O3 O -0.7891(2) 0.23789(5) 0.20447(12)
+N2 N -0.6745(2) 0.24306(6) 0.13672(13)
+O4 O -0.47190(19) 0.24548(6) 0.18294(12)
+F4? F 0.1259(6) 0.03997(15) 1.0064(3)
+F5? F 0.3948(5) 0.0822(2) 1.1222(3)
+F6? F 0.1046(15) 0.1242(4) 1.0234(10)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+F1 C9 1_555 1_555
+F2 C9 1_555 1_555
+F3 C9 1_555 1_555
+O1 C2 1_555 1_555
+C1 C2 1_555 1_555
+N1 H1 1_555 1_555
+H2 N1 1_555 1_555
+C2 H3 1_555 1_555
+C3 H4 1_555 1_555
+C4 H5 1_555 1_555
+C5 O1 1_555 1_555
+C6 C3 1_555 1_555
+H6 C6 1_555 1_555
+C7 C2 1_555 1_555
+H7 C7 1_555 1_555
+H8 C7 1_555 1_555
+C8 C1 1_555 1_555
+H9 C8 1_555 1_555
+C9 C12 1_555 1_555
+C10 C1 1_555 1_555
+H10 C10 1_555 1_555
+C11 C4 1_555 1_555
+H11 C11 1_555 1_555
+C12 C4 1_555 1_555
+C13 N1 1_555 1_555
+H12 C13 1_555 1_555
+H13 C13 1_555 1_555
+C14 H14 1_555 1_555
+C15 N1 1_555 1_555
+H15 C15 1_555 1_555
+H16 C15 1_555 1_555
+H17 C15 1_555 1_555
+C16 C8 1_555 1_555
+H18 C16 1_555 1_555
+C17 C10 1_555 1_555
+H19 C17 1_555 1_555
+O2 N2 1_555 1_555
+O3 N2 1_555 1_555
+N2 O4 1_555 1_555
+C3 C5 1_555 1_555
+C5 C11 1_555 1_555
+C6 C12 1_555 1_555
+C7 C13 1_555 1_555
+C14 C16 1_555 1_555
+C14 C17 1_555 1_555
+
+#END

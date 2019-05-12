@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WEWCOT
+_chemical_formula_moiety         'C12 H14 N2 S2 2+,2(C2 F3 O2 1-)'
+_chemical_name_systematic        
+"2,2'-disulfanediyldianilinium bis(trifluoroacetate)"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,1/2+z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   13.2379(11)
+_cell_length_b                   16.2071(13)
+_cell_length_c                   9.9680(8)
+_cell_angle_alpha                90
+_cell_angle_beta                 108.026(2)
+_cell_angle_gamma                90
+_cell_volume                     2033.64
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.41851(14) 0.11738(9) 1.20285(13)
+N1 N 0.4201(3) 0.1109(2) 0.8935(3)
+H1 H 0.3960 0.1113 0.7997
+H2 H 0.3856 0.0728 0.9265
+H3 H 0.4893 0.0995 0.9218
+C1 C 0.4009(3) 0.2011(3) 1.0847(5)
+C2 C 0.4029(3) 0.1918(3) 0.9471(4)
+C3 C 0.3886(4) 0.2589(3) 0.8577(5)
+H4 H 0.3893 0.2521 0.7654
+C4 C 0.3825(4) 0.2796(3) 1.1289(6)
+H5 H 0.3787 0.2866 1.2199
+C5 C 0.3730(4) 0.3365(3) 0.9069(6)
+H6 H 0.3648 0.3821 0.8478
+C6 C 0.3697(4) 0.3465(3) 1.0421(6)
+H7 H 0.3589 0.3986 1.0745
+S1A S 0.58149(14) 0.11738(9) 1.29715(13)
+N1A N 0.5799(3) 0.1109(2) 1.6065(3)
+H1A H 0.6040 0.1113 1.7003
+H2A H 0.6144 0.0728 1.5735
+H3A H 0.5107 0.0995 1.5782
+C1A C 0.5991(3) 0.2011(3) 1.4153(5)
+C2A C 0.5971(3) 0.1918(3) 1.5529(4)
+C3A C 0.6114(4) 0.2589(3) 1.6423(5)
+H4A H 0.6107 0.2521 1.7346
+C4A C 0.6175(4) 0.2796(3) 1.3711(6)
+H5A H 0.6213 0.2866 1.2801
+C5A C 0.6270(4) 0.3365(3) 1.5931(6)
+H6A H 0.6352 0.3821 1.6522
+C6A C 0.6303(4) 0.3465(3) 1.4579(6)
+H7A H 0.6411 0.3986 1.4255
+O1 O 0.3733(3) 0.1017(2) 0.5995(3)
+O2 O 0.2913(3) 0.0168(2) 0.4229(3)
+C7 C 0.2949(4) 0.0694(3) 0.5131(4)
+C8 C 0.1873(4) 0.0988(3) 0.5208(6)
+F1 F 0.1068(3) 0.0715(4) 0.4219(6)
+F2 F 0.1727(4) 0.0784(4) 0.6351(6)
+F3 F 0.1745(4) 0.1771(3) 0.5095(7)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C1 1_555 1_555
+N1 H1 1_555 1_555
+H2 N1 1_555 1_555
+H3 N1 1_555 1_555
+C1 C2 1_555 1_555
+C2 N1 1_555 1_555
+C3 C2 1_555 1_555
+H4 C3 1_555 1_555
+C4 C1 1_555 1_555
+H5 C4 1_555 1_555
+C5 C3 1_555 1_555
+H6 C5 1_555 1_555
+C6 C4 1_555 1_555
+H7 C6 1_555 1_555
+O1 C7 1_555 1_555
+O2 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 F1 1_555 1_555
+F2 C8 1_555 1_555
+F3 C8 1_555 1_555
+S1A S1 1_555 1_555
+N1A H1A 1_555 1_555
+H2A N1A 1_555 1_555
+H3A N1A 1_555 1_555
+C1A S1A 1_555 1_555
+C2A N1A 1_555 1_555
+C3A C2A 1_555 1_555
+H4A C3A 1_555 1_555
+C4A C1A 1_555 1_555
+H5A C4A 1_555 1_555
+C5A C3A 1_555 1_555
+H6A C5A 1_555 1_555
+C6A C4A 1_555 1_555
+H7A C6A 1_555 1_555
+C5 C6 1_555 1_555
+C1A C2A 1_555 1_555
+C5A C6A 1_555 1_555
+
+#END

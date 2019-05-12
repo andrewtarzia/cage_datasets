@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_KIRWAK
+_chemical_formula_moiety         'C4 H28 B6 Mg1 O2'
+_chemical_name_systematic        
+"bis(Dimethyl ether)-bis(octahydrotriborato-H,H')-magnesium(ii)"
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P c a 21'
+_symmetry_Int_Tables_number      29
+_space_group_name_Hall           'P 2c -2ac'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,-y,z
+4 1/2-x,y,1/2+z
+_cell_length_a                   13.9644(19)
+_cell_length_b                   6.9088(10)
+_cell_length_c                   16.034(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1546.92
+_exptl_crystal_colour            colorless
+_chemical_melting_point          '55 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 'vacuum sublimation'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg1 Mg 0.03692(4) 0.28702(8) 0.11060(4)
+B1 B 0.19445(19) 0.3172(4) 0.02869(18)
+H1 H 0.1541(13) 0.190(3) 0.0569(13)
+H2 H 0.2644(15) 0.344(3) 0.0621(15)
+H3 H 0.2099(17) 0.262(3) -0.0342(16)
+B2 B 0.1262(2) 0.5369(4) 0.0223(2)
+H4 H 0.0473(14) 0.529(2) 0.0458(12)
+H5 H 0.1685(13) 0.663(3) 0.0501(12)
+H6 H 0.1101(17) 0.582(3) -0.0424(15)
+B3 B 0.1616(2) 0.4133(5) -0.07183(19)
+H7 H 0.1069(16) 0.341(3) -0.1050(14)
+H8 H 0.2170(16) 0.482(3) -0.1066(14)
+B4 B 0.0617(2) 0.0518(4) 0.23200(18)
+H9 H 0.0423(13) 0.036(3) 0.1603(15)
+H10 H 0.0003(17) 0.006(3) 0.2679(16)
+H11 H 0.1181(19) -0.072(4) 0.2397(16)
+B5 B 0.1073(2) 0.2837(4) 0.25881(17)
+H12 H 0.1156(13) 0.387(3) 0.2042(13)
+H13 H 0.0654(16) 0.347(3) 0.3098(15)
+H14 H 0.1864(17) 0.278(3) 0.2794(15)
+B6 B 0.1847(2) 0.0793(4) 0.2641(2)
+H15 H 0.2412(15) 0.071(3) 0.2159(13)
+H16 H 0.2085(16) 0.021(3) 0.3292(15)
+O1 O -0.04395(10) 0.1603(2) 0.02085(9)
+C1 C -0.0253(2) -0.0274(3) -0.01329(16)
+H17 H -0.0849 -0.1026 -0.0144
+H18 H 0.0220 -0.0943 0.0214
+H19 H -0.0005 -0.0138 -0.0702
+C2 C -0.11443(19) 0.2638(4) -0.02740(16)
+H20 H -0.0902 0.2843 -0.0841
+H21 H -0.1273 0.3892 -0.0012
+H22 H -0.1737 0.1881 -0.0298
+O2 O -0.07850(9) 0.41970(19) 0.16029(9)
+C3 C -0.15734(16) 0.3118(4) 0.19478(18)
+H23 H -0.1459 0.2886 0.2542
+H24 H -0.1631 0.1876 0.1657
+H25 H -0.2167 0.3858 0.1879
+C4 C -0.07279(18) 0.6100(3) 0.19511(14)
+H26 H -0.1340 0.6767 0.1872
+H27 H -0.0218 0.6827 0.1671
+H28 H -0.0586 0.6008 0.2548
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Mg1 H1 1_555 1_555
+B1 H1 1_555 1_555
+H2 B1 1_555 1_555
+H3 B1 1_555 1_555
+B2 B1 1_555 1_555
+H4 Mg1 1_555 1_555
+H5 B2 1_555 1_555
+H6 B2 1_555 1_555
+B3 B1 1_555 1_555
+H7 B3 1_555 1_555
+H8 B3 1_555 1_555
+B4 H9 1_555 1_555
+H9 Mg1 1_555 1_555
+H10 B4 1_555 1_555
+H11 B4 1_555 1_555
+B5 B4 1_555 1_555
+H12 Mg1 1_555 1_555
+H13 B5 1_555 1_555
+H14 B5 1_555 1_555
+B6 B4 1_555 1_555
+H15 B6 1_555 1_555
+H16 B6 1_555 1_555
+O1 Mg1 1_555 1_555
+C1 O1 1_555 1_555
+H17 C1 1_555 1_555
+H18 C1 1_555 1_555
+H19 C1 1_555 1_555
+C2 O1 1_555 1_555
+H20 C2 1_555 1_555
+H21 C2 1_555 1_555
+H22 C2 1_555 1_555
+O2 Mg1 1_555 1_555
+C3 O2 1_555 1_555
+H23 C3 1_555 1_555
+H24 C3 1_555 1_555
+H25 C3 1_555 1_555
+C4 O2 1_555 1_555
+H26 C4 1_555 1_555
+H27 C4 1_555 1_555
+H28 C4 1_555 1_555
+H3 B3 1_555 1_555
+B2 H4 1_555 1_555
+B2 B3 1_555 1_555
+H6 B3 1_555 1_555
+H11 B6 1_555 1_555
+B5 H12 1_555 1_555
+B5 B6 1_555 1_555
+H14 B6 1_555 1_555
+
+#END

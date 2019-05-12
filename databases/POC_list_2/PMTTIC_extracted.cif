@@ -1,0 +1,79 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_PMTTIC
+_chemical_formula_moiety         'C6 H10 N4,Cl1 I1'
+_chemical_name_systematic        
+'Pentamethylenetetrazole iodine monochloride complex'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,z
+8 x,1/2-y,1/2+z
+_cell_length_a                   13.087(2)
+_cell_length_b                   18.83(2)
+_cell_length_c                   8.339(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2054.96
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.27850 0.20930 0.35460
+I1 I 0.14030 0.15180 0.20590
+C1 C -0.03760 0.11730 -0.07710
+C2 C -0.00180 0.16930 -0.18900
+C3 C -0.19600 0.07850 -0.22650
+C4 C -0.13700 0.05890 -0.37780
+C5 C -0.06900 0.12080 -0.45280
+C6 C 0.02840 0.14020 -0.36090
+N1 N -0.00130 0.10230 0.06740
+N2 N -0.06300 0.04800 0.12220
+N3 N -0.13530 0.03540 0.03240
+N4 N -0.12330 0.07910 -0.09540
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 I1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C6 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+N1 C1 1_555 1_555
+N2 N1 1_555 1_555
+N3 N2 1_555 1_555
+N4 C1 1_555 1_555
+C3 N4 1_555 1_555
+N3 N4 1_555 1_555
+
+#END

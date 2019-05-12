@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_NABMIN
+_chemical_name_common            'Dihydrogen dodecahydroxy-closo-dodecaborate'
+_chemical_formula_moiety         'H14 B12 O12'
+_chemical_name_systematic        
+1,12-Diaqua-2,3,4,5,6,7,8,9,10,11-decahydroxy-closo-dodecaborane
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   8.2370(5)
+_cell_length_b                   8.2930(5)
+_cell_length_c                   8.3553(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 90.143(2)
+_cell_angle_gamma                90
+_cell_volume                     570.744
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+B1 B -0.1724(4) 0.9970(4) 0.3876(4)
+B2 B -0.0084(4) 1.1300(4) 0.3417(4)
+B3 B -0.1761(4) 0.9698(4) 0.6026(4)
+B4 B -0.1267(4) 1.1641(4) 0.5182(4)
+B5 B -0.0900(4) 0.8157(4) 0.4752(4)
+B6 B 0.0139(4) 0.9150(4) 0.3119(4)
+O1 O -0.3217(2) 0.9950(2) 0.2959(2)
+O2 O -0.0199(2) 1.2417(2) 0.2094(2)
+O3 O -0.3242(2) 0.9533(2) 0.6912(2)
+O4 O -0.2420(2) 1.2935(2) 0.5291(2)
+O5 O -0.1667(3) 0.6596(2) 0.4576(2)
+O6 O 0.0319(3) 0.8477(2) 0.1540(2)
+H1 H -0.396(7) 0.894(8) 0.297(8)
+H2 H -0.329(6) 1.062(6) 0.198(6)
+H3 H 0.071(5) 1.261(5) 0.155(5)
+H4 H -0.392(5) 0.872(6) 0.646(5)
+H5 H -0.205(5) 1.359(5) 0.602(5)
+H6 H -0.248(6) 0.651(6) 0.509(6)
+H7 H -0.057(5) 0.837(5) 0.100(5)
+B3B B 0.1761(4) 1.0302(4) 0.3974(4)
+B1B B 0.1724(4) 1.0030(4) 0.6124(4)
+B2B B 0.0084(4) 0.8700(4) 0.6583(4)
+B5B B 0.0900(4) 1.1843(4) 0.5248(4)
+B4B B 0.1267(4) 0.8359(4) 0.4818(4)
+O3B O 0.3242(2) 1.0467(2) 0.3088(2)
+H4B H 0.392(5) 1.128(6) 0.354(5)
+B6B B -0.0139(4) 1.0850(4) 0.6881(4)
+O1B O 0.3217(2) 1.0050(2) 0.7041(2)
+H1B H 0.396(7) 1.106(8) 0.703(8)
+H2B H 0.329(6) 0.938(6) 0.802(6)
+O2B O 0.0199(2) 0.7583(2) 0.7906(2)
+H3B H -0.071(5) 0.739(5) 0.845(5)
+O6B O -0.0319(3) 1.1523(2) 0.8460(2)
+H7B H 0.057(5) 1.163(5) 0.900(5)
+O5B O 0.1667(3) 1.3404(2) 0.5424(2)
+H6B H 0.248(6) 1.349(6) 0.491(6)
+O4B O 0.2420(2) 0.7065(2) 0.4709(2)
+H5B H 0.205(5) 0.641(5) 0.398(5)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+B1 B2 1_555 1_555
+B2 B4 1_555 1_555
+B3 B1 1_555 1_555
+B4 B1 1_555 1_555
+B5 B1 1_555 1_555
+B6 B1 1_555 1_555
+O1 B1 1_555 1_555
+O2 B2 1_555 1_555
+O3 B3 1_555 1_555
+O4 B4 1_555 1_555
+O5 B5 1_555 1_555
+O6 B6 1_555 1_555
+H1 O1 1_555 1_555
+H2 O1 1_555 1_555
+H3 O2 1_555 1_555
+H4 O3 1_555 1_555
+H5 O4 1_555 1_555
+H6 O5 1_555 1_555
+H7 O6 1_555 1_555
+B3B B2 1_555 1_555
+B1B B3B 1_555 1_555
+B2B B3 1_555 1_555
+B5B B2 1_555 1_555
+B4B B5 1_555 1_555
+O3B B3B 1_555 1_555
+H4B O3B 1_555 1_555
+B6B B3 1_555 1_555
+O1B B1B 1_555 1_555
+H1B O1B 1_555 1_555
+H2B O1B 1_555 1_555
+O2B B2B 1_555 1_555
+H3B O2B 1_555 1_555
+O6B B6B 1_555 1_555
+H7B O6B 1_555 1_555
+O5B B5B 1_555 1_555
+H6B O5B 1_555 1_555
+O4B B4B 1_555 1_555
+H5B O4B 1_555 1_555
+B2 B6 1_555 1_555
+B3 B4 1_555 1_555
+B3 B5 1_555 1_555
+B4 B5B 1_555 1_555
+B4 B6B 1_555 1_555
+B5 B6 1_555 1_555
+B5 B2B 1_555 1_555
+B6 B3B 1_555 1_555
+B6 B4B 1_555 1_555
+B3B B5B 1_555 1_555
+B3B B4B 1_555 1_555
+B1B B2B 1_555 1_555
+B1B B5B 1_555 1_555
+B1B B4B 1_555 1_555
+B1B B6B 1_555 1_555
+B2B B4B 1_555 1_555
+B2B B6B 1_555 1_555
+B5B B6B 1_555 1_555
+
+#END

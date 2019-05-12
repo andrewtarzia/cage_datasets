@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_VELSIP
+_chemical_name_common            
+2-(4-Bromobenzoyl)-3,3-bis(methylsulfanyl)acrylonitrile
+_chemical_formula_moiety         'C11 H10 Br1 N1 S2'
+_chemical_name_systematic        
+2-(4-Bromophenyl)-3,3-bis(methylsulfanyl)prop-2-enenitrile
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   8.558(10)
+_cell_length_b                   7.285(9)
+_cell_length_c                   20.04(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90.010(8)
+_cell_angle_gamma                90
+_cell_volume                     1249.39
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '346 K'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method acetone
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.40155(9) -0.30434(9) 0.47056(4)
+S1 S -0.11144(16) 0.4085(2) 0.39901(8)
+S2 S -0.00819(17) 0.6872(2) 0.29610(8)
+N1 N 0.3871(6) 0.5641(7) 0.2708(3)
+C1 C 0.1931(6) 0.2025(7) 0.4424(3)
+H1 H 0.1318 0.2813 0.4678
+C2 C 0.2435(7) 0.0389(8) 0.4700(3)
+H2 H 0.2147 0.0070 0.5133
+C3 C 0.3363(6) -0.0754(7) 0.4331(3)
+C4 C 0.3801(6) -0.0291(7) 0.3704(3)
+H3 H 0.4446 -0.1065 0.3459
+C5 C 0.3289(6) 0.1322(7) 0.3437(3)
+H4 H 0.3604 0.1635 0.3007
+C6 C 0.2317(5) 0.2510(7) 0.3782(2)
+C7 C 0.1776(5) 0.4219(7) 0.3456(2)
+C8 C 0.2927(6) 0.5071(7) 0.3031(3)
+C9 C 0.0347(5) 0.4980(7) 0.3479(2)
+C10 C -0.2840(7) 0.4267(11) 0.3473(4)
+H5 H -0.3165 0.5527 0.3451
+H6 H -0.3665 0.3541 0.3662
+H7 H -0.2608 0.3831 0.3032
+C11 C -0.0911(8) 0.8500(9) 0.3543(4)
+H8 H -0.1896 0.8045 0.3703
+H9 H -0.1068 0.9656 0.3323
+H10 H -0.0211 0.8663 0.3912
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 C3 1_555 1_555
+S1 C9 1_555 1_555
+S2 C9 1_555 1_555
+N1 C8 1_555 1_555
+C1 H1 1_555 1_555
+C2 C1 1_555 1_555
+H2 C2 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+H3 C4 1_555 1_555
+C5 C4 1_555 1_555
+H4 C5 1_555 1_555
+C6 C1 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C7 1_555 1_555
+C10 S1 1_555 1_555
+H5 C10 1_555 1_555
+H6 C10 1_555 1_555
+H7 C10 1_555 1_555
+C11 S2 1_555 1_555
+H8 C11 1_555 1_555
+H9 C11 1_555 1_555
+H10 C11 1_555 1_555
+C5 C6 1_555 1_555
+
+#END

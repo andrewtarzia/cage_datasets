@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_FISZUF
+_chemical_name_common            'DrugBank: DB09218'
+_chemical_formula_moiety         'C13 H11 Cl1 N2 O2'
+_chemical_name_systematic        2-(2-Methyl-3-chloroanilinium)nicotinate
+_chemical_properties_biological  'analgesic and antiinflammatory agent'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P c a 21'
+_symmetry_Int_Tables_number      29
+_space_group_name_Hall           'P 2c -2ac'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,y,1/2+z
+4 1/2+x,-y,z
+_cell_length_a                   23.5464(4)
+_cell_length_b                   3.9351(1)
+_cell_length_c                   12.2358(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1133.74
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       slab
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.24808(8) 0.1021(5) 0.20201(16)
+H1 H 0.270858 0.202557 0.248985
+C1 C 0.27134(9) -0.0638(6) 0.11550(18)
+C2 C 0.23339(9) -0.2175(6) 0.03891(19)
+C3 C 0.17597(9) -0.1996(6) 0.05771(19)
+H2 H 0.150633 -0.303791 0.007439
+C4 C 0.15378(10) -0.0308(6) 0.1496(2)
+H3 H 0.114033 -0.021919 0.162621
+C5 C 0.19126(9) 0.1193(6) 0.2190(2)
+H4 H 0.177295 0.238914 0.280850
+C6 C 0.37328(10) 0.0529(6) 0.16064(19)
+C7 C 0.41981(9) 0.1859(5) 0.1019(2)
+C8 C 0.46440(9) 0.3112(6) 0.1640(2)
+C9 C 0.46536(10) 0.3059(7) 0.2769(2)
+H5 H 0.496759 0.396298 0.316067
+C10 C 0.41962(10) 0.1660(7) 0.3318(2)
+H6 H 0.419570 0.158976 0.409379
+C11 C 0.3737(1) 0.0357(6) 0.2739(2)
+H7 H 0.342731 -0.064724 0.311743
+C12 C 0.42169(11) 0.1831(8) -0.0212(2)
+H8 H 0.386803 0.080092 -0.049622
+H9 H 0.454562 0.050819 -0.045725
+H10 H 0.424930 0.416730 -0.048240
+C13 C 0.25481(10) -0.3922(6) -0.06382(17)
+N2 N 0.32756(7) -0.0843(5) 0.09937(18)
+H11 H 0.337740 -0.201819 0.041409
+O1 O 0.21772(7) -0.5181(4) -0.12544(14)
+O2 O 0.30759(7) -0.3965(5) -0.08045(14)
+Cl1 Cl 0.52340(2) 0.48695(16) 0.09722(7)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 H1 1_555 1_555
+C1 N1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+H2 C3 1_555 1_555
+C4 C3 1_555 1_555
+H3 C4 1_555 1_555
+C5 N1 1_555 1_555
+H4 C5 1_555 1_555
+C6 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 C9 1_555 1_555
+C9 H5 1_555 1_555
+C10 C9 1_555 1_555
+H6 C10 1_555 1_555
+C11 C6 1_555 1_555
+H7 C11 1_555 1_555
+C12 C7 1_555 1_555
+H8 C12 1_555 1_555
+H9 C12 1_555 1_555
+H10 C12 1_555 1_555
+C13 C2 1_555 1_555
+N2 C1 1_555 1_555
+H11 N2 1_555 1_555
+O1 C13 1_555 1_555
+O2 C13 1_555 1_555
+Cl1 C8 1_555 1_555
+C4 C5 1_555 1_555
+C6 N2 1_555 1_555
+C10 C11 1_555 1_555
+
+#END

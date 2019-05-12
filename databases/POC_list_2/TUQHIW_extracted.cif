@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TUQHIW
+_chemical_name_common            
+'pentakis(2,3-Dimethyl-tetratelluroanthracene) hexafluoroarsenate'
+_chemical_formula_moiety         
+'0.4(C16 H10 Te4 1+),1.6(C16 H10 Te4),0.4(As1 F6 1-)'
+_chemical_name_systematic        
+"pentakis(3,4-Dimethylanthra(1,9-cd:4,10-c'd')bis((1,2)ditellurole)) hexafluoroarsenate"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/a'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,z
+_cell_length_a                   4.155(2)
+_cell_length_b                   19.898(3)
+_cell_length_c                   11.572(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 94.85(9)
+_cell_angle_gamma                90
+_cell_volume                     953.303
+_exptl_crystal_colour            black
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te1 Te 0.1862(3) 0.16923(7) 1.1331(1)
+Te2 Te 0.3070(3) 0.16761(7) 0.9101(1)
+C1 C 0.025(5) 0.0671(10) 1.105(2)
+C2 C 0.053(4) 0.0341(8) 1.004(2)
+C3 C 0.175(4) 0.0625(9) 0.912(2)
+C4 C 0.203(4) 0.0298(9) 0.809(2)
+C5 C 0.335(5) 0.058(1) 0.708(2)
+C6 C 0.35(1) 0.025(2) 0.615(4)
+C7 C 0.25(1) -0.042(2) 0.607(4)
+C8 C 0.140(5) -0.073(1) 0.681(2)
+C9 C -0.101(4) 0.0383(9) 1.200(2)
+C4B C -0.203(4) -0.0298(9) 1.191(2)
+C3B C -0.175(4) -0.0625(9) 1.088(2)
+Te2B Te -0.3070(3) -0.16761(7) 1.0899(1)
+Te1B Te -0.1862(3) -0.16923(7) 0.8669(1)
+C1B C -0.025(5) -0.0671(10) 0.895(2)
+C2B C -0.053(4) -0.0341(8) 0.996(2)
+C9B C 0.101(4) -0.0383(9) 0.800(2)
+C5B C -0.335(5) -0.058(1) 1.292(2)
+C6B C -0.35(1) -0.025(2) 1.385(4)
+C7B C -0.25(1) 0.042(2) 1.393(4)
+C8B C -0.140(5) 0.073(1) 1.319(2)
+As1? As 0.26(2) -0.254(1) 0.475(1)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Te1 Te2 1_555 1_555
+Te2 C3 1_555 1_555
+C1 Te1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C1 1_555 1_555
+C4B C9 1_555 1_555
+C3B C4B 1_555 1_555
+Te2B C3B 1_555 1_555
+Te1B Te2B 1_555 1_555
+C1B Te1B 1_555 1_555
+C2B C2 1_555 1_555
+C9B C4 1_555 1_555
+C5B C4B 1_555 1_555
+C6B C5B 1_555 1_555
+C7B C6B 1_555 1_555
+C8B C9 1_555 1_555
+C8 C9B 1_555 1_555
+C3B C2B 1_555 1_555
+C1B C2B 1_555 1_555
+C1B C9B 1_555 1_555
+C7B C8B 1_555 1_555
+
+#END

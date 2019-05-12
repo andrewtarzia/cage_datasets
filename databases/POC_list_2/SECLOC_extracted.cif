@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SECLOC
+_chemical_formula_moiety         'C3 H12 O4 Si2'
+_chemical_name_systematic        bis(Methyl(dihydroxy)silyl)methane
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'I 41/a'
+_symmetry_Int_Tables_number      88
+_space_group_name_Hall           '-I 4ad'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 3/4-y,1/4+x,1/4+z
+3 1/2+x,1/2+y,1/2+z
+4 1/4-y,3/4+x,3/4+z
+5 1/4+y,1/4-x,1/4+z
+6 1/2-x,-y,1/2+z
+7 3/4+y,3/4-x,3/4+z
+8 -x,1/2-y,z
+9 -x,-y,-z
+10 1/4+y,3/4-x,3/4-z
+11 1/2-x,1/2-y,1/2-z
+12 3/4+y,1/4-x,1/4-z
+13 3/4-y,3/4+x,3/4-z
+14 1/2+x,y,1/2-z
+15 1/4-y,1/4+x,1/4-z
+16 x,1/2+y,-z
+_cell_length_a                   22.884(3)
+_cell_length_b                   22.884(3)
+_cell_length_c                   6.1485(10)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     3219.83
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prism
+_chemical_melting_point          '100 deg.C(dec.)'
+_cell_formula_units_Z            16
+_exptl_crystal_recrystallization_method acetone
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 0.164804(14) 0.738006(13) 0.14018(5)
+Si2 Si 0.158735(13) 0.597340(13) 0.16211(5)
+O1 O 0.19532(4) 0.54357(3) 0.04594(14)
+H1 H 0.1958 0.5145 0.1292
+O2 O 0.08815(4) 0.59031(4) 0.11232(14)
+H2 H 0.0833 0.5784 -0.0157
+O3 O 0.18219(4) 0.73986(4) 0.40075(14)
+H3 H 0.1717 0.7720 0.4542
+O4 O 0.20157(4) 0.78943(4) 0.00864(15)
+H4 H 0.2376 0.7837 0.0236
+C1 C 0.16715(6) 0.59527(5) 0.4612(2)
+H5 H 0.1522 0.5580 0.5169
+H6 H 0.1451 0.6276 0.5263
+H7 H 0.2086 0.5991 0.4988
+C2 C 0.18754(5) 0.66539(5) 0.0384(2)
+H8 H 0.2307 0.6637 0.0491
+H9 H 0.1778 0.6641 -0.1184
+C3 C 0.08674(6) 0.75540(6) 0.0990(3)
+H10 H 0.0626 0.7255 0.1694
+H11 H 0.0781 0.7563 -0.0571
+H12 H 0.0781 0.7937 0.1628
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Si1 O3 1_555 1_555
+Si2 O1 1_555 1_555
+O1 H1 1_555 1_555
+O2 Si2 1_555 1_555
+H2 O2 1_555 1_555
+O3 H3 1_555 1_555
+O4 Si1 1_555 1_555
+H4 O4 1_555 1_555
+C1 Si2 1_555 1_555
+H5 C1 1_555 1_555
+H6 C1 1_555 1_555
+H7 C1 1_555 1_555
+C2 Si1 1_555 1_555
+H8 C2 1_555 1_555
+H9 C2 1_555 1_555
+C3 Si1 1_555 1_555
+H10 C3 1_555 1_555
+H11 C3 1_555 1_555
+H12 C3 1_555 1_555
+Si2 C2 1_555 1_555
+
+#END

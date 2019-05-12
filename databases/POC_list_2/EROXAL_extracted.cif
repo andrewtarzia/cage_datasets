@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_EROXAL
+_chemical_name_common            'Benztriazolium picrate'
+_chemical_formula_moiety         'C6 H2 N3 O7 1-,C6 H6 N3 1+'
+_chemical_name_systematic        '1H-Benzotriazol-3-ium 2,4,6-trinitrophenolate'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   14.4113(15)
+_cell_length_b                   3.7608(4)
+_cell_length_c                   24.941(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90.598(2)
+_cell_angle_gamma                90
+_cell_volume                     1351.68
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       needle
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.99963(18) 0.3370(8) 0.66441(12)
+C2 C 1.01146(18) 0.4733(8) 0.61071(11)
+C3 C 1.09520(19) 0.5092(8) 0.58563(12)
+H1 H 1.0979 0.6016 0.5511
+C4 C 1.17487(18) 0.4073(8) 0.61202(12)
+C5 C 1.17278(19) 0.2734(8) 0.66338(11)
+H2 H 1.2273 0.2056 0.6809
+C6 C 1.08877(19) 0.2420(8) 0.68823(11)
+N1 N 0.93044(16) 0.5892(7) 0.57961(10)
+N2 N 1.26389(18) 0.4342(8) 0.58494(12)
+N3 N 1.09156(17) 0.1027(7) 0.74265(10)
+O1 O 0.92425(12) 0.3151(6) 0.68863(8)
+O2 O 0.85380(14) 0.4837(7) 0.59216(10)
+O3 O 0.94256(15) 0.7832(7) 0.54123(10)
+O4 O 1.26640(16) 0.6034(8) 0.54315(11)
+O5 O 1.33151(15) 0.2909(8) 0.60522(10)
+O6 O 1.02722(16) -0.0819(6) 0.75823(9)
+O7 O 1.15869(17) 0.1753(8) 0.77088(10)
+C7 C 0.82043(17) 0.5020(7) 0.87509(12)
+C8 C 0.8186(2) 0.4915(8) 0.93112(12)
+H3 H 0.7672 0.5650 0.9504
+C9 C 0.8973(2) 0.3662(9) 0.95568(12)
+H4 H 0.8997 0.3555 0.9929
+C10 C 0.9752(2) 0.2525(9) 0.92626(13)
+H5 H 1.0272 0.1713 0.9449
+C11 C 0.97677(19) 0.2573(8) 0.87192(12)
+H6 H 1.0281 0.1809 0.8528
+C12 C 0.89671(18) 0.3838(8) 0.84644(11)
+N4 N 0.75692(16) 0.6019(7) 0.83701(10)
+H7 H 0.702(2) 0.678(9) 0.8423(12)
+N5 N 0.78784(16) 0.5608(7) 0.78832(10)
+N6 N 0.87157(16) 0.4287(7) 0.79375(10)
+H8 H 0.896(2) 0.343(8) 0.7615(13)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 H1 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+H2 C5 1_555 1_555
+C6 C1 1_555 1_555
+N1 C2 1_555 1_555
+N2 C4 1_555 1_555
+N3 C6 1_555 1_555
+O1 C1 1_555 1_555
+O2 N1 1_555 1_555
+O3 N1 1_555 1_555
+O4 N2 1_555 1_555
+O5 N2 1_555 1_555
+O6 N3 1_555 1_555
+O7 N3 1_555 1_555
+C7 C8 1_555 1_555
+C8 H3 1_555 1_555
+C9 C8 1_555 1_555
+H4 C9 1_555 1_555
+C10 C9 1_555 1_555
+H5 C10 1_555 1_555
+C11 C10 1_555 1_555
+H6 C11 1_555 1_555
+C12 C7 1_555 1_555
+N4 C7 1_555 1_555
+H7 N4 1_555 1_555
+N5 N4 1_555 1_555
+N6 C12 1_555 1_555
+H8 N6 1_555 1_555
+C5 C6 1_555 1_555
+C11 C12 1_555 1_555
+N5 N6 1_555 1_555
+
+#END

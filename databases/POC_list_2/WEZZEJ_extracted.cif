@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WEZZEJ
+_chemical_name_common            
+'dimethylammonium 1,4,6,9-tetraoxa-5-boraspiro[4.4]nonane-2,3,7,8-tetrone'
+_chemical_formula_moiety         'C4 B1 O8 1-,C2 H8 N1 1+'
+_chemical_name_systematic        'dimethylammonium bis(oxalato)borate'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P n m a'
+_symmetry_Int_Tables_number      62
+_space_group_name_Hall           '-P 2ac 2n'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,-z
+4 1/2+x,1/2-y,1/2-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 x,1/2-y,z
+8 1/2-x,1/2+y,1/2+z
+_cell_length_a                   11.7567(9)
+_cell_length_b                   8.6041(7)
+_cell_length_c                   9.6961(8)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     980.817
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.23084(8) 0.11417(9) 0.64469(8)
+O2 O 0.23579(12) 0.250000 1.08583(12)
+C1 C 0.20110(8) 0.16068(12) 0.52037(10)
+O3 O 0.46774(10) 0.250000 0.97526(13)
+O4 O 0.37587(8) 0.250000 0.77391(10)
+O5 O 0.18026(8) 0.08006(10) 0.42284(8)
+O6 O 0.19029(9) 0.250000 0.85993(11)
+C2 C 0.38200(12) 0.250000 0.90933(15)
+C3 C 0.26060(13) 0.250000 0.96619(15)
+B1 B 0.25569(14) 0.250000 0.73154(17)
+O1F O 0.23084(8) 0.38583(9) 0.64469(8)
+C1F C 0.20110(8) 0.33932(12) 0.52037(10)
+O5F O 0.18026(8) 0.41994(10) 0.42284(8)
+N1 N 0.52108(13) 0.250000 0.26629(16)
+C4 C 0.46889(18) 0.1073(2) 0.3178(2)
+H1 H 0.505(2) 0.019(4) 0.290(3)
+H2 H 0.393(3) 0.107(3) 0.300(3)
+H3 H 0.478(2) 0.121(3) 0.416(3)
+H4 H 0.592(3) 0.250000 0.288(3)
+H5 H 0.516(3) 0.250000 0.168(3)
+C4F C 0.46889(18) 0.3927(2) 0.3178(2)
+H1F H 0.505(2) 0.481(4) 0.290(3)
+H2F H 0.393(3) 0.393(3) 0.300(3)
+H3F H 0.478(2) 0.379(3) 0.416(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C3 1_555 1_555
+C1 O5 1_555 1_555
+O3 C2 1_555 1_555
+O4 C2 1_555 1_555
+O6 C3 1_555 1_555
+C2 C3 1_555 1_555
+B1 O1 1_555 1_555
+N1 C4 1_555 1_555
+C4 H1 1_555 1_555
+H2 C4 1_555 1_555
+H3 C4 1_555 1_555
+H4 N1 1_555 1_555
+H5 N1 1_555 1_555
+O1F B1 1_555 1_555
+C1F C1 1_555 1_555
+O5F C1F 1_555 1_555
+C4F N1 1_555 1_555
+H1F C4F 1_555 1_555
+H2F C4F 1_555 1_555
+H3F C4F 1_555 1_555
+O4 B1 1_555 1_555
+O6 B1 1_555 1_555
+O1F C1F 1_555 1_555
+
+#END

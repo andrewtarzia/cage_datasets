@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BEWKUM
+_chemical_name_common            entecavir
+_chemical_formula_moiety         'C12 H15 N5 O3'
+_chemical_name_systematic        
+2-amino-9-[(1S,3R,4S)-4-hydroxy-3-(hydroxymethyl)-2-methylidenecyclopentyl]-1,9-dihydro-6H-purin-6-one
+_chemical_properties_biological  'antihepatitis B virus drug'
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'P 43 21 2'
+_symmetry_Int_Tables_number      96
+_space_group_name_Hall           'P 4nw 2abw'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-y,1/2+x,3/4+z
+3 -x,-y,1/2+z
+4 1/2+y,1/2-x,1/4+z
+5 1/2+x,1/2-y,1/4-z
+6 y,x,-z
+7 1/2-x,1/2+y,3/4-z
+8 -y,-x,1/2-z
+_cell_length_a                   7.559(2)
+_cell_length_b                   7.559(2)
+_cell_length_c                   44.103(12)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2519.98
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6682(4) 0.0682(3) -0.10690(5)
+O2 O 0.5702(5) 0.1161(4) 0.09913(5)
+H1 H 0.6193 0.0520 0.1122
+O3 O 0.9663(5) 0.0859(4) 0.11947(6)
+H2 H 0.9867 0.1734 0.1307
+N1 N 0.6897(4) 0.4481(4) -0.03853(5)
+N2 N 0.6731(4) 0.3531(4) -0.08987(5)
+H3 H 0.6659 0.3887 -0.1088
+N3 N 0.6610(4) 0.6510(4) -0.07758(6)
+H4 H 0.7126 0.7215 -0.0650
+H5 H 0.7099 0.6617 -0.0951
+N4 N 0.7015(4) 0.1937(4) -0.00497(5)
+N5 N 0.7037(4) -0.0291(4) -0.03865(6)
+C1 C 0.6766(4) 0.4833(4) -0.06778(6)
+C2 C 0.6967(5) 0.2714(4) -0.03304(6)
+C3 C 0.6965(5) 0.1324(4) -0.05355(6)
+C4 C 0.6795(5) 0.1715(4) -0.08496(6)
+C5 C 0.7045(5) 0.2843(5) 0.02461(6)
+H6 H 0.6810 0.4104 0.0214
+C6 C 0.7070(6) 0.0138(5) -0.00984(7)
+H7 H 0.7124 -0.0690 0.0057
+C7 C 0.8827(5) 0.2642(4) 0.04055(6)
+C8 C 0.8488(6) 0.2251(5) 0.07373(6)
+H8 H 0.8267 0.3369 0.0844
+C9 C 0.6760(6) 0.1202(5) 0.07222(7)
+H9 H 0.7022 -0.0014 0.0660
+C10 C 0.5680(6) 0.2107(6) 0.04740(7)
+H10 H 0.4972 0.3057 0.0558
+H11 H 0.4900 0.1266 0.0376
+C11 C 1.0019(6) 0.1316(6) 0.08886(8)
+H12 H 1.0293 0.0249 0.0776
+H13 H 1.1052 0.2077 0.0882
+C12 C 1.0345(6) 0.2676(7) 0.02672(9)
+H14 H 1.1379 0.2444 0.0374
+H15 H 1.0398 0.2933 0.0061
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C4 1_555 1_555
+O2 H1 1_555 1_555
+O3 H2 1_555 1_555
+N1 C1 1_555 1_555
+N2 H3 1_555 1_555
+N3 H4 1_555 1_555
+H5 N3 1_555 1_555
+N4 C2 1_555 1_555
+N5 C3 1_555 1_555
+C1 N2 1_555 1_555
+C2 N1 1_555 1_555
+C3 C2 1_555 1_555
+C4 N2 1_555 1_555
+C5 N4 1_555 1_555
+H6 C5 1_555 1_555
+C6 N4 1_555 1_555
+H7 C6 1_555 1_555
+C7 C5 1_555 1_555
+C8 C7 1_555 1_555
+H8 C8 1_555 1_555
+C9 O2 1_555 1_555
+H9 C9 1_555 1_555
+C10 C5 1_555 1_555
+H10 C10 1_555 1_555
+H11 C10 1_555 1_555
+C11 O3 1_555 1_555
+H12 C11 1_555 1_555
+H13 C11 1_555 1_555
+C12 C7 1_555 1_555
+H14 C12 1_555 1_555
+H15 C12 1_555 1_555
+N3 C1 1_555 1_555
+N5 C6 1_555 1_555
+C3 C4 1_555 1_555
+C8 C9 1_555 1_555
+C8 C11 1_555 1_555
+C9 C10 1_555 1_555
+
+#END

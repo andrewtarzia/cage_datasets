@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_FATSOI
+_chemical_name_common            'Tritriptycene acetone clathrate'
+_chemical_formula_moiety         'C62 H38,C3 H6 O1'
+_chemical_name_systematic        
+"5,7,9,14,16,18,28,33-Octahydro-28,33-o-benzeno-7,16(2',3')-anthraceno-5,18:9,14-di-o-benzenoheptacene acetone clathrate"
+_symmetry_cell_setting           hexagonal
+_symmetry_space_group_name_H-M   'P 63/m'
+_symmetry_Int_Tables_number      176
+_space_group_name_Hall           '-P 6c'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,1/2+z
+5 y,-x+y,1/2+z
+6 x-y,x,1/2+z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 x,y,1/2-z
+11 -y,x-y,1/2-z
+12 -x+y,-x,1/2-z
+_cell_length_a                   16.646(3)
+_cell_length_b                   16.646(3)
+_cell_length_c                   11.553(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_volume                     2772.33
+_chemical_melting_point          'above 550deg.C'
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.581(1) -0.1692(9) 0.191(1)
+C2 C 0.6403(8) -0.0883(8) 0.130(1)
+C3 C 0.6987(7) -0.0094(7) 0.190(1)
+C4 C 0.7663(7) 0.0819(7) 0.1379(9)
+C5 C 0.7395(6) 0.1520(6) 0.1896(9)
+C6 C 0.7156(6) 0.2087(7) 0.1292(9)
+C7 C 0.6944(6) 0.2663(6) 0.1900(9)
+C8 C 0.8624(7) 0.1086(6) 0.189(1)
+C9 C 0.9416(7) 0.1305(7) 0.131(1)
+C10 C 1.0191(7) 0.1492(9) 0.189(1)
+H1 H 0.536 -0.231 0.142
+H2 H 0.644 -0.089 0.048
+H3 H 0.765 0.082 0.056
+H4 H 0.715 0.209 0.047
+H5 H 0.941 0.131 0.048
+H6 H 1.075 0.165 0.148
+C1I C 0.581(1) -0.1692(9) 0.309(1)
+C3I C 0.6987(7) -0.0094(7) 0.310(1)
+C5I C 0.7395(6) 0.1520(6) 0.3104(9)
+C7I C 0.6944(6) 0.2663(6) 0.3100(9)
+C8I C 0.8624(7) 0.1086(6) 0.311(1)
+C10I C 1.0191(7) 0.1492(9) 0.311(1)
+C2I C 0.6403(8) -0.0883(8) 0.370(1)
+H1I H 0.536 -0.231 0.358
+C4I C 0.7663(7) 0.0819(7) 0.3621(9)
+C6I C 0.7156(6) 0.2087(7) 0.3708(9)
+C9I C 0.9416(7) 0.1305(7) 0.369(1)
+H6I H 1.075 0.165 0.352
+H2I H 0.644 -0.089 0.452
+H3I H 0.765 0.082 0.444
+H4I H 0.715 0.209 0.453
+H5I H 0.941 0.131 0.452
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C7I 1_555 1_555
+C8 C4 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+H1 C1 1_555 1_555
+H2 C2 1_555 1_555
+H3 C4 1_555 1_555
+H4 C6 1_555 1_555
+H5 C9 1_555 1_555
+H6 C10 1_555 1_555
+C1I C1 1_555 1_555
+C3I C3 1_555 1_555
+C5I C5 1_555 1_555
+C7I C6I 1_555 1_555
+C8I C8 1_555 1_555
+C10I C10 1_555 1_555
+C2I C1I 1_555 1_555
+H1I C1I 1_555 1_555
+C4I C3I 1_555 1_555
+C6I C5I 1_555 1_555
+C9I C8I 1_555 1_555
+H6I C10I 1_555 1_555
+H2I C2I 1_555 1_555
+H3I C4I 1_555 1_555
+H4I C6I 1_555 1_555
+H5I C9I 1_555 1_555
+C3I C2I 1_555 1_555
+C5I C4I 1_555 1_555
+C8I C4I 1_555 1_555
+C10I C9I 1_555 1_555
+
+#END

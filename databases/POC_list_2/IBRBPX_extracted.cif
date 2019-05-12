@@ -1,0 +1,92 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_IBRBPX
+_chemical_formula_moiety         'C14 H8 Br1 I1 O4'
+_chemical_name_systematic        2-Iodo-3'-bromo-dibenzoyl-peroxide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   12.210(7)
+_cell_length_b                   10.086(5)
+_cell_length_c                   14.179(6)
+_cell_angle_alpha                90
+_cell_angle_beta                 125.6(1)
+_cell_angle_gamma                90
+_cell_volume                     1419.79
+_exptl_crystal_colour            colorless
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I -0.00223 0.33091 -0.37749
+Br1 Br 0.25630 -0.15420 0.30440
+O1 O 0.11030 0.09810 -0.19180
+O2 O 0.30770 0.00640 -0.13180
+O3 O 0.32100 -0.01080 -0.02290
+O4 O 0.40510 0.19150 0.01350
+C1 C 0.09900 0.18090 -0.39970
+C2 C 0.09100 0.19300 -0.50200
+C3 C 0.15600 0.09600 -0.52400
+C4 C 0.23000 -0.00100 -0.45000
+C5 C 0.23900 -0.01300 -0.35000
+C6 C 0.17330 0.08090 -0.32280
+C7 C 0.18560 0.07050 -0.21410
+C8 C 0.36900 0.09900 0.04300
+C9 C 0.37900 0.08900 0.14900
+C10 C 0.44500 0.19600 0.22800
+C11 C 0.45700 0.19300 0.33200
+C12 C 0.39800 0.08900 0.35400
+C13 C 0.33530 -0.01500 0.27380
+C14 C 0.32600 -0.01400 0.17300
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+I1 C1 1_555 1_555
+Br1 C13 1_555 1_555
+O1 C7 1_555 1_555
+O2 O3 1_555 1_555
+O3 C8 1_555 1_555
+O4 C8 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 O2 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+C12 C13 1_555 1_555
+C13 C14 1_555 1_555
+C14 C9 1_555 1_555
+C6 C7 1_555 1_555
+
+#END

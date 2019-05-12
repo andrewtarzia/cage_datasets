@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_KIXCEZ
+_chemical_formula_moiety         'C12 H18 Te4 1+,C12 H18 Te4,I1 1-,I2'
+_chemical_name_systematic        
+'Hexamethylenetetratellurafulvalenium hexamethylenetetratellurafulvalene iodide di-iodide'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/m'
+_symmetry_Int_Tables_number      12
+_space_group_name_Hall           '-C 2y'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,-z
+7 x,-y,z
+8 1/2+x,1/2-y,z
+_cell_length_a                   16.529(4)
+_cell_length_b                   19.381(4)
+_cell_length_c                   12.616(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 102.32(1)
+_cell_angle_gamma                90
+_cell_volume                     3948.45
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te3 Te -0.1058(1) 0.0919(1) 0.2117(2)
+Te4 Te 0.0953(2) 0.0911(1) 0.1416(2)
+C7 C -0.0460(26) 0.0000 0.1947(52)
+C8 C 0.0316(29) 0.0000 0.1615(46)
+C9 C 0.1985(15) 0.0352(12) 0.1167(20)
+C10 C 0.2779(18) 0.0640(15) 0.0915(26)
+C11 C 0.3191(29) 0.0000 0.0733(30)
+C12 C -0.2078(18) 0.0371(16) 0.2365(27)
+C13 C -0.2840(17) 0.0642(21) 0.2572(32)
+C14 C -0.3384(38) 0.0000 0.2702(54)
+Te3F Te -0.1058(1) -0.0919(1) 0.2117(2)
+Te4F Te 0.0953(2) -0.0911(1) 0.1416(2)
+C9F C 0.1985(15) -0.0352(12) 0.1167(20)
+C10F C 0.2779(18) -0.0640(15) 0.0915(26)
+C12F C -0.2078(18) -0.0371(16) 0.2365(27)
+C13F C -0.2840(17) -0.0642(21) 0.2572(32)
+I1 I 0.2500 0.2500 0.5000
+I2 I 0.1015(1) 0.0917(1) 0.4685(2)
+Te1 Te 0.4000(1) 0.2220(2) 0.0181(2)
+Te2 Te 0.2713(1) 0.2483(1) 0.2072(2)
+C1 C 0.2817(14) 0.2432(15) 0.0351(19)
+C2 C 0.4413(22) 0.2075(20) 0.1892(24)
+C3 C 0.3948(17) 0.2134(18) 0.2507(27)
+C4 C 0.4328(19) 0.1967(19) 0.3654(21)
+C5 C 0.5167(23) 0.1688(23) 0.3520(34)
+C6 C 0.5229(19) 0.1845(29) 0.2336(27)
+C1E C 0.2183(14) 0.2568(15) -0.0351(19)
+Te1E Te 0.1000(1) 0.2780(2) -0.0181(2)
+Te2E Te 0.2287(1) 0.2517(1) -0.2072(2)
+C2E C 0.0587(22) 0.2925(20) -0.1892(24)
+C3E C 0.1052(17) 0.2866(18) -0.2507(27)
+C6E C -0.0229(19) 0.3155(29) -0.2336(27)
+C4E C 0.0672(19) 0.3033(19) -0.3654(21)
+C5E C -0.0167(23) 0.3312(23) -0.3520(34)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Te1 C1 1_555 1_555
+Te2 C1 1_555 1_555
+Te3 C7 1_555 1_555
+Te4 C8 1_555 1_555
+C1 C1E 1_555 1_555
+C2 Te1 1_555 1_555
+C3 Te2 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+C6 C2 1_555 1_555
+C7 Te3F 1_555 1_555
+C8 C7 1_555 1_555
+C9 Te4 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+C12 Te3 1_555 1_555
+C13 C12 1_555 1_555
+C14 C13 1_555 1_555
+C1E Te1E 1_555 1_555
+Te1E C2E 1_555 1_555
+Te2E C1E 1_555 1_555
+C2E C3E 1_555 1_555
+C3E Te2E 1_555 1_555
+C6E C2E 1_555 1_555
+C4E C3E 1_555 1_555
+C5E C6E 1_555 1_555
+Te3F C12F 1_555 1_555
+Te4F C8 1_555 1_555
+C9F C9 1_555 1_555
+C10F C11 1_555 1_555
+C12F C12 1_555 1_555
+C13F C14 1_555 1_555
+C2 C3 1_555 1_555
+C5 C6 1_555 1_555
+C4E C5E 1_555 1_555
+Te4F C9F 1_555 1_555
+C9F C10F 1_555 1_555
+C12F C13F 1_555 1_555
+
+#END

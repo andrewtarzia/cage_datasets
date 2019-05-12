@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_PEKCAK
+_chemical_name_common            
+'bis(2-picolyl)ammonium trifluoromethanesulfonate'
+_chemical_formula_moiety         'C12 H14 N3 1+,C1 F3 O3 S1 1-'
+_chemical_name_systematic        
+'bis(2-pyridylmethyl)ammonium trifluoromethanesulfonate'
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'P 42/m'
+_symmetry_Int_Tables_number      84
+_space_group_name_Hall           '-P 4c'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x,1/2+z
+3 y,-x,1/2+z
+4 -x,-y,z
+5 -x,-y,-z
+6 y,-x,1/2-z
+7 -y,x,1/2-z
+8 x,y,-z
+_cell_length_a                   9.0362(7)
+_cell_length_b                   9.0362(7)
+_cell_length_c                   19.089(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1558.67
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.28356(12) 0.76461(13) 0.00000
+O1 O 0.2223(6) 0.6134(6) 0.00000
+O2 O 0.2561(4) 0.8400(5) 0.06252(19)
+C7 C 0.4798(9) 0.7362(13) 0.0145(6)
+F1 F 0.5021(9) 0.6352(11) 0.0644(6)
+F2 F 0.5480(6) 0.8561(8) 0.0376(4)
+O2G O 0.2561(4) 0.8400(5) -0.06252(19)
+C7G C 0.4798(9) 0.7362(13) -0.0145(6)
+F1G F 0.5021(9) 0.6352(11) -0.0644(6)
+F2G F 0.5480(6) 0.8561(8) -0.0376(4)
+N1 N 0.00000 1.00000 0.16934(15)
+N2 N -0.1029(2) 0.7604(2) 0.23950(11)
+C1 C -0.0651(3) 0.8798(3) 0.12557(14)
+C2 C -0.1127(3) 0.7502(3) 0.16948(13)
+C3 C -0.1652(3) 0.6236(3) 0.13580(16)
+C4 C -0.2098(4) 0.5051(3) 0.17583(18)
+C5 C -0.2008(3) 0.5141(3) 0.24790(17)
+C6 C -0.1460(3) 0.6430(3) 0.27763(15)
+H1 H 0.078(4) 0.952(4) 0.1968(17)
+H2 H 0.006(3) 0.838(3) 0.0916(17)
+H3 H -0.156(4) 0.924(4) 0.1050(18)
+H4 H -0.149(5) 0.619(5) 0.082(2)
+H5 H -0.255(4) 0.414(5) 0.156(2)
+H6 H -0.238(4) 0.429(4) 0.2775(18)
+H7 H -0.142(4) 0.660(4) 0.330(2)
+N2C N 0.1029(2) 1.2396(2) 0.23950(11)
+C1C C 0.0651(3) 1.1202(3) 0.12557(14)
+C2C C 0.1127(3) 1.2498(3) 0.16948(13)
+C3C C 0.1652(3) 1.3764(3) 0.13580(16)
+C4C C 0.2098(4) 1.4949(3) 0.17583(18)
+C5C C 0.2008(3) 1.4859(3) 0.24790(17)
+C6C C 0.1460(3) 1.3570(3) 0.27763(15)
+H1C H -0.078(4) 1.048(4) 0.1968(17)
+H2C H -0.006(3) 1.162(3) 0.0916(17)
+H3C H 0.156(4) 1.076(4) 0.1050(18)
+H4C H 0.149(5) 1.381(5) 0.082(2)
+H5C H 0.255(4) 1.586(5) 0.156(2)
+H6C H 0.238(4) 1.571(4) 0.2775(18)
+H7C H 0.142(4) 1.340(4) 0.330(2)
+O3? O 0.239(4) 0.926(4) 0.00000
+O4? O 0.260(3) 0.700(3) 0.0575(14)
+F3? F 0.5502(12) 0.6856(17) -0.0363(7)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+N2 C2 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 N2 1_555 1_555
+S1 O1 1_555 1_555
+O2 S1 1_555 1_555
+C7 S1 1_555 1_555
+F1 C7 1_555 1_555
+F2 C7 1_555 1_555
+H1 N1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C1 1_555 1_555
+H4 C3 1_555 1_555
+H5 C4 1_555 1_555
+H6 C5 1_555 1_555
+H7 C6 1_555 1_555
+N2C C2C 1_555 1_555
+C1C N1 1_555 1_555
+C2C C1C 1_555 1_555
+C3C C2C 1_555 1_555
+C4C C3C 1_555 1_555
+C5C C4C 1_555 1_555
+C6C N2C 1_555 1_555
+O2G S1 1_555 1_555
+C7G S1 1_555 1_555
+F1G C7G 1_555 1_555
+F2G C7 1_555 1_555
+H1C N1 1_555 1_555
+H2C C1C 1_555 1_555
+H3C C1C 1_555 1_555
+H4C C3C 1_555 1_555
+H5C C4C 1_555 1_555
+H6C C5C 1_555 1_555
+H7C C6C 1_555 1_555
+C7 C7G 1_555 1_555
+F2 C7G 1_555 1_555
+F2 F2G 1_555 1_555
+C5C C6C 1_555 1_555
+C7G F2G 1_555 1_555
+
+#END

@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SASYIX
+_chemical_compound_source        
+'Alkaline hydrolysis product of compound extracted from air-dried twigs of Litsea cubeba'
+_chemical_formula_moiety         'C10 H18 O4'
+_chemical_name_systematic        
+'(6R,Z)-6,7-dihydroxy-3,7-dimethyloct-2-enoic acid'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 2'
+_symmetry_Int_Tables_number      18
+_space_group_name_Hall           'P 2 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2+x,1/2-y,-z
+4 1/2-x,1/2+y,-z
+_cell_length_a                   19.2960(8)
+_cell_length_b                   8.0943(4)
+_cell_length_c                   6.9478(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1085.16
+_chemical_melting_point          '112-113 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method methanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.26928(5) -0.06004(13) -0.26321(17)
+H1 H -0.2646 -0.1537 -0.3136
+O2 O 0.11177(6) 0.41340(15) -0.77798(18)
+H2 H 0.1491 0.4659 -0.7658
+O3 O 0.11847(6) 0.40697(15) -0.45704(18)
+O4 O -0.23420(5) 0.13141(15) -0.58069(17)
+H3 H -0.2725 0.0848 -0.5622
+C1 C 0.08695(8) 0.37568(19) -0.6049(3)
+C2 C 0.01898(8) 0.29139(19) -0.5987(3)
+H4 H 0.0017 0.2690 -0.4733
+C3 C -0.02200(8) 0.24172(18) -0.7438(3)
+C4 C -0.15132(8) -0.0820(2) -0.1516(2)
+H5 H -0.1433 -0.1852 -0.2221
+H6 H -0.1699 -0.1072 -0.0236
+H7 H -0.1075 -0.0220 -0.1384
+C5 C -0.11383(8) 0.1437(2) -0.4970(2)
+H8 H -0.1204 0.2570 -0.4466
+H9 H -0.0772 0.0899 -0.4192
+C6 C -0.18137(8) 0.0475(2) -0.4735(2)
+H10 H -0.1748 -0.0644 -0.5317
+C7 C -0.20313(8) 0.02424(19) -0.2618(2)
+C8 C -0.08980(8) 0.1538(2) -0.7056(2)
+H11 H -0.0858 0.0397 -0.7559
+H12 H -0.1265 0.2099 -0.7809
+C9 C -0.00819(9) 0.2638(2) -0.9555(3)
+H13 H 0.0393 0.3039 -0.9741
+H14 H -0.0410 0.3442 -1.0088
+H15 H -0.0139 0.1576 -1.0215
+C10 C -0.21648(9) 0.1876(2) -0.1597(3)
+H16 H -0.2351 0.1661 -0.0309
+H17 H -0.2500 0.2526 -0.2338
+H18 H -0.1729 0.2492 -0.1488
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 H1 1_555 1_555
+O2 H2 1_555 1_555
+O3 C1 1_555 1_555
+O4 H3 1_555 1_555
+C1 O2 1_555 1_555
+C2 C1 1_555 1_555
+H4 C2 1_555 1_555
+C3 C2 1_555 1_555
+C4 H5 1_555 1_555
+H6 C4 1_555 1_555
+H7 C4 1_555 1_555
+C5 H8 1_555 1_555
+H9 C5 1_555 1_555
+C6 O4 1_555 1_555
+H10 C6 1_555 1_555
+C7 O1 1_555 1_555
+C8 C3 1_555 1_555
+H11 C8 1_555 1_555
+H12 C8 1_555 1_555
+C9 C3 1_555 1_555
+H13 C9 1_555 1_555
+H14 C9 1_555 1_555
+H15 C9 1_555 1_555
+C10 C7 1_555 1_555
+H16 C10 1_555 1_555
+H17 C10 1_555 1_555
+H18 C10 1_555 1_555
+C4 C7 1_555 1_555
+C5 C6 1_555 1_555
+C5 C8 1_555 1_555
+C6 C7 1_555 1_555
+
+#END

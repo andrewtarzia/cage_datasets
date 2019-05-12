@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_MEJCIO
+_chemical_formula_moiety         'C13 H5 Cl1 N4,C10 H12 S8'
+_chemical_name_systematic        
+"4,4',5,5'-tetrakis(Methylthio)tetrathiofulvalene 2-chloro-5-methyl-7,7,8,8-tetracyano-p-quinodimethane"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   8.1157(11)
+_cell_length_b                   8.8450(11)
+_cell_length_c                   20.379(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 100.3740(11)
+_cell_angle_gamma                90
+_cell_volume                     1438.96
+_exptl_crystal_colour            black
+_exptl_crystal_description       platelet
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.9628(4) 0.2596(3) 0.01733(14)
+S2 S 0.9144(4) 0.5275(3) 0.09549(13)
+S3 S 0.8546(4) 0.0389(4) 0.1122(2)
+S4 S 0.8039(4) 0.3500(5) 0.20482(18)
+C1 C 0.9780(12) 0.4573(11) 0.0232(4)
+C2 C 0.8931(12) 0.2262(13) 0.0934(6)
+C3 C 0.8787(11) 0.3473(13) 0.1272(5)
+C4 C 1.0472(18) -0.0211(14) 0.1561(7)
+C5 C 0.9448(17) 0.4817(13) 0.2551(5)
+S1B S 1.0372(4) 0.7404(3) -0.01733(14)
+S2B S 1.0856(4) 0.4725(3) -0.09549(13)
+S3B S 1.1454(4) 0.9611(4) -0.1122(2)
+S4B S 1.1961(4) 0.6500(5) -0.20482(18)
+C1B C 1.0220(12) 0.5427(11) -0.0232(4)
+C2B C 1.1069(12) 0.7738(13) -0.0934(6)
+C3B C 1.1213(11) 0.6527(13) -0.1272(5)
+C4B C 0.9528(18) 1.0211(14) -0.1561(7)
+C5B C 1.0552(17) 0.5183(13) -0.2551(5)
+Cl1 Cl 0.6031(6) 0.3693(4) -0.1301(2)
+N1 N 0.6023(12) 0.9929(9) -0.0624(4)
+N2 N 0.7057(12) 0.6834(10) -0.1999(5)
+C6 C 0.5484(11) 0.4422(10) -0.0595(5)
+C7 C 0.5023(10) 0.3512(9) -0.0140(5)
+C8 C 0.5504(10) 0.6011(9) -0.0464(5)
+C9 C 0.5994(11) 0.7086(10) -0.0877(5)
+C10 C 0.5977(11) 0.8704(11) -0.0723(4)
+C11 C 0.6564(13) 0.6860(10) -0.1511(6)
+H1 H 0.5043 0.2455 -0.0222
+Cl1B Cl 0.3969(6) 0.6307(4) 0.1301(2)
+N1B N 0.3977(12) 0.0071(9) 0.0624(4)
+N2B N 0.2943(12) 0.3166(10) 0.1999(5)
+C6B C 0.4516(11) 0.5578(10) 0.0595(5)
+C7B C 0.4977(10) 0.6488(9) 0.0140(5)
+C8B C 0.4496(10) 0.3989(9) 0.0464(5)
+C9B C 0.4006(11) 0.2914(10) 0.0877(5)
+C10B C 0.4023(11) 0.1296(11) 0.0723(4)
+C11B C 0.3436(13) 0.3140(10) 0.1511(6)
+H1B H 0.4957 0.7545 0.0222
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C6 1_555 1_555
+S1 C1 1_555 1_555
+S2 C1 1_555 1_555
+S3 C2 1_555 1_555
+S4 C3 1_555 1_555
+N1 C10 1_555 1_555
+N2 C11 1_555 1_555
+C1 C1B 1_555 1_555
+C2 S1 1_555 1_555
+C3 S2 1_555 1_555
+C4 S3 1_555 1_555
+C5 S4 1_555 1_555
+C6 C7 1_555 1_555
+C7 H1 1_555 1_555
+C8 C6 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C9 1_555 1_555
+Cl1B C6B 1_555 1_555
+S1B C1B 1_555 1_555
+S2B C1B 1_555 1_555
+S3B C2B 1_555 1_555
+S4B C3B 1_555 1_555
+N1B C10B 1_555 1_555
+N2B C11B 1_555 1_555
+C2B S1B 1_555 1_555
+C3B S2B 1_555 1_555
+C4B S3B 1_555 1_555
+C5B S4B 1_555 1_555
+C6B C7B 1_555 1_555
+C7B C8 1_555 1_555
+C8B C7 1_555 1_555
+C9B C8B 1_555 1_555
+C10B C9B 1_555 1_555
+C11B C9B 1_555 1_555
+H1B C7B 1_555 1_555
+C2 C3 1_555 1_555
+C2B C3B 1_555 1_555
+C6B C8B 1_555 1_555
+
+#END

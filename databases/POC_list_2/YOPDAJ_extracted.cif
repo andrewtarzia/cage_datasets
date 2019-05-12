@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_YOPDAJ
+_chemical_name_common            
+'3-Amino-1,2,4-triazole-1-carboximidamide dinitroamide hemihydrate'
+_chemical_formula_moiety         'C3 H7 N6 1+,N3 O4 1-,0.5(H2 O1)'
+_chemical_name_systematic        
+'3-Amino-1-guanyl-1,2,4-triazole dinitramide hemihydrate'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 2/c'
+_symmetry_Int_Tables_number      13
+_space_group_name_Hall           '-P 2yc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 -x,-y,-z
+4 x,-y,1/2+z
+_cell_length_a                   7.4650(6)
+_cell_length_b                   7.0171(6)
+_cell_length_c                   17.5443(15)
+_cell_angle_alpha                90
+_cell_angle_beta                 93.009(1)
+_cell_angle_gamma                90
+_cell_volume                     917.75
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       'thick plate'
+_chemical_melting_point          '186 deg.C (dec.)'
+_cell_formula_units_Z            4
+_chemical_properties_physical    'impact-sensitive (greater than 60J)'
+_exptl_crystal_recrystallization_method water
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.89963(12) 0.25753(14) 0.54192(5)
+N2 N 0.59342(13) 0.29231(16) 0.53254(6)
+H1 H 0.4875 0.2997 0.5521
+H2 H 0.6029 0.3048 0.4830
+N3 N 0.73593(14) 0.24260(15) 0.65101(6)
+H3 H 0.6342 0.2486 0.6741
+H4 H 0.8373 0.2230 0.6778
+C1 C 0.73652(15) 0.26283(16) 0.57697(7)
+N4 N 0.90333(13) 0.27801(15) 0.46326(5)
+N5 N 1.14830(15) 0.29032(18) 0.38441(6)
+H5 H 1.0774 0.3084 0.3434
+H6 H 1.2652 0.2847 0.3806
+C2 C 1.07772(15) 0.27118(16) 0.45315(7)
+N6 N 1.18483(13) 0.24626(15) 0.51935(6)
+C3 C 1.06976(15) 0.23999(17) 0.57248(7)
+H7 H 1.1005 0.2252 0.6254
+N7 N 0.28693(14) -0.18357(16) 0.70351(6)
+N8 N 0.30732(14) -0.37607(16) 0.68770(6)
+O1 O 0.44035(13) -0.44405(15) 0.66024(7)
+O2 O 0.18004(12) -0.47159(15) 0.70870(5)
+O3 O 0.48679(12) -0.10775(14) 0.61205(5)
+O4 O 0.37327(11) 0.10594(13) 0.68452(5)
+N9 N 0.39125(12) -0.06351(15) 0.66416(5)
+O5 O 0.0000 0.05871(19) 0.7500
+H8 H 0.083(2) -0.013(3) 0.7353(11)
+H8A H -0.083(2) -0.013(3) 0.7647(11)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+N2 H1 1_555 1_555
+H2 N2 1_555 1_555
+N3 H3 1_555 1_555
+H4 N3 1_555 1_555
+C1 N2 1_555 1_555
+N4 N1 1_555 1_555
+N5 H5 1_555 1_555
+H6 N5 1_555 1_555
+C2 N4 1_555 1_555
+N6 C2 1_555 1_555
+C3 N1 1_555 1_555
+H7 C3 1_555 1_555
+N7 N8 1_555 1_555
+N8 O1 1_555 1_555
+O2 N8 1_555 1_555
+O3 N9 1_555 1_555
+O4 N9 1_555 1_555
+N9 N7 1_555 1_555
+O5 H8 1_555 1_555
+H8A O5 1_555 1_555
+N3 C1 1_555 1_555
+N5 C2 1_555 1_555
+N6 C3 1_555 1_555
+
+#END

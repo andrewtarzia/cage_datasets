@@ -1,0 +1,90 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_MEANAC
+_chemical_formula_moiety         'C8 H9 N1 O2'
+_chemical_name_systematic        'N-Methylanthranilic acid'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   8.15
+_cell_length_b                   15.09
+_cell_length_c                   7.03
+_cell_angle_alpha                90
+_cell_angle_beta                 118.3
+_cell_angle_gamma                90
+_cell_volume                     761.238
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.14200 0.09050 0.65180
+C2 C 0.01260 0.13720 0.46480
+C3 C 0.08710 0.17370 0.33250
+C4 C 0.26670 0.16270 0.38000
+C5 C 0.39070 0.11420 0.55580
+C6 C 0.32590 0.07850 0.69400
+C7 C 0.08080 0.05410 0.80550
+C8 C -0.30520 0.19220 0.22010
+H1 H 0.40100 0.04400 0.81600
+H2 H 0.54300 0.10500 0.57900
+H3 H 0.28000 0.19100 0.29300
+H4 H 0.02500 0.20500 0.22500
+H5 H 0.20700 -0.02400 1.04400
+H6 H -0.26600 0.25900 0.18800
+H7 H -0.35900 0.14000 0.09700
+H8 H -0.42600 0.19200 0.24100
+H9 H -0.22700 0.12100 0.49200
+N1 N -0.16950 0.14930 0.41450
+O1 O 0.21130 0.01120 0.97260
+O2 O -0.07790 0.06180 0.78200
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 C1 1_555 1_555
+C8 H6 1_555 1_555
+H1 C6 1_555 1_555
+H2 C5 1_555 1_555
+H3 C4 1_555 1_555
+H4 C3 1_555 1_555
+H5 O1 1_555 1_555
+H7 C8 1_555 1_555
+H8 C8 1_555 1_555
+H9 N1 1_555 1_555
+N1 C2 1_555 1_555
+O1 C7 1_555 1_555
+O2 C7 1_555 1_555
+C8 N1 1_555 1_555
+
+#END

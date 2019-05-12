@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DAQFEG
+_chemical_formula_moiety         'C18 H6 S3'
+_chemical_name_systematic        
+Triphenyleno(1,12-bcd:4,5-b'c'd':8,9-b''c''d'')trithiophene
+_symmetry_cell_setting           hexagonal
+_symmetry_space_group_name_H-M   'P 6 c c'
+_symmetry_Int_Tables_number      184
+_space_group_name_Hall           "P 6 -2'c"
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,z
+5 y,-x+y,z
+6 x-y,x,z
+7 y,x,1/2+z
+8 -x,-x+y,1/2+z
+9 x-y,-y,1/2+z
+10 -y,-x,1/2+z
+11 x,x-y,1/2+z
+12 -x+y,y,1/2+z
+_cell_length_a                   26.121(7)
+_cell_length_b                   26.121(7)
+_cell_length_c                   7.433(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_volume                     4392.12
+_exptl_crystal_colour            'pale yellow'
+_exptl_crystal_description       needles
+_chemical_melting_point          'above 300 deg.C'
+_cell_formula_units_Z            14
+_exptl_crystal_recrystallization_method 'carbon disulfide/hexane'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.7117(2) 0.2810(2) 0.3611(7)
+S2 S 0.5990(2) 0.0141(2) 0.1925(6)
+S3 S 0.8657(2) 0.1627(2) 0.3670(7)
+C1 C 0.7790(6) 0.1797(6) 0.447(2)
+C2 C 0.7433(6) 0.2053(7) 0.448(2)
+C3 C 0.6844(6) 0.1731(7) 0.405(2)
+C4 C 0.6592(6) 0.1134(5) 0.369(2)
+C5 C 0.6940(5) 0.0859(5) 0.367(2)
+C6 C 0.7524(6) 0.1185(6) 0.407(2)
+C7 C 0.8398(6) 0.2119(6) 0.427(2)
+C8 C 0.8672(7) 0.2752(7) 0.418(2)
+C9 C 0.8299(7) 0.3015(7) 0.419(2)
+C10 C 0.7693(6) 0.2661(6) 0.424(2)
+C11 C 0.6566(6) 0.2032(6) 0.346(3)
+C12 C 0.6037(7) 0.1754(7) 0.259(2)
+C13 C 0.5769(6) 0.1131(7) 0.219(3)
+C14 C 0.6076(6) 0.0829(6) 0.273(2)
+C15 C 0.6714(6) 0.0335(6) 0.273(2)
+C16 C 0.7088(7) 0.0110(7) 0.233(2)
+C17 C 0.7691(7) 0.0440(7) 0.276(2)
+C18 C 0.7918(5) 0.1006(5) 0.354(3)
+S4? S 0.9648(7) 0.1158(5) 0.060(2)
+C19? C 1.0182(6) 0.0597(5) 0.156(2)
+C20? C 1.0353(8) 0.1165(8) 0.096(3)
+C21? C 0.998(2) 0.139(1) 0.042(5)
+C22? C 0.934(1) 0.085(2) 0.063(5)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C10 1_555 1_555
+S2 C14 1_555 1_555
+S3 C7 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 C1 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C2 1_555 1_555
+C11 S1 1_555 1_555
+C12 C11 1_555 1_555
+C13 C12 1_555 1_555
+C14 C4 1_555 1_555
+C15 S2 1_555 1_555
+C16 C15 1_555 1_555
+C17 C16 1_555 1_555
+C18 S3 1_555 1_555
+C3 C11 1_555 1_555
+C5 C15 1_555 1_555
+C6 C18 1_555 1_555
+C9 C10 1_555 1_555
+C13 C14 1_555 1_555
+C17 C18 1_555 1_555
+
+#END

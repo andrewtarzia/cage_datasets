@@ -1,0 +1,95 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_URECAP10
+_chemical_formula_moiety         '4(C1 H4 N2 O1),2(H2 O4 P1 1-),Ca1 2+'
+_chemical_name_systematic        
+'tetrakis(Urea) bis(dihydrogen phosphate) calcium'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   7.404(1)
+_cell_length_b                   21.534(6)
+_cell_length_c                   5.657(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 91.05(1)
+_cell_angle_gamma                90
+_cell_volume                     901.788
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca1 Ca 0.00000 0.00000 0.00000
+P1 P 0.11010 0.09470 0.50870
+O1 O 0.15240 0.04420 0.31510
+O2 O 0.14470 0.07100 0.75550
+O3 O 0.22090 0.15110 0.45370
+O4 O -0.09690 0.10950 0.48340
+H1 H 0.22500 0.18100 0.56100
+H2 H -0.16300 0.09500 0.37400
+O5 O -0.23450 0.07280 0.06420
+C1 C -0.39090 0.07940 -0.02210
+N1 N -0.44260 0.04900 -0.21560
+N2 N -0.50910 0.11860 0.07340
+H3 H -0.36600 0.01700 -0.27800
+H4 H -0.54000 0.05100 -0.25200
+H5 H -0.60700 0.12100 0.01700
+H6 H -0.46700 0.13600 0.21300
+O6 O 0.24960 0.23010 0.80190
+C2 C 0.12930 0.23910 0.95170
+N3 N -0.00690 0.19970 0.97880
+N4 N 0.12780 0.29110 1.08040
+H7 H -0.00400 0.16500 0.93700
+H8 H -0.07700 0.21000 1.07600
+H9 H 0.06900 0.29400 1.20300
+H10 H 0.20700 0.31100 1.06800
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+P1 O1 1_555 1_555
+O2 P1 1_555 1_555
+O3 P1 1_555 1_555
+O4 P1 1_555 1_555
+H1 O3 1_555 1_555
+H2 O4 1_555 1_555
+O5 C1 1_555 1_555
+C1 N1 1_555 1_555
+N1 H3 1_555 1_555
+N2 C1 1_555 1_555
+H4 N1 1_555 1_555
+H5 N2 1_555 1_555
+H6 N2 1_555 1_555
+O6 C2 1_555 1_555
+C2 N3 1_555 1_555
+N3 H7 1_555 1_555
+N4 C2 1_555 1_555
+H8 N3 1_555 1_555
+H9 N4 1_555 1_555
+H10 N4 1_555 1_555
+
+#END

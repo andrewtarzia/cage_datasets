@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TEZHEN
+_chemical_name_common            '4-(dimethylamino)pyridinium Sulfadiazinate'
+_chemical_formula_moiety         'C10 H9 N4 O2 S1 1-,C7 H11 N2 1+'
+_chemical_name_systematic        
+'4-(dimethylamino)pyridinium ((4-Aminophenyl)sulfonyl)(pyrimidin-2-yl)amide'
+_chemical_properties_biological  'Sulfadiazine is a sulfonamide antibiotic'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   9.1978(10)
+_cell_length_b                   15.1948(16)
+_cell_length_c                   13.3595(14)
+_cell_angle_alpha                90
+_cell_angle_beta                 109.537(5)
+_cell_angle_gamma                90
+_cell_volume                     1759.61
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prism
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.5524(2) 0.55838(12) 0.20872(14)
+C2 C 0.7857(2) 0.57844(15) 0.18650(17)
+C3 C 0.8139(3) 0.65204(16) 0.25043(18)
+C4 C 0.7019(2) 0.67324(14) 0.29326(16)
+C5 C 0.1999(2) 0.63175(11) 0.15463(14)
+C6 C 0.2262(2) 0.70786(12) 0.21596(14)
+C7 C 0.1770(2) 0.78841(12) 0.17004(15)
+C8 C 0.1032(2) 0.79622(12) 0.06070(15)
+C9 C 0.0741(2) 0.71878(12) -0.00086(14)
+C10 C 0.1212(2) 0.63773(12) 0.04568(14)
+H1 H 0.024(3) 0.8813(15) -0.052(2)
+H2 H 0.088(3) 0.9238(17) 0.0574(19)
+H3 H 0.8616 0.5609 0.1566
+H4 H 0.9052 0.686 0.264
+H5 H 0.7184 0.723 0.3387
+H6 H 0.2787 0.7042 0.2903
+H7 H 0.1936 0.8395 0.2135
+H8 H 0.0215 0.7223 -0.0752
+H9 H 0.0998 0.586 0.0034
+N1 N 0.0582(2) 0.87693(11) 0.01546(16)
+N2 N 0.42107(18) 0.50861(10) 0.17862(12)
+N3 N 0.6577(2) 0.53072(11) 0.16453(13)
+N4 N 0.57080(18) 0.62772(10) 0.27456(12)
+O1 O 0.16162(16) 0.46337(8) 0.16070(11)
+O2 O 0.30954(16) 0.53774(8) 0.32603(10)
+S1 S 0.27395(5) 0.52996(3) 0.21204(3)
+C11 C 0.3153(2) 0.30634(13) 0.05930(15)
+C12 C 0.3026(2) 0.22666(13) 0.01166(15)
+C13 C 0.4109(2) 0.20060(12) -0.03646(15)
+C14 C 0.5274(2) 0.26243(12) -0.03355(15)
+C15 C 0.5347(2) 0.34049(12) 0.01764(15)
+C16 C 0.2836(3) 0.05852(16) -0.0805(2)
+C17 C 0.5019(3) 0.09844(17) -0.1434(2)
+H10 H 0.437(3) 0.4119(16) 0.0965(19)
+H11 H 0.2403 0.3233 0.0901
+H12 H 0.2206 0.1883 0.0107
+H13 H 0.6007 0.2493 -0.0674
+H14 H 0.6151 0.3808 0.0206
+H15 H 0.2785 0.0548 -0.0086
+H16 H 0.3084 0.0005 -0.1025
+H17 H 0.1838 0.0782 -0.1297
+H18 H 0.4782 0.1369 -0.2057
+H19 H 0.4838 0.037 -0.1666
+H20 H 0.6102 0.106 -0.0993
+N5 N 0.43055(19) 0.36179(11) 0.06413(12)
+N6 N 0.4030(2) 0.12127(11) -0.08181(15)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 N2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 H5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 C5 1_555 1_555
+H1 N1 1_555 1_555
+H2 N1 1_555 1_555
+H3 C2 1_555 1_555
+H4 C3 1_555 1_555
+H6 C6 1_555 1_555
+H7 C7 1_555 1_555
+H8 C9 1_555 1_555
+H9 C10 1_555 1_555
+N1 C8 1_555 1_555
+N2 S1 1_555 1_555
+N3 C1 1_555 1_555
+N4 C1 1_555 1_555
+O1 S1 1_555 1_555
+O2 S1 1_555 1_555
+S1 C5 1_555 1_555
+C11 C12 1_555 1_555
+C12 C13 1_555 1_555
+C13 C14 1_555 1_555
+C14 C15 1_555 1_555
+C15 H14 1_555 1_555
+C16 H15 1_555 1_555
+C17 H18 1_555 1_555
+H10 N5 1_555 1_555
+H11 C11 1_555 1_555
+H12 C12 1_555 1_555
+H13 C14 1_555 1_555
+H16 C16 1_555 1_555
+H17 C16 1_555 1_555
+H19 C17 1_555 1_555
+H20 C17 1_555 1_555
+N5 C11 1_555 1_555
+N6 C13 1_555 1_555
+C2 N3 1_555 1_555
+C4 N4 1_555 1_555
+C15 N5 1_555 1_555
+C16 N6 1_555 1_555
+C17 N6 1_555 1_555
+
+#END

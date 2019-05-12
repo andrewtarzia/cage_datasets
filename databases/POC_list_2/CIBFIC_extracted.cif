@@ -1,0 +1,79 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CIBFIC
+_chemical_formula_moiety         'C9 H14 N1 1+,C1 H1 I3,I1 1-'
+_chemical_name_systematic        
+'Phenyltrimethylammonium iodide tri-iodo-methane'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P c'
+_symmetry_Int_Tables_number      7
+_space_group_name_Hall           'P -2yc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+_cell_length_a                   9.908(3)
+_cell_length_b                   7.395(1)
+_cell_length_c                   13.808(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 123.38(2)
+_cell_angle_gamma                90
+_cell_volume                     844.816
+_exptl_crystal_colour            'light yellow'
+_chemical_melting_point          182-4deg.C
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.00000 0.86623 0.50000
+I2 I 0.78951 0.84935 0.64953
+I3 I 0.44100 0.81065 0.66688
+I4 I 0.79382 0.53725 0.84535
+C1 C 0.70760 0.79520 0.75860
+N1 N 0.21110 0.67670 0.25700
+C2 C 0.29570 0.52740 0.34670
+C3 C 0.20720 0.40470 0.36200
+C4 C 0.29060 0.26760 0.44250
+C5 C 0.45930 0.27710 0.51330
+C6 C 0.53760 0.40270 0.49190
+C7 C 0.46150 0.53150 0.41180
+C8 C 0.02760 0.66040 0.19090
+C9 C 0.25160 0.66730 0.16880
+C10 C 0.25040 0.86100 0.31710
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+I2 C1 1_555 1_555
+I3 C1 1_555 1_555
+I4 C1 1_555 1_555
+N1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C2 1_555 1_555
+C8 N1 1_555 1_555
+C9 N1 1_555 1_555
+C10 N1 1_555 1_555
+
+#END

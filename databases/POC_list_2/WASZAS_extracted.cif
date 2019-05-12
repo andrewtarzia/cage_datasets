@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WASZAS
+_chemical_compound_source        'aerial parts of Caragana sinica'
+_chemical_name_common            
+2-(4-Hydroxybenzyl)-2,6-dihydroxy-4-methoxybenzofuran-3(2H)-one
+_chemical_formula_moiety         'C16 H14 O6'
+_chemical_name_systematic        Carasinaurone
+_chemical_properties_biological  'source plant is used in Chinese folk medicine'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   10.2922(14)
+_cell_length_b                   9.2173(13)
+_cell_length_c                   14.173(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90.497(3)
+_cell_angle_gamma                90
+_cell_volume                     1344.49
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          'above 240deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method methanol/water
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.66935(19) 1.03059(18) 0.49900(11)
+H1 H 0.6882 1.1016 0.5312
+O2 O 0.70196(19) 0.34211(18) 0.82073(11)
+H2 H 0.6831 0.3859 0.8691
+O3 O 0.83288(16) 0.52880(17) 0.76644(11)
+O4 O 0.67650(17) 0.26700(18) 0.62283(12)
+O5 O 1.25334(17) 0.5551(2) 0.62349(14)
+H3 H 1.2584 0.6347 0.6490
+O6 O 0.93177(17) 0.22407(18) 0.51675(12)
+C1 C 0.6526(2) 0.9123(3) 0.55666(16)
+C2 C 0.6870(3) 0.9165(3) 0.65057(17)
+H4 H 0.7210 1.0013 0.6765
+C3 C 0.6713(3) 0.7956(3) 0.70633(17)
+H5 H 0.6954 0.8000 0.7697
+C4 C 0.6206(2) 0.6677(2) 0.67071(16)
+C5 C 0.5880(3) 0.6651(3) 0.57592(18)
+H6 H 0.5551 0.5801 0.5497
+C6 C 0.6031(3) 0.7860(3) 0.51892(17)
+H7 H 0.5798 0.7819 0.4554
+C7 C 0.6010(3) 0.5391(3) 0.73415(18)
+H8 H 0.5300 0.4814 0.7088
+H9 H 0.5747 0.5740 0.7957
+C8 C 0.7185(2) 0.4414(2) 0.74703(16)
+C9 C 0.9265(2) 0.4904(3) 0.70355(16)
+C10 C 1.0471(2) 0.5531(3) 0.70208(17)
+H10 H 1.0707 0.6261 0.7442
+C11 C 1.1325(3) 0.5016(3) 0.63401(18)
+C12 C 1.0986(2) 0.3887(3) 0.57239(17)
+H11 H 1.1595 0.3537 0.5300
+C13 C 0.9763(2) 0.3294(3) 0.57399(16)
+C14 C 0.8870(2) 0.3824(3) 0.64054(16)
+C15 C 0.7545(2) 0.3491(3) 0.65983(16)
+C16 C 1.0215(3) 0.1632(3) 0.45094(18)
+H12 H 0.9787 0.0892 0.4145
+H13 H 1.0937 0.1216 0.4846
+H14 H 1.0521 0.2380 0.4096
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 H1 1_555 1_555
+O2 H2 1_555 1_555
+O3 C8 1_555 1_555
+O4 C15 1_555 1_555
+O5 H3 1_555 1_555
+O6 C13 1_555 1_555
+C1 O1 1_555 1_555
+C2 C1 1_555 1_555
+H4 C2 1_555 1_555
+C3 C2 1_555 1_555
+H5 C3 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+H6 C5 1_555 1_555
+C6 C1 1_555 1_555
+H7 C6 1_555 1_555
+C7 C4 1_555 1_555
+H8 C7 1_555 1_555
+H9 C7 1_555 1_555
+C8 O2 1_555 1_555
+C9 O3 1_555 1_555
+C10 C9 1_555 1_555
+H10 C10 1_555 1_555
+C11 O5 1_555 1_555
+C12 C11 1_555 1_555
+H11 C12 1_555 1_555
+C13 C12 1_555 1_555
+C14 C9 1_555 1_555
+C15 C8 1_555 1_555
+C16 O6 1_555 1_555
+H12 C16 1_555 1_555
+H13 C16 1_555 1_555
+H14 C16 1_555 1_555
+C5 C6 1_555 1_555
+C7 C8 1_555 1_555
+C10 C11 1_555 1_555
+C13 C14 1_555 1_555
+C14 C15 1_555 1_555
+
+#END

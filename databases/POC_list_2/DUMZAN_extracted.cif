@@ -1,0 +1,154 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DUMZAN
+_chemical_compound_source        
+'Semicarbazide derivative of helicid, extracted from the fruit of Helicia nilagirica Beed'
+_chemical_name_common            
+'(E)-2-(4-((3,4,5-Trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)benzylidene)hydrazinecarboxamide hemihydrate'
+_chemical_formula_moiety         'C14 H19 N3 O7,0.5(H2 O1)'
+_chemical_name_systematic        
+'1-(4-(\b-D-Allopyranosyloxy)benzylidene)semicarbazide hemihydrate'
+_chemical_properties_biological  
+'The parent compound helicid (4-formylphenyl-beta-D-allopyranoside) has been shown to effect the central nervous system and is a major active ingredient in herbal medicine'
+_symmetry_cell_setting           trigonal
+_symmetry_space_group_name_H-M   'P 31 2 1'
+_symmetry_Int_Tables_number      152
+_space_group_name_Hall           'P 31 2"'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,1/3+z
+3 -x+y,-x,2/3+z
+4 y,x,-z
+5 x-y,-y,2/3-z
+6 -x,-x+y,1/3-z
+_cell_length_a                   8.6373(12)
+_cell_length_b                   8.6373(12)
+_cell_length_c                   37.021(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_volume                     2391.85
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            6
+_exptl_crystal_recrystallization_method ethanol/water
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.61554(18) 0.67753(19) 0.64253(3)
+O2 O 0.35880(19) 0.6142(2) 0.59033(4)
+H1 H 0.3061 0.5826 0.5703
+O3 O 0.6592(2) 0.4735(2) 0.55878(3)
+H2 H 0.5811 0.4704 0.5448
+O4 O 0.90103(18) 0.5337(2) 0.61006(3)
+H3 H 0.9643 0.5345 0.6274
+O5 O 0.79887(18) 0.41000(19) 0.68003(3)
+H4 H 0.7474 0.3599 0.6994
+O6 O 0.67202(18) 0.64621(18) 0.70151(3)
+O7 O 1.4664(2) 1.6732(2) 0.85781(4)
+N1 N 1.1795(2) 1.3137(2) 0.80203(4)
+N2 N 1.2921(3) 1.4869(2) 0.81373(5)
+C1 C 0.5446(3) 0.7359(3) 0.58453(5)
+H5 H 0.5749 0.8567 0.5929
+H6 H 0.5716 0.7429 0.5584
+N3 N 1.3533(2) 1.3743(2) 0.86433(5)
+H7 H 1.4048 1.3879 0.8855
+H8 H 1.2877 1.2666 0.8552
+C2 C 0.6556(3) 0.6741(3) 0.60486(5)
+H9 H 0.7854 0.7592 0.6005
+C3 C 0.6120(3) 0.4842(3) 0.59529(5)
+H10 H 0.4811 0.4004 0.5987
+C4 C 0.7162(3) 0.4258(3) 0.61925(5)
+H11 H 0.6766 0.2975 0.6143
+C5 C 0.6833(3) 0.4471(3) 0.65893(5)
+H12 H 0.5561 0.3603 0.6652
+C6 C 0.7213(3) 0.6362(3) 0.66559(5)
+H13 H 0.8511 0.7235 0.6618
+C7 C 0.7687(2) 0.8103(3) 0.71830(5)
+C8 C 0.7913(3) 0.8084(3) 0.75549(5)
+H14 H 0.7354 0.6986 0.7684
+C9 C 0.8963(3) 0.9682(3) 0.77356(5)
+H15 H 0.9122 0.9672 0.7989
+C10 C 0.9789(3) 1.1305(3) 0.75499(5)
+C11 C 0.9447(3) 1.1300(3) 0.71811(5)
+H16 H 0.9930 1.2403 0.7055
+C12 C 0.8411(3) 0.9710(3) 0.69954(5)
+H17 H 0.8200 0.9721 0.6744
+C13 C 1.1015(3) 1.3027(3) 0.77191(5)
+H18 H 1.1240 1.4097 0.7601
+C14 C 1.3745(3) 1.5160(3) 0.84621(5)
+H20 H 1.304(4) 1.579(4) 0.8014(7)
+O8 O 0.5415(3) 1.0000 0.8333
+H19 H 0.555(5) 0.913(5) 0.8381(10)
+H19D H 0.642(7) 1.087(5) 0.8286(10)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C2 1_555 1_555
+O2 H1 1_555 1_555
+O3 H2 1_555 1_555
+O4 H3 1_555 1_555
+O5 H4 1_555 1_555
+O6 C6 1_555 1_555
+O7 C14 1_555 1_555
+O8 H19 1_555 1_555
+N1 N2 1_555 1_555
+N2 C14 1_555 1_555
+C1 O2 1_555 1_555
+H5 C1 1_555 1_555
+H6 C1 1_555 1_555
+N3 H7 1_555 1_555
+H8 N3 1_555 1_555
+C2 C1 1_555 1_555
+H9 C2 1_555 1_555
+C3 O3 1_555 1_555
+H10 C3 1_555 1_555
+C4 O4 1_555 1_555
+H11 C4 1_555 1_555
+C5 O5 1_555 1_555
+H12 C5 1_555 1_555
+C6 O1 1_555 1_555
+H13 C6 1_555 1_555
+C7 O6 1_555 1_555
+C8 C7 1_555 1_555
+H14 C8 1_555 1_555
+C9 C8 1_555 1_555
+H15 C9 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+H16 C11 1_555 1_555
+C12 C7 1_555 1_555
+H17 C12 1_555 1_555
+C13 N1 1_555 1_555
+H18 C13 1_555 1_555
+C14 N3 1_555 1_555
+H20 N2 1_555 1_555
+H19D O8 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C10 C13 1_555 1_555
+C11 C12 1_555 1_555
+
+#END

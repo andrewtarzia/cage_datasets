@@ -1,0 +1,164 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_UCETAY
+_chemical_formula_moiety         'C16 H28 N4 O2 Si1'
+_chemical_name_systematic        
+bis(N-(Cyclopentylideneimino)acetimidato-N,O)-dimethylsilicon(iv)
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c n'
+_symmetry_Int_Tables_number      60
+_space_group_name_Hall           '-P 2n 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 -x,y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 1/2+x,1/2+y,1/2-z
+7 x,-y,1/2+z
+8 1/2-x,1/2+y,z
+_cell_length_a                   13.5760(9)
+_cell_length_b                   8.0012(5)
+_cell_length_c                   16.4807(11)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1790.2
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          90-92deg.C
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method n-hexane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 1.0000 0.28725(6) 0.2500
+O1 O 1.12887(6) 0.31634(11) 0.23760(5)
+N1 N 1.10307(8) 0.52439(14) 0.14428(7)
+N2 N 1.00427(7) 0.48963(13) 0.16613(6)
+C1 C 1.16061(9) 0.42524(15) 0.18416(7)
+C2 C 1.26929(9) 0.43191(17) 0.17073(8)
+H1 H 1.2841 0.5134 0.1280
+H2 H 1.2930 0.3213 0.1542
+H3 H 1.3021 0.4654 0.2211
+C3 C 0.94161(9) 0.57684(15) 0.12598(7)
+C4 C 0.83118(9) 0.56251(17) 0.13178(8)
+H4 H 0.8055 0.6261 0.1787
+H5 H 0.8104 0.4443 0.1367
+C5 C 0.79604(10) 0.63883(18) 0.05128(8)
+H6 H 0.7983 0.5554 0.0069
+H7 H 0.7281 0.6826 0.0561
+C6 C 0.86932(10) 0.77983(17) 0.03637(9)
+H8 H 0.8529 0.8792 0.0695
+H9 H 0.8704 0.8121 -0.0216
+C7 C 0.96850(10) 0.70490(16) 0.06229(8)
+H10 H 1.0021 0.6514 0.0157
+H11 H 1.0122 0.7920 0.0852
+C8 C 1.02080(9) 0.13688(16) 0.33746(8)
+H12 H 1.0603 0.0420 0.3187
+H13 H 0.9571 0.0964 0.3575
+H14 H 1.0557 0.1946 0.3813
+O1B O 0.87113(6) 0.31634(11) 0.26240(5)
+N1B N 0.89693(8) 0.52439(14) 0.35572(7)
+N2B N 0.99573(7) 0.48963(13) 0.33387(6)
+C1B C 0.83939(9) 0.42524(15) 0.31584(7)
+C2B C 0.73071(9) 0.43191(17) 0.32927(8)
+H1B H 0.7159 0.5134 0.3720
+H2B H 0.7070 0.3213 0.3458
+H3B H 0.6979 0.4654 0.2789
+C3B C 1.05839(9) 0.57684(15) 0.37402(7)
+C4B C 1.16882(9) 0.56251(17) 0.36822(8)
+H4B H 1.1945 0.6261 0.3213
+H5B H 1.1896 0.4443 0.3633
+C5B C 1.20396(10) 0.63883(18) 0.44872(8)
+H6B H 1.2017 0.5554 0.4931
+H7B H 1.2719 0.6826 0.4439
+C6B C 1.13068(10) 0.77983(17) 0.46363(9)
+H8B H 1.1471 0.8792 0.4305
+H9B H 1.1296 0.8121 0.5216
+C7B C 1.03150(10) 0.70490(16) 0.43771(8)
+H10B H 0.9979 0.6514 0.4843
+H11B H 0.9878 0.7920 0.4148
+C8B C 0.97920(9) 0.13688(16) 0.16254(8)
+H12B H 0.9397 0.0420 0.1813
+H13B H 1.0429 0.0964 0.1425
+H14B H 0.9443 0.1946 0.1187
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Si1 O1 1_555 1_555
+O1 C1 1_555 1_555
+N1 N2 1_555 1_555
+N2 Si1 1_555 1_555
+C1 N1 1_555 1_555
+C2 C1 1_555 1_555
+H1 C2 1_555 1_555
+H2 C2 1_555 1_555
+H3 C2 1_555 1_555
+C3 N2 1_555 1_555
+C4 C3 1_555 1_555
+H4 C4 1_555 1_555
+H5 C4 1_555 1_555
+C5 C4 1_555 1_555
+H6 C5 1_555 1_555
+H7 C5 1_555 1_555
+C6 C5 1_555 1_555
+H8 C6 1_555 1_555
+H9 C6 1_555 1_555
+C7 C3 1_555 1_555
+H10 C7 1_555 1_555
+H11 C7 1_555 1_555
+C8 Si1 1_555 1_555
+H12 C8 1_555 1_555
+H13 C8 1_555 1_555
+H14 C8 1_555 1_555
+O1B Si1 1_555 1_555
+N1B N2B 1_555 1_555
+N2B Si1 1_555 1_555
+C1B O1B 1_555 1_555
+C2B C1B 1_555 1_555
+H1B C2B 1_555 1_555
+H2B C2B 1_555 1_555
+H3B C2B 1_555 1_555
+C3B N2B 1_555 1_555
+C4B C3B 1_555 1_555
+H4B C4B 1_555 1_555
+H5B C4B 1_555 1_555
+C5B C4B 1_555 1_555
+H6B C5B 1_555 1_555
+H7B C5B 1_555 1_555
+C6B C5B 1_555 1_555
+H8B C6B 1_555 1_555
+H9B C6B 1_555 1_555
+C7B C3B 1_555 1_555
+H10B C7B 1_555 1_555
+H11B C7B 1_555 1_555
+C8B Si1 1_555 1_555
+H12B C8B 1_555 1_555
+H13B C8B 1_555 1_555
+H14B C8B 1_555 1_555
+C6 C7 1_555 1_555
+N1B C1B 1_555 1_555
+C6B C7B 1_555 1_555
+
+#END

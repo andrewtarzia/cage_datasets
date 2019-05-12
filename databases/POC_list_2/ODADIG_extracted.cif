@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ODADIG
+_chemical_name_common            gem-Dibromotetraphenylcyclopentadiene
+_chemical_formula_moiety         'C29 H20 Br2'
+_chemical_name_systematic        1,1-dibromotetraphenylcyclopenta-2,4-diene
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   8.621(5)
+_cell_length_b                   11.893(6)
+_cell_length_c                   22.459(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 93.07(2)
+_cell_angle_gamma                90
+_cell_volume                     2299.41
+_exptl_crystal_colour            yellow
+_chemical_melting_point          '426-427 K'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method ethanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.7118(2) 0.4266(2) 0.74604(9)
+Br2 Br 0.9255(2) 0.2101(2) 0.77025(9)
+C1 C 0.721(2) 0.262(1) 0.7481(7)
+C2 C 0.647(2) 0.218(1) 0.6909(7)
+C3 C 0.528(2) 0.152(1) 0.7021(7)
+C4 C 0.501(2) 0.157(1) 0.7669(6)
+C5 C 0.615(2) 0.217(1) 0.7944(7)
+C6 C 0.710(2) 0.254(1) 0.6314(7)
+C7 C 0.862(2) 0.282(2) 0.6271(8)
+C8 C 0.909(2) 0.326(2) 0.5711(8)
+C9 C 0.810(2) 0.326(2) 0.5212(8)
+C10 C 0.658(2) 0.299(2) 0.5258(7)
+C11 C 0.604(2) 0.261(2) 0.5827(7)
+C12 C 0.427(2) 0.086(1) 0.6587(7)
+C13 C 0.266(2) 0.104(1) 0.6542(8)
+C14 C 0.173(2) 0.042(1) 0.6139(8)
+C15 C 0.244(2) -0.041(1) 0.5771(8)
+C16 C 0.406(2) -0.053(2) 0.5813(8)
+C17 C 0.499(2) 0.009(2) 0.6211(7)
+C18 C 0.374(2) 0.093(1) 0.7951(7)
+C19 C 0.295(2) 0.153(2) 0.8377(7)
+C20 C 0.175(2) 0.100(2) 0.8674(7)
+C21 C 0.148(2) -0.014(2) 0.8548(8)
+C22 C 0.231(2) -0.076(2) 0.8108(9)
+C23 C 0.349(2) -0.021(1) 0.7798(8)
+C24 C 0.648(2) 0.231(1) 0.8599(7)
+C25 C 0.643(2) 0.335(2) 0.8864(7)
+C26 C 0.678(2) 0.347(2) 0.9488(8)
+C27 C 0.727(2) 0.251(2) 0.9806(8)
+C28 C 0.728(2) 0.144(2) 0.9553(8)
+C29 C 0.684(2) 0.137(2) 0.8910(7)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 C1 1_555 1_555
+Br2 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C1 1_555 1_555
+C6 C2 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C6 1_555 1_555
+C12 C3 1_555 1_555
+C13 C12 1_555 1_555
+C14 C13 1_555 1_555
+C15 C14 1_555 1_555
+C16 C15 1_555 1_555
+C17 C12 1_555 1_555
+C18 C4 1_555 1_555
+C19 C18 1_555 1_555
+C20 C19 1_555 1_555
+C21 C20 1_555 1_555
+C22 C21 1_555 1_555
+C23 C18 1_555 1_555
+C24 C5 1_555 1_555
+C25 C24 1_555 1_555
+C26 C25 1_555 1_555
+C27 C26 1_555 1_555
+C28 C27 1_555 1_555
+C29 C24 1_555 1_555
+C10 C11 1_555 1_555
+C16 C17 1_555 1_555
+C22 C23 1_555 1_555
+C28 C29 1_555 1_555
+
+#END

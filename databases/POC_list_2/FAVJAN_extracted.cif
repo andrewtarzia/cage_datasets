@@ -1,0 +1,88 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_FAVJAN
+_chemical_formula_moiety         'C14 H16 O4'
+_chemical_name_systematic        3-Acetonyl-2,6-diacetyl-5-methylphenol
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   8.395(1)
+_cell_length_b                   7.869(1)
+_cell_length_c                   19.356(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 96.59(1)
+_cell_angle_gamma                90
+_cell_volume                     1270.21
+_exptl_crystal_colour            yellow
+_chemical_melting_point          113-114deg.C
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4409(3) 0.3708(3) 0.0422(1)
+O2 O 0.2785(3) 0.3359(4) -0.0705(1)
+O3 O 0.3392(3) 0.1317(3) 0.2680(1)
+O4 O 0.6894(2) 0.2068(3) 0.2014(1)
+C1 C 0.3982(3) 0.2126(3) 0.0578(1)
+C2 C 0.3007(3) 0.1098(4) 0.0092(1)
+C3 C 0.2676(3) -0.0583(4) 0.0292(1)
+C4 C 0.3274(3) -0.1126(3) 0.0945(1)
+C5 C 0.4213(3) -0.0118(3) 0.1426(1)
+C6 C 0.4585(3) 0.1534(3) 0.1237(1)
+C7 C 0.2412(3) 0.1896(4) -0.0585(1)
+C8 C 0.1343(4) 0.1061(5) -0.1144(2)
+C9 C 0.1748(4) -0.1874(4) -0.0163(2)
+C10 C 0.4761(3) -0.0869(3) 0.2128(1)
+C11 C 0.4141(3) 0.0005(4) 0.2732(1)
+C12 C 0.4486(4) -0.0892(5) 0.3413(2)
+C13 C 0.5645(3) 0.2646(3) 0.1729(1)
+C14 C 0.5154(4) 0.4412(4) 0.1874(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C7 1_555 1_555
+O3 C11 1_555 1_555
+O4 C13 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 C2 1_555 1_555
+C8 C7 1_555 1_555
+C9 C3 1_555 1_555
+C10 C5 1_555 1_555
+C11 C10 1_555 1_555
+C12 C11 1_555 1_555
+C13 C6 1_555 1_555
+C14 C13 1_555 1_555
+
+#END

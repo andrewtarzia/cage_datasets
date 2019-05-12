@@ -1,0 +1,68 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_NKETBY
+_chemical_formula_moiety         'C4 H5 O3 1-,Na1 1+'
+_chemical_name_systematic        Sodium-\a-ketobutyrate
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c n'
+_symmetry_Int_Tables_number      60
+_space_group_name_Hall           '-P 2n 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2-x,1/2-y,1/2+z
+5 -x,-y,-z
+6 1/2+x,1/2-y,-z
+7 -x,y,1/2-z
+8 1/2+x,1/2+y,1/2-z
+_cell_length_a                   29.280
+_cell_length_b                   6.045
+_cell_length_c                   5.900
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1044.29
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.18380 0.23810 0.55660
+C2 C 0.13360 0.25420 0.45640
+C3 C 0.09380 0.28650 0.57580
+C4 C 0.04880 0.24810 0.45680
+O1 O 0.21360 0.15780 0.45990
+O2 O 0.13300 0.16420 0.25840
+O3 O 0.18550 0.37690 0.73120
+Na1 Na 0.21110 0.24500 0.07620
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+O1 C1 1_555 1_555
+O2 C2 1_555 1_555
+O3 C1 1_555 1_555
+
+#END

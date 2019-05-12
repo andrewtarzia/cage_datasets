@@ -1,0 +1,81 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SBTHAZ13
+_chemical_formula_moiety         'C7 H5 N1 S2'
+_chemical_name_systematic        Benzothiazole-2-thione
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   8.0218(16)
+_cell_length_b                   5.9820(12)
+_cell_length_c                   15.951(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 108.87(3)
+_cell_angle_gamma                90
+_cell_volume                     724.293
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.68507(15) 0.4180(2) 0.42198(8)
+S2 S 0.51623(14) -0.0059(2) 0.33796(8)
+N1 N 0.3777(4) 0.2409(5) 0.42462(19)
+H1 H 0.3600 0.3478 0.4568
+C1 C 0.3146(5) -0.0896(7) 0.3477(2)
+C2 C 0.2146(5) -0.2752(7) 0.3141(2)
+H2 H 0.2526 -0.3808 0.2815
+C3 C 0.0565(5) -0.3014(8) 0.3297(3)
+H3 H -0.0131 -0.4264 0.3081
+C4 C 0.0017(5) -0.1415(8) 0.3777(3)
+H4 H -0.1053 -0.1617 0.3876
+C5 C 0.0985(5) 0.0450(8) 0.4109(3)
+H5 H 0.0587 0.1522 0.4422
+C6 C 0.2583(5) 0.0678(7) 0.3962(2)
+C7 C 0.5221(5) 0.2347(7) 0.3997(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C7 1_555 1_555
+S2 C1 1_555 1_555
+N1 H1 1_555 1_555
+C1 C2 1_555 1_555
+C2 H2 1_555 1_555
+C3 C2 1_555 1_555
+H3 C3 1_555 1_555
+C4 C3 1_555 1_555
+H4 C4 1_555 1_555
+C5 C4 1_555 1_555
+H5 C5 1_555 1_555
+C6 N1 1_555 1_555
+C7 S2 1_555 1_555
+N1 C7 1_555 1_555
+C1 C6 1_555 1_555
+C5 C6 1_555 1_555
+
+#END

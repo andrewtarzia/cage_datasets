@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_KOPQAH
+_chemical_formula_moiety         'C12 H14 Br2 Cl2 N2 Si1'
+_chemical_name_systematic        Dibromodichlorobis(4-methypyridine)silicon
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P m n a'
+_symmetry_Int_Tables_number      53
+_space_group_name_Hall           '-P 2ac 2'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,y,1/2-z
+3 1/2+x,-y,1/2+z
+4 -x,y,z
+5 -x,-y,-z
+6 1/2-x,-y,1/2+z
+7 1/2-x,y,1/2-z
+8 x,-y,-z
+_cell_length_a                   7.252(2)
+_cell_length_b                   8.120(2)
+_cell_length_c                   13.540(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     797.32
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            2
+_exptl_crystal_recrystallization_method chloroform
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.2298(6) 0.1680(6) 0.4263(4)
+Cl1 Cl 0.2237(13) 0.1512(14) 0.4383(9)
+Si1 Si 0.0000 0.0000 0.5000
+N1 N 0.0000 0.1419(3) 0.61919(17)
+C1 C 0.0000 0.3083(4) 0.6110(2)
+H1 H 0.0000 0.3559 0.5469
+C2 C 0.0000 0.4114(4) 0.6923(2)
+H2 H 0.0000 0.5274 0.6833
+C3 C 0.0000 0.3450(4) 0.7877(2)
+C4 C 0.0000 0.4530(4) 0.8779(2)
+H3 H 0.0000 0.5669 0.8602
+H4 H -0.1025 0.4225 0.9189
+C5 C 0.0000 0.1736(4) 0.7959(2)
+H7 H 0.0000 0.1234 0.8593
+C6 C 0.0000 0.0765(4) 0.7116(2)
+H8 H 0.0000 -0.0399 0.7187
+Br1C Br -0.2298(6) 0.1680(6) 0.4263(4)
+Cl1C Cl -0.2237(13) 0.1512(14) 0.4383(9)
+Br1D Br -0.2298(6) -0.1680(6) 0.5737(4)
+Cl1D Cl -0.2237(13) -0.1512(14) 0.5617(9)
+Br1G Br 0.2298(6) -0.1680(6) 0.5737(4)
+Cl1G Cl 0.2237(13) -0.1512(14) 0.5617(9)
+H4C H 0.1025 0.4225 0.9189
+N1D N 0.0000 -0.1419(3) 0.38081(17)
+C1D C 0.0000 -0.3083(4) 0.3890(2)
+H1D H 0.0000 -0.3559 0.4531
+C2D C 0.0000 -0.4114(4) 0.3077(2)
+H2D H 0.0000 -0.5274 0.3167
+C3D C 0.0000 -0.3450(4) 0.2123(2)
+C4D C 0.0000 -0.4530(4) 0.1221(2)
+H3D H 0.0000 -0.5669 0.1398
+H4D H 0.1025 -0.4225 0.0811
+H4G H -0.1025 -0.4225 0.0811
+C5D C 0.0000 -0.1736(4) 0.2041(2)
+H7D H 0.0000 -0.1234 0.1407
+C6D C 0.0000 -0.0765(4) 0.2884(2)
+H8D H 0.0000 0.0399 0.2813
+H5? H 0.0000 0.3882 0.9372
+H6? H -0.1071 0.5224 0.8763
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 Cl1 1_555 1_555
+Cl1 Si1 1_555 1_555
+Si1 Br1 1_555 1_555
+N1 Si1 1_555 1_555
+C1 N1 1_555 1_555
+H1 C1 1_555 1_555
+C2 C1 1_555 1_555
+H2 C2 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+H3 C4 1_555 1_555
+H4 C4 1_555 1_555
+C5 C3 1_555 1_555
+H7 C5 1_555 1_555
+C6 N1 1_555 1_555
+H8 C6 1_555 1_555
+Br1C Si1 1_555 1_555
+Cl1C Si1 1_555 1_555
+Br1D Si1 1_555 1_555
+Cl1D Si1 1_555 1_555
+Br1G Si1 1_555 1_555
+Cl1G Si1 1_555 1_555
+H4C C4 1_555 1_555
+N1D Si1 1_555 1_555
+C1D N1D 1_555 1_555
+H1D C1D 1_555 1_555
+C2D C1D 1_555 1_555
+H2D C2D 1_555 1_555
+C3D C2D 1_555 1_555
+C4D C3D 1_555 1_555
+H3D C4D 1_555 1_555
+H4D C4D 1_555 1_555
+H4G C4D 1_555 1_555
+C5D C3D 1_555 1_555
+H7D C5D 1_555 1_555
+C6D N1D 1_555 1_555
+H8D C6D 1_555 1_555
+C5 C6 1_555 1_555
+Br1C Cl1C 1_555 1_555
+Br1D Cl1D 1_555 1_555
+Br1G Cl1G 1_555 1_555
+C5D C6D 1_555 1_555
+
+#END

@@ -1,0 +1,97 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_JEBPOW
+_chemical_formula_moiety         'C6 H6 F3 N3 O1'
+_chemical_name_systematic        
+2-Amino-6-methyl-4-(trifluoromethyl)-pyrimidine-1-oxide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,-z
+7 x,-y,1/2+z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   19.208(2)
+_cell_length_b                   11.040(1)
+_cell_length_c                   7.323(1)
+_cell_angle_alpha                90.00
+_cell_angle_beta                 91.25(1)
+_cell_angle_gamma                90.00
+_cell_volume                     1552.52
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       platelet
+_chemical_melting_point          '434-435 K'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method ethanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.16811(6) 0.97684(10) 0.20868(16)
+C1 C 0.10263(7) 0.98026(13) 0.12331(19)
+N2 N 0.06991(6) 0.88070(11) 0.06967(16)
+C2 C 0.10291(8) 0.77526(13) 0.0965(2)
+C3 C 0.16798(8) 0.76527(13) 0.1762(2)
+C4 C 0.20103(7) 0.87056(13) 0.2349(2)
+O1 O 0.19578(6) 1.08023(10) 0.26007(16)
+N3 N 0.07604(7) 1.09026(12) 0.0977(2)
+C5 C 0.06478(9) 0.66669(14) 0.0216(3)
+C6 C 0.27104(9) 0.87567(18) 0.3248(3)
+F1 F 0.08790(8) 0.56488(10) 0.0918(2)
+F2 F 0.07064(6) 0.65977(11) -0.15961(16)
+F3 F -0.00349(6) 0.67194(10) 0.04983(17)
+H1 H 0.1908(10) 0.6899(17) 0.188(2)
+H2 H 0.1000(10) 1.1461(17) 0.136(3)
+H3 H 0.0338(9) 1.0989(18) 0.051(3)
+H4 H 0.2912(12) 0.790(2) 0.329(3)
+H5 H 0.3006(13) 0.924(2) 0.257(3)
+H6 H 0.2676(11) 0.908(2) 0.443(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 N2 1_555 1_555
+N2 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 N1 1_555 1_555
+O1 N1 1_555 1_555
+N3 C1 1_555 1_555
+C5 C2 1_555 1_555
+C6 C4 1_555 1_555
+F1 C5 1_555 1_555
+F2 C5 1_555 1_555
+F3 C5 1_555 1_555
+H1 C3 1_555 1_555
+H2 N3 1_555 1_555
+H3 N3 1_555 1_555
+H4 C6 1_555 1_555
+H5 C6 1_555 1_555
+H6 C6 1_555 1_555
+
+#END

@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_JOMQIL
+_chemical_formula_moiety         'C13 H25 O1 Te1 1+,Cl1 1-'
+_chemical_name_systematic        
+'(S~Te~)-(-)Ethyl(((1S,2R,4R)-2-hydroxy-7,7-dimethylbicyclo(2.2.1)heptan-1-yl)methyl)methyltelluronium chloride'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a                   7.76(8)
+_cell_length_b                   25.8(1)
+_cell_length_c                   7.60(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1521.58
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prismatic
+_chemical_melting_point          408-409K
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method dichloromethane/hexane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te1 Te 0.39056(6) -0.05723(2) -0.90118(6)
+O1 O 0.6730(7) -0.0931(2) -0.4642(7)
+C1 C 0.6392(9) -0.0922(3) -0.8501(9)
+C2 C 0.6259(9) -0.1416(2) -0.7462(8)
+C3 C 0.5840(9) -0.1334(2) -0.5480(9)
+C4 C 0.642(1) -0.1843(3) -0.4641(10)
+C5 C 0.701(1) -0.2160(3) -0.622(1)
+C6 C 0.542(1) -0.2304(3) -0.726(1)
+C7 C 0.4871(10) -0.1791(3) -0.812(1)
+C8 C 0.789(1) -0.1761(3) -0.740(1)
+C9 C 0.9508(10) -0.1510(3) -0.660(1)
+C10 C 0.843(1) -0.1960(4) -0.922(1)
+C11 C 0.500(1) 0.0107(3) -0.998(1)
+C12 C 0.356(1) -0.0896(3) -1.1579(9)
+C13 C 0.206(1) -0.1262(3) -1.174(1)
+H1 H 0.6933 -0.0996 -0.9596
+H2 H 0.7079 -0.0683 -0.7859
+H3 H 0.4635 -0.1291 -0.5326
+H4 H 0.7334 -0.1789 -0.3834
+H5 H 0.5485 -0.2008 -0.4052
+H6 H 0.7726 -0.2446 -0.5927
+H7 H 0.4542 -0.2434 -0.6510
+H8 H 0.5684 -0.2556 -0.8135
+H9 H 0.3758 -0.1689 -0.7719
+H10 H 0.4872 -0.1816 -0.9358
+H11 H 0.9876 -0.1235 -0.7341
+H12 H 0.9247 -0.1379 -0.5466
+H13 H 1.0394 -0.1762 -0.6517
+H14 H 0.8815 -0.1678 -0.9908
+H15 H 0.7468 -0.2120 -0.9770
+H16 H 0.9330 -0.2205 -0.9083
+H17 H 0.5693 0.0260 -0.9075
+H18 H 0.5704 0.0029 -1.0959
+H19 H 0.4118 0.0340 -1.0305
+H20 H 0.3391 -0.0620 -1.2387
+H21 H 0.4582 -0.1079 -1.1885
+H22 H 0.1028 -0.1085 -1.1453
+H23 H 0.1996 -0.1386 -1.2916
+H24 H 0.2221 -0.1544 -1.0961
+Cl1 Cl 0.0322(3) -0.00483(8) -1.0271(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Te1 C1 1_555 1_555
+O1 C3 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C2 1_555 1_555
+C8 C2 1_555 1_555
+C9 C8 1_555 1_555
+C10 C8 1_555 1_555
+C11 Te1 1_555 1_555
+C12 Te1 1_555 1_555
+C13 C12 1_555 1_555
+H1 C1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C3 1_555 1_555
+H4 C4 1_555 1_555
+H5 C4 1_555 1_555
+H6 C5 1_555 1_555
+H7 C6 1_555 1_555
+H8 C6 1_555 1_555
+H9 C7 1_555 1_555
+H10 C7 1_555 1_555
+H11 C9 1_555 1_555
+H12 C9 1_555 1_555
+H13 C9 1_555 1_555
+H14 C10 1_555 1_555
+H15 C10 1_555 1_555
+H16 C10 1_555 1_555
+H17 C11 1_555 1_555
+H18 C11 1_555 1_555
+H19 C11 1_555 1_555
+H20 C12 1_555 1_555
+H21 C12 1_555 1_555
+H22 C13 1_555 1_555
+H23 C13 1_555 1_555
+H24 C13 1_555 1_555
+C5 C8 1_555 1_555
+
+#END

@@ -1,0 +1,100 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_GIBQEN01
+_chemical_name_common            'Dimethylthioarsinic(v) anhydride'
+_chemical_formula_moiety         'C4 H12 As2 O1 S2'
+_chemical_name_systematic        '(\m~2~-Oxo)-bis(dimethylarsine(v) sulfide)'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,-z
+7 x,-y,1/2+z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   27.368(6)
+_cell_length_b                   6.2623(14)
+_cell_length_c                   12.027(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 96.646(4)
+_cell_angle_gamma                90
+_cell_volume                     2047.42
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_chemical_melting_point          '164-166 deg.C'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method methanol/hexane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+As1 As 0.174613(6) 0.12806(3) 0.125047(14)
+As2 As 0.075038(6) 0.31071(3) 0.001929(15)
+S1 S 0.199125(17) 0.42858(8) 0.17682(4)
+S2 S 0.044429(19) 0.34097(9) 0.15012(4)
+O1 O 0.12617(5) 0.1320(2) 0.01293(11)
+C1 C 0.21965(7) -0.0412(3) 0.05359(16)
+H1 H 0.2034 -0.1734 0.0257
+H2 H 0.2482 -0.0761 0.1075
+H3 H 0.2305 0.0387 -0.0091
+C2 C 0.14956(8) -0.0397(3) 0.23847(16)
+H4 H 0.1261 0.0453 0.2754
+H5 H 0.1768 -0.0841 0.2938
+H6 H 0.1330 -0.1664 0.2044
+C3 C 0.10014(8) 0.5669(3) -0.05684(18)
+H7 H 0.1224 0.6373 0.0015
+H8 H 0.0728 0.6629 -0.0818
+H9 H 0.1181 0.5317 -0.1204
+C4 C 0.03516(7) 0.1703(3) -0.11637(17)
+H10 H 0.0530 0.1622 -0.1824
+H11 H 0.0046 0.2507 -0.1350
+H12 H 0.0274 0.0257 -0.0926
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+As1 S1 1_555 1_555
+As2 S2 1_555 1_555
+O1 As1 1_555 1_555
+C1 As1 1_555 1_555
+H1 C1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C1 1_555 1_555
+C2 As1 1_555 1_555
+H4 C2 1_555 1_555
+H5 C2 1_555 1_555
+H6 C2 1_555 1_555
+C3 As2 1_555 1_555
+H7 C3 1_555 1_555
+H8 C3 1_555 1_555
+H9 C3 1_555 1_555
+C4 As2 1_555 1_555
+H10 C4 1_555 1_555
+H11 C4 1_555 1_555
+H12 C4 1_555 1_555
+As2 O1 1_555 1_555
+
+#END

@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_UCOLEE
+_chemical_formula_moiety         'C13 H10 Cl1 N4 O4 1+,Cl1 1-'
+_chemical_name_systematic        
+'4-((4-chloro-3-nitrobenzoyl)hydrazinocarbonyl)pyridinium chloride'
+_chemical_properties_biological  
+'Bactericidal activity towards Mycobacterium tuberculosis'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'A b a 2'
+_symmetry_Int_Tables_number      41
+_space_group_name_Hall           'A 2 -2ac'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2-x,y,1/2+z
+4 1/2+x,-y,1/2+z
+5 x,1/2+y,1/2+z
+6 -x,1/2-y,1/2+z
+7 1/2-x,1/2+y,z
+8 1/2+x,1/2-y,z
+_cell_length_a                   15.2414(2)
+_cell_length_b                   22.6430(9)
+_cell_length_c                   8.3783(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2891.44
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       plate
+_chemical_melting_point          '510-511 K'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method ethanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.07882(10) 0.67322(8) 0.5357(2)
+C1 C 0.14290(12) 0.70592(9) 0.4722(3)
+C2 C 0.22972(11) 0.69270(9) 0.5033(3)
+C3 C 0.24929(13) 0.64510(8) 0.6027(3)
+C4 C 0.18037(12) 0.61241(10) 0.6668(3)
+C5 C 0.09468(12) 0.62708(10) 0.6314(3)
+C6 C 0.34072(12) 0.62551(9) 0.6499(2)
+O1 O 0.35171(9) 0.58309(7) 0.7369(2)
+N2 N 0.40641(10) 0.65936(8) 0.5911(2)
+N3 N 0.49329(10) 0.64189(7) 0.6119(2)
+C7 C 0.52544(12) 0.59850(8) 0.5170(2)
+O2 O 0.47956(9) 0.57062(6) 0.42405(18)
+C8 C 0.62268(12) 0.58782(8) 0.5254(2)
+C9 C 0.68099(12) 0.62705(9) 0.5959(3)
+C10 C 0.77110(12) 0.61672(9) 0.5869(3)
+N4 N 0.82661(10) 0.66013(7) 0.6688(2)
+O3 O 0.79272(9) 0.70749(7) 0.7061(2)
+O4 O 0.90272(9) 0.64742(7) 0.70065(19)
+C11 C 0.80405(12) 0.56764(9) 0.5052(3)
+Cl1 Cl 0.91400(3) 0.55323(3) 0.47410(8)
+C12 C 0.74502(13) 0.52812(9) 0.4381(3)
+C13 C 0.65509(13) 0.53763(9) 0.4492(3)
+H1 H 0.0245 0.6832 0.5120
+H2 H 0.1287 0.7384 0.4053
+H3 H 0.2754 0.7157 0.4578
+H4 H 0.1924 0.5799 0.7352
+H5 H 0.0475 0.6047 0.6743
+H6 H 0.3989 0.6883 0.5223
+H7 H 0.5272 0.6608 0.6796
+H8 H 0.6595 0.6609 0.6502
+H9 H 0.7663 0.4942 0.3839
+H10 H 0.6155 0.5097 0.4046
+Cl2 Cl -0.07838(3) 0.72986(2) 0.36327(6)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 N1 1_555 1_555
+C6 C3 1_555 1_555
+O1 C6 1_555 1_555
+N2 C6 1_555 1_555
+N3 N2 1_555 1_555
+C7 N3 1_555 1_555
+O2 C7 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+N4 C10 1_555 1_555
+O3 N4 1_555 1_555
+O4 N4 1_555 1_555
+C11 C10 1_555 1_555
+Cl1 C11 1_555 1_555
+C12 C11 1_555 1_555
+C13 C8 1_555 1_555
+H1 N1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C2 1_555 1_555
+H4 C4 1_555 1_555
+H5 C5 1_555 1_555
+H6 N2 1_555 1_555
+H7 N3 1_555 1_555
+H8 C9 1_555 1_555
+H9 C12 1_555 1_555
+H10 C13 1_555 1_555
+C12 C13 1_555 1_555
+
+#END

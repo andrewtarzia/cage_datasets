@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DACTIN
+_chemical_name_common            
+4-Ethylsulfanyl-3-fluoro-9-oxa-10-thia-1,2-diazaanthracene
+_chemical_formula_moiety         'C12 H9 F1 N2 O1 S2'
+_chemical_name_systematic        
+4-(ethylsulfanyl)-3-fluoro[1,4]benzoxathiino[2,3-c]pyridazine
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   10.6924(5)
+_cell_length_b                   9.8670(4)
+_cell_length_c                   11.0623(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 92.444(10)
+_cell_angle_gamma                90
+_cell_volume                     1166.03
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       wedge
+_chemical_melting_point          '121.4-123 deg.C'
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.82392(5) 0.63518(5) 0.40284(4)
+S2 S 0.80398(5) 0.43988(5) 0.61254(4)
+F1 F 0.85685(13) 0.14019(12) 0.52378(11)
+O1 O 0.90909(14) 0.49161(14) 0.16773(11)
+N1 N 0.92367(16) 0.28631(17) 0.24816(14)
+N2 N 0.90680(16) 0.19536(17) 0.33826(15)
+C1 C 0.90640(18) 0.84744(19) 0.27317(17)
+C2 C 0.95463(19) 0.9104(2) 0.17346(18)
+C3 C 0.98694(19) 0.8325(2) 0.07439(17)
+C4 C 0.97142(19) 0.6931(2) 0.07538(16)
+C5 C 0.92301(18) 0.63162(19) 0.17556(16)
+C6 C 0.88937(17) 0.70774(19) 0.27483(16)
+C7 C 0.89888(18) 0.4135(2) 0.26922(17)
+C8 C 0.86045(17) 0.46582(18) 0.38042(16)
+C9 C 0.84646(17) 0.37371(19) 0.47359(16)
+C10 C 0.87092(19) 0.2389(2) 0.44159(18)
+C11 C 0.7560(2) 0.3013(2) 0.70838(18)
+C12 C 0.7171(2) 0.3679(3) 0.82520(19)
+H1 H 0.890(2) 0.900(2) 0.3374(19)
+H2 H 0.9651(19) 1.003(2) 0.1684(18)
+H3 H 1.021(2) 0.873(2) 0.007(2)
+H4 H 0.994(2) 0.641(2) 0.013(2)
+H5 H 0.685(2) 0.253(3) 0.670(2)
+H6 H 0.826(2) 0.241(2) 0.7230(19)
+H7 H 0.645(2) 0.430(2) 0.812(2)
+H8 H 0.696(2) 0.303(3) 0.878(2)
+H9 H 0.787(2) 0.425(2) 0.866(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C6 1_555 1_555
+S2 C9 1_555 1_555
+F1 C10 1_555 1_555
+O1 C5 1_555 1_555
+N1 N2 1_555 1_555
+N2 C10 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 O1 1_555 1_555
+C8 S1 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 S2 1_555 1_555
+C12 C11 1_555 1_555
+H1 C1 1_555 1_555
+H2 C2 1_555 1_555
+H3 C3 1_555 1_555
+H4 C4 1_555 1_555
+H5 C11 1_555 1_555
+H6 C11 1_555 1_555
+H7 C12 1_555 1_555
+H8 C12 1_555 1_555
+H9 C12 1_555 1_555
+N1 C7 1_555 1_555
+C7 C8 1_555 1_555
+
+#END

@@ -1,0 +1,65 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_GAMBAC01
+_chemical_formula_moiety         'C4 H10 N1 O2 1+,Cl1 1-'
+_chemical_name_systematic        '\g-Aminobutyric acid hydrochloride'
+_chemical_properties_biological  
+'derivative of natural inhibitory transmitter agent'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   9.040(3)
+_cell_length_b                   6.528(2)
+_cell_length_c                   5.900(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 99.82(3)
+_cell_angle_gamma                90
+_cell_volume                     343.076
+_chemical_melting_point          132-6deg.C
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.06200 0.25000 0.21380
+C1 C -0.42000 -0.24500 0.08500
+C2 C -0.50300 -0.25500 0.28900
+C3 C -0.67100 -0.26700 0.21000
+C4 C -0.75400 -0.23500 0.42000
+N1 N -0.91800 -0.25600 0.33200
+O1 O -0.27400 -0.27400 0.14800
+O2 O -0.48200 -0.26300 -0.11500
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 N1 1_555 1_555
+O1 C1 1_555 1_555
+O2 C1 1_555 1_555
+
+#END

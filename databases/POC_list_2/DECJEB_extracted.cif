@@ -1,0 +1,88 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DECJEB
+_chemical_formula_moiety         'C2 H2 B1 Cl1 F3 N1'
+_chemical_name_systematic        N-(Trifluoroboryl)-chloroacetonitrile
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   7.499(1)
+_cell_length_b                   7.682(2)
+_cell_length_c                   9.275(1)
+_cell_angle_alpha                103.66(1)
+_cell_angle_beta                 90.39(1)
+_cell_angle_gamma                90.39(1)
+_cell_volume                     519.163
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+B1 B 0.3902(3) 0.3011(3) -0.2119(2)
+F1 F 0.40739(16) 0.44793(17) -0.26847(14)
+F2 F 0.39266(17) 0.14437(17) -0.31623(13)
+F3 F 0.25069(15) 0.31464(17) -0.11633(13)
+N1 N 0.5702(2) 0.2982(2) -0.10946(18)
+C1 C 0.6977(3) 0.2862(3) -0.0465(2)
+C2 C 0.8622(3) 0.2680(3) 0.0336(2)
+H1 H 0.9020 0.3848 0.0903
+H2 H 0.9549 0.2185 -0.0362
+Cl1 Cl 0.82279(6) 0.12493(7) 0.15455(6)
+B2 B -0.1234(3) 0.2943(3) 0.6082(3)
+F4 F -0.1497(2) 0.13650(18) 0.64411(19)
+F5 F -0.25254(17) 0.3392(3) 0.52094(16)
+F6 F -0.08800(17) 0.42944(18) 0.72816(14)
+N2 N 0.0590(2) 0.2706(2) 0.50905(17)
+C3 C 0.1901(3) 0.2517(3) 0.4466(2)
+C4 C 0.3590(3) 0.2276(3) 0.3675(2)
+H3 H 0.4248 0.1307 0.3932
+H4 H 0.4304 0.3361 0.3963
+Cl2 Cl 0.31744(6) 0.17732(7) 0.17426(5)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+B1 F1 1_555 1_555
+F2 B1 1_555 1_555
+F3 B1 1_555 1_555
+N1 B1 1_555 1_555
+C1 N1 1_555 1_555
+C2 C1 1_555 1_555
+H1 C2 1_555 1_555
+H2 C2 1_555 1_555
+Cl1 C2 1_555 1_555
+B2 F4 1_555 1_555
+F5 B2 1_555 1_555
+F6 B2 1_555 1_555
+N2 B2 1_555 1_555
+C3 N2 1_555 1_555
+C4 C3 1_555 1_555
+H3 C4 1_555 1_555
+H4 C4 1_555 1_555
+Cl2 C4 1_555 1_555
+
+#END

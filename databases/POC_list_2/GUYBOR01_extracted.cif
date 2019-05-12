@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_GUYBOR01
+_chemical_compound_source        'endolichenic fungus Biatriospora sp. (8331C).'
+_chemical_name_common            5-Hydroxyramulosin
+_chemical_formula_moiety         'C10 H14 O4'
+_chemical_name_systematic        
+5,8-dihydroxy-3-methyl-3,4,4a,5,6,7-hexahydro-1H-isochromen-1-one
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a                   4.7759(2)
+_cell_length_b                   14.0008(5)
+_cell_length_c                   14.3800(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     961.539
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6288(3) 0.59579(12) 0.57864(9)
+H1 H 0.629(2) 0.580(2) 0.635(2)
+C1 C 0.3649(4) 0.57228(15) 0.53878(13)
+H2 H 0.2254 0.6192 0.5591
+O2 O 0.7664(5) 0.34225(11) 0.41565(12)
+H3 H 0.827(9) 0.360(3) 0.356(2)
+C2 C 0.2685(5) 0.47335(17) 0.56682(15)
+H4 H 0.0875 0.4606 0.5389
+H5 H 0.2461 0.4710 0.6338
+O3 O 0.8691(4) 0.44504(11) 0.27420(10)
+C3 C 0.4752(6) 0.39632(16) 0.53677(16)
+H6 H 0.6226 0.3918 0.5830
+H7 H 0.3788 0.3354 0.5352
+C4 C 0.6048(5) 0.41379(14) 0.44411(14)
+O4 O 0.7130(3) 0.59074(10) 0.26290(8)
+C5 C 0.5707(4) 0.49657(13) 0.39549(12)
+C6 C 0.5150(4) 0.67169(13) 0.39923(12)
+H8 H 0.3945 0.7239 0.4184
+H9 H 0.6980 0.6815 0.4269
+C7 C 0.3933(3) 0.57732(13) 0.43307(12)
+H10 H 0.2054 0.5709 0.4064
+C8 C 0.7200(5) 0.50839(14) 0.30941(12)
+C9 C 0.5409(5) 0.67100(14) 0.29444(13)
+H11 H 0.3537 0.6654 0.2670
+C10 C 0.6833(7) 0.75923(17) 0.25570(16)
+H12 H 0.7015 0.7532 0.1895
+H13 H 0.8657 0.7657 0.2831
+H14 H 0.5731 0.8146 0.2700
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 H1 1_555 1_555
+C1 O1 1_555 1_555
+H2 C1 1_555 1_555
+O2 H3 1_555 1_555
+C2 C1 1_555 1_555
+H4 C2 1_555 1_555
+H5 C2 1_555 1_555
+O3 C8 1_555 1_555
+C3 C2 1_555 1_555
+H6 C3 1_555 1_555
+H7 C3 1_555 1_555
+C4 O2 1_555 1_555
+O4 C8 1_555 1_555
+C5 C4 1_555 1_555
+C6 H8 1_555 1_555
+H9 C6 1_555 1_555
+C7 C1 1_555 1_555
+H10 C7 1_555 1_555
+C8 C5 1_555 1_555
+C9 O4 1_555 1_555
+H11 C9 1_555 1_555
+C10 C9 1_555 1_555
+H12 C10 1_555 1_555
+H13 C10 1_555 1_555
+H14 C10 1_555 1_555
+C3 C4 1_555 1_555
+C5 C7 1_555 1_555
+C6 C7 1_555 1_555
+C6 C9 1_555 1_555
+
+#END

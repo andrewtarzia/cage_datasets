@@ -1,0 +1,86 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_IMIWOQ
+_chemical_name_common            2-Nitro-1-ureidoguanidine
+_chemical_formula_moiety         'C2 H6 N6 O3'
+_chemical_name_systematic        
+2-(Amino(nitroimino)methyl)hydrazinecarboxamide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   4.4690(2)
+_cell_length_b                   15.566(1)
+_cell_length_c                   9.4131(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 94.896(5)
+_cell_angle_gamma                90
+_cell_volume                     652.428
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method water
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2110(4) 0.6294(1) -0.0160(2)
+C2 C 0.2230(5) 0.5975(2) -0.3546(2)
+N1 N 0.0453(4) 0.5958(1) 0.0850(2)
+N2 N -0.0231(4) 0.6442(1) 0.1940(2)
+N3 N 0.3052(5) 0.7081(1) -0.0291(2)
+N4 N 0.2797(4) 0.5695(1) -0.1089(2)
+N5 N 0.4049(4) 0.5920(1) -0.2318(2)
+N6 N 0.3589(5) 0.6035(2) -0.4741(2)
+O1 O 0.0791(5) 0.7172(1) 0.2173(2)
+O2 O -0.1886(5) 0.6111(1) 0.2759(2)
+O3 O -0.0493(4) 0.6001(2) -0.3507(2)
+H1 H 0.264(7) 0.743(2) 0.035(4)
+H2 H 0.398(6) 0.721(2) -0.110(3)
+H3 H 0.200(6) 0.520(2) -0.100(3)
+H4 H 0.579(7) 0.581(2) -0.236(3)
+H5 H 0.541(8) 0.600(2) -0.476(3)
+H6 H 0.260(8) 0.599(2) -0.553(4)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 N1 1_555 1_555
+C2 N5 1_555 1_555
+N1 N2 1_555 1_555
+N2 O1 1_555 1_555
+N3 C1 1_555 1_555
+N4 C1 1_555 1_555
+N5 N4 1_555 1_555
+N6 C2 1_555 1_555
+O2 N2 1_555 1_555
+O3 C2 1_555 1_555
+H1 N3 1_555 1_555
+H2 N3 1_555 1_555
+H3 N4 1_555 1_555
+H4 N5 1_555 1_555
+H5 N6 1_555 1_555
+H6 N6 1_555 1_555
+
+#END

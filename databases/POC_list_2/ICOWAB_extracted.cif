@@ -1,0 +1,97 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ICOWAB
+_chemical_name_common            DUBTO
+_chemical_formula_moiety         '2(C1 H5 N2 O1 1+),C2 N8 O2 2-'
+_chemical_name_systematic        
+"bis(uronium) 1H,1'H-5,5'-bistetrazole-1,1'-diolate"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   3.6802(8)
+_cell_length_b                   17.688(4)
+_cell_length_c                   8.7803(19)
+_cell_angle_alpha                90
+_cell_angle_beta                 95.758(2)
+_cell_angle_gamma                90
+_cell_volume                     568.673
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       block
+_chemical_melting_point          '455 K (dec.)'
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 1.1306(3) 0.59582(6) 1.43974(12)
+N2 N 1.0353(4) 0.63008(7) 1.30641(14)
+N3 N 0.8275(4) 0.58196(7) 1.22435(14)
+N4 N 0.7863(3) 0.51738(7) 1.30243(13)
+O1 O 1.3564(3) 0.62818(6) 1.54788(11)
+C1 C 0.9777(4) 0.52665(7) 1.43744(15)
+N1B N 0.8694(3) 0.40418(6) 1.56026(12)
+N2B N 0.9647(4) 0.36992(7) 1.69359(14)
+N3B N 1.1725(4) 0.41804(7) 1.77565(14)
+N4B N 1.2137(3) 0.48262(7) 1.69757(13)
+O1B O 0.6436(3) 0.37182(6) 1.45212(11)
+C1B C 1.0223(4) 0.47335(7) 1.56256(15)
+N5 N 0.1867(4) 0.72052(7) 1.00626(14)
+H1 H 0.0676 0.7633 0.9889
+H2 H 0.2785 0.7089 1.0997
+N6 N 0.4046(4) 0.60978(7) 0.91515(14)
+H3 H 0.4295 0.5794 0.8375
+H4 H 0.4983 0.5972 1.0078
+O2 O 0.0870(3) 0.69390(6) 0.75813(11)
+H5 H 0.1723 0.6672 0.6726
+C2 C 0.2273(4) 0.67398(8) 0.89262(16)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 N2 1_555 1_555
+N2 N3 1_555 1_555
+N3 N4 1_555 1_555
+N4 C1 1_555 1_555
+O1 N1 1_555 1_555
+C1 N1 1_555 1_555
+N5 H1 1_555 1_555
+H2 N5 1_555 1_555
+N6 H3 1_555 1_555
+H4 N6 1_555 1_555
+O2 H5 1_555 1_555
+C2 N5 1_555 1_555
+N1B N2B 1_555 1_555
+N2B N3B 1_555 1_555
+N3B N4B 1_555 1_555
+N4B C1B 1_555 1_555
+O1B N1B 1_555 1_555
+C1B C1 1_555 1_555
+N6 C2 1_555 1_555
+O2 C2 1_555 1_555
+N1B C1B 1_555 1_555
+
+#END

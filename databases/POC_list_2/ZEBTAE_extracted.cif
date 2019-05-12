@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ZEBTAE
+_chemical_formula_moiety         '2(C1 H7 N4 1+),C3 N6 O7 2-'
+_chemical_name_systematic        
+'bis(1-aminoguanidin-2-ium) 3-(dinitromethanidyl)-4-(nitroazanidyl)-1,2,5-oxadiazole'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'A b a 2'
+_symmetry_Int_Tables_number      41
+_space_group_name_Hall           'A 2 -2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,z
+5 x,1/2+y,1/2+z
+6 -x,1/2-y,1/2+z
+7 1/2+x,-y,1/2+z
+8 1/2-x,y,1/2+z
+_cell_length_a                   21.595(6)
+_cell_length_b                   18.986(6)
+_cell_length_c                   7.676(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     3147.18
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prismatic
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.56248(17) 0.84781(17) 0.2717(8)
+O2 O 0.79487(19) 0.9198(2) 0.4638(7)
+O3 O 0.73912(19) 0.82702(19) 0.4118(9)
+O4 O 0.5989(2) 1.0336(3) 0.0229(6)
+O5 O 0.5959(2) 1.1329(2) 0.1587(7)
+O6 O 0.5840(2) 1.0218(2) 0.6010(6)
+O7 O 0.5885(3) 1.1267(2) 0.4933(7)
+N1 N 0.62370(19) 0.8422(2) 0.3297(8)
+N2 N 0.5447(2) 0.9176(2) 0.2624(9)
+N3 N 0.69773(18) 0.9359(2) 0.4023(7)
+N4 N 0.7441(2) 0.8924(2) 0.4264(8)
+N5 N 0.59557(19) 1.0676(2) 0.1619(8)
+N6 N 0.5871(2) 1.0625(3) 0.4729(7)
+C1 C 0.6419(2) 0.9073(2) 0.3524(8)
+C2 C 0.5919(2) 0.9534(2) 0.3071(8)
+C3 C 0.5920(2) 1.0310(2) 0.3135(9)
+N7 N 0.7366(3) 0.6941(2) 0.1694(8)
+H1 H 0.7357 0.7393 0.1670
+H2 H 0.7637 0.6716 0.1091
+N8 N 0.6549(2) 0.6919(2) 0.3580(7)
+H3 H 0.6534 0.7371 0.3570
+H4 H 0.6290 0.6683 0.4200
+N9 N 0.6981(2) 0.5893(2) 0.2691(7)
+N10 N 0.7435(2) 0.5543(2) 0.1713(8)
+H5 H 0.7696 0.5781 0.1106
+H6 H 0.7453 0.5091 0.1721
+C4 C 0.6964(2) 0.6591(2) 0.2657(7)
+H7 H 0.659(3) 0.569(4) 0.281(10)
+N11 N 0.6330(2) 0.7699(3) 0.8662(10)
+H8 H 0.6342 0.7247 0.8601
+H9 H 0.6657 0.7931 0.8950
+N12 N 0.5326(3) 0.7682(3) 0.7886(11)
+H10 H 0.4985 0.7899 0.7671
+H11 H 0.5342 0.7230 0.7813
+N13 N 0.5787(2) 0.8721(2) 0.8425(8)
+N14 N 0.5224(3) 0.9052(3) 0.8145(11)
+H12 H 0.4900 0.8806 0.7905
+H13 H 0.5198 0.9503 0.8210
+C5 C 0.5815(2) 0.8034(3) 0.8318(10)
+H14 H 0.612(3) 0.893(4) 0.879(12)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 N1 1_555 1_555
+O2 N4 1_555 1_555
+O3 N4 1_555 1_555
+O4 N5 1_555 1_555
+O5 N5 1_555 1_555
+O6 N6 1_555 1_555
+O7 N6 1_555 1_555
+N1 C1 1_555 1_555
+N2 O1 1_555 1_555
+N3 N4 1_555 1_555
+N5 C3 1_555 1_555
+N6 C3 1_555 1_555
+C1 N3 1_555 1_555
+C2 N2 1_555 1_555
+C3 C2 1_555 1_555
+N7 H1 1_555 1_555
+H2 N7 1_555 1_555
+N8 H3 1_555 1_555
+H4 N8 1_555 1_555
+N9 N10 1_555 1_555
+N10 H5 1_555 1_555
+H6 N10 1_555 1_555
+C4 N7 1_555 1_555
+H7 N9 1_555 1_555
+N11 H8 1_555 1_555
+H9 N11 1_555 1_555
+N12 H10 1_555 1_555
+H11 N12 1_555 1_555
+N13 N14 1_555 1_555
+N14 H12 1_555 1_555
+H13 N14 1_555 1_555
+C5 N11 1_555 1_555
+H14 N13 1_555 1_555
+C1 C2 1_555 1_555
+N8 C4 1_555 1_555
+N9 C4 1_555 1_555
+N12 C5 1_555 1_555
+N13 C5 1_555 1_555
+
+#END

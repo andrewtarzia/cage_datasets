@@ -1,0 +1,160 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_RAKTEE
+_chemical_compound_source        
+'fermentation broth of Marinactinospora thermotolerans SCSIO 00652, Nocardiopsaceae.'
+_chemical_name_common            'marinacarbolines A'
+_chemical_formula_moiety         'C23 H21 N3 O3'
+_chemical_name_systematic        
+1-Acetyl-N-(2-(4-methoxyphenyl)ethyl)-9H-\b-carboline-3-carboxamide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   16.0472(10)
+_cell_length_b                   8.5891(5)
+_cell_length_c                   15.6785(9)
+_cell_angle_alpha                90
+_cell_angle_beta                 116.5630(10)
+_cell_angle_gamma                90
+_cell_volume                     1932.88
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method chloroform/methanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.91499(10) 0.27885(17) 0.51020(11)
+C2 C 0.96584(11) 0.37708(18) 0.40446(11)
+C3 C 1.05014(10) 0.29712(18) 0.44597(11)
+H1 H 1.0946 0.3068 0.4217
+C4 C 1.23034(11) 0.0657(2) 0.59203(12)
+H2 H 1.2517 0.1121 0.5504
+C5 C 1.28499(11) -0.0401(2) 0.66053(12)
+H3 H 1.3445 -0.0669 0.6658
+C6 C 1.25412(12) -0.1086(2) 0.72238(12)
+H4 H 1.2930 -0.1822 0.7681
+C7 C 1.16895(11) -0.07235(19) 0.71889(11)
+H5 H 1.1487 -0.1184 0.7615
+C8 C 0.99754(10) 0.19145(18) 0.55604(10)
+C9 C 1.06710(10) 0.20288(18) 0.52391(11)
+C10 C 1.14267(11) 0.10308(18) 0.58536(11)
+C11 C 1.11394(10) 0.03518(19) 0.64991(11)
+C12 C 0.84256(11) 0.27656(18) 0.54480(11)
+C13 C 0.76012(11) 0.3834(2) 0.49784(12)
+H6 H 0.7196 0.3728 0.5293
+H7 H 0.7252 0.3558 0.4303
+H8 H 0.7819 0.4913 0.5034
+C14 C 0.94589(11) 0.47948(18) 0.32007(11)
+C15 C 0.83064(12) 0.6413(2) 0.19534(11)
+H9 H 0.8290 0.5786 0.1416
+H10 H 0.8754 0.7276 0.2074
+C16 C 0.73397(13) 0.7079(2) 0.16857(13)
+H11 H 0.7380 0.7799 0.2196
+H12 H 0.7139 0.7693 0.1092
+C17 C 0.66089(12) 0.5864(2) 0.15387(12)
+C18 C 0.61270(13) 0.5869(3) 0.20867(14)
+H13 H 0.6249 0.6666 0.2548
+C19 C 0.54736(14) 0.4739(3) 0.19749(16)
+H14 H 0.5150 0.4768 0.2355
+C20 C 0.52905(12) 0.3570(3) 0.13145(15)
+C21 C 0.57488(12) 0.3544(2) 0.07466(13)
+H15 H 0.5616 0.2754 0.0279
+C22 C 0.64037(12) 0.4686(2) 0.08697(13)
+H16 H 0.6722 0.4661 0.0484
+C23 C 0.45619(17) 0.1139(3) 0.07249(19)
+H17 H 0.4323 0.1415 0.0050
+H18 H 0.4133 0.0407 0.0803
+H19 H 0.5176 0.0653 0.0948
+N1 N 0.90064(9) 0.36965(15) 0.43584(9)
+N2 N 1.02635(9) 0.09143(15) 0.63102(9)
+H20 H 0.9946 0.0664 0.6625
+N3 N 0.86145(9) 0.54407(16) 0.28009(9)
+H21 H 0.8233 0.5275 0.3056
+O1 O 0.85078(8) 0.19040(13) 0.60982(8)
+O2 O 1.00505(8) 0.50110(13) 0.29103(7)
+O3 O 0.46387(10) 0.2493(2) 0.12617(12)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C8 1_555 1_555
+C2 C3 1_555 1_555
+C3 H1 1_555 1_555
+C4 H2 1_555 1_555
+C5 C4 1_555 1_555
+H3 C5 1_555 1_555
+C6 C5 1_555 1_555
+H4 C6 1_555 1_555
+C7 C6 1_555 1_555
+H5 C7 1_555 1_555
+C8 C9 1_555 1_555
+C9 C3 1_555 1_555
+C10 C4 1_555 1_555
+C11 C7 1_555 1_555
+C12 C1 1_555 1_555
+C13 C12 1_555 1_555
+H6 C13 1_555 1_555
+H7 C13 1_555 1_555
+H8 C13 1_555 1_555
+C14 C2 1_555 1_555
+C15 H9 1_555 1_555
+H10 C15 1_555 1_555
+C16 C15 1_555 1_555
+H11 C16 1_555 1_555
+H12 C16 1_555 1_555
+C17 C16 1_555 1_555
+C18 C17 1_555 1_555
+H13 C18 1_555 1_555
+C19 C18 1_555 1_555
+H14 C19 1_555 1_555
+C20 C19 1_555 1_555
+C21 C20 1_555 1_555
+H15 C21 1_555 1_555
+C22 C17 1_555 1_555
+H16 C22 1_555 1_555
+C23 H17 1_555 1_555
+H18 C23 1_555 1_555
+H19 C23 1_555 1_555
+N1 C1 1_555 1_555
+N2 C8 1_555 1_555
+H20 N2 1_555 1_555
+N3 C14 1_555 1_555
+H21 N3 1_555 1_555
+O1 C12 1_555 1_555
+O2 C14 1_555 1_555
+O3 C20 1_555 1_555
+C2 N1 1_555 1_555
+C9 C10 1_555 1_555
+C10 C11 1_555 1_555
+C11 N2 1_555 1_555
+C15 N3 1_555 1_555
+C21 C22 1_555 1_555
+C23 O3 1_555 1_555
+
+#END

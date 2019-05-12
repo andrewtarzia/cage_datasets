@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_KIRHEA02
+_chemical_formula_moiety         'C11 H8 F12 N2 O2'
+_chemical_name_systematic        
+1,1,1,3,3,3-Hexafluoro-2-((1-(3,3,3-trifluoro-2-hydroxy-2-(trifluoromethyl)propyl)-1H-imidazol-3-ium-3-yl)methyl)propan-2-olate
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P n a 21'
+_symmetry_Int_Tables_number      33
+_space_group_name_Hall           'P 2c -2n'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a                   10.074(4)
+_cell_length_b                   13.023(5)
+_cell_length_c                   11.204(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1469.89
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       'irregular block'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method tetrahydrofuran/ethanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.10383(11) 0.50581(8) 0.11830(11)
+N1 N 1.00271(13) 0.38065(9) -0.08817(13)
+F1 F 0.86385(11) 0.61385(9) 0.15333(13)
+O2 O 0.80222(10) 0.07820(9) 0.03686(12)
+F2 F 0.85100(10) 0.45472(9) 0.10678(12)
+C1 C 1.06305(15) 0.30451(11) -0.02982(15)
+H1 H 1.1352(18) 0.3130(14) 0.014(2)
+N2 N 0.99652(13) 0.21820(9) -0.05262(13)
+F3 F 0.80228(13) 0.56884(12) -0.02307(13)
+F4 F 0.99718(17) 0.70521(8) -0.07673(13)
+C2 C 0.89206(16) 0.23998(13) -0.12800(15)
+H2 H 0.8309 0.1932 -0.1581
+F5 F 1.08736(15) 0.71450(8) 0.09630(12)
+C3 C 0.89519(17) 0.34207(13) -0.14988(16)
+H3 H 0.8364 0.3791 -0.1973
+F6 F 1.19861(15) 0.65662(8) -0.05134(15)
+C4 C 1.04918(16) 0.48774(11) -0.09407(15)
+H4 H 1.0003 0.5235 -0.1560
+H5 H 1.1423 0.4882 -0.1162
+F7 F 0.87538(15) 0.23842(9) 0.17409(13)
+C5 C 1.03221(16) 0.54614(11) 0.02478(16)
+F8 F 1.05250(14) 0.16589(15) 0.23457(16)
+C6 C 0.88591(17) 0.54687(14) 0.06560(17)
+F9 F 0.86161(15) 0.10788(11) 0.28773(12)
+C7 C 1.0787(2) 0.65776(12) -0.00161(18)
+F10 F 0.87961(11) -0.07865(9) 0.18972(13)
+C8 C 1.03074(15) 0.11657(10) -0.00598(16)
+H6 H 1.1169 0.1196 0.0325
+H7 H 1.0366 0.0681 -0.0715
+C9 C 0.92537(15) 0.07853(11) 0.08517(15)
+F11 F 1.08417(11) -0.03527(10) 0.17742(16)
+F12 F 0.98173(15) -0.08908(8) 0.02249(15)
+C10 C 0.9298(2) 0.14735(15) 0.19745(18)
+C11 C 0.96808(16) -0.03221(13) 0.11951(19)
+H8 H 1.179(3) 0.483(2) 0.090(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C5 1_555 1_555
+N1 C1 1_555 1_555
+F1 C6 1_555 1_555
+O2 C9 1_555 1_555
+F2 C6 1_555 1_555
+C1 H1 1_555 1_555
+N2 C1 1_555 1_555
+F3 C6 1_555 1_555
+F4 C7 1_555 1_555
+C2 N2 1_555 1_555
+H2 C2 1_555 1_555
+F5 C7 1_555 1_555
+C3 N1 1_555 1_555
+H3 C3 1_555 1_555
+F6 C7 1_555 1_555
+C4 N1 1_555 1_555
+H4 C4 1_555 1_555
+H5 C4 1_555 1_555
+F7 C10 1_555 1_555
+C5 C4 1_555 1_555
+F8 C10 1_555 1_555
+C6 C5 1_555 1_555
+F9 C10 1_555 1_555
+C7 C5 1_555 1_555
+F10 C11 1_555 1_555
+C8 N2 1_555 1_555
+H6 C8 1_555 1_555
+H7 C8 1_555 1_555
+C9 C8 1_555 1_555
+F11 C11 1_555 1_555
+F12 C11 1_555 1_555
+C10 C9 1_555 1_555
+C11 C9 1_555 1_555
+H8 O1 1_555 1_555
+C2 C3 1_555 1_555
+
+#END

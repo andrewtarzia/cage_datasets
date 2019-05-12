@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TEBREY
+_chemical_formula_moiety         'C11 H20 N4 O2 Si1'
+_chemical_name_systematic        
+bis(N-(Ethylideneimino)acetimidato-N,O)silacyclobutane
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,-z
+7 x,-y,1/2+z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   15.901(3)
+_cell_length_b                   7.3668(12)
+_cell_length_c                   12.472(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 109.739(2)
+_cell_angle_gamma                90
+_cell_volume                     1375.12
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       block
+_chemical_melting_point          '130-133 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method ether/THF
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 0.5000 1.05065(9) 0.7500
+O1 O 0.41993(8) 1.01737(17) 0.82197(11)
+N1 N 0.64438(10) 0.7962(2) 0.80894(13)
+N2 N 0.57400(10) 0.8535(2) 0.84563(13)
+C1 C 0.5000 1.3819(4) 0.7500
+H1 H 0.4619 1.4598 0.7793
+H2 H 0.5381 1.4598 0.7207
+C2 C 0.44313(13) 1.2505(3) 0.65729(16)
+H3 H 0.4553 1.2584 0.5846
+H4 H 0.3782 1.2584 0.6440
+C3 C 0.35888(11) 0.8935(2) 0.77912(16)
+C4 C 0.29077(13) 0.8657(3) 0.83518(17)
+H5 H 0.2525 0.7627 0.7997
+H6 H 0.2542 0.9754 0.8264
+H7 H 0.3208 0.8409 0.9164
+C5 C 0.57121(12) 0.7856(2) 0.93843(15)
+H8 H 0.5238 0.8243 0.9633
+C6 C 0.63480(13) 0.6522(3) 1.01110(16)
+H9 H 0.6491 0.5607 0.9629
+H10 H 0.6077 0.5928 1.0618
+H11 H 0.6896 0.7146 1.0567
+O1B O 0.58007(8) 1.01737(17) 0.67803(11)
+N1B N 0.35562(10) 0.7962(2) 0.69106(13)
+N2B N 0.42600(10) 0.8535(2) 0.65437(13)
+C2B C 0.55687(13) 1.2505(3) 0.84271(16)
+H3B H 0.5447 1.2584 0.9154
+H4B H 0.6218 1.2584 0.8560
+C3B C 0.64112(11) 0.8935(2) 0.72088(16)
+C4B C 0.70923(13) 0.8657(3) 0.66482(17)
+H5B H 0.7475 0.7627 0.7003
+H6B H 0.7458 0.9754 0.6736
+H7B H 0.6792 0.8409 0.5836
+C5B C 0.42879(12) 0.7856(2) 0.56157(15)
+H8B H 0.4762 0.8243 0.5367
+C6B C 0.36520(13) 0.6522(3) 0.48890(16)
+H9B H 0.3509 0.5607 0.5371
+H10B H 0.3923 0.5928 0.4382
+H11B H 0.3104 0.7146 0.4433
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Si1 O1 1_555 1_555
+O1 C3 1_555 1_555
+N1 N2 1_555 1_555
+N2 Si1 1_555 1_555
+C1 H1 1_555 1_555
+H2 C1 1_555 1_555
+C2 Si1 1_555 1_555
+H3 C2 1_555 1_555
+H4 C2 1_555 1_555
+C3 C4 1_555 1_555
+C4 H5 1_555 1_555
+H6 C4 1_555 1_555
+H7 C4 1_555 1_555
+C5 N2 1_555 1_555
+H8 C5 1_555 1_555
+C6 C5 1_555 1_555
+H9 C6 1_555 1_555
+H10 C6 1_555 1_555
+H11 C6 1_555 1_555
+O1B Si1 1_555 1_555
+N1B C3 1_555 1_555
+N2B Si1 1_555 1_555
+C2B Si1 1_555 1_555
+H3B C2B 1_555 1_555
+H4B C2B 1_555 1_555
+C3B N1 1_555 1_555
+C4B C3B 1_555 1_555
+H5B C4B 1_555 1_555
+H6B C4B 1_555 1_555
+H7B C4B 1_555 1_555
+C5B N2B 1_555 1_555
+H8B C5B 1_555 1_555
+C6B C5B 1_555 1_555
+H9B C6B 1_555 1_555
+H10B C6B 1_555 1_555
+H11B C6B 1_555 1_555
+C1 C2 1_555 1_555
+C1 C2B 1_555 1_555
+O1B C3B 1_555 1_555
+N1B N2B 1_555 1_555
+
+#END

@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SAGGAJ
+_chemical_name_common            
+'(E)-1-(Benzenesulfonyl)-2-(chloromethylene)cyclopropyl methyl ketone'
+_chemical_formula_moiety         'C12 H11 Cl1 O3 S1'
+_chemical_name_systematic        
+(E)-1-Acetyl-1-(benzenesulfonyl)-2-(chloromethylene)cyclopropane
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 1/2-x,1/2+y,1/2-z
+_cell_length_a                   11.3404(19)
+_cell_length_b                   10.0567(17)
+_cell_length_c                   12.770(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 115.267(3)
+_cell_angle_gamma                90
+_cell_volume                     1317.05
+_exptl_crystal_colour            colorless
+_chemical_melting_point          71-72deg.C
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.52032(7) 0.02562(8) 0.22143(7)
+Cl1 Cl 0.95955(8) 0.00050(9) 0.19989(8)
+O1 O 0.40634(19) 0.2383(2) 0.04363(18)
+O2 O 0.61866(17) -0.05630(19) 0.30623(18)
+O3 O 0.42004(17) -0.03729(19) 0.12313(18)
+C1 C 0.7916(3) 0.0145(3) 0.1402(3)
+C2 C 0.7332(2) 0.0931(3) 0.1826(2)
+C3 C 0.7378(3) 0.1897(4) 0.2670(3)
+C4 C 0.6049(2) 0.1411(3) 0.1709(2)
+C5 C 0.5237(3) 0.2341(3) 0.0764(3)
+C6 C 0.5892(4) 0.3190(4) 0.0210(4)
+C7 C 0.4498(3) 0.1211(3) 0.2947(3)
+C8 C 0.5208(4) 0.1485(4) 0.4101(4)
+C9 C 0.4650(5) 0.2252(4) 0.4681(4)
+C10 C 0.3421(5) 0.2728(4) 0.4109(4)
+C11 C 0.2724(4) 0.2436(4) 0.2988(5)
+C12 C 0.3248(3) 0.1690(4) 0.2383(3)
+H1 H 0.751(2) -0.034(2) 0.078(2)
+H2 H 0.764(2) 0.2725(18) 0.264(2)
+H3 H 0.759(2) 0.164(3) 0.344(2)
+H4 H 0.6758(18) 0.314(3) 0.055(3)
+H5 H 0.605(4) 0.400(4) 0.059(3)
+H6 H 0.533(3) 0.368(4) -0.042(3)
+H7 H 0.604(3) 0.107(3) 0.448(2)
+H8 H 0.515(3) 0.238(3) 0.545(3)
+H9 H 0.311(3) 0.328(3) 0.453(3)
+H10 H 0.193(3) 0.284(3) 0.257(3)
+H11 H 0.274(2) 0.151(3) 0.1586(16)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 O2 1_555 1_555
+Cl1 C1 1_555 1_555
+O1 C5 1_555 1_555
+O3 S1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 S1 1_555 1_555
+C5 C4 1_555 1_555
+C6 C5 1_555 1_555
+C7 S1 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+C12 C7 1_555 1_555
+H1 C1 1_555 1_555
+H2 C3 1_555 1_555
+H3 C3 1_555 1_555
+H4 C6 1_555 1_555
+H5 C6 1_555 1_555
+H6 C6 1_555 1_555
+H7 C8 1_555 1_555
+H8 C9 1_555 1_555
+H9 C10 1_555 1_555
+H10 C11 1_555 1_555
+H11 C12 1_555 1_555
+C2 C4 1_555 1_555
+C11 C12 1_555 1_555
+
+#END

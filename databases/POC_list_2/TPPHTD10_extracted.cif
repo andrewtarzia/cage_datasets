@@ -1,0 +1,173 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TPPHTD10
+_chemical_formula_moiety         'C42 H40 P4,2(C4 H8 O1)'
+_chemical_name_systematic        
+'cis,trans,cis-2,6,13,17-Tetraphenyl-2,6,13,17-tetraphosphatricyclo(16.4.0.0^7,12^)docosa-7(12),8,10,1(18),19,21-hexaene tetrahydrofuran solvate'
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'I 41/a'
+_symmetry_Int_Tables_number      88
+_space_group_name_Hall           '-I 4ad'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,1/2+z
+3 3/4-y,1/4+x,1/4+z
+4 1/4-y,3/4+x,3/4+z
+5 1/2-x,-y,1/2+z
+6 -x,1/2-y,z
+7 3/4+y,3/4-x,3/4+z
+8 1/4+y,1/4-x,1/4+z
+9 -x,-y,-z
+10 1/2-x,1/2-y,1/2-z
+11 1/4+y,3/4-x,3/4-z
+12 3/4+y,1/4-x,1/4-z
+13 1/2+x,y,1/2-z
+14 x,1/2+y,-z
+15 1/4-y,1/4+x,1/4-z
+16 3/4-y,3/4+x,3/4-z
+_cell_length_a                   25.504(15)
+_cell_length_b                   25.504(15)
+_cell_length_c                   13.796(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     8973.66
+_exptl_crystal_colour            colorless
+_chemical_melting_point          160-4deg.C
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+P1 P 0.61025 0.24315 0.01028
+P2 P 0.42168 0.13273 0.02203
+C1 C 0.49400 0.12840 0.03580
+C2 C 0.51970 0.18140 0.02500
+C3 C 0.57950 0.17830 0.02870
+C4 C 0.60180 0.27550 0.12870
+C5 C 0.40780 0.17000 0.13420
+C6 C 0.40920 0.14570 0.22300
+C7 C 0.40300 0.17310 0.30930
+C8 C 0.39630 0.22750 0.30450
+C9 C 0.60670 0.24790 0.21580
+C10 C 0.68060 0.22570 0.01570
+C11 C 0.71550 0.24880 0.08060
+C12 C 0.76850 0.23610 0.07710
+C13 C 0.78670 0.20030 0.00870
+C14 C 0.75180 0.17730 -0.05620
+C15 C 0.69880 0.19000 -0.05270
+C16 C 0.39980 0.06590 0.05480
+C17 C 0.43250 0.02470 0.08180
+C18 C 0.41200 -0.02530 0.09490
+C19 C 0.35860 -0.03420 0.08100
+C20 C 0.32590 0.00690 0.05390
+C21 C 0.34640 0.05690 0.04080
+C5E C 0.59220 0.33000 0.13420
+C4E C 0.39820 0.22450 0.12870
+C9E C 0.39330 0.25210 0.21580
+C8E C 0.60370 0.27250 0.30450
+P2E P 0.57832 0.36727 0.02203
+C6E C 0.59080 0.35430 0.22300
+P1E P 0.38975 0.25685 0.01028
+C7E C 0.59700 0.32690 0.30930
+C1E C 0.50600 0.37160 0.03580
+C16E C 0.60020 0.43410 0.05480
+C3E C 0.42050 0.32170 0.02870
+C10E C 0.31940 0.27430 0.01570
+C2E C 0.48030 0.31860 0.02500
+C17E C 0.56750 0.47530 0.08180
+C21E C 0.65360 0.44310 0.04080
+C11E C 0.28450 0.25120 0.08060
+C15E C 0.30120 0.31000 -0.05270
+C18E C 0.58800 0.52530 0.09490
+C20E C 0.67410 0.49310 0.05390
+C12E C 0.23150 0.26390 0.07710
+C14E C 0.24820 0.32270 -0.05620
+C19E C 0.64140 0.53420 0.08100
+C13E C 0.21330 0.29970 0.00870
+C22 C 0.73890 0.88380 0.77150
+C23 C 0.74940 0.91870 0.68600
+C24 C 0.80100 0.91390 0.66340
+C25 C 0.82580 0.88010 0.75120
+O1 O 0.78740 0.86880 0.81240
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+P1 C3 1_555 1_555
+P2 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C4 P1 1_555 1_555
+C5 P2 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C4 1_555 1_555
+C10 P1 1_555 1_555
+C11 C10 1_555 1_555
+C12 C11 1_555 1_555
+C13 C12 1_555 1_555
+C14 C13 1_555 1_555
+C15 C10 1_555 1_555
+C16 P2 1_555 1_555
+C17 C16 1_555 1_555
+C18 C17 1_555 1_555
+C19 C18 1_555 1_555
+C20 C19 1_555 1_555
+C21 C16 1_555 1_555
+C22 C23 1_555 1_555
+C23 C24 1_555 1_555
+C24 C25 1_555 1_555
+C25 O1 1_555 1_555
+O1 C22 1_555 1_555
+C5E C4 1_555 1_555
+C4E C5 1_555 1_555
+C9E C8 1_555 1_555
+C8E C9 1_555 1_555
+P2E C5E 1_555 1_555
+C6E C5E 1_555 1_555
+P1E C4E 1_555 1_555
+C7E C8E 1_555 1_555
+C1E P2E 1_555 1_555
+C16E P2E 1_555 1_555
+C3E P1E 1_555 1_555
+C10E P1E 1_555 1_555
+C2E C1E 1_555 1_555
+C17E C16E 1_555 1_555
+C21E C16E 1_555 1_555
+C11E C10E 1_555 1_555
+C15E C10E 1_555 1_555
+C18E C17E 1_555 1_555
+C20E C21E 1_555 1_555
+C12E C11E 1_555 1_555
+C14E C15E 1_555 1_555
+C19E C18E 1_555 1_555
+C13E C12E 1_555 1_555
+C14 C15 1_555 1_555
+C20 C21 1_555 1_555
+C4E C9E 1_555 1_555
+C6E C7E 1_555 1_555
+C3E C2E 1_555 1_555
+C20E C19E 1_555 1_555
+C14E C13E 1_555 1_555
+
+#END

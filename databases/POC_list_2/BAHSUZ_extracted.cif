@@ -1,0 +1,93 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BAHSUZ
+_chemical_formula_moiety         'C15 H19 N1 O2 Se1'
+_chemical_name_systematic        N-(5-(Phenylseleno)pentyl)succinimide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   18.018(6)
+_cell_length_b                   5.980(2)
+_cell_length_c                   14.682(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 109.977(6)
+_cell_angle_gamma                90
+_cell_volume                     1486.76
+_exptl_crystal_colour            colorless
+_chemical_melting_point          '49-50 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 
+'dichloromethane/petroleum ether (30-60) 1:1'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se 1.0616(1) 0.4221(1) 0.6712(1)
+N1 N 0.6152(1) 0.4908(4) 0.6034(2)
+O1 O 0.5895(1) 0.2071(4) 0.4942(2)
+O2 O 0.6150(1) 0.7321(3) 0.7228(2)
+C1 C 0.5783(2) 0.2952(5) 0.5615(2)
+C2 C 0.5254(2) 0.2229(4) 0.6146(2)
+C3 C 0.5291(2) 0.4092(4) 0.6856(2)
+C4 C 0.5903(2) 0.5661(4) 0.6764(2)
+C5 C 0.6776(1) 0.5950(4) 0.5770(2)
+C6 C 0.7568(1) 0.4837(4) 0.6269(2)
+C7 C 0.8218(1) 0.5905(4) 0.5987(2)
+C8 C 0.9000(1) 0.4759(4) 0.6431(2)
+C9 C 0.9649(1) 0.5918(4) 0.6177(2)
+C10 C 1.1366(1) 0.6083(4) 0.6434(2)
+C11 C 1.1182(2) 0.8086(4) 0.5954(2)
+C12 C 1.1757(2) 0.9299(5) 0.5771(2)
+C13 C 1.2520(2) 0.8557(5) 0.6060(2)
+C14 C 1.2703(2) 0.6562(5) 0.6543(2)
+C15 C 1.2138(1) 0.5338(4) 0.6735(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Se1 C9 1_555 1_555
+N1 C1 1_555 1_555
+O1 C1 1_555 1_555
+O2 C4 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 N1 1_555 1_555
+C5 N1 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 Se1 1_555 1_555
+C11 C10 1_555 1_555
+C12 C11 1_555 1_555
+C13 C12 1_555 1_555
+C14 C13 1_555 1_555
+C15 C10 1_555 1_555
+C14 C15 1_555 1_555
+
+#END

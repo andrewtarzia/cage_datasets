@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_KOKKEC
+_chemical_name_common            TTF9
+_chemical_formula_moiety         'C18 F8 S8'
+_chemical_name_systematic        
+5,6,7,8-tetrafluoro-2-(5,6,7,8-tetrafluoro[1,3]dithiolo[4,5-b][1,4]benzodithiin-2-ylidene)[1,3]dithiolo[4,5-b][1,4]benzodithiine
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,1/2+z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   35.967(7)
+_cell_length_b                   3.9457(8)
+_cell_length_c                   15.430(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 107.33(3)
+_cell_angle_gamma                90
+_cell_volume                     2090.34
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       needle
+_chemical_melting_point          '572 K'
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.06225(2) 0.6423(3) 0.26176(5)
+S2 S 0.02029(2) 0.6449(3) 0.39949(5)
+S3 S 0.13415(2) 0.9597(3) 0.38838(5)
+S4 S 0.08801(2) 0.9549(3) 0.54251(5)
+C1 C 0.08609(8) 0.8200(9) 0.36757(19)
+F1 F 0.24454(6) 0.3599(7) 0.61950(13)
+F2 F 0.20714(6) 0.3632(7) 0.74808(13)
+C2 C 0.06734(8) 0.8208(9) 0.43071(19)
+C3 C 0.15356(10) 0.6371(10) 0.64668(19)
+C4 C 0.15464(9) 0.7789(9) 0.49685(19)
+C5 C 0.13536(9) 0.7781(9) 0.5633(2)
+F3 F 0.20985(5) 0.6220(7) 0.45422(12)
+F4 F 0.13533(6) 0.6313(7) 0.71073(12)
+C6 C 0.19130(9) 0.6331(10) 0.5175(2)
+C7 C 0.01691(8) 0.6460(9) 0.28364(18)
+C8 C 0.20915(9) 0.4984(10) 0.6011(2)
+C9 C 0.19029(10) 0.5007(10) 0.6666(2)
+S1A S -0.06225(2) 0.6423(3) 0.23824(5)
+S2A S -0.02029(2) 0.6449(3) 0.10051(5)
+S3A S -0.13415(2) 0.9597(3) 0.11162(5)
+S4A S -0.08801(2) 0.9549(3) -0.04251(5)
+C1A C -0.08609(8) 0.8200(9) 0.13243(19)
+F1A F -0.24454(6) 0.3599(7) -0.11950(13)
+F2A F -0.20714(6) 0.3632(7) -0.24808(13)
+C2A C -0.06734(8) 0.8208(9) 0.06929(19)
+C3A C -0.15356(10) 0.6371(10) -0.14668(19)
+C4A C -0.15464(9) 0.7789(9) 0.00315(19)
+C5A C -0.13536(9) 0.7781(9) -0.0633(2)
+F3A F -0.20985(5) 0.6220(7) 0.04578(12)
+F4A F -0.13533(6) 0.6313(7) -0.21073(12)
+C6A C -0.19130(9) 0.6331(10) -0.0175(2)
+C7A C -0.01691(8) 0.6460(9) 0.21636(18)
+C8A C -0.20915(9) 0.4984(10) -0.1011(2)
+C9A C -0.19029(10) 0.5007(10) -0.1666(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C1 1_555 1_555
+S2 C2 1_555 1_555
+S3 C1 1_555 1_555
+S4 C2 1_555 1_555
+C1 C2 1_555 1_555
+F1 C8 1_555 1_555
+F2 C9 1_555 1_555
+C3 C5 1_555 1_555
+C4 S3 1_555 1_555
+C5 S4 1_555 1_555
+F3 C6 1_555 1_555
+F4 C3 1_555 1_555
+C6 C4 1_555 1_555
+C7 S1 1_555 1_555
+C8 C6 1_555 1_555
+C9 C3 1_555 1_555
+S1A C1A 1_555 1_555
+S2A C2A 1_555 1_555
+S3A C1A 1_555 1_555
+S4A C2A 1_555 1_555
+C1A C2A 1_555 1_555
+F1A C8A 1_555 1_555
+F2A C9A 1_555 1_555
+C3A C5A 1_555 1_555
+C4A S3A 1_555 1_555
+C5A S4A 1_555 1_555
+F3A C6A 1_555 1_555
+F4A C3A 1_555 1_555
+C6A C4A 1_555 1_555
+C7A C7 1_555 1_555
+C8A C6A 1_555 1_555
+C9A C3A 1_555 1_555
+S2 C7 1_555 1_555
+C4 C5 1_555 1_555
+C8 C9 1_555 1_555
+S1A C7A 1_555 1_555
+S2A C7A 1_555 1_555
+C4A C5A 1_555 1_555
+C8A C9A 1_555 1_555
+
+#END

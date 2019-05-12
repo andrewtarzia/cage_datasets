@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_RUKPAP
+_chemical_compound_source        
+'Metabolite of the sesquiterpenoid (-)-maaliol from the fungus Mucor plumbeus (IMI 116688)'
+_chemical_name_common            
+2,2,5a,8a-Tetramethyl-2a,5,5a,6,7,8,8a,8b-octahydro-2H-naphtho[1,8-bc]furan-5-ol
+_chemical_formula_moiety         'C15 H24 O2'
+_chemical_name_systematic        (+)-7,8-Didehydro-9\b-hydroxymaalioxide
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a                   7.6798(10)
+_cell_length_b                   12.1802(16)
+_cell_length_c                   14.5781(19)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1363.66
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '147.2-149.2 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method acetone
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.68247(15) -0.05978(10) 0.20167(9)
+H1 H 0.737(3) -0.0042(19) 0.1760(14)
+O2 O -0.04788(12) 0.08549(8) 0.13317(7)
+C1 C 0.35482(19) -0.14296(12) 0.08957(12)
+H2 H 0.4549 -0.1778 0.0613
+H3 H 0.3265 -0.1841 0.1446
+C2 C 0.2002(2) -0.14969(15) 0.02303(12)
+H4 H 0.1722 -0.2263 0.0126
+H5 H 0.2347 -0.1183 -0.0353
+C3 C 0.0352(2) -0.09013(12) 0.05697(11)
+H6 H -0.0555 -0.0945 0.0108
+H7 H -0.0073 -0.1246 0.1126
+C4 C 0.08077(17) 0.02977(12) 0.07568(9)
+C5 C 0.23447(15) 0.03086(9) 0.14095(8)
+H8 H 0.1923 -0.0109 0.1939
+C6 C 0.23746(16) 0.14777(10) 0.17542(9)
+H9 H 0.2710 0.1964 0.1249
+C7 C 0.36913(18) 0.15799(11) 0.25078(10)
+H10 H 0.3660 0.2186 0.2896
+C8 C 0.49011(18) 0.08164(13) 0.26278(10)
+H11 H 0.5733 0.0950 0.3078
+C9 C 0.50587(16) -0.02527(11) 0.21019(10)
+H12 H 0.4486 -0.0809 0.2482
+C10 C 0.40537(16) -0.02461(10) 0.11739(9)
+C11 C 0.04056(18) 0.16406(10) 0.19593(10)
+C12 C -0.0225(3) 0.27915(13) 0.17330(14)
+H13 H -0.1453 0.2842 0.1849
+H14 H -0.0002 0.2946 0.1098
+H15 H 0.0381 0.3314 0.2109
+C13 C -0.00698(19) 0.13273(13) 0.29339(10)
+H16 H 0.0359 0.0603 0.3064
+H17 H -0.1313 0.1338 0.3002
+H18 H 0.0443 0.1842 0.3353
+C14 C 0.5110(2) 0.03396(15) 0.04300(11)
+H19 H 0.5360 0.1076 0.0624
+H20 H 0.4450 0.0359 -0.0129
+H21 H 0.6180 -0.0048 0.0329
+C15 C 0.0955(3) 0.09377(17) -0.01444(11)
+H22 H 0.1487 0.1637 -0.0029
+H23 H -0.0186 0.1047 -0.0398
+H24 H 0.1655 0.0530 -0.0571
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 H1 1_555 1_555
+O2 C4 1_555 1_555
+C1 H2 1_555 1_555
+H3 C1 1_555 1_555
+C2 C1 1_555 1_555
+H4 C2 1_555 1_555
+H5 C2 1_555 1_555
+C3 C2 1_555 1_555
+H6 C3 1_555 1_555
+H7 C3 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+H8 C5 1_555 1_555
+C6 C5 1_555 1_555
+H9 C6 1_555 1_555
+C7 C6 1_555 1_555
+H10 C7 1_555 1_555
+C8 C7 1_555 1_555
+H11 C8 1_555 1_555
+C9 O1 1_555 1_555
+H12 C9 1_555 1_555
+C10 C1 1_555 1_555
+C11 O2 1_555 1_555
+C12 C11 1_555 1_555
+H13 C12 1_555 1_555
+H14 C12 1_555 1_555
+H15 C12 1_555 1_555
+C13 C11 1_555 1_555
+H16 C13 1_555 1_555
+H17 C13 1_555 1_555
+H18 C13 1_555 1_555
+C14 C10 1_555 1_555
+H19 C14 1_555 1_555
+H20 C14 1_555 1_555
+H21 C14 1_555 1_555
+C15 C4 1_555 1_555
+H22 C15 1_555 1_555
+H23 C15 1_555 1_555
+H24 C15 1_555 1_555
+C5 C10 1_555 1_555
+C6 C11 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+
+#END

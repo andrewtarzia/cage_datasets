@@ -1,0 +1,158 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_RUYZAO
+_chemical_name_common            
+'4-amino-N-(4-methylpyrimidin-2-yl)benzenesulfonamide menadione'
+_chemical_formula_moiety         'C11 H12 N4 O2 S1,C11 H8 O2'
+_chemical_name_systematic        
+'4-amino-N-(4-methylpyrimidin-2-yl)benzenesulfonamide 2-methyl-1,4-naphthoquinone'
+_chemical_properties_biological  'Menadione has antihemorrhagic activity.'
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   7.4250(7)
+_cell_length_b                   8.3806(8)
+_cell_length_c                   17.7795(16)
+_cell_angle_alpha                89.429(5)
+_cell_angle_beta                 85.939(5)
+_cell_angle_gamma                75.580(5)
+_cell_volume                     1068.77
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       block
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.55275(5) 0.52112(5) 0.68978(2)
+O1 O 0.35510(15) 0.58803(16) 0.69904(7)
+O2 O 0.63585(18) 0.38124(15) 0.73274(7)
+N1 N 0.58434(19) 0.47246(19) 0.59962(7)
+N2 N 0.90181(18) 0.34495(17) 0.59809(7)
+N3 N 0.73393(19) 0.37665(19) 0.48685(7)
+N4 N 0.9185(3) 1.0520(2) 0.74572(11)
+C1 C 0.8356(2) 0.9289(2) 0.73156(8)
+C2 C 0.6606(2) 0.9623(2) 0.70056(9)
+H1 H 0.6014 1.0701 0.6887
+C3 C 0.5767(2) 0.8380(2) 0.68769(9)
+H2 H 0.4603 0.8620 0.6680
+C4 C 0.6647(2) 0.67641(19) 0.70393(7)
+C5 C 0.7498(2) 0.39397(19) 0.56073(8)
+C6 C 1.0575(2) 0.2669(2) 0.55770(10)
+C7 C 1.0554(3) 0.2410(3) 0.48137(11)
+H3 H 1.1628 0.1860 0.4531
+C8 C 1.2297(3) 0.2125(3) 0.60016(13)
+H4 H 1.2450 0.3029 0.6297
+H5 H 1.3364 0.1764 0.5651
+H6 H 1.2180 0.1232 0.6329
+C9 C 0.9233(2) 0.7657(2) 0.74732(8)
+H7 H 1.0393 0.7411 0.7674
+C10 C 0.8399(2) 0.6412(2) 0.73345(8)
+H8 H 0.9002 0.5328 0.7437
+C11 C 0.8911(3) 0.2986(3) 0.44835(10)
+H9 H 0.8889 0.2824 0.3968
+H10 H 0.854(3) 1.156(3) 0.7378(13)
+H11 H 1.009(3) 1.029(3) 0.7730(12)
+H12 H 0.492(3) 0.518(3) 0.5736(12)
+O3 O 0.25370(17) 0.95117(17) 0.84711(8)
+O4 O 0.78880(18) 1.20822(15) 0.94206(8)
+C12 C 0.8703(3) 0.6954(2) 0.94835(10)
+H13 H 0.9790 0.6262 0.9643
+C13 C 0.8524(2) 0.8623(2) 0.94583(9)
+H14 H 0.9481 0.9061 0.9605
+C14 C 0.6909(2) 0.96538(18) 0.92138(8)
+C15 C 0.6703(2) 1.1453(2) 0.91927(9)
+C16 C 0.5002(2) 1.2467(2) 0.88960(10)
+H15 H 0.4872 1.3598 0.8870
+C17 C 0.3631(2) 1.1879(2) 0.86619(9)
+C18 C 0.1908(3) 1.2949(3) 0.83585(12)
+H16 H 0.1953 1.4082 0.8383
+H17 H 0.0828 1.2802 0.8654
+H18 H 0.1838 1.2647 0.7844
+C19 C 0.7283(3) 0.6293(2) 0.92733(10)
+H19 H 0.7411 0.5162 0.9301
+C20 C 0.5676(2) 0.7301(2) 0.90225(9)
+H20 H 0.4729 0.6849 0.8878
+C21 C 0.5473(2) 0.89912(18) 0.89849(8)
+C22 C 0.3778(2) 1.0077(2) 0.86908(8)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 O1 1_555 1_555
+O2 S1 1_555 1_555
+N1 S1 1_555 1_555
+N2 C5 1_555 1_555
+N3 C5 1_555 1_555
+N4 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+C3 C2 1_555 1_555
+H2 C3 1_555 1_555
+C4 S1 1_555 1_555
+C5 N1 1_555 1_555
+C6 N2 1_555 1_555
+C7 C6 1_555 1_555
+H3 C7 1_555 1_555
+C8 C6 1_555 1_555
+H4 C8 1_555 1_555
+H5 C8 1_555 1_555
+H6 C8 1_555 1_555
+C9 C1 1_555 1_555
+H7 C9 1_555 1_555
+C10 C4 1_555 1_555
+H8 C10 1_555 1_555
+C11 N3 1_555 1_555
+H9 C11 1_555 1_555
+H10 N4 1_555 1_555
+H11 N4 1_555 1_555
+H12 N1 1_555 1_555
+O3 C22 1_555 1_555
+O4 C15 1_555 1_555
+C12 H13 1_555 1_555
+C13 C12 1_555 1_555
+H14 C13 1_555 1_555
+C14 C13 1_555 1_555
+C15 C14 1_555 1_555
+C16 C15 1_555 1_555
+H15 C16 1_555 1_555
+C17 C16 1_555 1_555
+C18 C17 1_555 1_555
+H16 C18 1_555 1_555
+H17 C18 1_555 1_555
+H18 C18 1_555 1_555
+C19 C12 1_555 1_555
+H19 C19 1_555 1_555
+C20 C19 1_555 1_555
+H20 C20 1_555 1_555
+C21 C14 1_555 1_555
+C22 C17 1_555 1_555
+C3 C4 1_555 1_555
+C7 C11 1_555 1_555
+C9 C10 1_555 1_555
+C20 C21 1_555 1_555
+C21 C22 1_555 1_555
+
+#END

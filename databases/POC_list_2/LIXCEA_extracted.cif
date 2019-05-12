@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_LIXCEA
+_chemical_formula_moiety         'C15 H18 Cl1 N3 O3 S1'
+_chemical_name_systematic        
+'(E)-Ethoxyethyl 3-((2-chloro-5-pyridyl)methylamino)-2-cyano-3-(methylthio)acrylate'
+_chemical_properties_biological  'highly potent PSII inhibitory activity'
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   7.820(2)
+_cell_length_b                   9.296(2)
+_cell_length_c                   12.992(3)
+_cell_angle_alpha                69.87(3)
+_cell_angle_beta                 84.40(3)
+_cell_angle_gamma                85.80(3)
+_cell_volume                     881.73
+_exptl_crystal_colour            colorless
+_chemical_melting_point          '60-61 deg.C'
+_cell_formula_units_Z            2
+_exptl_crystal_recrystallization_method 'dichloromethane/petroleum ether'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl -0.1250(4) 0.7356(4) -0.2043(2)
+S1 S 0.2385(3) 0.7291(3) 0.2579(2)
+C1 C 0.1398(10) 0.5598(8) 0.3363(5)
+C2 C 0.2319(8) 0.4263(7) 0.4006(5)
+C3 C 0.1529(10) 0.2876(8) 0.4625(5)
+C4 C 0.1893(10) 0.0283(8) 0.5749(6)
+C5 C 0.3141(11) -0.0750(8) 0.6482(7)
+C6 C 0.3962(14) -0.1484(12) 0.8258(8)
+C7 C 0.4201(13) -0.0983(13) 0.9161(8)
+C8 C 0.3451(9) 0.7768(9) 0.3552(6)
+O1 O 0.0003(6) 0.2658(5) 0.4663(4)
+O2 O 0.2632(5) 0.1761(5) 0.5189(3)
+O3 O 0.3278(7) -0.0295(6) 0.7398(4)
+N1 N 0.5634(9) 0.4262(8) 0.3794(5)
+C9 C 0.4165(11) 0.4272(8) 0.3896(5)
+N2 N -0.0286(7) 0.5542(6) 0.3308(4)
+C10 C -0.1408(9) 0.6822(8) 0.2674(5)
+C11 C -0.1421(9) 0.6875(8) 0.1487(5)
+C12 C -0.2139(11) 0.5822(9) 0.1204(6)
+C13 C -0.2117(11) 0.5936(10) 0.0110(7)
+C14 C -0.1318(10) 0.7176(10) -0.0636(6)
+N3 N -0.0661(9) 0.8256(9) -0.0428(5)
+C15 C -0.0716(10) 0.8063(9) 0.0654(6)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C14 1_555 1_555
+S1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 O1 1_555 1_555
+C4 C5 1_555 1_555
+C5 O3 1_555 1_555
+C6 C7 1_555 1_555
+C8 S1 1_555 1_555
+O2 C3 1_555 1_555
+O3 C6 1_555 1_555
+N1 C9 1_555 1_555
+C9 C2 1_555 1_555
+N2 C1 1_555 1_555
+C10 N2 1_555 1_555
+C11 C10 1_555 1_555
+C12 C11 1_555 1_555
+C13 C12 1_555 1_555
+C14 C13 1_555 1_555
+N3 C14 1_555 1_555
+C15 C11 1_555 1_555
+C4 O2 1_555 1_555
+N3 C15 1_555 1_555
+
+#END

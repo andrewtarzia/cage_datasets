@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TUQHOC
+_chemical_name_common            '2,3-Dimethyl-tetratelluroanthracene bromide'
+_chemical_formula_moiety         'C16 H10 Te4,C16 H10 Te4 1+,Br1 1-'
+_chemical_name_systematic        
+"3.4-Dimethylanthra(1,9-cd:4,10-c'd')bis((1,2)ditellurole) bromide"
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'P 42/n c m'
+_symmetry_Int_Tables_number      138
+_space_group_name_Hall           '-P 4ac 2ac'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-y,x,1/2+z
+3 1/2+x,-y,1/2-z
+4 1/2-x,1/2-y,z
+5 1/2+y,1/2+x,-z
+6 y,1/2-x,1/2+z
+7 -x,1/2+y,1/2-z
+8 -y,-x,-z
+9 -x,-y,-z
+10 1/2+y,-x,1/2-z
+11 1/2-x,y,1/2+z
+12 1/2+x,1/2+y,-z
+13 1/2-y,1/2-x,z
+14 -y,1/2+x,1/2-z
+15 x,1/2-y,1/2+z
+16 y,x,z
+_cell_length_a                   18.655(2)
+_cell_length_b                   18.655(2)
+_cell_length_c                   5.438(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1892.47
+_exptl_crystal_colour            black
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te1 Te 0.6022(1) 0.1638(1) 0.3055(4)
+C1 C 0.527(1) 0.0269 0.5000
+C2 C 0.519(1) 0.080(1) 0.320(6)
+C3 C 0.471(2) 0.083(2) 0.162(6)
+C4 C 0.452(2) 0.145(2) -0.020(7)
+C5 C 0.406(4) 0.153(5) -0.19(1)
+Te1D Te 0.6638(1) 0.1022(1) 0.6945(4)
+C2D C 0.580(1) 0.019(1) 0.680(6)
+C1H C 0.473(1) -0.0269 0.5000
+C2H C 0.481(1) -0.080(1) 0.680(6)
+Te1H Te 0.3978(1) -0.1638(1) 0.6945(4)
+Te1L Te 0.3362(1) -0.1022(1) 0.3055(4)
+C2L C 0.420(1) -0.019(1) 0.320(6)
+C3L C 0.417(2) 0.029(2) 0.162(6)
+C5L C 0.347(5) 0.094(4) -0.19(1)
+C4L C 0.355(2) 0.048(2) -0.020(7)
+C3H C 0.529(2) -0.083(2) 0.838(6)
+C3D C 0.583(2) -0.029(2) 0.838(6)
+C4H C 0.548(2) -0.145(2) 1.020(7)
+C5H C 0.594(4) -0.153(5) 1.19(1)
+C5D C 0.653(5) -0.094(4) 1.19(1)
+C4D C 0.645(2) -0.048(2) 1.020(7)
+Br1? Br 0.7500 0.2500 0.5000
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Te1 C2 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C5L 1_555 1_555
+Te1D Te1 1_555 1_555
+C2D C1 1_555 1_555
+C1H C1 1_555 1_555
+C2H C1H 1_555 1_555
+Te1H C2H 1_555 1_555
+Te1L Te1H 1_555 1_555
+C2L C1H 1_555 1_555
+C3L C3 1_555 1_555
+C5L C4L 1_555 1_555
+C4L C3L 1_555 1_555
+C3H C2H 1_555 1_555
+C3D C2D 1_555 1_555
+C4H C3H 1_555 1_555
+C5H C4H 1_555 1_555
+C5D C5H 1_555 1_555
+C4D C3D 1_555 1_555
+Te1D C2D 1_555 1_555
+Te1L C2L 1_555 1_555
+C2L C3L 1_555 1_555
+C3H C3D 1_555 1_555
+C5D C4D 1_555 1_555
+
+#END

@@ -1,0 +1,216 @@
+Andrew Tarzia
+
+== Authors used for search ==
+== Only used last names in search --> many more candidates... == 
+== Avoids ambiguity with initials. == 
+- r.banerjee
+- F.Beuerle
+- C.J.Chang
+- A.I.cooper
+- d.j.Cram
+- c.j.doonan
+- a.p.Davis
+- f.Diederich
+- J.Gawronski
+- B.Gole
+- K.E.jelfs
+- w.Kiggen
+- K.Kim
+- M.Kitta
+- J.M.lehn
+- m.mastalerz
+- p.s.mukherjee
+- j.Nelson
+- Y.Pan
+- H.Pang
+- c.j.Pedersen
+- R.Qiao
+- m.l.c.Quan
+- j.p.Sauvage
+- C.A.Schalley
+- K.Severin
+- P.Skowronek
+- a.g.slater
+- f.Vogtle
+- C.Wang
+- M.D.Ward
+- R.Warmuth
+- D.Yuan
+- L.Yuan
+- M.Zeller
+- W.Zhang
+***
+
+== Method == 
+1) searched the CSD using the CSD API and the script get_from_author.py:
+    - search by author last name
+    - exclude:
+        - if 'catena' in entry.chemical_name or entry.chemical_name is None
+        - if entry.is_polymeric is True
+        - if entry.is_powder_study is True
+        - if entry.is_organometallic is True (ORGANIC CAGES ONLY)
+    --> 67721 cifs found from 35 authors 
+    --> REFCODEs in DB.gcd
+
+2) Using 'REFCODEs_to_CIFs.py' and CSD API.
+    - get CIFs in DB DIR from REFCODEs in DB.gcd
+    - save REFCODEs of entries with entry.has_3d_structure is False to misssing_struct.gcd
+        - check for possible cross references to old REFCODEs
+        - save cross references to cross_refs.csv
+    --> structures missing: 1677 of 67721
+    --> cross refs used: 1889 of 67721
+
+3) Sort structures based on the presence of a porous molecule in the CIF
+    - too many structures ot visualize manually
+    - run sort_structures.py
+        - checks if a CIF contains at least one molecule (by pywindow modularization) with
+        a pore_diameter_opt > some tolerance (set to 0.25 angstrom)
+        - deletes all CIFs collected in step 2 that fail this test        
+        - outputs the results to sorting.csv:
+            - cif with Y if deleted, N if not deleted (i.e. has porous molecule), M if
+            deleted because CIF was missing OR if ASE failed to load CIF.
+
+
+-----------
+
+
+2) load DB.gcd into conquest
+
+
+- Visually select cages from the Conquest search results
+	 - there are some 'ring'/'catenane' structures in there also
+
+- Visualized all CIFs and CCDC entries and flagged presence of: (in DB_sheet.ods)
+	- solvent in CIF
+	- disorder in cage backbone
+	- notes on structures
+	- Whether Squeeze/PLATON was used (based on the presence of that text in the CCDC entry, I did not check the original literature).
+
+- Clean DB based on disorder/presence of solvent, all notes in DB_sheet.ods
+	- CIFs with no solvent copied to ./no_solvent/
+	- use test_shape.py to determine shape persistence:
+		- modularize CIF and extract all independant cages
+		- run pywindow
+		- extract lowest energy conformer from an MD run using OPLS3
+		- run pywindow on lowest energy conformer
+		- comparison of pore diameter used to determine shape persistency
+
+
+== Notes ==  
+- CIFs with REFCODE (6 letter CSD code) as name have been extracted by Python CSD API based on CCDC code
+- CIFs with CCDC code as name (numerical code) were extracted manually from online CSD because they were not in the latest version of the CSD at the time of collection. Not sure how these differ, but it would be worth checking if these can be updated.
+- All python scripts are available in a git repo if required
+
+-------------------------------------------------------
+list of ALL CIFs (may differ from REFCODEs in CSD_search*.gcd)
+-------------------------------------------------------
+ABIKUU.cif
+ABILAB.cif
+ABILEF.cif
+ABILIJ.cif
+ABILOP.cif
+ABILUV.cif
+ABIMAC.cif
+ABIMEG.cif
+ABIMIK.cif
+ABIMOQ.cif
+ABIMUW.cif
+ABINAD.cif
+ABINEH.cif
+ABINIL.cif
+ABINUX.cif
+ABIPAF.cif
+ABIPEJ.cif
+ABIQEK.cif
+ABIQIO.cif
+CAFJAX.cif
+CAFJEB.cif
+CANHOR.cif
+CAXFIT.cif
+CAXFOZ.cif
+DEDTOY.cif
+DEDTUE.cif
+DEDVAM.cif
+DEDVEQ.cif
+DENMIV.cif
+DENMUH.cif
+DENNAO.cif
+GICGUX.cif
+IFAJOR.cif
+IFAJUX.cif
+IFAKAE.cif
+IFAKEI.cif
+IFAKIM.cif
+IYEMAC.cif
+IYEMEG.cif
+IYEMIK.cif
+KENRED.cif
+MAGJUC.cif
+PAWSEO.cif
+PAWSIS.cif
+PIFHIY.cif
+PIFHUK.cif
+PIFJAS.cif
+PIFJEW.cif
+PIFJIA.cif
+PIFJOG.cif
+PIFJUM.cif
+PIFKAT.cif
+PIFKEX.cif
+PIFKIB.cif
+PIFKOH.cif
+PIFKUN.cif
+PIFTOQ.cif
+PIFTUW.cif
+PIFVAE.cif
+PIFVEI.cif
+PIFVIM.cif
+PIFVOS.cif
+PIFVUY.cif
+PIFWAF.cif
+REGDUF.cif
+REHCIT.cif
+RELZEQ.cif
+RELZIU.cif
+RELZOA.cif
+RELZUG.cif
+REMBAP.cif
+REMBET.cif
+SAVYAS.cif
+SENNOR.cif
+SENNUX.cif
+SENPAF.cif
+SENPIN.cif
+SENPOT.cif
+SENPUZ.cif
+SENPUZ_ordered.cif
+SENQAG.cif
+SENQEK.cif
+SENQIO.cif
+SENQOU.cif
+SENQUA.cif
+SENRAH.cif
+SENREL.cif
+TASPUB.cif
+TASQAI.cif
+TASQEM.cif
+TASQIQ.cif
+TASQOW02.cif
+TASQOW.cif
+XAMQEK.cif
+XAMQIO.cif
+XAMQOU.cif
+XAMQUA.cif
+XAYMOC.cif
+XAYMUI.cif
+YEZLOH.cif
+YEZLUN.cif
+YEZMAU.cif
+YEZMIC.cif
+YEZMOI.cif
+YEZMUO.cif
+YEZNAV.cif
+YIGPOW.cif
+YIGQEN.cif
+
+

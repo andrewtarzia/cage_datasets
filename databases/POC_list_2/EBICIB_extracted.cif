@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_EBICIB
+_chemical_compound_source        'Speranskia tuberculata'
+_chemical_name_common            
+rel-(3R*,3'R*)-(+)-3,3'-Dihydroxy-4,4'-dimethoxy-3,3'-bis(2-oxopropyl)-1,1'-dimethyl-5,5'-bipyridine-2,2',6,6'-(1H,1'H,3H,3'H)-tetrone
+_chemical_formula_moiety         'C20 H24 N2 O10'
+_chemical_name_systematic        'Speranculatine A'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   11.958(2)
+_cell_length_b                   14.589(2)
+_cell_length_c                   13.142(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 112.47(1)
+_cell_angle_gamma                90
+_cell_volume                     2118.63
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prisms
+_chemical_melting_point          192-194deg.C
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 'ethyl acetate'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.1604(6) 0.2515(4) 0.4951(5)
+O2 O 0.9641(4) 0.1524(4) 0.5361(4)
+O3 O 1.0770(5) 0.0395(3) 0.7265(4)
+O4 O 1.1977(6) 0.3455(4) 0.8327(5)
+O5 O 1.3403(5) 0.0984(4) 0.6515(5)
+O6 O 1.1745(5) 0.1613(4) 1.2258(4)
+O7 O 1.3662(5) 0.2347(3) 1.1553(4)
+O8 O 1.3762(5) 0.1189(4) 0.9892(4)
+O9 O 0.9801(5) 0.2458(4) 0.8730(4)
+O10 O 1.1841(6) -0.0154(4) 1.0737(5)
+N1 N 1.1736(6) 0.3001(4) 0.6607(5)
+N2 N 1.0782(5) 0.2064(4) 1.0500(5)
+C1 C 1.1481(7) 0.2350(6) 0.5814(7)
+C2 C 1.0930(7) 0.1448(5) 0.5974(6)
+C3 C 1.1118(6) 0.1269(5) 0.7163(6)
+C4 C 1.1514(6) 0.1896(5) 0.7952(6)
+C5 C 1.1747(7) 0.2834(6) 0.7656(7)
+C6 C 1.1350(7) 0.0673(6) 0.5417(7)
+C7 C 1.2671(7) 0.0616(6) 0.5702(7)
+C8 C 1.3076(8) 0.0059(7) 0.4961(8)
+C9 C 1.0120(8) 0.0207(6) 0.7956(8)
+C10 C 1.2080(8) 0.3923(6) 0.6369(8)
+C11 C 1.1762(7) 0.1730(5) 1.1356(6)
+C12 C 1.2916(7) 0.1544(6) 1.1152(6)
+C13 C 1.2729(7) 0.1502(5) 0.9943(6)
+C14 C 1.1718(7) 0.1794(5) 0.9136(6)
+C15 C 1.0727(7) 0.2143(6) 0.9435(7)
+C16 C 1.3547(7) 0.0703(6) 1.1811(6)
+C17 C 1.2806(8) -0.0143(6) 1.1495(7)
+C18 C 1.3286(8) -0.0998(6) 1.2146(8)
+C19 C 1.4037(7) 0.1304(7) 0.8927(7)
+C20 C 0.9697(8) 0.2332(7) 1.0706(7)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C2 1_555 1_555
+O3 C3 1_555 1_555
+O4 C5 1_555 1_555
+O5 C7 1_555 1_555
+O6 C11 1_555 1_555
+O7 C12 1_555 1_555
+O8 C13 1_555 1_555
+O9 C15 1_555 1_555
+O10 C17 1_555 1_555
+N1 C1 1_555 1_555
+N2 C11 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 N1 1_555 1_555
+C6 C2 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 O3 1_555 1_555
+C10 N1 1_555 1_555
+C11 C12 1_555 1_555
+C12 C13 1_555 1_555
+C13 C14 1_555 1_555
+C14 C4 1_555 1_555
+C15 N2 1_555 1_555
+C16 C12 1_555 1_555
+C17 C16 1_555 1_555
+C18 C17 1_555 1_555
+C19 O8 1_555 1_555
+C20 N2 1_555 1_555
+C14 C15 1_555 1_555
+
+#END

@@ -1,0 +1,75 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_XAJNUT
+_chemical_formula_moiety         'C6 H2 Br1 F3'
+_chemical_name_systematic        1-Bromo-2,4,6-trifluorobenzene
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P c'
+_symmetry_Int_Tables_number      7
+_space_group_name_Hall           'P -2yc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+_cell_length_a                   6.105(3)
+_cell_length_b                   3.9567(15)
+_cell_length_c                   13.714(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 99.163(7)
+_cell_angle_gamma                90
+_cell_volume                     327.043
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '276.2 K'
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.40299(16) 0.03045(13) 0.25623(10)
+C1 C 0.6229(8) -0.1255(13) 0.3568(4)
+F1 F 0.8323(6) -0.3322(11) 0.2425(3)
+C2 C 0.8109(9) -0.2832(13) 0.3380(4)
+C3 C 0.9759(10) -0.3919(15) 0.4089(5)
+H1 H 1.1014 -0.4985 0.3932
+F2 F 1.1089(9) -0.4423(11) 0.5782(4)
+C4 C 0.9486(9) -0.3367(17) 0.5065(4)
+C5 C 0.7678(10) -0.1842(15) 0.5311(4)
+H2 H 0.7528 -0.1519 0.5969
+C6 C 0.6051(10) -0.0772(13) 0.4553(4)
+F3 F 0.4255(8) 0.0818(11) 0.4773(4)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 C1 1_555 1_555
+C1 C2 1_555 1_555
+F1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 H1 1_555 1_555
+F2 C4 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+H2 C5 1_555 1_555
+C6 C1 1_555 1_555
+F3 C6 1_555 1_555
+C5 C6 1_555 1_555
+
+#END

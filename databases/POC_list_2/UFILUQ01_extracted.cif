@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_UFILUQ01
+_chemical_formula_moiety         'C10 H10 O1 S8'
+_chemical_name_systematic        
+'(R)-syn-6,10-Diethyl[1,2,3]trithiolo[4,5-h]benzopentathiepin 7-oxide'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   8.832(2)
+_cell_length_b                   7.727(2)
+_cell_length_c                   11.685(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 99.40(1)
+_cell_angle_gamma                90
+_cell_volume                     786.733
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       prismatic
+_chemical_melting_point          105-106deg.C
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S -0.4601(2) -0.1315 -0.5449(1)
+S2 S -0.2440(2) -0.2061(4) -0.4567(2)
+S3 S -0.1631(2) -0.3303(3) -0.5895(2)
+S4 S -0.5082(2) -0.7893(3) -0.8735(1)
+S5 S -0.5396(2) -0.6984(3) -1.0394(2)
+S6 S -0.7726(3) -0.6943(4) -1.0907(2)
+S7 S -0.8448(2) -0.4936(4) -0.9976(2)
+S8 S -0.8163(2) -0.5852 -0.8311(2)
+O1 O -0.4572(7) 0.0209(7) -0.6208(6)
+C1 C -0.3419(6) -0.3999(8) -0.6592(5)
+C2 C -0.3523(6) -0.5403(8) -0.7392(5)
+C3 C -0.4959(7) -0.5951(8) -0.7891(5)
+C4 C -0.6318(6) -0.5109(9) -0.7686(5)
+C5 C -0.6227(6) -0.3668(8) -0.6936(5)
+C6 C -0.4760(7) -0.3173(8) -0.6390(5)
+C7 C -0.2046(7) -0.621(1) -0.7638(6)
+C8 C -0.1503(9) -0.773(1) -0.6872(9)
+C9 C -0.7612(7) -0.266(1) -0.6736(6)
+C10 C -0.8086(10) -0.128(1) -0.765(1)
+H1 H -0.1268 -0.5346 -0.7532
+H2 H -0.2204 -0.6588 -0.8422
+H3 H -0.1326 -0.7365 -0.6084
+H4 H -0.2263 -0.8607 -0.6974
+H5 H -0.0576 -0.8164 -0.7074
+H6 H -0.7390 -0.2114 -0.5999
+H7 H -0.8444 -0.3442 -0.6741
+H8 H -0.8967 -0.0690 -0.7484
+H9 H -0.8317 -0.1811 -0.8393
+H10 H -0.7268 -0.0481 -0.7649
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 S2 1_555 1_555
+S2 S3 1_555 1_555
+S3 C1 1_555 1_555
+S4 S5 1_555 1_555
+S5 S6 1_555 1_555
+S6 S7 1_555 1_555
+S7 S8 1_555 1_555
+S8 C4 1_555 1_555
+O1 S1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 S4 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+C6 S1 1_555 1_555
+C7 C2 1_555 1_555
+C8 C7 1_555 1_555
+C9 C5 1_555 1_555
+C10 C9 1_555 1_555
+H1 C7 1_555 1_555
+H2 C7 1_555 1_555
+H3 C8 1_555 1_555
+H4 C8 1_555 1_555
+H5 C8 1_555 1_555
+H6 C9 1_555 1_555
+H7 C9 1_555 1_555
+H8 C10 1_555 1_555
+H9 C10 1_555 1_555
+H10 C10 1_555 1_555
+C1 C6 1_555 1_555
+C5 C6 1_555 1_555
+
+#END

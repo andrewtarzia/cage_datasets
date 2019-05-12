@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DUHBEN
+_chemical_formula_moiety         'C16 H44 B8 Si5'
+_chemical_name_systematic        
+3,4,9,10-tetrakis(Trimethylsilyl)-7-sila-3,4,9,10-tetracarba-tridecaborane
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   10.101(3)
+_cell_length_b                   11.460(2)
+_cell_length_c                   13.486(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90.72(2)
+_cell_angle_gamma                90
+_cell_volume                     1560.98
+_chemical_melting_point          118deg.C
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 0.0000 0.0000 0.0000
+Si2 Si 0.2569(3) 0.2070(3) -0.1075(3)
+Si3 Si -0.1228(4) 0.2702(2) -0.1448(3)
+C1 C 0.1126(7) 0.1638(6) -0.0293(6)
+C2 C -0.0278(9) 0.1871(5) -0.0450(6)
+B1 B -0.1101(9) 0.1452(9) 0.0471(9)
+B2 B -0.0034(13) 0.0934(8) 0.1281(7)
+B3 B 0.1382(10) 0.1070(8) 0.0731(8)
+B4 B 0.0327(10) 0.2247(7) 0.0697(7)
+C3 C 0.2953(11) 0.3602(10) -0.0892(10)
+C4 C 0.2125(31) 0.1853(15) -0.2443(13)
+C5 C 0.3846(16) 0.1072(16) -0.0894(24)
+C6 C -0.1971(17) 0.1795(11) -0.2300(14)
+C7 C -0.0545(21) 0.4131(10) -0.1676(14)
+C8 C -0.2907(24) 0.3226(24) -0.0730(27)
+H1 H -0.218 0.159 0.048
+H2 H -0.061 0.049 0.205
+H3 H 0.222 0.078 0.095
+H4 H 0.051 0.316 0.096
+C1B C -0.1126(7) -0.1638(6) 0.0293(6)
+C2B C 0.0278(9) -0.1871(5) 0.0450(6)
+B1B B 0.1101(9) -0.1452(9) -0.0471(9)
+B2B B 0.0034(13) -0.0934(8) -0.1281(7)
+B3B B -0.1382(10) -0.1070(8) -0.0731(8)
+Si2B Si -0.2569(3) -0.2070(3) 0.1075(3)
+B4B B -0.0327(10) -0.2247(7) -0.0697(7)
+Si3B Si 0.1228(4) -0.2702(2) 0.1448(3)
+H1B H 0.218 -0.159 -0.048
+H2B H 0.061 -0.049 -0.205
+H3B H -0.222 -0.078 -0.095
+C3B C -0.2953(11) -0.3602(10) 0.0892(10)
+C4B C -0.2125(31) -0.1853(15) 0.2443(13)
+C5B C -0.3846(16) -0.1072(16) 0.0894(24)
+H4B H -0.051 -0.316 -0.096
+C6B C 0.1971(17) -0.1795(11) 0.2300(14)
+C7B C 0.0545(21) -0.4131(10) 0.1676(14)
+C8B C 0.2907(24) -0.3226(24) 0.0730(27)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Si1 C1 1_555 1_555
+Si2 C1 1_555 1_555
+Si3 C2 1_555 1_555
+C1 C2 1_555 1_555
+C2 Si1 1_555 1_555
+B1 Si1 1_555 1_555
+B2 Si1 1_555 1_555
+B3 Si1 1_555 1_555
+B4 C1 1_555 1_555
+C3 Si2 1_555 1_555
+C4 Si2 1_555 1_555
+C5 Si2 1_555 1_555
+C6 Si3 1_555 1_555
+C7 Si3 1_555 1_555
+C8 Si3 1_555 1_555
+H1 B1 1_555 1_555
+H2 B2 1_555 1_555
+H3 B3 1_555 1_555
+H4 B4 1_555 1_555
+C1B Si1 1_555 1_555
+C2B Si1 1_555 1_555
+B1B Si1 1_555 1_555
+B2B Si1 1_555 1_555
+B3B Si1 1_555 1_555
+Si2B C1B 1_555 1_555
+B4B C1B 1_555 1_555
+Si3B C2B 1_555 1_555
+H1B B1B 1_555 1_555
+H2B B2B 1_555 1_555
+H3B B3B 1_555 1_555
+C3B Si2B 1_555 1_555
+C4B Si2B 1_555 1_555
+C5B Si2B 1_555 1_555
+H4B B4B 1_555 1_555
+C6B Si3B 1_555 1_555
+C7B Si3B 1_555 1_555
+C8B Si3B 1_555 1_555
+C1 B3 1_555 1_555
+C2 B1 1_555 1_555
+C2 B4 1_555 1_555
+B1 B2 1_555 1_555
+B1 B4 1_555 1_555
+B2 B3 1_555 1_555
+B2 B4 1_555 1_555
+B3 B4 1_555 1_555
+C1B C2B 1_555 1_555
+C1B B3B 1_555 1_555
+C2B B1B 1_555 1_555
+C2B B4B 1_555 1_555
+B1B B2B 1_555 1_555
+B1B B4B 1_555 1_555
+B2B B3B 1_555 1_555
+B2B B4B 1_555 1_555
+B3B B4B 1_555 1_555
+
+#END

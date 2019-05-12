@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_LIDBIK
+_chemical_formula_moiety         'C17 H16 N4 O3 S2'
+_chemical_name_systematic        
+N-(4-(4-Methylphenylsulfamoyl)phenyl)-4-methyl-1,2,3-thiadiazole-5-carboxamide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   13.688(2)
+_cell_length_b                   16.704(3)
+_cell_length_c                   8.3308(12)
+_cell_angle_alpha                90
+_cell_angle_beta                 99.474(6)
+_cell_angle_gamma                90
+_cell_volume                     1878.81
+_exptl_crystal_colour            colorless
+_chemical_melting_point          186-187deg.C
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method ethanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.44447(5) -0.18630(4) 1.10450(7)
+S2 S 0.34604(5) 0.14555(4) 0.24099(7)
+O1 O 0.25687(13) -0.01870(10) 0.9479(2)
+O2 O 0.41294(13) 0.11776(12) 0.1376(2)
+O3 O 0.35158(14) 0.22594(10) 0.2984(2)
+N1 N 0.39624(18) -0.25054(13) 1.2220(3)
+N2 N 0.30254(18) -0.23801(14) 1.2191(3)
+N3 N 0.36958(15) -0.07324(12) 0.8078(2)
+N4 N 0.23556(15) 0.13075(14) 0.1348(2)
+C1 C 0.1582(2) -0.1565(2) 1.1047(5)
+H1 H 0.1501 -0.1061 1.1564
+H2 H 0.1251 -0.1977 1.1555
+H3 H 0.1301 -0.1532 0.9914
+C2 C 0.2652(2) -0.17580(15) 1.1213(3)
+C3 C 0.33473(17) -0.13932(13) 1.0462(2)
+C4 C 0.31696(17) -0.07071(13) 0.9307(2)
+C5 C 0.36387(16) -0.01860(13) 0.6766(2)
+C6 C 0.35029(18) 0.06237(14) 0.6960(3)
+H4 H 0.3441 0.0830 0.7975
+C7 C 0.34602(17) 0.11277(14) 0.5632(3)
+H5 H 0.3368 0.1674 0.5756
+C8 C 0.35533(15) 0.08252(13) 0.4127(2)
+C9 C 0.37074(18) 0.00148(14) 0.3939(3)
+H6 H 0.3784 -0.0188 0.2928
+C10 C 0.37474(18) -0.04895(14) 0.5253(3)
+H7 H 0.3847 -0.1035 0.5128
+C11 C 0.14958(17) 0.12923(15) 0.2129(3)
+C12 C 0.0838(2) 0.06723(18) 0.1782(3)
+H8 H 0.0949 0.0282 0.1037
+C13 C 0.0012(2) 0.0623(2) 0.2529(4)
+H9 H -0.0430 0.0202 0.2268
+C14 C -0.0171(2) 0.1183(2) 0.3651(4)
+C15 C 0.0492(2) 0.1806(2) 0.3980(4)
+H10 H 0.0386 0.2191 0.4739
+C16 C 0.1314(2) 0.1875(2) 0.3209(4)
+H11 H 0.1738 0.2311 0.3421
+C17 C -0.1069(3) 0.1109(3) 0.4495(5)
+H12 H -0.1617 0.1392 0.3880
+H13 H -0.0919 0.1334 0.5568
+H14 H -0.1240 0.0555 0.4571
+H15 H 0.2390(18) 0.0911(16) 0.074(3)
+H16 H 0.4013(17) -0.1137(14) 0.799(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 N1 1_555 1_555
+S2 O2 1_555 1_555
+O1 C4 1_555 1_555
+O3 S2 1_555 1_555
+N1 N2 1_555 1_555
+N2 C2 1_555 1_555
+N3 C4 1_555 1_555
+N4 S2 1_555 1_555
+C1 H1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C1 1_555 1_555
+C2 C1 1_555 1_555
+C3 S1 1_555 1_555
+C4 C3 1_555 1_555
+C5 N3 1_555 1_555
+C6 C5 1_555 1_555
+H4 C6 1_555 1_555
+C7 C6 1_555 1_555
+H5 C7 1_555 1_555
+C8 S2 1_555 1_555
+C9 C8 1_555 1_555
+H6 C9 1_555 1_555
+C10 C5 1_555 1_555
+H7 C10 1_555 1_555
+C11 N4 1_555 1_555
+C12 C11 1_555 1_555
+H8 C12 1_555 1_555
+C13 C12 1_555 1_555
+H9 C13 1_555 1_555
+C14 C13 1_555 1_555
+C15 C14 1_555 1_555
+H10 C15 1_555 1_555
+C16 C11 1_555 1_555
+H11 C16 1_555 1_555
+C17 C14 1_555 1_555
+H12 C17 1_555 1_555
+H13 C17 1_555 1_555
+H14 C17 1_555 1_555
+H15 N4 1_555 1_555
+H16 N3 1_555 1_555
+C2 C3 1_555 1_555
+C7 C8 1_555 1_555
+C9 C10 1_555 1_555
+C15 C16 1_555 1_555
+
+#END

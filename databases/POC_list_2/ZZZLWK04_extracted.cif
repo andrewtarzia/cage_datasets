@@ -1,0 +1,84 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ZZZLWK04
+_chemical_name_common            '1-Dodecylamine hydrochloride'
+_chemical_formula_moiety         'C12 H28 N1 1+,Cl1 1-'
+_chemical_name_systematic        'Dodecan-1-ylammonium chloride'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/m'
+_symmetry_Int_Tables_number      11
+_space_group_name_Hall           '-P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+3 -x,-y,-z
+4 x,1/2-y,z
+_cell_length_a                   5.6680(8)
+_cell_length_b                   7.1783(5)
+_cell_length_c                   17.7385(18)
+_cell_angle_alpha                90
+_cell_angle_beta                 92.7740(10)
+_cell_angle_gamma                90
+_cell_volume                     720.874
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2298(13) 0.6902(12) 0.4628(4)
+C1 C 0.1902(13) 0.7500 0.3840(4)
+C2 C 0.3885(15) 0.7120(20) 0.3359(4)
+C3 C 0.3530(13) 0.7500 0.2551(4)
+C4 C 0.5459(14) 0.7500 0.2049(4)
+C5 C 0.5194(13) 0.7500 0.1243(4)
+C6 C 0.7131(14) 0.7500 0.0753(4)
+C7 C 0.6916(14) 0.7500 -0.0057(4)
+C8 C 0.8847(14) 0.7500 -0.0540(4)
+C9 C 0.8660(13) 0.7500 -0.1352(4)
+C10 C 1.0590(14) 0.7500 -0.1832(4)
+C11 C 1.0436(15) 0.7500 -0.2636(4)
+C12 C 1.2399(17) 0.7500 -0.3108(5)
+N1C N 0.2298(13) 0.8098(12) 0.4628(4)
+C2C C 0.3885(15) 0.7880(20) 0.3359(4)
+Cl1 Cl 0.2585(3) 0.2500 0.4650(1)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+N1C N1 1_555 1_555
+C2C C1 1_555 1_555
+C1 N1C 1_555 1_555
+C2 C2C 1_555 1_555
+C3 C2C 1_555 1_555
+
+#END

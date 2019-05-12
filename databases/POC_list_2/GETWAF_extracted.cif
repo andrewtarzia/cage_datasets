@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_GETWAF
+_chemical_name_common            (3R,4R)-N-Benzyltartarimide
+_chemical_formula_moiety         'C11 H11 N1 O4'
+_chemical_name_systematic        
+(R,R)-1-Benzyl-3,4-dihydroxypyrrolidine-2,5-dione
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a                   4.700(2)
+_cell_length_b                   6.277(3)
+_cell_length_c                   34.263(16)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1010.82
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       needle
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method tetrahydrofuran
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6262(7) 0.4643(4) 0.18762(8)
+O2 O 0.7131(5) 0.8680(4) 0.22943(7)
+H1 H 0.7203 0.8280 0.2522
+O3 O 0.1442(6) 1.1301(4) 0.20779(8)
+H2 H -0.0075 1.0735 0.2135
+O4 O -0.0412(7) 0.9175(5) 0.13787(8)
+N1 N 0.2791(7) 0.6546(5) 0.15508(9)
+C1 C 0.4734(8) 0.6185(5) 0.18452(10)
+C2 C 0.4531(7) 0.8065(5) 0.21305(10)
+H3 H 0.3210 0.7692 0.2341
+C3 C 0.3204(8) 0.9808(5) 0.18827(10)
+H4 H 0.4738 1.0590 0.1752
+C4 C 0.1546(8) 0.8559(6) 0.15728(10)
+C5 C 0.1924(9) 0.4943(6) 0.12584(12)
+H5 H 0.0100 0.5348 0.1149
+H6 H 0.1692 0.3575 0.1386
+C6 C 0.4068(9) 0.4725(6) 0.09333(11)
+C7 C 0.4609(11) 0.6416(7) 0.06816(12)
+H7 H 0.3709 0.7717 0.0721
+C8 C 0.6456(13) 0.6181(9) 0.03756(14)
+H8 H 0.6756 0.7315 0.0206
+C9 C 0.7874(12) 0.4292(9) 0.03158(14)
+H9 H 0.9167 0.4156 0.0112
+C10 C 0.7346(12) 0.2593(8) 0.05639(15)
+H10 H 0.8253 0.1296 0.0522
+C11 C 0.5500(11) 0.2813(7) 0.08696(12)
+H11 H 0.5196 0.1670 0.1037
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 H1 1_555 1_555
+O3 H2 1_555 1_555
+O4 C4 1_555 1_555
+N1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 O2 1_555 1_555
+H3 C2 1_555 1_555
+C3 O3 1_555 1_555
+H4 C3 1_555 1_555
+C4 N1 1_555 1_555
+C5 N1 1_555 1_555
+H5 C5 1_555 1_555
+H6 C5 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+H7 C7 1_555 1_555
+C8 C7 1_555 1_555
+H8 C8 1_555 1_555
+C9 C8 1_555 1_555
+H9 C9 1_555 1_555
+C10 C9 1_555 1_555
+H10 C10 1_555 1_555
+C11 C6 1_555 1_555
+H11 C11 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C10 C11 1_555 1_555
+
+#END

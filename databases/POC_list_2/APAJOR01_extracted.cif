@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_APAJOR
+_chemical_name_common            
+1-Methyl-3-(2-(3-methyl-thioureido)ethyl)thiourea
+_chemical_formula_moiety         'C6 H14 N4 S2'
+_chemical_name_systematic        1,1'-Ethane-1,2-diylbis(3-methyl(thiourea))
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'P 42/n'
+_symmetry_Int_Tables_number      86
+_space_group_name_Hall           '-P 4bc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,1/2+x,1/2+z
+3 1/2-x,1/2-y,z
+4 1/2+y,-x,1/2+z
+5 -x,-y,-z
+6 y,1/2-x,1/2-z
+7 1/2+x,1/2+y,-z
+8 1/2-y,x,1/2-z
+_cell_length_a                   9.5098(5)
+_cell_length_b                   9.5098(5)
+_cell_length_c                   10.8333(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     979.724
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method ethanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.10525(5) 0.47966(5) 0.17890(4)
+N1 N 0.09555(15) 0.74683(15) 0.25753(13)
+H1 H 0.0679 0.8344 0.2479
+C1 C 0.05801(18) 0.65297(18) 0.17119(16)
+N2 N -0.02338(15) 0.69749(15) 0.07867(14)
+H2 H -0.0431 0.6367 0.0199
+C2 C -0.0820(2) 0.83771(19) 0.06699(18)
+H3 H -0.1246 0.8484 -0.0148
+H4 H -0.0070 0.9075 0.0773
+H5 H -0.1538 0.8520 0.1306
+C3 C 0.17901(19) 0.71320(19) 0.36599(16)
+H6 H 0.1940 0.6103 0.3695
+H7 H 0.1262 0.7410 0.4409
+S1B S 0.39475(5) 1.02034(5) 0.17890(4)
+N1B N 0.40445(15) 0.75317(15) 0.25753(13)
+H1B H 0.4321 0.6656 0.2479
+C1B C 0.44199(18) 0.84703(18) 0.17119(16)
+N2B N 0.52338(15) 0.80251(15) 0.07867(14)
+H2B H 0.5431 0.8633 0.0199
+C2B C 0.5820(2) 0.66229(19) 0.06699(18)
+H3B H 0.6246 0.6516 -0.0148
+H4B H 0.5070 0.5925 0.0773
+H5B H 0.6538 0.6480 0.1306
+C3B C 0.32099(19) 0.78680(19) 0.36599(16)
+H6B H 0.3060 0.8897 0.3695
+H7B H 0.3738 0.7590 0.4409
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C1 1_555 1_555
+N1 H1 1_555 1_555
+C1 N1 1_555 1_555
+N2 C1 1_555 1_555
+H2 N2 1_555 1_555
+C2 N2 1_555 1_555
+H3 C2 1_555 1_555
+H4 C2 1_555 1_555
+H5 C2 1_555 1_555
+C3 N1 1_555 1_555
+H6 C3 1_555 1_555
+H7 C3 1_555 1_555
+S1B C1B 1_555 1_555
+N1B H1B 1_555 1_555
+C1B N1B 1_555 1_555
+N2B C1B 1_555 1_555
+H2B N2B 1_555 1_555
+C2B N2B 1_555 1_555
+H3B C2B 1_555 1_555
+H4B C2B 1_555 1_555
+H5B C2B 1_555 1_555
+C3B C3 1_555 1_555
+H6B C3B 1_555 1_555
+H7B C3B 1_555 1_555
+N1B C3B 1_555 1_555
+
+#END

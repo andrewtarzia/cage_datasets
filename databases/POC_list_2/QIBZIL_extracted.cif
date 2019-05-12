@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_QIBZIL
+_chemical_name_common            'PDB Chemical Component code: 08C'
+_chemical_formula_moiety         'C15 H12 N2 O2'
+_chemical_name_systematic        2-(4-Methoxyphenyl)-4(3H)-quinazolinone
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   10.4202(14)
+_cell_length_b                   5.0199(5)
+_cell_length_c                   22.802(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 98.102(4)
+_cell_angle_gamma                90
+_cell_volume                     1180.83
+_exptl_crystal_colour            white
+_exptl_crystal_description       cuboid
+_chemical_melting_point          '244-245 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method dimethylformamide/water
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.10215(11) 0.2687(3) 0.96918(5)
+O2 O 0.52033(10) 1.2183(2) 0.86900(5)
+N1 N 0.05836(11) 0.4384(3) 0.92262(5)
+N2 N 0.09683(11) 0.3054(2) 0.82786(5)
+C1 C 0.12338(13) 0.4572(3) 0.87398(6)
+C2 C -0.04328(14) 0.2676(3) 0.92586(7)
+C3 C -0.07426(13) 0.0941(3) 0.87509(6)
+C4 C -0.17409(15) -0.0940(3) 0.87289(7)
+C5 C -0.20086(15) -0.2583(3) 0.82449(7)
+C6 C -0.12826(15) -0.2355(3) 0.77743(7)
+C7 C -0.03061(14) -0.0510(3) 0.77887(6)
+C8 C -0.00173(13) 0.1195(3) 0.82792(6)
+C9 C 0.22647(13) 0.6614(3) 0.87550(6)
+C10 C 0.26359(14) 0.8252(3) 0.92414(6)
+C11 C 0.36129(14) 1.0144(3) 0.92375(7)
+C12 C 0.42248(13) 1.0423(3) 0.87392(6)
+C13 C 0.38422(14) 0.8842(3) 0.82437(7)
+C14 C 0.28884(14) 0.6954(3) 0.82530(7)
+C15 C 0.56534(18) 1.3773(4) 0.91949(8)
+H1 H 0.0775(19) 0.539(4) 0.9554(9)
+H2 H -0.2232(18) -0.104(4) 0.9073(9)
+H3 H -0.2698(18) -0.389(4) 0.8234(8)
+H4 H -0.1443(17) -0.349(4) 0.7438(8)
+H5 H 0.0208(16) -0.036(3) 0.7471(8)
+H6 H 0.2221(17) 0.812(3) 0.9598(8)
+H7 H 0.3850(16) 1.131(4) 0.9592(8)
+H8 H 0.4275(17) 0.906(4) 0.7899(8)
+H9 H 0.2619(16) 0.581(3) 0.7915(8)
+H10 H 0.4935(19) 1.498(4) 0.9300(8)
+H11 H 0.639(2) 1.480(4) 0.9081(10)
+H12 H 0.5967(19) 1.263(4) 0.9542(9)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C2 1_555 1_555
+O2 C12 1_555 1_555
+N1 C1 1_555 1_555
+N2 C1 1_555 1_555
+C1 C9 1_555 1_555
+C2 N1 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+C8 N2 1_555 1_555
+C9 C10 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+C12 C13 1_555 1_555
+C13 C14 1_555 1_555
+C14 C9 1_555 1_555
+C15 O2 1_555 1_555
+H1 N1 1_555 1_555
+H2 C4 1_555 1_555
+H3 C5 1_555 1_555
+H4 C6 1_555 1_555
+H5 C7 1_555 1_555
+H6 C10 1_555 1_555
+H7 C11 1_555 1_555
+H8 C13 1_555 1_555
+H9 C14 1_555 1_555
+H10 C15 1_555 1_555
+H11 C15 1_555 1_555
+H12 C15 1_555 1_555
+C3 C8 1_555 1_555
+C7 C8 1_555 1_555
+
+#END

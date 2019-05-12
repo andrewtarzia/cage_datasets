@@ -1,0 +1,93 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_UDOQUC
+_chemical_formula_moiety         'C4 H1 N7 O5'
+_chemical_name_systematic        
+3-nitro-4-(3-nitro-1H-1,2,4-triazol-5-yl)-1,2,5-oxadiazole
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 x,1/2-y,1/2+z
+8 1/2-x,1/2+y,z
+_cell_length_a                   9.9248(9)
+_cell_length_b                   12.4951(13)
+_cell_length_c                   13.0059(15)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1612.88
+_exptl_crystal_description       block
+_chemical_melting_point          '191 deg.C (dec.)'
+_cell_formula_units_Z            8
+_chemical_properties_physical    'impact- and friction-sensitive; explosive'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.8774(2) 0.21878(19) 0.42428(17)
+C2 C 0.8312(2) 0.25792(19) 0.32930(17)
+C3 C 0.8286(2) 0.48045(18) 0.16742(17)
+C4 C 0.8549(2) 0.35627(18) 0.27022(17)
+N1 N 0.8224(2) 0.12830(17) 0.44742(15)
+N2 N 0.7434(2) 0.18800(17) 0.29358(15)
+N3 N 0.97624(18) 0.26435(16) 0.49345(15)
+N4 N 0.97051(19) 0.40945(17) 0.25936(15)
+H1 H 1.042(3) 0.401(2) 0.2855(18)
+N5 N 0.95664(17) 0.49027(16) 0.19202(15)
+N6 N 0.76014(17) 0.40089(15) 0.21217(14)
+N7 N 0.7636(2) 0.55225(15) 0.09594(15)
+O1 O 0.73885(17) 0.10763(13) 0.36598(14)
+O2 O 1.05152(16) 0.33062(15) 0.45414(13)
+O3 O 0.97958(17) 0.23442(15) 0.58200(13)
+O4 O 0.64176(16) 0.54542(14) 0.08911(14)
+O5 O 0.83338(18) 0.61395(15) 0.04735(15)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C4 1_555 1_555
+C3 N5 1_555 1_555
+C4 N4 1_555 1_555
+N1 C1 1_555 1_555
+N2 C2 1_555 1_555
+N3 C1 1_555 1_555
+N4 H1 1_555 1_555
+N5 N4 1_555 1_555
+N6 C3 1_555 1_555
+N7 C3 1_555 1_555
+O1 N1 1_555 1_555
+O2 N3 1_555 1_555
+O3 N3 1_555 1_555
+O4 N7 1_555 1_555
+O5 N7 1_555 1_555
+C4 N6 1_555 1_555
+N2 O1 1_555 1_555
+
+#END

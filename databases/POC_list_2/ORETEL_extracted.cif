@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ORETEL
+_chemical_name_common            '2-Methylquinolinium saccharinate'
+_chemical_formula_moiety         'C10 H10 N1 1+,C7 H4 N1 O3 S1 1-'
+_chemical_name_systematic        
+'2-Methylquinolinium 3-oxo-3H-1,2-benzothiazol-2-ide 1,1-dioxide'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   7.7811(7)
+_cell_length_b                   19.4209(19)
+_cell_length_c                   10.9719(12)
+_cell_angle_alpha                90
+_cell_angle_beta                 107.739(1)
+_cell_angle_gamma                90
+_cell_volume                     1579.2
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '186-188 deg.C (dec.)'
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.7079(4) 0.63513(16) 0.2019(3)
+O1 O 0.8264(3) 0.63719(14) 0.0149(2)
+O2 O 0.8625(4) 0.73841(15) 0.1476(3)
+O3 O 0.4564(4) 0.59987(14) 0.2490(2)
+S1 S 0.75574(12) 0.68010(5) 0.09379(9)
+C1 C 0.5303(5) 0.63297(18) 0.1817(3)
+C2 C 0.4227(5) 0.67311(17) 0.0692(3)
+C3 C 0.5339(4) 0.70453(17) 0.0098(3)
+C4 C 0.4659(5) 0.74422(19) -0.0980(3)
+H2 H 0.5417 0.7650 -0.1382
+C5 C 0.2809(6) 0.7521(2) -0.1444(3)
+H3 H 0.2311 0.7792 -0.2165
+C6 C 0.1696(5) 0.72053(19) -0.0855(3)
+H4 H 0.0454 0.7261 -0.1191
+C7 C 0.2380(5) 0.68103(18) 0.0217(3)
+H5 H 0.1619 0.6601 0.0616
+N2 N 0.6715(4) 0.50716(15) 0.3939(3)
+H1 H 0.6030 0.5377 0.3461
+C8 C 0.6253(6) 0.4440(2) 0.1990(4)
+H6 H 0.5017 0.4298 0.1791
+H7 H 0.6916 0.4105 0.1672
+H8 H 0.6310 0.4878 0.1597
+C9 C 0.7050(5) 0.4503(2) 0.3395(4)
+C10 C 0.8142(6) 0.4004(2) 0.4164(4)
+H9 H 0.8397 0.3600 0.3797
+C11 C 0.8835(6) 0.41013(19) 0.5439(4)
+H10 H 0.9562 0.3763 0.5941
+C12 C 0.8472(5) 0.47033(18) 0.6011(3)
+C13 C 0.7389(5) 0.52031(18) 0.5213(3)
+C14 C 0.7015(5) 0.58266(19) 0.5719(4)
+H11 H 0.6297 0.6158 0.5192
+C15 C 0.7727(6) 0.5936(2) 0.6996(4)
+H12 H 0.7500 0.6351 0.7340
+C16 C 0.8781(6) 0.5446(2) 0.7799(4)
+H13 H 0.9241 0.5534 0.8671
+C17 C 0.9145(6) 0.4844(2) 0.7324(4)
+H14 H 0.9850 0.4517 0.7873
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 S1 1_555 1_555
+N2 H1 1_555 1_555
+O1 S1 1_555 1_555
+O2 S1 1_555 1_555
+O3 C1 1_555 1_555
+S1 C3 1_555 1_555
+C1 N1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+H2 C4 1_555 1_555
+C5 C4 1_555 1_555
+H3 C5 1_555 1_555
+C6 C5 1_555 1_555
+H4 C6 1_555 1_555
+C7 C2 1_555 1_555
+H5 C7 1_555 1_555
+C8 H6 1_555 1_555
+H7 C8 1_555 1_555
+H8 C8 1_555 1_555
+C9 N2 1_555 1_555
+C10 C9 1_555 1_555
+H9 C10 1_555 1_555
+C11 C10 1_555 1_555
+H10 C11 1_555 1_555
+C12 C11 1_555 1_555
+C13 N2 1_555 1_555
+C14 C13 1_555 1_555
+H11 C14 1_555 1_555
+C15 C14 1_555 1_555
+H12 C15 1_555 1_555
+C16 C15 1_555 1_555
+H13 C16 1_555 1_555
+C17 C12 1_555 1_555
+H14 C17 1_555 1_555
+C6 C7 1_555 1_555
+C8 C9 1_555 1_555
+C12 C13 1_555 1_555
+C16 C17 1_555 1_555
+
+#END
