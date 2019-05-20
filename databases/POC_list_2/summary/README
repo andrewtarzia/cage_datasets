@@ -61,7 +61,7 @@ Andrew Tarzia
     --> cross refs used: 1889 of 67721
 
 3) Sort structures based on the presence of a porous molecule in the CIF
-    - too many structures ot visualize manually
+    - too many structures to visualize manually
     - run sort_structures.py
         - checks if a CIF contains at least one molecule (by pywindow modularization) with
         a pore_diameter_opt > some tolerance (set to 0.25 angstrom)
@@ -69,7 +69,12 @@ Andrew Tarzia
         - outputs the results to sorting.csv:
             - cif with Y if deleted, N if not deleted (i.e. has porous molecule), M if
             deleted because CIF was missing OR if ASE failed to load CIF.
+        - if a structure fails with a Memory error, it suggests the structure is very
+        disordered, and they are moved to ./memory/
+        - if 'Unknown' in .cif --> remove structure as it will fail.
 
+4) Check structures in ./memory/ for simple fixes
+    - these structures are likely broken due to disorder
 
 -----------
 
