@@ -48,7 +48,7 @@ Andrew Tarzia
         - if 'catena' in entry.chemical_name or entry.chemical_name is None
         - if entry.is_polymeric is True
         - if entry.is_powder_study is True
-        - if entry.is_organometallic is True (ORGANIC CAGES ONLY)
+        - if entry.is_organometallic is True (ORGANIC CAGES ONLY) (NOTE THAT THE CSD IS NOT PERFECT AT GETTING THIS VALUE RIGHT - Mg is not considered metallic?)
     --> 67721 cifs found from 35 authors 
     --> REFCODEs in DB.gcd
 
@@ -72,9 +72,43 @@ Andrew Tarzia
         - if a structure fails with a Memory error, it suggests the structure is very
         disordered, and they are moved to ./memory/
         - if 'Unknown' in .cif --> remove structure as it will fail.
+    - THIS METHODOLOGY WILL REMOVE STRUCTURES THAT ARE CAGE-LIKE BUT NONPOROUS
 
 4) Check structures in ./memory/ for simple fixes
     - these structures are likely broken due to disorder
+    - structures tested:
+		* IYEMAC_extracted.cif — is cage — keep
+		* NEDBUW_extracted.cif — is cage — do not keep because is_organometallic fails
+		* PAWSEO_extracted.cif — is porous — keep (has Rb — suggesting it shouldn't have passed to this step?)
+		* QEFMUM_extracted.cif — is porous — keep
+		* TEKZER_extracted.cif — not porous — do not keep
+		* WOSMUO02_extracted.cif — periodic/nonporous — do not keep
+		* WOSMUO03_extracted.cif — periodic/nonporous — do not keep
+		* WOSMUO04_extracted.cif — periodic/nonporous — do not keep
+		* WOSMUO05_extracted.cif — periodic/nonporous — do not keep
+		* ZODXEX_extracted.cif — nonporous — do not keep
+    - by:
+        - delete all atoms in CIF with '?'
+        - if this fails, then we do not keep that structure because any other changes require manual chemical modifications:
+            - failed for PAWSEO_extracted.cif and QEFMUM_extracted.cif
+        - copy .cif, .pdb and _rebuild.pdb from /memory/ to ../
+
+5) Write post_pw.gcd using CIFs_to_GCD.py
+    - assumes that any remaining CIFs must be accepted
+    - have 5907 CIFs at this stage
+
+6) load post_pw.gcd into conquest
+    - visually select cages from the Conquest search results
+        - also kept bowl/catenane/ring like porous molecules.
+        - ignored rotaxanes like AROBUG
+        - check cross_refs
+        - general guiding principle - does the structure have a 'binding pocket'?
+    - save remaining REFCODEs to visual_selected.gcd
+        - 2473 REFCODEs in .gcd file
+
+7) delete CIFs/PDBs in DIR that are not in visual_selected.gcd
+
+8) 
 
 -----------
 
@@ -82,7 +116,7 @@ Andrew Tarzia
 2) load DB.gcd into conquest
 
 
-- Visually select cages from the Conquest search results
+
 	 - there are some 'ring'/'catenane' structures in there also
 
 - Visualized all CIFs and CCDC entries and flagged presence of: (in DB_sheet.ods)
