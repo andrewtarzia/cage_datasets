@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BIXSIL
+_chemical_formula_moiety         'C7 H15 As1 O4 S1'
+_chemical_name_systematic        1-Dimethylarsino-1-thio-\b-D-xylopyranose
+_chemical_properties_biological  
+'Shows in-vitro inhibition of 56 tumour cell lines from Leukaemia, Melanoma, Colon, CNS, Ovarian, Renal, Breast, Prostate and Non-small cell Lung cancers'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   6.7637(12)
+_cell_length_b                   5.3432(9)
+_cell_length_c                   15.111(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 99.938(3)
+_cell_angle_gamma                90
+_cell_volume                     537.914
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_cell_formula_units_Z            2
+_exptl_crystal_recrystallization_method methanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+As1 As 0.23729(4) 0.07798(9) 0.618611(17)
+S1 S 0.34673(12) -0.01423(14) 0.76389(5)
+O1 O 0.6913(3) 0.1927(4) 0.74551(15)
+O2 O 0.4184(3) 0.3427(4) 0.93045(15)
+H1 H 0.3570 0.2152 0.9437
+O3 O 0.8148(3) 0.4980(4) 1.00598(14)
+H2 H 0.8627 0.3623 1.0281
+O4 O 1.0658(3) 0.6067(5) 0.87683(15)
+H3 H 1.1803 0.5467 0.8759
+C1 C 0.5222(4) 0.2424(6) 0.7881(2)
+H4 H 0.4560 0.4010 0.7634
+C2 C 0.5866(4) 0.2676(6) 0.8906(2)
+H5 H 0.6397 0.1039 0.9166
+C3 C 0.7471(4) 0.4673(6) 0.9115(2)
+H6 H 0.6857 0.6295 0.8879
+C4 C 0.9199(4) 0.4120(6) 0.8614(2)
+H7 H 0.9838 0.2492 0.8827
+C5 C 0.8342(4) 0.3939(6) 0.7613(2)
+H8 H 0.7679 0.5535 0.7403
+H9 H 0.9443 0.3638 0.7271
+C6 C -0.0098(5) -0.1220(7) 0.6060(2)
+H10 H -0.0833 -0.1075 0.5444
+H11 H -0.0938 -0.0604 0.6481
+H12 H 0.0247 -0.2977 0.6193
+C7 C 0.3920(5) -0.1631(8) 0.5591(2)
+H13 H 0.3652 -0.3333 0.5780
+H14 H 0.5356 -0.1268 0.5759
+H15 H 0.3522 -0.1488 0.4938
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+As1 S1 1_555 1_555
+S1 C1 1_555 1_555
+O1 C1 1_555 1_555
+O2 H1 1_555 1_555
+O3 H2 1_555 1_555
+O4 H3 1_555 1_555
+C1 H4 1_555 1_555
+C2 O2 1_555 1_555
+H5 C2 1_555 1_555
+C3 O3 1_555 1_555
+H6 C3 1_555 1_555
+C4 O4 1_555 1_555
+H7 C4 1_555 1_555
+C5 O1 1_555 1_555
+H8 C5 1_555 1_555
+H9 C5 1_555 1_555
+C6 As1 1_555 1_555
+H10 C6 1_555 1_555
+H11 C6 1_555 1_555
+H12 C6 1_555 1_555
+C7 As1 1_555 1_555
+H13 C7 1_555 1_555
+H14 C7 1_555 1_555
+H15 C7 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+
+#END

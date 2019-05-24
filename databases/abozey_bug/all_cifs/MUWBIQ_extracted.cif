@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_MUWBIQ
+_chemical_name_common            'Melotenine A'
+_chemical_formula_moiety         'C21 H22 N2 O2'
+_chemical_name_systematic        
+'Methyl 4-methyl-1,5,7,12,13,13b-hexahydro-7,13a-diazaazuleno[8,1-cd]fluorene-6-carboxylate'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a                   6.5866(13)
+_cell_length_b                   10.932(2)
+_cell_length_c                   24.192(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1741.94
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       block
+_chemical_melting_point          174deg.C
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.5999(4) 1.0687(2) 0.94942(10)
+H1 H 0.5230 1.0457 0.9762
+N2 N 1.0258(4) 1.0650(2) 0.79559(10)
+C1 C 1.0566(6) 1.0276(3) 0.73767(13)
+H2 H 1.0785 0.9399 0.7363
+H3 H 1.1776 1.0672 0.7234
+O1 O 0.3843(4) 0.86002(19) 0.97050(9)
+O2 O 0.4228(4) 0.70213(19) 0.91197(9)
+C2 C 0.8168(5) 1.0422(3) 0.81458(11)
+H4 H 0.7296 1.1072 0.8000
+C3 C 0.6754(5) 0.9926(3) 0.90915(12)
+C4 C 0.4655(5) 0.8172(3) 0.92982(13)
+C5 C 0.8058(5) 1.1905(3) 0.89786(12)
+C6 C 0.8379(5) 1.0607(3) 0.87770(11)
+C7 C 0.6659(5) 0.9040(3) 0.74581(13)
+C8 C 0.6660(5) 1.1892(3) 0.94068(12)
+C9 C 0.6152(5) 0.8772(3) 0.89607(12)
+C10 C 0.8943(6) 1.2993(3) 0.88154(13)
+H5 H 0.9895 1.3011 0.8532
+C11 C 1.1586(6) 0.9994(3) 0.83379(13)
+H6 H 1.2933 1.0353 0.8342
+H7 H 1.1696 0.9139 0.8235
+C12 C 0.7038(6) 1.0005(3) 0.70443(13)
+H8 H 0.6015 1.0206 0.6796
+C13 C 0.6091(6) 1.2947(3) 0.96841(13)
+H9 H 0.5155 1.2928 0.9972
+C14 C 0.6977(6) 1.4029(3) 0.95135(15)
+H10 H 0.6624 1.4754 0.9690
+C15 C 0.7250(5) 0.9192(3) 0.79810(12)
+C16 C 0.7009(6) 0.8234(3) 0.84306(12)
+H11 H 0.8320 0.7868 0.8507
+H12 H 0.6111 0.7593 0.8300
+C17 C 0.8805(6) 1.0595(3) 0.70165(13)
+H13 H 0.8946 1.1230 0.6763
+C18 C 1.0560(5) 1.0132(3) 0.89022(13)
+H14 H 1.1294 1.0711 0.9131
+H15 H 1.0506 0.9351 0.9092
+C19 C 0.5550(6) 0.7933(3) 0.72416(14)
+H16 H 0.4842 0.7540 0.7540
+H17 H 0.6509 0.7372 0.7083
+H18 H 0.4594 0.8182 0.6964
+C20 C 0.8368(6) 1.4063(3) 0.90886(14)
+H19 H 0.8930 1.4808 0.8983
+C21 C 0.2801(6) 0.6362(3) 0.94598(15)
+H20 H 0.1512 0.6772 0.9453
+H21 H 0.3296 0.6330 0.9833
+H22 H 0.2646 0.5546 0.9320
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 H1 1_555 1_555
+N2 C1 1_555 1_555
+C1 H2 1_555 1_555
+H3 C1 1_555 1_555
+O1 C4 1_555 1_555
+O2 C4 1_555 1_555
+C2 N2 1_555 1_555
+H4 C2 1_555 1_555
+C3 N1 1_555 1_555
+C4 C9 1_555 1_555
+C5 C6 1_555 1_555
+C6 C2 1_555 1_555
+C7 C12 1_555 1_555
+C8 N1 1_555 1_555
+C9 C3 1_555 1_555
+C10 C5 1_555 1_555
+H5 C10 1_555 1_555
+C11 N2 1_555 1_555
+H6 C11 1_555 1_555
+H7 C11 1_555 1_555
+C12 H8 1_555 1_555
+C13 C8 1_555 1_555
+H9 C13 1_555 1_555
+C14 C13 1_555 1_555
+H10 C14 1_555 1_555
+C15 C2 1_555 1_555
+C16 C9 1_555 1_555
+H11 C16 1_555 1_555
+H12 C16 1_555 1_555
+C17 C1 1_555 1_555
+H13 C17 1_555 1_555
+C18 C6 1_555 1_555
+H14 C18 1_555 1_555
+H15 C18 1_555 1_555
+C19 C7 1_555 1_555
+H16 C19 1_555 1_555
+H17 C19 1_555 1_555
+H18 C19 1_555 1_555
+C20 C10 1_555 1_555
+H19 C20 1_555 1_555
+C21 O2 1_555 1_555
+H20 C21 1_555 1_555
+H21 C21 1_555 1_555
+H22 C21 1_555 1_555
+C3 C6 1_555 1_555
+C5 C8 1_555 1_555
+C7 C15 1_555 1_555
+C11 C18 1_555 1_555
+C12 C17 1_555 1_555
+C14 C20 1_555 1_555
+C15 C16 1_555 1_555
+
+#END

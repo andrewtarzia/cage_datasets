@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WANDUL
+_chemical_formula_moiety         'C10 H6 N4 O4'
+_chemical_name_systematic        
+3,8-Dihydropyridazino(4,5-g)phthalazino-1,4,6,9-tetrone
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'F m m m'
+_symmetry_Int_Tables_number      69
+_space_group_name_Hall           '-F 2 2'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2+z
+3 1/2+x,y,1/2+z
+4 1/2+x,1/2+y,z
+5 -x,-y,z
+6 x,-y,-z
+7 -x,y,-z
+8 -x,1/2-y,1/2+z
+9 x,1/2-y,1/2-z
+10 -x,1/2+y,1/2-z
+11 1/2-x,-y,1/2+z
+12 1/2+x,-y,1/2-z
+13 1/2-x,y,1/2-z
+14 1/2-x,1/2-y,z
+15 1/2+x,1/2-y,-z
+16 1/2-x,1/2+y,-z
+17 -x,-y,-z
+18 -x,1/2-y,1/2-z
+19 1/2-x,-y,1/2-z
+20 1/2-x,1/2-y,-z
+21 x,y,-z
+22 -x,y,z
+23 x,-y,z
+24 x,1/2+y,1/2-z
+25 -x,1/2+y,1/2+z
+26 x,1/2-y,1/2+z
+27 1/2+x,y,1/2-z
+28 1/2-x,y,1/2+z
+29 1/2+x,-y,1/2+z
+30 1/2+x,1/2+y,-z
+31 1/2-x,1/2+y,z
+32 1/2+x,1/2-y,z
+_cell_length_a                   17.237(6)
+_cell_length_b                   8.983(2)
+_cell_length_c                   6.1602(15)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     953.845
+_exptl_crystal_colour            brown
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.14633(8) 0.20083(19) 0.0000
+N1 N 0.20808(11) 0.4225(2) 0.0000
+H1 H 0.2520 0.3770 0.0000
+C1 C 0.14417(11) 0.3425(3) 0.0000
+C2 C 0.06952(11) 0.4218(2) 0.0000
+C3 C 0.0000 0.3434(4) 0.0000
+H2 H 0.0000 0.2398 0.0000
+O1V O 0.14633(8) 0.79917(19) 0.0000
+O1U O -0.14633(8) 0.20083(19) 0.0000
+O1P O -0.14633(8) 0.79917(19) 0.0000
+N1V N 0.20808(11) 0.5775(2) 0.0000
+N1U N -0.20808(11) 0.4225(2) 0.0000
+N1P N -0.20808(11) 0.5775(2) 0.0000
+H1V H 0.2520 0.6230 0.0000
+H1U H -0.2520 0.3770 0.0000
+H1P H -0.2520 0.6230 0.0000
+C1V C 0.14417(11) 0.6575(3) 0.0000
+C1U C -0.14417(11) 0.3425(3) 0.0000
+C1P C -0.14417(11) 0.6575(3) 0.0000
+C2V C 0.06952(11) 0.5782(2) 0.0000
+C2U C -0.06952(11) 0.4218(2) 0.0000
+C2P C -0.06952(11) 0.5782(2) 0.0000
+C3V C 0.0000 0.6566(4) 0.0000
+H2V H 0.0000 0.7602 0.0000
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+N1 H1 1_555 1_555
+C1 N1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+H2 C3 1_555 1_555
+O1V C1V 1_555 1_555
+O1U C1U 1_555 1_555
+O1P C1P 1_555 1_555
+N1V N1 1_555 1_555
+N1U N1P 1_555 1_555
+N1P H1P 1_555 1_555
+H1V N1V 1_555 1_555
+H1U N1U 1_555 1_555
+C1V N1V 1_555 1_555
+C1U N1U 1_555 1_555
+C1P N1P 1_555 1_555
+C2V C2 1_555 1_555
+C2U C3 1_555 1_555
+C2P C1P 1_555 1_555
+C3V C2V 1_555 1_555
+H2V C3V 1_555 1_555
+C1V C2V 1_555 1_555
+C1U C2U 1_555 1_555
+C2U C2P 1_555 1_555
+C2P C3V 1_555 1_555
+
+#END

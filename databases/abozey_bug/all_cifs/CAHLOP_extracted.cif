@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CAHLOP
+_chemical_name_common            4,4'-dicyano-2-methylbiphenyl
+_chemical_formula_moiety         'C15 H10 N2'
+_chemical_name_systematic        2-methylbiphenyl-4,4'-dicarbonitrile
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,1/2+z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   16.1822(17)
+_cell_length_b                   7.2521(9)
+_cell_length_c                   10.6317(14)
+_cell_angle_alpha                90
+_cell_angle_beta                 112.227(4)
+_cell_angle_gamma                90
+_cell_volume                     1154.97
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '406 K'
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.41285(8) 1.15396(16) 0.76534(12)
+H1 H 0.4234 1.2576 0.7188
+C2 C 0.34697(8) 1.16403(18) 0.81827(13)
+H2 H 0.3133 1.2738 0.8096
+C3 C 0.38148(10) 0.85165(18) 0.89926(14)
+H3 H 0.3702 0.7480 0.9451
+C4 C 0.44830(10) 0.84286(17) 0.84774(14)
+C5 C 0.46444(7) 0.99487(15) 0.77854(11)
+C6 C 0.26016(10) 1.0156(2) 0.93580(15)
+C7 C 0.33084(8) 1.01065(18) 0.88445(12)
+N1 N 0.20287(10) 1.01632(19) 0.97378(16)
+C8 C 0.4878(2) 0.6602(4) 0.8616(3)
+H4 H 0.4783 0.5937 0.9352
+H5 H 0.5520 0.6717 0.8826
+H6 H 0.4597 0.5921 0.7763
+C1A C 0.58715(8) 1.15396(16) 0.73466(12)
+H1A H 0.5766 1.2576 0.7812
+C2A C 0.65303(8) 1.16403(18) 0.68173(13)
+H2A H 0.6867 1.2738 0.6904
+C3A C 0.61852(10) 0.85165(18) 0.60074(14)
+H3A H 0.6298 0.7480 0.5549
+C4A C 0.55170(10) 0.84286(17) 0.65226(14)
+C5A C 0.53556(7) 0.99487(15) 0.72146(11)
+C6A C 0.73984(10) 1.0156(2) 0.56420(15)
+C7A C 0.66916(8) 1.01065(18) 0.61555(12)
+N1A N 0.79713(10) 1.01632(19) 0.52622(16)
+C8A C 0.5122(2) 0.6602(4) 0.6384(3)
+H4A H 0.5217 0.5937 0.5648
+H5A H 0.4480 0.6717 0.6174
+H6A H 0.5403 0.5921 0.7237
+H7? H 0.4831 0.7341 0.8592
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 H1 1_555 1_555
+C2 C1 1_555 1_555
+H2 C2 1_555 1_555
+C3 H3 1_555 1_555
+C4 C3 1_555 1_555
+C5 C1 1_555 1_555
+C6 C7 1_555 1_555
+C7 C2 1_555 1_555
+N1 C6 1_555 1_555
+C8 C4 1_555 1_555
+H4 C8 1_555 1_555
+H5 C8 1_555 1_555
+H6 C8 1_555 1_555
+C1A H1A 1_555 1_555
+C2A C1A 1_555 1_555
+H2A C2A 1_555 1_555
+C3A H3A 1_555 1_555
+C4A C3A 1_555 1_555
+C5A C5 1_555 1_555
+C6A C7A 1_555 1_555
+C7A C2A 1_555 1_555
+N1A C6A 1_555 1_555
+C8A C4A 1_555 1_555
+H4A C8A 1_555 1_555
+H5A C8A 1_555 1_555
+H6A C8A 1_555 1_555
+C3 C7 1_555 1_555
+C4 C5 1_555 1_555
+C1A C5A 1_555 1_555
+C3A C7A 1_555 1_555
+C4A C5A 1_555 1_555
+
+#END

@@ -1,0 +1,97 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SIMELL
+_chemical_name_common            Simonellite
+_chemical_formula_moiety         'C19 H24'
+_chemical_name_systematic        
+1,1-Dimethyl-7-isopropyl-1,2,3,4-tetrahydro-phenanthrene
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P n a a'
+_symmetry_Int_Tables_number      56
+_space_group_name_Hall           '-P 2ac 2bc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 x,1/2-y,1/2-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 -x,1/2+y,1/2+z
+8 1/2+x,1/2-y,z
+_cell_length_a                   9.231(3)
+_cell_length_b                   9.134(3)
+_cell_length_c                   36.01(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     3036.22
+_chemical_melting_point          59-60deg.C
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.09458 -0.41988 0.18070
+C2 C 0.19724 -0.36482 0.11755
+C3 C 0.21548 -0.43981 0.15204
+C4 C 0.33539 -0.52289 0.15772
+C5 C 0.44191 -0.54036 0.12869
+C6 C 0.42167 -0.46450 0.09458
+C7 C 0.09385 -0.25952 0.19488
+C8 C -0.05379 -0.45449 0.16356
+C9 C 0.76321 -0.57354 0.03970
+C10 C 0.91250 -0.53048 0.05351
+C11 C 0.76532 -0.72626 0.02213
+C12 C 0.11495 -0.52606 0.21374
+C13 C 0.26874 -0.53575 0.22579
+C14 C 0.36318 -0.59963 0.19476
+C15 C 0.56490 -0.62905 0.13186
+C16 C 0.66610 -0.64189 0.10416
+C17 C 0.64867 -0.56203 0.07029
+C18 C 0.53031 -0.47761 0.06625
+C19 C 0.29930 -0.37802 0.08954
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C3 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C18 1_555 1_555
+C7 C1 1_555 1_555
+C8 C1 1_555 1_555
+C9 C10 1_555 1_555
+C11 C9 1_555 1_555
+C12 C1 1_555 1_555
+C13 C12 1_555 1_555
+C14 C4 1_555 1_555
+C15 C5 1_555 1_555
+C16 C15 1_555 1_555
+C17 C9 1_555 1_555
+C18 C17 1_555 1_555
+C19 C2 1_555 1_555
+C6 C19 1_555 1_555
+C13 C14 1_555 1_555
+C16 C17 1_555 1_555
+
+#END

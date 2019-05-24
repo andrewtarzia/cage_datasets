@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CIJMEO
+_chemical_compound_source        'mushroom Lyophyllum connatum'
+_chemical_formula_moiety         'C9 H15 N3 O3 S1,H2 O1'
+_chemical_name_systematic        '(2S,3S)-\b-Hydroxyergothioneine monohydrate'
+_chemical_properties_biological  antioxidant
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a                   9.773(1)
+_cell_length_b                   11.292(2)
+_cell_length_c                   11.583(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1278.26
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prism
+_chemical_melting_point          '195-200 deg.C(dec.)'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method ethanol/water
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.12685(4) -0.37535(3) 0.29185(3)
+N1 N 0.32703(13) -0.27834(10) 0.42524(9)
+H1 H 0.339(2) -0.343(2) 0.468(2)
+C1 C 0.24004(13) -0.27003(10) 0.33518(10)
+N2 N 0.25835(11) -0.16020(8) 0.29074(8)
+H2 H 0.216(2) -0.1367(18) 0.2260(16)
+C2 C 0.35852(12) -0.10002(9) 0.35383(8)
+C3 C 0.40035(14) -0.17481(11) 0.43784(10)
+H3 H 0.462(2) -0.1591(18) 0.4986(16)
+C4 C 0.24572(12) 0.08468(9) 0.50120(8)
+C5 C 0.26772(11) 0.10254(9) 0.36925(8)
+H4 H 0.1900(15) 0.0746(13) 0.3319(14)
+C6 C 0.39527(11) 0.02775(10) 0.33564(9)
+H5 H 0.4662(16) 0.0476(14) 0.3946(13)
+N3 N 0.27790(11) 0.23369(9) 0.33894(9)
+C7 C 0.25143(19) 0.25183(15) 0.21186(13)
+H6 H 0.259(2) 0.337(2) 0.1958(19)
+H7 H 0.154(3) 0.213(3) 0.191(2)
+H8 H 0.324(2) 0.211(2) 0.166(2)
+C8 C 0.41401(16) 0.28687(13) 0.36854(15)
+H9 H 0.407(2) 0.371(2) 0.3519(18)
+H10 H 0.483(2) 0.2468(19) 0.3240(19)
+H11 H 0.427(2) 0.278(2) 0.447(2)
+C9 C 0.16777(19) 0.30044(14) 0.40280(17)
+H12 H 0.171(2) 0.376(2) 0.3818(19)
+H13 H 0.186(2) 0.2915(18) 0.4826(18)
+H14 H 0.085(2) 0.266(2) 0.3864(18)
+O1 O 0.33943(10) 0.11515(10) 0.56679(7)
+O2 O 0.13479(11) 0.03773(11) 0.53015(8)
+O3 O 0.45030(11) 0.05297(9) 0.22601(7)
+H15 H 0.413(2) 0.019(2) 0.168(2)
+O4 O 0.3907(2) 0.52870(15) 0.55993(13)
+H16 H 0.470(3) 0.507(3) 0.539(2)
+H17 H 0.362(3) 0.484(2) 0.619(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C1 1_555 1_555
+N1 H1 1_555 1_555
+C1 N1 1_555 1_555
+N2 C1 1_555 1_555
+H2 N2 1_555 1_555
+C2 N2 1_555 1_555
+C3 N1 1_555 1_555
+H3 C3 1_555 1_555
+C4 C5 1_555 1_555
+C5 H4 1_555 1_555
+C6 C2 1_555 1_555
+H5 C6 1_555 1_555
+N3 C5 1_555 1_555
+C7 N3 1_555 1_555
+H6 C7 1_555 1_555
+H7 C7 1_555 1_555
+H8 C7 1_555 1_555
+C8 N3 1_555 1_555
+H9 C8 1_555 1_555
+H10 C8 1_555 1_555
+H11 C8 1_555 1_555
+C9 N3 1_555 1_555
+H12 C9 1_555 1_555
+H13 C9 1_555 1_555
+H14 C9 1_555 1_555
+O1 C4 1_555 1_555
+O2 C4 1_555 1_555
+O3 C6 1_555 1_555
+H15 O3 1_555 1_555
+O4 H16 1_555 1_555
+H17 O4 1_555 1_555
+C2 C3 1_555 1_555
+C5 C6 1_555 1_555
+
+#END

@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TITWAU
+_chemical_formula_moiety         'C17 H20 S4'
+_chemical_name_systematic        
+6,7-(1,4-Dithiabutano)-(1',3'-dithiolane)-2'-spiro-6-hexacyclo(6.5.0.0^2,6^.0^4,12^.0^5,10^.0^9,13^)tridecane
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,z
+8 x,1/2-y,1/2+z
+_cell_length_a                   10.244(2)
+_cell_length_b                   11.247(3)
+_cell_length_c                   27.575(6)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     3177.03
+_exptl_crystal_colour            colorless
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0178(9) 0.1451(8) 0.6679(3)
+C2 C -0.1051(7) 0.1068(7) 0.6421(3)
+C3 C -0.0680(8) -0.0149(7) 0.6233(3)
+C4 C -0.0325(8) -0.1066(7) 0.6624(3)
+C5 C 0.1049(8) -0.1561(6) 0.6463(3)
+C6 C 0.1373(9) -0.1038(8) 0.5962(3)
+C7 C 0.0662(8) 0.0125(7) 0.5991(3)
+C8 C 0.1323(10) 0.0952(7) 0.6359(3)
+C9 C 0.1872(8) 0.0318(8) 0.6823(3)
+C10 C 0.1938(9) -0.1076(7) 0.6848(3)
+C11 C 0.1127(9) -0.1319(8) 0.7302(3)
+C12 C -0.0052(8) -0.0552(8) 0.7134(3)
+C13 C 0.0614(9) 0.0637(8) 0.7086(3)
+S1 S -0.2461(2) 0.1125(2) 0.6797(1)
+S2 S -0.1891(3) -0.0716(2) 0.5809(1)
+C14 C -0.3693(9) 0.0582(8) 0.6392(4)
+C15 C -0.3284(11) -0.0667(9) 0.6184(4)
+S3 S 0.3131(3) -0.0901(3) 0.5857(1)
+S4 S 0.0730(4) -0.2004(3) 0.5466(1)
+C16 C 0.3192(16) -0.1154(17) 0.5278(5)
+C17 C 0.2314(16) -0.2140(16) 0.5136(4)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C3 1_555 1_555
+C8 C1 1_555 1_555
+C9 C8 1_555 1_555
+C10 C5 1_555 1_555
+C11 C10 1_555 1_555
+C12 C4 1_555 1_555
+C13 C1 1_555 1_555
+S1 C2 1_555 1_555
+S2 C3 1_555 1_555
+C14 S1 1_555 1_555
+C15 S2 1_555 1_555
+S3 C6 1_555 1_555
+S4 C6 1_555 1_555
+C16 S3 1_555 1_555
+C17 S4 1_555 1_555
+C7 C8 1_555 1_555
+C9 C13 1_555 1_555
+C9 C10 1_555 1_555
+C11 C12 1_555 1_555
+C12 C13 1_555 1_555
+C14 C15 1_555 1_555
+C16 C17 1_555 1_555
+
+#END

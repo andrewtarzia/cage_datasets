@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_VUTCET
+_chemical_compound_source        'endophytic fungus Pestalotiopsis sp'
+_chemical_name_common            'Pestalactam A'
+_chemical_formula_moiety         'C10 H12 Cl1 N1 O4'
+_chemical_name_systematic        
+3-Chloro-4-hydroxy-7-(2-hydroxy-2-methylpropyl)-1H-azepine-2,5-dione
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/a'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,z
+_cell_length_a                   14.466(4)
+_cell_length_b                   6.5627(19)
+_cell_length_c                   12.390(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 111.88(2)
+_cell_angle_gamma                90
+_cell_volume                     1091.53
+_exptl_crystal_colour            'pale red'
+_exptl_crystal_description       needles
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.49675(7) 0.19834(17) 0.72374(8)
+O1 O 0.29516(19) 0.2124(5) 0.5814(2)
+O2 O 0.61892(17) 0.2203(4) 0.5968(2)
+O3 O 0.58736(19) 0.2706(5) 0.3815(2)
+O4 O 0.2611(4) 0.1657(14) 0.0585(5)
+N1 N 0.2949(2) 0.2768(5) 0.4052(3)
+C1 C 0.3450(3) 0.2372(6) 0.5218(3)
+C2 C 0.4537(3) 0.2292(5) 0.5750(3)
+C3 C 0.5235(3) 0.2400(5) 0.5264(3)
+C4 C 0.5099(3) 0.2712(6) 0.4019(3)
+C5 C 0.4155(3) 0.3059(6) 0.3115(3)
+C6 C 0.3223(3) 0.3137(6) 0.3124(3)
+C7 C 0.2348(3) 0.3665(7) 0.2037(4)
+C8 C 0.1948(3) 0.1905(10) 0.1154(4)
+C9 C 0.0976(6) 0.2599(14) 0.0241(7)
+C10 C 0.1805(6) -0.0018(10) 0.1700(5)
+H1 H 0.23130 0.27860 0.38610
+H2 H 0.41860 0.32700 0.23730
+H3 H 0.08140 0.17390 -0.04150
+H4 H 0.66520 0.22620 0.56890
+H5 H 0.04710 0.25510 0.05510
+H6 H 0.14140 0.02600 0.21620
+H7 H 0.24290 -0.05450 0.21830
+H8 H 0.18230 0.41150 0.22640
+H9 H 0.25440 0.47450 0.16580
+H10 H 0.27380 0.04060 0.04770
+H11 H 0.10540 0.39630 0.00240
+H12 H 0.14620 -0.09710 0.11150
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C2 1_555 1_555
+O1 C1 1_555 1_555
+O2 C3 1_555 1_555
+O3 C4 1_555 1_555
+O4 C8 1_555 1_555
+N1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 N1 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C8 1_555 1_555
+H1 N1 1_555 1_555
+H2 C5 1_555 1_555
+H3 C9 1_555 1_555
+H4 O2 1_555 1_555
+H5 C9 1_555 1_555
+H6 C10 1_555 1_555
+H7 C10 1_555 1_555
+H8 C7 1_555 1_555
+H9 C7 1_555 1_555
+H10 O4 1_555 1_555
+H11 C9 1_555 1_555
+H12 C10 1_555 1_555
+
+#END

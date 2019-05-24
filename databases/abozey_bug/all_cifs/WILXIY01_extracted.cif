@@ -1,0 +1,91 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WILXIY01
+_chemical_formula_moiety         'C2 Cl12 Si4'
+_chemical_name_systematic        tetrakis(trichlorosilyl)ethene
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 x,1/2-y,1/2+z
+8 1/2-x,1/2+y,z
+_cell_length_a                   16.5007(11)
+_cell_length_b                   12.1710(7)
+_cell_length_c                   18.2951(12)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     3674.21
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.53279(17) 0.6769(2) 0.39189(15)
+C2 C 0.50003(17) 0.6222(2) 0.33364(15)
+Si1 Si 0.64282(5) 0.72551(6) 0.39773(5)
+Si2 Si 0.47312(5) 0.71456(6) 0.47808(4)
+Si3 Si 0.56166(5) 0.53070(6) 0.26898(4)
+Si4 Si 0.38837(5) 0.62842(6) 0.30649(5)
+Cl1 Cl 0.63961(6) 0.87769(6) 0.44374(6)
+Cl2 Cl 0.72236(5) 0.63515(6) 0.45655(5)
+Cl3 Cl 0.68697(5) 0.74964(6) 0.29590(5)
+Cl4 Cl 0.54991(6) 0.67714(7) 0.56113(4)
+Cl5 Cl 0.37649(5) 0.61493(6) 0.49312(4)
+Cl6 Cl 0.43848(5) 0.87287(6) 0.48906(5)
+Cl7 Cl 0.59337(5) 0.59206(7) 0.17074(4)
+Cl8 Cl 0.48813(5) 0.39912(6) 0.25029(5)
+Cl9 Cl 0.66093(5) 0.46974(6) 0.31932(4)
+Cl10 Cl 0.38944(5) 0.64033(7) 0.19581(4)
+Cl11 Cl 0.33590(5) 0.76888(6) 0.34319(4)
+Cl12 Cl 0.31706(5) 0.49960(6) 0.33420(5)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 Si3 1_555 1_555
+Si1 C1 1_555 1_555
+Si2 C1 1_555 1_555
+Si3 Cl7 1_555 1_555
+Si4 C2 1_555 1_555
+Cl1 Si1 1_555 1_555
+Cl2 Si1 1_555 1_555
+Cl3 Si1 1_555 1_555
+Cl4 Si2 1_555 1_555
+Cl5 Si2 1_555 1_555
+Cl6 Si2 1_555 1_555
+Cl8 Si3 1_555 1_555
+Cl9 Si3 1_555 1_555
+Cl10 Si4 1_555 1_555
+Cl11 Si4 1_555 1_555
+Cl12 Si4 1_555 1_555
+
+#END

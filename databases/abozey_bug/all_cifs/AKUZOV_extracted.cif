@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_AKUZOV
+_chemical_formula_moiety         'C16 H16 N2 O6'
+_chemical_name_systematic        
+(S,S)-1,4-bis(4-(Methoxycarbonyl)-2-oxazolin-2-yl)benzene
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'C 2 2 21'
+_symmetry_Int_Tables_number      20
+_space_group_name_Hall           'C 2n 2'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 x,-y,-z
+4 -x,y,1/2-z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2+x,1/2-y,-z
+8 1/2-x,1/2+y,1/2-z
+_cell_length_a                   4.4516(10)
+_cell_length_b                   10.8881(23)
+_cell_length_c                   31.9712(68)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1549.63
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 'ethyl acetate/dichloromethane'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.514693 0.500322 0.665510
+O2 O 0.616732 0.349984 0.561076
+O3 O 0.363904 0.180480 0.574712
+N1 N 0.534271 0.294103 0.658077
+C1 C 0.480460 0.124033 0.536962
+H1 H 0.695737 0.129233 0.536919
+H2 H 0.402116 0.166141 0.512942
+H3 H 0.420675 0.039362 0.536040
+C2 C 0.452585 0.293026 0.583137
+C3 C 0.330110 0.338015 0.624695
+H4 H 0.127070 0.305842 0.629199
+C4 C 0.330623 0.478367 0.628870
+H5 H 0.417295 0.516720 0.604288
+H6 H 0.128581 0.509556 0.632905
+C5 C 0.616882 0.389157 0.677905
+C6 C 0.816966 0.390550 0.714755
+C7 C 0.909007 0.500365 0.732345
+H7 H 0.848901 0.574408 0.720502
+C8 C 0.910066 0.279824 0.732415
+H8 H 0.850847 0.205800 0.720472
+C7C C 1.090993 0.500365 0.767655
+C6C C 1.183034 0.390550 0.785245
+C5C C 1.383118 0.389157 0.822095
+O1C O 1.485307 0.500322 0.834490
+C4C C 1.669377 0.478367 0.871130
+C3C C 1.669890 0.338015 0.875305
+N1C N 1.465729 0.294103 0.841923
+C2C C 1.547415 0.293026 0.916863
+O2C O 1.383268 0.349984 0.938924
+O3C O 1.636096 0.180480 0.925288
+C1C C 1.519540 0.124033 0.963038
+H1C H 1.304263 0.129233 0.963081
+H2C H 1.597884 0.166141 0.987058
+H3C H 1.579325 0.039362 0.963960
+H4C H 1.872930 0.305842 0.870801
+H5C H 1.582705 0.516720 0.895712
+H6C H 1.871419 0.509556 0.867095
+C8C C 1.089934 0.279824 0.767585
+H8C H 1.149153 0.205800 0.779528
+H7C H 1.151099 0.574408 0.779498
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C4 1_555 1_555
+O2 C2 1_555 1_555
+O3 C1 1_555 1_555
+N1 C3 1_555 1_555
+C1 H1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C1 1_555 1_555
+C2 O3 1_555 1_555
+C3 C2 1_555 1_555
+H4 C3 1_555 1_555
+C4 C3 1_555 1_555
+H5 C4 1_555 1_555
+H6 C4 1_555 1_555
+C5 O1 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+H7 C7 1_555 1_555
+C8 C6 1_555 1_555
+H8 C8 1_555 1_555
+C7C C7 1_555 1_555
+C6C C7C 1_555 1_555
+C5C C6C 1_555 1_555
+O1C C5C 1_555 1_555
+C4C O1C 1_555 1_555
+C3C C4C 1_555 1_555
+N1C C5C 1_555 1_555
+C2C C3C 1_555 1_555
+O2C C2C 1_555 1_555
+O3C C2C 1_555 1_555
+C1C O3C 1_555 1_555
+H1C C1C 1_555 1_555
+H2C C1C 1_555 1_555
+H3C C1C 1_555 1_555
+H4C C3C 1_555 1_555
+H5C C4C 1_555 1_555
+H6C C4C 1_555 1_555
+C8C C8 1_555 1_555
+H8C C8C 1_555 1_555
+H7C C7C 1_555 1_555
+N1 C5 1_555 1_555
+C6C C8C 1_555 1_555
+C3C N1C 1_555 1_555
+
+#END

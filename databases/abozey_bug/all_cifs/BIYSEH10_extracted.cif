@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BIYSEH10
+_chemical_name_common            Piroxicam
+_chemical_formula_moiety         'C15 H13 N3 O4 S1'
+_chemical_name_systematic        
+'4-hydroxy-2-methyl-N-(pyridin-2-yl)-2H-1,2-benzothiazine-3-carboxamide 1,1-dioxide'
+_chemical_properties_biological  'Non-steroidal anti-inflammatory drug'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   7.1350(10)
+_cell_length_b                   15.1500(10)
+_cell_length_c                   13.9550(10)
+_cell_angle_alpha                90
+_cell_angle_beta                 97.408(2)
+_cell_angle_gamma                90
+_cell_volume                     1495.88
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4291(4) 0.68144(19) 0.3180(2)
+C2 C 0.3400(5) 0.6720(3) 0.2238(2)
+C3 C 0.3211(6) 0.7412(3) 0.1627(4)
+C4 C 0.3919(5) 0.8247(3) 0.1946(3)
+C5 C 0.4797(5) 0.8341(3) 0.2844(3)
+C6 C 0.5033(4) 0.7644(2) 0.3489(2)
+C7 C 0.6061(4) 0.7726(2) 0.4463(2)
+C8 C 0.6832(4) 0.7013(2) 0.4991(2)
+C9 C 0.8175(5) 0.5802(2) 0.4116(3)
+H1 H 0.8250 0.6132 0.3535
+H2 H 0.7966 0.5190 0.3959
+H3 H 0.9337 0.5865 0.4542
+C10 C 0.7857(4) 0.7118(2) 0.5952(2)
+C11 C 0.9331(4) 0.6256(2) 0.7368(2)
+C12 C 0.9771(5) 0.6934(2) 0.8041(2)
+H4 H 0.9470 0.7518 0.7885
+C13 C 1.0640(5) 0.6715(3) 0.8917(3)
+H5 H 1.0946 0.7155 0.9375
+C14 C 1.1091(6) 0.5850(4) 0.9154(4)
+C15 C 1.0608(6) 0.5236(4) 0.8450(3)
+N1 N 0.6592(3) 0.61406(15) 0.45988(16)
+N2 N 0.8361(4) 0.6368(2) 0.64443(17)
+N3 N 0.9726(4) 0.5421(2) 0.7575(2)
+O1 O 0.3127(3) 0.61236(14) 0.46717(15)
+O2 O 0.4476(3) 0.51456(13) 0.35368(14)
+O3 O 0.6240(3) 0.85501(14) 0.48096(19)
+O4 O 0.8232(3) 0.78645(15) 0.62882(17)
+S1 S 0.44739(10) 0.59664(5) 0.40157(5)
+H6 H 0.284(4) 0.746(2) 0.112(3)
+H7 H 0.707(6) 0.853(3) 0.555(3)
+H8 H 1.093(3) 0.467(2) 0.8370(18)
+H9 H 0.767(4) 0.581(2) 0.623(2)
+H10 H 0.386(4) 0.872(2) 0.146(2)
+H11 H 0.514(4) 0.887(2) 0.321(2)
+H12 H 0.294(5) 0.619(3) 0.213(2)
+H13 H 1.158(4) 0.5627(18) 0.977(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 H1 1_555 1_555
+H2 C9 1_555 1_555
+H3 C9 1_555 1_555
+C10 C8 1_555 1_555
+C11 C12 1_555 1_555
+C12 H4 1_555 1_555
+C13 C12 1_555 1_555
+H5 C13 1_555 1_555
+C14 C13 1_555 1_555
+C15 C14 1_555 1_555
+N1 C8 1_555 1_555
+N2 C10 1_555 1_555
+N3 C11 1_555 1_555
+O1 S1 1_555 1_555
+O2 S1 1_555 1_555
+O3 C7 1_555 1_555
+O4 C10 1_555 1_555
+S1 C1 1_555 1_555
+H6 C3 1_555 1_555
+H7 O3 1_555 1_555
+H8 C15 1_555 1_555
+H9 N2 1_555 1_555
+H10 C4 1_555 1_555
+H11 C5 1_555 1_555
+H12 C2 1_555 1_555
+H13 C14 1_555 1_555
+C9 N1 1_555 1_555
+C11 N2 1_555 1_555
+C15 N3 1_555 1_555
+N1 S1 1_555 1_555
+
+#END

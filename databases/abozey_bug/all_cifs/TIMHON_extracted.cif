@@ -1,0 +1,154 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TIMHON
+_chemical_compound_source        'Hosta plantaginea'
+_chemical_name_common            'hostasine monohydrate'
+_chemical_formula_moiety         'C18 H21 N1 O7,H2 O1'
+_chemical_name_systematic        
+"5',6,6'-trihydroxy-4,5-dimethoxy-1'-methyl-1',2',3',5',6',7a'-hexahydro-3H-spiro[2-benzofuran-1,7'-indol]-3-one monohydrate"
+_chemical_properties_biological  
+'Inhibitory activity against tobacco mosaic virus and acetylcholinesterase'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   6.7470(13)
+_cell_length_b                   17.447(4)
+_cell_length_c                   8.2540(17)
+_cell_angle_alpha                90
+_cell_angle_beta                 113.12(3)
+_cell_angle_gamma                90
+_cell_volume                     893.583
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '202-205 deg.C'
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.8860(4) -0.56413(14) -0.1898(3)
+H1 H -0.8019 -0.5963 -0.1273
+O2 O -0.8362(3) -0.31908(14) 0.0068(3)
+O3 O -0.1583(3) -0.24295(11) -0.3632(3)
+H2 H -0.0661 -0.2766 -0.3379
+O4 O -0.4843(3) -0.18396(13) 0.0308(2)
+O5 O -0.2034(3) -0.15154(11) -0.1137(2)
+O6 O -0.5348(3) -0.49939(12) -0.3952(3)
+H3 H -0.4427 -0.4659 -0.3738
+N1 N -1.0581(3) -0.33049(12) -0.5897(3)
+C1 C -1.2476(5) -0.35409(18) -0.7481(3)
+H4 H -1.2158 -0.3503 -0.8528
+H5 H -1.3706 -0.3218 -0.7635
+C2 C -1.2939(5) -0.43686(17) -0.7164(4)
+H6 H -1.4109 -0.4397 -0.6762
+H7 H -1.3312 -0.4671 -0.8228
+C3 C -1.0456(4) -0.53013(15) -0.4890(4)
+H8 H -1.1539 -0.5670 -0.5222
+C4 C -0.8356(5) -0.54870(15) -0.3402(3)
+H9 H -0.7769 -0.5955 -0.3702
+O7 O -0.8742(3) -0.38942(10) -0.2283(2)
+C5 C -0.7797(4) -0.33116(15) -0.1122(3)
+C6 C -0.4828(4) -0.23101(13) -0.1004(3)
+C7 C -0.3333(4) -0.21455(14) -0.1733(3)
+C8 C -0.3094(4) -0.26251(14) -0.3027(3)
+C9 C -0.4427(4) -0.32606(14) -0.3646(3)
+H10 H -0.4301 -0.3577 -0.4507
+C10 C -1.0854(4) -0.46410(15) -0.5755(3)
+C11 C -0.6651(4) -0.48454(14) -0.2993(3)
+H11 H -0.5733 -0.4864 -0.1733
+C12 C -0.6144(3) -0.29589(13) -0.1620(3)
+C13 C -0.5941(4) -0.34079(14) -0.2945(3)
+C14 C -0.7619(4) -0.40309(13) -0.3436(3)
+C15 C -0.9221(4) -0.40010(13) -0.5367(3)
+H12 H -0.8427 -0.4058 -0.6132
+C16 C -0.2584(7) -0.08987(19) -0.2382(5)
+H13 H -0.1625 -0.0476 -0.1893
+H14 H -0.4040 -0.0739 -0.2646
+H15 H -0.2456 -0.1068 -0.3444
+C17 C -0.9524(5) -0.26391(16) -0.6331(4)
+H16 H -0.8294 -0.2489 -0.5307
+H17 H -1.0524 -0.2220 -0.6711
+H18 H -0.9069 -0.2776 -0.7258
+C18 C -0.6876(6) -0.1507(2) 0.0100(6)
+H19 H -0.6689 -0.1190 0.1099
+H20 H -0.7888 -0.1908 0.0015
+H21 H -0.7410 -0.1203 -0.0952
+O8 O -1.1561(4) -0.47300(17) -0.0937(4)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 H1 1_555 1_555
+O2 C5 1_555 1_555
+O3 H2 1_555 1_555
+O4 C6 1_555 1_555
+O5 C7 1_555 1_555
+O6 H3 1_555 1_555
+N1 C1 1_555 1_555
+C1 H4 1_555 1_555
+H5 C1 1_555 1_555
+C2 C1 1_555 1_555
+H6 C2 1_555 1_555
+H7 C2 1_555 1_555
+C3 H8 1_555 1_555
+C4 O1 1_555 1_555
+H9 C4 1_555 1_555
+O7 C5 1_555 1_555
+C5 C12 1_555 1_555
+C6 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 O3 1_555 1_555
+C9 C8 1_555 1_555
+H10 C9 1_555 1_555
+C10 C2 1_555 1_555
+C11 O6 1_555 1_555
+H11 C11 1_555 1_555
+C12 C6 1_555 1_555
+C13 C9 1_555 1_555
+C14 O7 1_555 1_555
+C15 N1 1_555 1_555
+H12 C15 1_555 1_555
+C16 O5 1_555 1_555
+H13 C16 1_555 1_555
+H14 C16 1_555 1_555
+H15 C16 1_555 1_555
+C17 N1 1_555 1_555
+H16 C17 1_555 1_555
+H17 C17 1_555 1_555
+H18 C17 1_555 1_555
+C18 O4 1_555 1_555
+H19 C18 1_555 1_555
+H20 C18 1_555 1_555
+H21 C18 1_555 1_555
+C3 C4 1_555 1_555
+C3 C10 1_555 1_555
+C4 C11 1_555 1_555
+C10 C15 1_555 1_555
+C11 C14 1_555 1_555
+C12 C13 1_555 1_555
+C13 C14 1_555 1_555
+C14 C15 1_555 1_555
+
+#END

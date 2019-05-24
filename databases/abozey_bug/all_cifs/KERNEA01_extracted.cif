@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_KERNEA01
+_chemical_formula_moiety         'C10 H12 S4 Se4 1+,I3 1-'
+_chemical_name_systematic        
+'tetrakis(Methylseleno)tetrathiafulvalenium tri-iodide'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   24.359(7)
+_cell_length_b                   11.831(3)
+_cell_length_c                   7.842(6)
+_cell_angle_alpha                90
+_cell_angle_beta                 96.71(4)
+_cell_angle_gamma                90
+_cell_volume                     2244.52
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.1530(1) 0.2050(1) 0.0983(2)
+I2 I 0.0873(1) 0.1593(2) 0.3832(3)
+I3 I 0.2191(1) 0.2397(2) -0.1798(3)
+Se1 Se -0.1283(1) -0.8998(2) 0.0005(4)
+Se2 Se 0.0488(1) -0.1517(2) 0.3566(4)
+Se3 Se -0.2196(1) -0.6783(2) -0.1105(4)
+Se4 Se 0.1368(1) -0.3641(2) 0.4960(4)
+S1 S -0.0311(3) -0.3450(5) 0.2057(8)
+S2 S 0.0448(3) -0.5285(5) 0.3181(8)
+S3 S -0.0469(3) -0.7091(5) 0.1359(8)
+S4 S -0.1210(3) -0.5215(5) 0.0408(8)
+C1 C 0.0657(10) -0.3918(18) 0.3729(28)
+C2 C -0.1118(11) -0.7439(20) 0.0378(31)
+C3 C -0.0568(9) -0.5651(18) 0.1388(26)
+C4 C 0.0302(11) -0.3087(19) 0.3191(28)
+C5 C -0.0166(11) -0.4887(20) 0.2109(28)
+C6 C -0.1513(13) -0.6595(19) -0.0043(30)
+C7 C -0.0111(11) -0.0894(23) 0.2075(40)
+C8 C -0.1557(14) -0.9281(24) 0.2248(37)
+C9 C 0.1715(11) -0.5076(26) 0.4891(37)
+C10 C -0.2524(13) -0.5299(24) -0.0696(41)
+H1 H -0.247(8) -0.539(17) 0.025(24)
+H2 H -0.285(8) -0.523(17) -0.132(24)
+H3 H -0.241(8) -0.479(17) -0.137(24)
+H4 H -0.191(8) -0.847(17) 0.198(24)
+H5 H -0.171(8) -0.976(17) 0.206(25)
+H6 H -0.018(8) -0.134(17) 0.067(25)
+H7 H 0.002(8) -0.033(17) 0.217(24)
+H8 H 0.197(8) -0.517(17) 0.396(24)
+H9 H 0.211(8) -0.493(17) 0.518(24)
+H10 H 0.140(8) -0.557(17) 0.508(24)
+H11? H -0.105(8) -0.882(17) 0.278(24)
+H12? H -0.020(8) -0.126(16) 0.266(24)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+I1 I2 1_555 1_555
+I3 I1 1_555 1_555
+Se1 C2 1_555 1_555
+Se2 C4 1_555 1_555
+Se3 C6 1_555 1_555
+Se4 C1 1_555 1_555
+S1 C4 1_555 1_555
+S2 C1 1_555 1_555
+S3 C2 1_555 1_555
+S4 C3 1_555 1_555
+C1 C4 1_555 1_555
+C2 C6 1_555 1_555
+C3 S3 1_555 1_555
+C5 S1 1_555 1_555
+C6 S4 1_555 1_555
+C7 Se2 1_555 1_555
+C8 Se1 1_555 1_555
+C9 Se4 1_555 1_555
+C10 Se3 1_555 1_555
+H1 C10 1_555 1_555
+H2 C10 1_555 1_555
+H3 C10 1_555 1_555
+H4 C8 1_555 1_555
+H5 C8 1_555 1_555
+H6 C7 1_555 1_555
+H7 C7 1_555 1_555
+H8 C9 1_555 1_555
+H9 C9 1_555 1_555
+H10 C9 1_555 1_555
+S2 C5 1_555 1_555
+C3 C5 1_555 1_555
+
+#END

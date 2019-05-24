@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ROFRIO01
+_chemical_name_common            
+'Oxonium (1-ammonio-1,1-ethanediyl)bis(hydrogen (phosphonate))'
+_chemical_formula_moiety         'C2 H8 N1 O6 P2 1-,H3 O1 1+'
+_chemical_name_systematic        'oxonium 1-ammonioethane-1,1-diyldiphosphonate'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   7.3372(6)
+_cell_length_b                   10.6553(8)
+_cell_length_c                   10.6128(8)
+_cell_angle_alpha                90
+_cell_angle_beta                 97.7050(10)
+_cell_angle_gamma                90
+_cell_volume                     822.218
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.9948(2) 0.56114(16) 0.24265(16)
+C2 C 0.9672(3) 0.62357(19) 0.36861(18)
+H1 H 1.0741 0.6722 0.3993
+H2 H 0.9488 0.5602 0.4299
+H3 H 0.8615 0.6774 0.3556
+N1 N 1.0165(2) 0.66564(14) 0.14939(14)
+H4 H 0.9151 0.7124 0.1391
+H5 H 1.0347 0.6329 0.0750
+H6 H 1.1124 0.7131 0.1792
+O1 O 0.63612(19) 0.57626(13) 0.17124(14)
+O2 O 0.75556(18) 0.37252(13) 0.27913(13)
+O3 O 0.80235(18) 0.42568(13) 0.05066(12)
+O4 O 1.23166(19) 0.41015(14) 0.13108(14)
+O5 O 1.20389(18) 0.37077(13) 0.35944(13)
+O6 O 1.36080(17) 0.56986(13) 0.29441(13)
+P1 P 0.78594(6) 0.47061(4) 0.18354(4)
+P2 P 1.21301(6) 0.47175(4) 0.26319(4)
+H7 H 1.227(5) 0.456(3) 0.079(3)
+H8 H 0.562(5) 0.568(3) 0.208(3)
+O7 O 0.4462(2) 0.70203(18) 0.52441(17)
+H9 H 0.5658(17) 0.698(3) 0.554(3)
+H10 H 0.386(4) 0.673(3) 0.587(2)
+H11 H 0.426(4) 0.663(2) 0.4485(15)
+H12? H 0.422(5) 0.7827(13) 0.509(4)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+H2 C2 1_555 1_555
+H3 C2 1_555 1_555
+N1 C1 1_555 1_555
+H4 N1 1_555 1_555
+H5 N1 1_555 1_555
+H6 N1 1_555 1_555
+O1 P1 1_555 1_555
+O2 P1 1_555 1_555
+O3 P1 1_555 1_555
+O4 P2 1_555 1_555
+O5 P2 1_555 1_555
+O6 P2 1_555 1_555
+P1 C1 1_555 1_555
+P2 C1 1_555 1_555
+H7 O4 1_555 1_555
+H8 O1 1_555 1_555
+O7 H9 1_555 1_555
+H10 O7 1_555 1_555
+H11 O7 1_555 1_555
+
+#END

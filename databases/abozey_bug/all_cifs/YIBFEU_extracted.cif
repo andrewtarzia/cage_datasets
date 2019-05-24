@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_YIBFEU
+_chemical_formula_moiety         'C12 H5 Cl6 N1 O3 S1'
+_chemical_name_systematic        
+2',3,4',5,5',6-Hexachloro-2-hydroxybenzenesulfonanilide
+_chemical_properties_biological  
+'agent with activity against the liver fluke fasciola hepatica'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/a'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,z
+_cell_length_a                   8.029(3)
+_cell_length_b                   22.143(1)
+_cell_length_c                   10.05(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 108.83(4)
+_cell_angle_gamma                90
+_cell_volume                     1691.12
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.7192(1) 0.4579(1) 0.4545(1)
+O1 O 0.7802(4) 0.5187(1) 0.4626(3)
+O2 O 0.6052(3) 0.4409(1) 0.5336(3)
+O3 O 0.3501(4) 0.3983(2) 0.3261(3)
+N1 N 0.8917(4) 0.4147(1) 0.5086(3)
+Cl1 Cl 0.8900(2) 0.4843(1) 0.2140(1)
+Cl2 Cl 0.6991(2) 0.4438(1) -0.0944(1)
+Cl3 Cl 0.1610(2) 0.3573(1) 0.0507(2)
+Cl4 Cl 0.9406(2) 0.3251(1) 0.2946(1)
+Cl5 Cl 0.8372(2) 0.1553(1) 0.6370(1)
+Cl6 Cl 0.7954(2) 0.2573(1) 0.8473(1)
+C1 C 0.6077(5) 0.4383(2) 0.2760(4)
+C2 C 0.6875(5) 0.4492(2) 0.1730(4)
+C3 C 0.6051(5) 0.4310(2) 0.0360(4)
+C4 C 0.4429(6) 0.4026(2) -0.0009(4)
+C5 C 0.3641(5) 0.3926(2) 0.0987(4)
+C6 C 0.4424(5) 0.4101(2) 0.2391(4)
+C7 C 0.8739(5) 0.3521(2) 0.5358(4)
+C8 C 0.8923(5) 0.3071(2) 0.4457(4)
+C9 C 0.8796(5) 0.2464(2) 0.4772(4)
+C10 C 0.8488(5) 0.2307(2) 0.5998(4)
+C11 C 0.8306(5) 0.2755(2) 0.6913(4)
+C12 C 0.8442(5) 0.3361(2) 0.6600(4)
+H1 H 0.4253(15) 0.4098(14) 0.4226(15)
+H2 H 0.3913(15) 0.3919(12) -0.0953(15)
+H3 H 1.0046(15) 0.4263(13) 0.4891(15)
+H4 H 0.8429(15) 0.3696(12) 0.7265(15)
+H5 H 0.9200(15) 0.2148(12) 0.4280(15)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 O1 1_555 1_555
+O2 S1 1_555 1_555
+O3 C6 1_555 1_555
+N1 S1 1_555 1_555
+Cl1 C2 1_555 1_555
+Cl2 C3 1_555 1_555
+Cl3 C5 1_555 1_555
+Cl4 C8 1_555 1_555
+Cl5 C10 1_555 1_555
+Cl6 C11 1_555 1_555
+C1 S1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+C6 C1 1_555 1_555
+C7 N1 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+C12 C7 1_555 1_555
+H1 O3 1_555 1_555
+H2 C4 1_555 1_555
+H3 N1 1_555 1_555
+H4 C12 1_555 1_555
+H5 C9 1_555 1_555
+C5 C6 1_555 1_555
+C11 C12 1_555 1_555
+
+#END

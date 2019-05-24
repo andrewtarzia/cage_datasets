@@ -1,0 +1,97 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_VIMKEH
+_chemical_formula_moiety         'C6 H9 N5 O2'
+_chemical_name_systematic        '(5-Amino-4-carboxamidoimidazolyl) acetamide'
+_chemical_properties_biological  
+'intracellular inhibitory activity against cyclic adenosine monophosphate phosphodiesterase as one approach to the treatment of respiratory allergic reactions'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   4.665(3)
+_cell_length_b                   10.051(3)
+_cell_length_c                   16.662(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 95.50(4)
+_cell_angle_gamma                90
+_cell_volume                     777.65
+_chemical_melting_point          239-240deg.C
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.5948(3) 0.2190(2) 0.9465(1)
+O2 O -0.0196(3) 0.4132(2) 0.6499(1)
+N1 N 0.3300(3) 0.5185(2) 0.7827(1)
+N2 N 0.1413(4) 0.5076(2) 0.8999(1)
+N3 N 0.6481(3) 0.3295(2) 0.7887(1)
+N4 N 0.2856(4) 0.3158(2) 1.0255(1)
+N5 N 0.3574(4) 0.4328(2) 0.5759(1)
+C1 C 0.1429(4) 0.5723(2) 0.8327(1)
+C2 C 0.3366(4) 0.4046(2) 0.8953(1)
+C3 C 0.4565(4) 0.4107(2) 0.8225(1)
+C4 C 0.4164(4) 0.3066(2) 0.9578(1)
+C5 C 0.3682(4) 0.5563(2) 0.7001(1)
+C6 C 0.2177(4) 0.4596(2) 0.6391(1)
+H1 H 0.027 0.649 0.819
+H2 H 0.788(8) 0.380(4) 0.746(2)
+H3 H 0.748(8) 0.284(4) 0.830(2)
+H4 H 0.159(5) 0.375(2) 1.027(10)
+H5 H 0.341(10) 0.271(5) 1.055(2)
+H6 H 0.561(5) 0.562(2) 0.695(1)
+H7 H 0.292 0.642 0.688
+H8 H 0.538(6) 0.449(2) 0.577(2)
+H9 H 0.257 0.386 0.532
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C4 1_555 1_555
+O2 C6 1_555 1_555
+N1 C1 1_555 1_555
+N2 C1 1_555 1_555
+N3 C3 1_555 1_555
+N4 C4 1_555 1_555
+N5 C6 1_555 1_555
+C1 H1 1_555 1_555
+C2 N2 1_555 1_555
+C3 N1 1_555 1_555
+C4 C2 1_555 1_555
+C5 N1 1_555 1_555
+C6 C5 1_555 1_555
+H2 N3 1_555 1_555
+H3 N3 1_555 1_555
+H4 N4 1_555 1_555
+H5 N4 1_555 1_555
+H6 C5 1_555 1_555
+H7 C5 1_555 1_555
+H8 N5 1_555 1_555
+H9 N5 1_555 1_555
+C2 C3 1_555 1_555
+
+#END

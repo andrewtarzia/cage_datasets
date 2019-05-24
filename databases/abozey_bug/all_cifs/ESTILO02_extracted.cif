@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ESTILO02
+_chemical_name_common            Diethylstilbestrol
+_chemical_formula_moiety         'C18 H20 O2'
+_chemical_name_systematic        \a,\a'-Diethylstilbene-4,4'-diol
+_chemical_properties_biological  
+'A nonsteroidal estrogen and endocrine disruptor'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,z
+8 x,1/2-y,1/2+z
+_cell_length_a                   18.954(4)
+_cell_length_b                   14.929(1)
+_cell_length_c                   5.291(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1497.16
+_chemical_melting_point          171deg.C
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.15324 0.03507 -0.09210
+C2 C 0.21313 0.08731 -0.05480
+C3 C 0.21507 0.14632 0.14620
+C4 C 0.15896 0.15144 0.31180
+C5 C 0.09949 0.09820 0.27220
+C6 C 0.09571 0.04043 0.06690
+C7 C 0.03131 -0.01726 0.02330
+C8 C 0.04616 -0.11730 0.04180
+C9 C 0.07880 -0.14524 0.28730
+H1 H 0.15430 -0.00250 -0.25540
+H2 H 0.25240 0.08270 -0.16380
+H3 H 0.27290 0.22500 0.33030
+H4 H 0.17070 0.18760 0.46130
+H5 H 0.06180 0.10440 0.38990
+H6 H 0.08490 -0.13480 -0.08200
+H7 H -0.01180 -0.14700 0.05450
+H8 H 0.06300 -0.10870 0.42190
+H9 H 0.13420 -0.13130 0.27570
+H10 H 0.08040 -0.20260 0.34220
+O1 O 0.27396 0.20083 0.17020
+C7D C -0.03131 0.01726 -0.02330
+C6D C -0.09571 -0.04043 -0.06690
+C8D C -0.04616 0.11730 -0.04180
+C1D C -0.15324 -0.03507 0.09210
+C5D C -0.09949 -0.09820 -0.27220
+C9D C -0.07880 0.14524 -0.28730
+H6D H -0.08490 0.13480 0.08200
+H7D H 0.01180 0.14700 -0.05450
+C2D C -0.21313 -0.08731 0.05480
+H1D H -0.15430 0.00250 0.25540
+C4D C -0.15896 -0.15144 -0.31180
+H5D H -0.06180 -0.10440 -0.38990
+H8D H -0.06300 0.10870 -0.42190
+H9D H -0.13420 0.13130 -0.27570
+H10D H -0.08040 0.20260 -0.34220
+C3D C -0.21507 -0.14632 -0.14620
+H2D H -0.25240 -0.08270 0.16380
+H4D H -0.17070 -0.18760 -0.46130
+O1D O -0.27396 -0.20083 -0.17020
+H3D H -0.27290 -0.22500 -0.33030
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+H1 C1 1_555 1_555
+H2 C2 1_555 1_555
+H3 O1 1_555 1_555
+H4 C4 1_555 1_555
+H5 C5 1_555 1_555
+H6 C8 1_555 1_555
+H7 C8 1_555 1_555
+H8 C9 1_555 1_555
+H9 C9 1_555 1_555
+H10 C9 1_555 1_555
+O1 C3 1_555 1_555
+C7D C7 1_555 1_555
+C6D C7D 1_555 1_555
+C8D C7D 1_555 1_555
+C1D C6D 1_555 1_555
+C5D C6D 1_555 1_555
+C9D C8D 1_555 1_555
+H6D C8D 1_555 1_555
+H7D C8D 1_555 1_555
+C2D C1D 1_555 1_555
+H1D C1D 1_555 1_555
+C4D C5D 1_555 1_555
+H5D C5D 1_555 1_555
+H8D C9D 1_555 1_555
+H9D C9D 1_555 1_555
+H10D C9D 1_555 1_555
+C3D C2D 1_555 1_555
+H2D C2D 1_555 1_555
+H4D C4D 1_555 1_555
+O1D C3D 1_555 1_555
+H3D O1D 1_555 1_555
+C4D C3D 1_555 1_555
+
+#END

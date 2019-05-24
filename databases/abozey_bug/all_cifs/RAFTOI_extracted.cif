@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_RAFTOI
+_chemical_compound_source        
+'roots of Picrorhiza scrophulariiflora (Scrophulariaceae)'
+_chemical_name_common            
+(4S,5R,6S)-5,6-Dihydroxy-5,6-dihydro-4H-cyclopenta(c)furan-4-ethanol
+_chemical_formula_moiety         'C9 H12 O4'
+_chemical_name_systematic        'Piscrocin A'
+_chemical_properties_biological  
+'plant used in traditional Chinese medicine for the treatment of damp-heat dysentery, jaundice and steaming of bone'
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'P 41 21 2'
+_symmetry_Int_Tables_number      92
+_space_group_name_Hall           'P 4abw 2nw'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-y,1/2+x,1/4+z
+4 1/2+y,1/2-x,3/4+z
+5 1/2-x,1/2+y,1/4-z
+6 1/2+x,1/2-y,3/4-z
+7 y,x,-z
+8 -y,-x,1/2-z
+_cell_length_a                   6.1652(4)
+_cell_length_b                   6.1652(4)
+_cell_length_c                   46.508(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1767.75
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       Plate
+_chemical_melting_point          '88-90 deg.C'
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4804(3) 0.3189(3) 0.12054(3)
+O2 O 0.5596(3) 1.1163(3) 0.02533(4)
+H1 H 0.6010 1.1777 0.0107
+O3 O 0.2719(3) 0.7859(3) 0.02021(3)
+H2 H 0.3349 0.9001 0.0168
+O4 O 0.1809(3) 0.3670(3) 0.03328(4)
+H3 H 0.2998 0.3078 0.0324
+C1 C 0.6150(4) 0.4607(4) 0.10640(5)
+H4 H 0.7546 0.4976 0.1122
+C2 C 0.7427(4) 1.0381(4) 0.04099(5)
+H5 H 0.8277 1.1598 0.0479
+H6 H 0.8339 0.9520 0.0284
+C3 C 0.6694(4) 0.9013(4) 0.06619(4)
+H7 H 0.5778 0.9897 0.0784
+H8 H 0.7962 0.8607 0.0773
+C4 C 0.5446(3) 0.6939(3) 0.05828(4)
+H9 H 0.6214 0.6195 0.0427
+C5 C 0.3049(4) 0.7284(3) 0.04928(4)
+H10 H 0.2449 0.8446 0.0613
+C6 C 0.1799(3) 0.5169(4) 0.05634(5)
+H11 H 0.0303 0.5512 0.0618
+C7 C 0.3048(4) 0.4412(3) 0.08218(5)
+C8 C 0.5137(4) 0.5381(3) 0.08292(4)
+C9 C 0.2915(4) 0.3100(4) 0.10519(5)
+H12 H 0.1717 0.2257 0.1100
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 H1 1_555 1_555
+O3 H2 1_555 1_555
+O4 H3 1_555 1_555
+C1 H4 1_555 1_555
+C2 O2 1_555 1_555
+H5 C2 1_555 1_555
+H6 C2 1_555 1_555
+C3 C2 1_555 1_555
+H7 C3 1_555 1_555
+H8 C3 1_555 1_555
+C4 C3 1_555 1_555
+H9 C4 1_555 1_555
+C5 O3 1_555 1_555
+H10 C5 1_555 1_555
+C6 O4 1_555 1_555
+H11 C6 1_555 1_555
+C7 C6 1_555 1_555
+C8 C1 1_555 1_555
+C9 O1 1_555 1_555
+H12 C9 1_555 1_555
+C4 C8 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C7 C9 1_555 1_555
+C7 C8 1_555 1_555
+
+#END

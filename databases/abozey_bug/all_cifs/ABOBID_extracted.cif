@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ABOBID
+_chemical_formula_moiety         'C12 H10 Li2 N4 O12,2(H2 O1)'
+_chemical_name_systematic        
+'bis(\m~2~-2,6-dinitrophenolato)-diaqua-di-lithium(i) dihydrate'
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   5.2050(18)
+_cell_length_b                   8.972(3)
+_cell_length_c                   10.608(4)
+_cell_angle_alpha                78.15(5)
+_cell_angle_beta                 77.99(6)
+_cell_angle_gamma                87.804(15)
+_cell_volume                     474.211
+_exptl_crystal_colour            orange
+_exptl_crystal_description       block
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Li1 Li 0.1201(13) 0.6302(7) 0.0157(5)
+O1 O 0.0193(5) 0.4295(2) 0.12117(19)
+N1 N 0.3720(5) 0.5465(3) 0.2541(3)
+O2 O 0.3856(5) 0.6128(3) 0.1389(2)
+O3 O 0.5175(5) 0.5855(3) 0.3190(2)
+N2 N 0.3159(5) 0.8289(3) -0.2537(3)
+O4 O 0.3524(5) 0.7721(3) -0.1426(2)
+O5 O 0.4316(6) 0.9471(3) -0.3164(2)
+C1 C 0.0214(6) 0.3694(3) 0.2399(3)
+C2 C 0.1867(6) 0.4221(3) 0.3151(3)
+C3 C 0.1871(7) 0.3576(4) 0.4460(3)
+H1 H 0.2993 0.396 0.4895
+C4 C 0.0225(8) 0.2371(4) 0.5118(3)
+H2 H 0.0212 0.1952 0.5997
+C5 C -0.1404(7) 0.1794(4) 0.4458(3)
+H3 H -0.2512 0.098 0.4897
+C6 C 0.1404(6) 0.7586(3) -0.3154(3)
+O6 O -0.1017(7) 0.7878(4) 0.0892(3)
+H4 H -0.226(11) 0.755(6) 0.137(5)
+H5 H -0.008(13) 0.855(8) 0.121(6)
+Li1A Li -0.1201(13) 0.3698(7) -0.0157(5)
+O1A O -0.0193(5) 0.5705(2) -0.12117(19)
+C6A C -0.1404(6) 0.2414(3) 0.3154(3)
+N2A N -0.3159(5) 0.1711(3) 0.2537(3)
+O4A O -0.3524(5) 0.2279(3) 0.1426(2)
+O2A O -0.3856(5) 0.3872(3) -0.1389(2)
+N1A N -0.3720(5) 0.4535(3) -0.2541(3)
+O3A O -0.5175(5) 0.4145(3) -0.3190(2)
+C2A C -0.1867(6) 0.5779(3) -0.3151(3)
+C1A C -0.0214(6) 0.6306(3) -0.2399(3)
+C5A C 0.1404(7) 0.8206(4) -0.4458(3)
+C4A C -0.0225(8) 0.7629(4) -0.5118(3)
+C3A C -0.1871(7) 0.6424(4) -0.4460(3)
+H1A H -0.2993 0.604 -0.4895
+H2A H -0.0212 0.8048 -0.5997
+H3A H 0.2512 0.902 -0.4897
+O6A O 0.1017(7) 0.2122(4) -0.0892(3)
+H4A H 0.226(11) 0.245(6) -0.137(5)
+H5A H 0.008(13) 0.145(8) -0.121(6)
+O5A O -0.4316(6) 0.0529(3) 0.3164(2)
+O7 O 0.1865(8) 0.0062(4) 0.1425(4)
+H6 H 0.324(13) 0.006(7) 0.180(6)
+H7 H 0.230(10) 0.068(6) 0.059(5)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Li1 O1 1_555 1_555
+O1 C1 1_555 1_555
+N1 O2 1_555 1_555
+O2 Li1 1_555 1_555
+O3 N1 1_555 1_555
+N2 O4 1_555 1_555
+O4 Li1 1_555 1_555
+O5 N2 1_555 1_555
+C1 C2 1_555 1_555
+C2 N1 1_555 1_555
+C3 C2 1_555 1_555
+H1 C3 1_555 1_555
+C4 C3 1_555 1_555
+H2 C4 1_555 1_555
+C5 C4 1_555 1_555
+H3 C5 1_555 1_555
+C6 N2 1_555 1_555
+O6 Li1 1_555 1_555
+H4 O6 1_555 1_555
+H5 O6 1_555 1_555
+O7 H6 1_555 1_555
+H7 O7 1_555 1_555
+Li1A O1 1_555 1_555
+O1A Li1 1_555 1_555
+C6A C1 1_555 1_555
+N2A C6A 1_555 1_555
+O4A Li1A 1_555 1_555
+O2A Li1A 1_555 1_555
+N1A O2A 1_555 1_555
+O3A N1A 1_555 1_555
+C2A N1A 1_555 1_555
+C1A C6 1_555 1_555
+C5A C6 1_555 1_555
+C4A C5A 1_555 1_555
+C3A C2A 1_555 1_555
+H1A C3A 1_555 1_555
+H2A C4A 1_555 1_555
+H3A C5A 1_555 1_555
+O6A Li1A 1_555 1_555
+H4A O6A 1_555 1_555
+H5A O6A 1_555 1_555
+O5A N2A 1_555 1_555
+C5 C6A 1_555 1_555
+Li1A O1A 1_555 1_555
+O1A C1A 1_555 1_555
+N2A O4A 1_555 1_555
+C2A C1A 1_555 1_555
+C4A C3A 1_555 1_555
+
+#END

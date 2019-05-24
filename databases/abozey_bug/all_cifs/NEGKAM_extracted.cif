@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_NEGKAM
+_chemical_formula_moiety         'C18 H22 Cl1 N1 O6'
+_chemical_name_systematic        
+5'-Chloro-2',7'-dimethyl-6',8'-dioxo-4'-hydroxy-7'-propanoyloxy-4,4',5,6',7',8'-hexahydro-2'H,3H-spiro(furan-2,3'-isoquinoline)
+_chemical_properties_biological  'potent p53-MDM2 antagonist'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   13.3212(12)
+_cell_length_b                   7.5076(7)
+_cell_length_c                   18.8449(17)
+_cell_angle_alpha                90
+_cell_angle_beta                 101.878(2)
+_cell_angle_gamma                90
+_cell_volume                     1844.33
+_exptl_crystal_colour            green
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.70014(8) 0.70832(16) 0.23633(6)
+O1 O 0.7545(3) 0.7204(6) 0.5207(2)
+O2 O 0.8724(2) 0.8073(4) 0.16688(15)
+O3 O 1.1374(3) 0.7464(5) 0.36767(19)
+O4 O 1.0776(2) 0.7986(4) 0.22215(16)
+O5 O 1.0320(3) 1.0545(4) 0.26790(18)
+O6 O 0.7988(2) 0.4771(4) 0.41841(15)
+H1 H 0.7664 0.4191 0.3844
+N1 N 0.9310(3) 0.7335(5) 0.50300(19)
+C1 C 0.7168(5) 0.8901(8) 0.5458(3)
+H2 H 0.7613 0.9311 0.5901
+H3 H 0.6477 0.8770 0.5540
+C2 C 0.7192(5) 1.0150(9) 0.4845(3)
+H4 H 0.6575 1.0045 0.4471
+H5 H 0.7266 1.1375 0.5012
+C3 C 0.8093(3) 0.9566(5) 0.4579(2)
+H6 H 0.8002 0.9812 0.4065
+H7 H 0.8697 1.0197 0.4832
+C4 C 0.8216(4) 0.7681(6) 0.4709(2)
+C5 C 0.7913(4) 0.6613(6) 0.4008(2)
+H8 H 0.7205 0.6900 0.3773
+C6 C 0.8618(3) 0.7021(5) 0.3497(2)
+C7 C 0.9684(3) 0.7145(6) 0.3838(2)
+C8 C 0.9948(4) 0.7189(6) 0.4587(3)
+H9 H 1.0642 0.7107 0.4797
+C9 C 0.8296(3) 0.7201(5) 0.2775(2)
+C10 C 0.8991(3) 0.7558(5) 0.2295(2)
+C11 C 1.0103(3) 0.7053(6) 0.2599(2)
+C12 C 1.0470(4) 0.7280(6) 0.3422(2)
+C13 C 1.0207(4) 0.5102(6) 0.2418(3)
+H10 H 0.9977 0.4927 0.1906
+H11 H 0.9797 0.4394 0.2674
+H12 H 1.0912 0.4749 0.2560
+C14 C 0.9694(5) 0.7563(7) 0.5813(2)
+H13 H 1.0418 0.7329 0.5929
+H14 H 0.9348 0.6747 0.6073
+H15 H 0.9568 0.8762 0.5949
+C15 C 1.0815(4) 0.9787(7) 0.2312(3)
+C16 C 1.1549(5) 1.0591(9) 0.1889(3)
+H16 H 1.1742 1.1768 0.2083
+H17 H 1.2166 0.9870 0.1969
+C17 C 1.1164(8) 1.0751(15) 0.1111(6)
+H18 H 1.1705 1.1285 0.0908
+H19 H 1.1066 0.9552 0.0918
+C18 C 1.0301(8) 1.1660(14) 0.0848(5)
+H20 H 0.9759 1.1232 0.1069
+H21 H 1.0113 1.1493 0.0332
+H22 H 1.0413 1.2903 0.0953
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C9 1_555 1_555
+O1 C1 1_555 1_555
+O2 C10 1_555 1_555
+O3 C12 1_555 1_555
+O4 C11 1_555 1_555
+O5 C15 1_555 1_555
+O6 H1 1_555 1_555
+N1 C4 1_555 1_555
+C1 H2 1_555 1_555
+H3 C1 1_555 1_555
+C2 C1 1_555 1_555
+H4 C2 1_555 1_555
+H5 C2 1_555 1_555
+C3 C2 1_555 1_555
+H6 C3 1_555 1_555
+H7 C3 1_555 1_555
+C4 O1 1_555 1_555
+C5 O6 1_555 1_555
+H8 C5 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+C8 N1 1_555 1_555
+H9 C8 1_555 1_555
+C9 C6 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+C12 C7 1_555 1_555
+C13 C11 1_555 1_555
+H10 C13 1_555 1_555
+H11 C13 1_555 1_555
+H12 C13 1_555 1_555
+C14 N1 1_555 1_555
+H13 C14 1_555 1_555
+H14 C14 1_555 1_555
+H15 C14 1_555 1_555
+C15 O4 1_555 1_555
+C16 C15 1_555 1_555
+H16 C16 1_555 1_555
+H17 C16 1_555 1_555
+C17 C16 1_555 1_555
+H18 C17 1_555 1_555
+H19 C17 1_555 1_555
+C18 C17 1_555 1_555
+H20 C18 1_555 1_555
+H21 C18 1_555 1_555
+H22 C18 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C7 C8 1_555 1_555
+C11 C12 1_555 1_555
+
+#END

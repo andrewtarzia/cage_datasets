@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ZEFTOV01
+_chemical_formula_moiety         '0.5(C6 H8 N2),C7 H6 O3'
+_chemical_name_systematic        'hemikis(2,3-dimethylpyrazine) salicylic acid'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,1/2+z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   10.8300(11)
+_cell_length_b                   13.1163(8)
+_cell_length_c                   14.0350(10)
+_cell_angle_alpha                90
+_cell_angle_beta                 108.785(10)
+_cell_angle_gamma                90
+_cell_volume                     1887.47
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       schistose
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.19732(19) 0.36902(13) 0.52190(11)
+O2 O 0.18953(18) 0.53488(12) 0.55060(11)
+H1 H 0.1493 0.5354 0.4901
+O3 O 0.2995(2) 0.24672(13) 0.67262(13)
+H2 H 0.2690 0.2624 0.6131
+C1 C 0.2863(2) 0.42812(17) 0.68907(15)
+C2 C 0.3211(2) 0.33161(19) 0.72960(16)
+C3 C 0.2212(2) 0.44068(18) 0.58025(16)
+C4 C 0.3794(2) 0.3196(2) 0.83253(18)
+H3 H 0.4033 0.2551 0.8596
+C5 C 0.3114(2) 0.51117(19) 0.75398(16)
+H4 H 0.2893 0.5763 0.7278
+C6 C 0.3677(3) 0.4992(2) 0.85528(17)
+H5 H 0.3833 0.5555 0.8978
+C7 C 0.4013(3) 0.4028(2) 0.89377(18)
+H6 H 0.4396 0.3944 0.9628
+N1 N -0.05856(17) 0.44957(14) 0.64740(12)
+C8 C -0.0293(2) 0.36187(16) 0.69760(15)
+C9 C -0.0596(3) 0.26588(18) 0.63708(18)
+H7 H 0.0181 0.2255 0.6507
+H8 H -0.0917 0.2825 0.5668
+H9 H -0.1248 0.2280 0.6549
+C10 C -0.0295(2) 0.53601(17) 0.69924(17)
+H10 H -0.0500 0.5979 0.6654
+N1A N 0.05856(17) 0.44957(14) 0.85260(12)
+C8A C 0.0293(2) 0.36187(16) 0.80240(15)
+C9A C 0.0596(3) 0.26588(18) 0.86292(18)
+H7A H -0.0181 0.2255 0.8493
+H8A H 0.0917 0.2825 0.9332
+H9A H 0.1248 0.2280 0.8451
+C10A C 0.0295(2) 0.53601(17) 0.80076(17)
+H10A H 0.0500 0.5979 0.8346
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C3 1_555 1_555
+O2 H1 1_555 1_555
+O3 H2 1_555 1_555
+C1 C2 1_555 1_555
+C2 O3 1_555 1_555
+C3 O2 1_555 1_555
+C4 C2 1_555 1_555
+H3 C4 1_555 1_555
+C5 C1 1_555 1_555
+H4 C5 1_555 1_555
+C6 C5 1_555 1_555
+H5 C6 1_555 1_555
+C7 C4 1_555 1_555
+H6 C7 1_555 1_555
+N1 C8 1_555 1_555
+C8 C9 1_555 1_555
+C9 H7 1_555 1_555
+H8 C9 1_555 1_555
+H9 C9 1_555 1_555
+C10 N1 1_555 1_555
+H10 C10 1_555 1_555
+N1A C8A 1_555 1_555
+C8A C8 1_555 1_555
+C9A C8A 1_555 1_555
+H7A C9A 1_555 1_555
+H8A C9A 1_555 1_555
+H9A C9A 1_555 1_555
+C10A C10 1_555 1_555
+H10A C10A 1_555 1_555
+C1 C3 1_555 1_555
+C6 C7 1_555 1_555
+N1A C10A 1_555 1_555
+
+#END

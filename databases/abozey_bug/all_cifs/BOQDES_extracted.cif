@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BOQDES
+_chemical_name_common            clofentezine
+_chemical_formula_moiety         'C14 H8 Cl2 N4'
+_chemical_name_systematic        3,6-bis(2-chlorophenyl)-1,2,4,5-tetrazine
+_chemical_properties_biological  
+'Clofentezine is an acaricide used in plant protection for the control of spider mites'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   3.8199(4)
+_cell_length_b                   14.0706(16)
+_cell_length_c                   12.1066(15)
+_cell_angle_alpha                90
+_cell_angle_beta                 97.715(3)
+_cell_angle_gamma                90
+_cell_volume                     644.819
+_exptl_crystal_colour            red
+_exptl_crystal_description       plate
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.72153(14) 0.44093(3) 0.68048(4)
+N1 N 1.1350(5) 0.45432(11) 0.91567(14)
+N2 N 0.8626(5) 0.58937(11) 0.98682(13)
+C1 C 0.9976(5) 0.54235(12) 0.90522(16)
+C2 C 1.0066(5) 0.59412(12) 0.79914(15)
+C3 C 0.9028(5) 0.55442(12) 0.69426(16)
+C4 C 0.9276(5) 0.60556(14) 0.59725(17)
+H1 H 0.8507 0.5782 0.5264
+C5 C 1.0657(6) 0.69676(15) 0.60499(19)
+H2 H 1.0929 0.7310 0.5390
+C6 C 1.1638(6) 0.73814(14) 0.7076(2)
+H3 H 1.2533 0.8012 0.7122
+C7 C 1.1319(5) 0.68778(14) 0.80399(18)
+H4 H 1.1959 0.7172 0.8744
+Cl1B Cl 1.27847(14) 0.55907(3) 1.31952(4)
+N1B N 0.8650(5) 0.54568(11) 1.08433(14)
+N2B N 1.1374(5) 0.41063(11) 1.01318(13)
+C1B C 1.0024(5) 0.45765(12) 1.09478(16)
+C2B C 0.9934(5) 0.40588(12) 1.20086(15)
+C3B C 1.0972(5) 0.44558(12) 1.30574(16)
+C4B C 1.0724(5) 0.39444(14) 1.40275(17)
+H1B H 1.1493 0.4218 1.4736
+C5B C 0.9343(6) 0.30324(15) 1.39501(19)
+H2B H 0.9071 0.2690 1.4610
+C6B C 0.8362(6) 0.26186(14) 1.2924(2)
+H3B H 0.7467 0.1988 1.2878
+C7B C 0.8681(5) 0.31222(14) 1.19601(18)
+H4B H 0.8041 0.2828 1.1256
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C3 1_555 1_555
+N1 C1 1_555 1_555
+N2 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 H1 1_555 1_555
+C5 C4 1_555 1_555
+H2 C5 1_555 1_555
+C6 C5 1_555 1_555
+H3 C6 1_555 1_555
+C7 C2 1_555 1_555
+H4 C7 1_555 1_555
+Cl1B C3B 1_555 1_555
+N1B N2 1_555 1_555
+N2B N1 1_555 1_555
+C1B N1B 1_555 1_555
+C2B C1B 1_555 1_555
+C3B C2B 1_555 1_555
+C4B C3B 1_555 1_555
+H1B C4B 1_555 1_555
+C5B C4B 1_555 1_555
+H2B C5B 1_555 1_555
+C6B C5B 1_555 1_555
+H3B C6B 1_555 1_555
+C7B C2B 1_555 1_555
+H4B C7B 1_555 1_555
+C6 C7 1_555 1_555
+N2B C1B 1_555 1_555
+C6B C7B 1_555 1_555
+
+#END

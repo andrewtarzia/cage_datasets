@@ -1,0 +1,79 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_LALNIN56
+_chemical_name_common            L-alanine
+_chemical_formula_moiety         'C3 H7 N1 O2'
+_chemical_name_systematic        2-ammoniopropanoate
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a                   5.779(2)
+_cell_length_b                   6.031(2)
+_cell_length_c                   12.318(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     429.321
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       
+'microcrystalline powder suspension (20-45 micrometer)'
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2390(4) 0.0503(4) 0.1852(2)
+O2 O 0.3718(4) -0.2284(5) 0.0843(2)
+N1 N 0.8143(4) -0.1560(5) 0.1381(3)
+C1 C 0.6443(5) 0.0235(6) 0.1614(3)
+C2 C 0.3977(5) -0.0603(6) 0.1415(3)
+C3 C 0.6973(6) 0.2238(7) 0.0915(3)
+H1 H 0.7829 -0.27343 0.17923
+H2 H 0.80513 -0.19383 0.06835
+H3 H 0.95659 -0.10785 0.15261
+H4 H 0.65875 0.06614 0.23791
+H5 H 0.58747 0.33915 0.10668
+H6 H 0.85061 0.27594 0.10715
+H7 H 0.68723 0.18319 0.01626
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C2 1_555 1_555
+O2 C2 1_555 1_555
+N1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C3 C1 1_555 1_555
+H1 N1 1_555 1_555
+H2 N1 1_555 1_555
+H3 N1 1_555 1_555
+H4 C1 1_555 1_555
+H5 C3 1_555 1_555
+H6 C3 1_555 1_555
+H7 C3 1_555 1_555
+
+#END

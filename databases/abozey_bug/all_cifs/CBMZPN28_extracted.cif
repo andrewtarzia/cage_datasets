@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CBMZPN28
+_chemical_name_common            carbamazepine
+_chemical_formula_moiety         'C15 H12 N2 O1'
+_chemical_name_systematic        5H-dibenzo[b,f]azepine-5-carboxamide
+_chemical_properties_biological  
+'analgesic, antiepileptic, anticonvulsant, bipolar disorder treatment, trigeminal neuralgia treatment, known auditory pitch lowering effect'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   7.578(12)
+_cell_length_b                   11.176(2)
+_cell_length_c                   13.991(13)
+_cell_angle_alpha                90
+_cell_angle_beta                 93.08(6)
+_cell_angle_gamma                90
+_cell_volume                     1183.21
+_exptl_crystal_description       nanocrystal
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.343(4) 0.6879(11) 0.5044(14)
+O1 O -0.005(3) 0.8773(10) 0.4105(11)
+N1 N 0.212(3) 0.7343(9) 0.4393(12)
+C2 C 0.303(4) 0.6371(14) 0.5884(15)
+H1 H 0.1862 0.6259 0.6041
+N2 N 0.182(3) 0.8996(10) 0.5404(13)
+H2 H 0.1307 0.9638 0.5587
+H3 H 0.2716 0.8716 0.5732
+C3 C 0.451(4) 0.6006(12) 0.6533(17)
+H4 H 0.4305 0.5683 0.7130
+C4 C 0.616(4) 0.6141(12) 0.6262(16)
+H5 H 0.7081 0.5897 0.6682
+C5 C 0.657(4) 0.6621(12) 0.5397(16)
+H6 H 0.7751 0.6714 0.5260
+C6 C 0.561(4) 0.7502(14) 0.3735(17)
+H7 H 0.6552 0.8030 0.3706
+C7 C 0.527(4) 0.6966(10) 0.4731(15)
+C8 C 0.475(4) 0.7298(12) 0.2971(16)
+H8 H 0.5273 0.7535 0.2417
+C9 C 0.302(4) 0.6738(12) 0.2832(14)
+C10 C 0.257(4) 0.6102(13) 0.1939(15)
+H9 H 0.3389 0.6090 0.1469
+C11 C 0.100(5) 0.5528(14) 0.1761(16)
+H10 H 0.0749 0.5136 0.1183
+C12 C -0.016(4) 0.5547(13) 0.2440(15)
+H11 H -0.1196 0.5120 0.2311
+C13 C -0.001(4) 0.6136(12) 0.3337(15)
+H12 H -0.0901 0.6146 0.3767
+C14 C 0.174(3) 0.6738(9) 0.3520(13)
+C15 C 0.120(4) 0.8421(10) 0.4587(14)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 N1 1_555 1_555
+O1 C15 1_555 1_555
+N1 C14 1_555 1_555
+C2 C1 1_555 1_555
+H1 C2 1_555 1_555
+N2 H2 1_555 1_555
+H3 N2 1_555 1_555
+C3 C2 1_555 1_555
+H4 C3 1_555 1_555
+C4 C3 1_555 1_555
+H5 C4 1_555 1_555
+C5 C4 1_555 1_555
+H6 C5 1_555 1_555
+C6 H7 1_555 1_555
+C7 C1 1_555 1_555
+C8 C6 1_555 1_555
+H8 C8 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+H9 C10 1_555 1_555
+C11 C10 1_555 1_555
+H10 C11 1_555 1_555
+C12 C11 1_555 1_555
+H11 C12 1_555 1_555
+C13 C12 1_555 1_555
+H12 C13 1_555 1_555
+C14 C9 1_555 1_555
+C15 N1 1_555 1_555
+N2 C15 1_555 1_555
+C5 C7 1_555 1_555
+C6 C7 1_555 1_555
+C13 C14 1_555 1_555
+
+#END

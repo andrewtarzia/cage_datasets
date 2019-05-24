@@ -1,0 +1,81 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DEZCOA
+_chemical_formula_moiety         'C9 H14 O6'
+_chemical_name_systematic        1,4,7,10-Tetraoxa-cyclotridecane-11,13-dione
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/a'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,z
+_cell_length_a                   8.267(6)
+_cell_length_b                   16.233(6)
+_cell_length_c                   8.524(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 114.20(4)
+_cell_angle_gamma                90
+_cell_volume                     1043.38
+_exptl_crystal_colour            white
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2980(3) 0.3505(3) 0.5406(3)
+O2 O 0.3392(3) 0.3230(2) 1.0642(3)
+O3 O 0.0074(3) 0.3424(2) 0.3712(3)
+C1 C 0.1460(4) 0.3099(2) 0.4563(4)
+C2 C 0.1981(4) 0.1842(2) 0.6497(5)
+C3 C 0.1734(5) 0.2832(3) 1.0167(4)
+C4 C 0.2468(6) 0.4603(2) 0.9470(5)
+C5 C 0.2862(5) 0.4396(2) 0.5399(5)
+O4 O 0.1616(3) 0.2386(1) 0.7475(3)
+O5 O 0.3238(3) 0.4472(2) 0.8287(3)
+O6 O 0.2410(4) 0.1143(2) 0.6920(4)
+C6 C 0.1740(4) 0.2184(2) 0.4781(4)
+C7 C 0.1700(5) 0.2094(2) 0.9120(5)
+C8 C 0.3402(6) 0.4081(3) 1.1009(5)
+C9 C 0.2104(5) 0.4704(2) 0.6601(5)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C3 1_555 1_555
+O3 C1 1_555 1_555
+C1 C6 1_555 1_555
+C2 O4 1_555 1_555
+C3 C7 1_555 1_555
+C4 O5 1_555 1_555
+C5 O1 1_555 1_555
+O4 C7 1_555 1_555
+O5 C9 1_555 1_555
+O6 C2 1_555 1_555
+C6 C2 1_555 1_555
+C8 O2 1_555 1_555
+C9 C5 1_555 1_555
+C4 C8 1_555 1_555
+
+#END

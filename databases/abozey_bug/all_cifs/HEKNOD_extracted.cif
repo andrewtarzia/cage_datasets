@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_HEKNOD
+_chemical_formula_moiety         'C15 H14 N2 O4 S1'
+_chemical_name_systematic        
+'(E)-2-methoxy-4-(3-oxo-3-(thiazol-2-ylamino)prop-1-en-1-yl)phenyl acetate'
+_chemical_properties_biological  'significant coagulation activity'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   16.0872(2)
+_cell_length_b                   5.58990(7)
+_cell_length_c                   16.3229(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 98.3419(14)
+_cell_angle_gamma                90
+_cell_volume                     1452.32
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 'dimethyl sulfoxide'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.63179(2) -0.13852(6) 0.71093(2)
+O1 O 0.81638(6) 1.39663(18) 0.35301(6)
+O2 O 0.71389(6) 0.23673(19) 0.65897(6)
+O3 O 0.91851(7) 1.2064(2) 0.29815(7)
+O4 O 0.92116(7) 1.2866(2) 0.49228(7)
+N1 N 0.59833(7) 0.1288(2) 0.56961(7)
+H1 H 0.5677 0.1585 0.5230
+N2 N 0.50905(7) -0.1878(2) 0.59077(7)
+C1 C 0.57570(8) -0.0572(3) 0.61622(8)
+C2 C 0.66748(8) 0.2709(3) 0.59340(8)
+C3 C 0.67872(9) 0.4626(3) 0.53400(8)
+H2 H 0.6391 0.4813 0.4870
+C4 C 0.74446(9) 0.6094(3) 0.54635(8)
+H3 H 0.7829 0.5833 0.5938
+C5 C 0.80210(9) 1.1922(3) 0.39788(8)
+C6 C 0.76270(9) 0.8076(3) 0.49321(8)
+C7 C 0.73178(9) 1.0571(3) 0.37212(9)
+H4 H 0.6978 1.0939 0.3226
+C8 C 0.87704(9) 1.3823(3) 0.30260(9)
+C9 C 0.50083(10) -0.3622(3) 0.64884(9)
+H5 H 0.4572 -0.4727 0.6416
+C10 C 0.83445(9) 0.9450(3) 0.51806(9)
+H6 H 0.8696 0.9056 0.5665
+C11 C 0.71123(10) 0.8666(3) 0.41947(9)
+H7 H 0.6630 0.7776 0.4022
+C12 C 0.85420(9) 1.1395(3) 0.47161(9)
+C13 C 0.55952(9) -0.3636(3) 0.71671(9)
+H8 H 0.5609 -0.4707 0.7605
+C14 C 0.88095(10) 1.6116(3) 0.25644(10)
+H9 H 0.8352 1.6181 0.2116
+H10 H 0.9333 1.6205 0.2348
+H11 H 0.8769 1.7438 0.2932
+C15 C 0.96932(12) 1.2557(4) 0.57306(11)
+H12 H 0.9923 1.0970 0.5777
+H13 H 0.9336 1.2789 0.6146
+H14 H 1.0142 1.3705 0.5807
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C1 1_555 1_555
+O1 C5 1_555 1_555
+O2 C2 1_555 1_555
+O3 C8 1_555 1_555
+O4 C12 1_555 1_555
+N1 H1 1_555 1_555
+N2 C1 1_555 1_555
+C1 N1 1_555 1_555
+C2 N1 1_555 1_555
+C3 C2 1_555 1_555
+H2 C3 1_555 1_555
+C4 C3 1_555 1_555
+H3 C4 1_555 1_555
+C5 C7 1_555 1_555
+C6 C4 1_555 1_555
+C7 H4 1_555 1_555
+C8 O1 1_555 1_555
+C9 N2 1_555 1_555
+H5 C9 1_555 1_555
+C10 C6 1_555 1_555
+H6 C10 1_555 1_555
+C11 C6 1_555 1_555
+H7 C11 1_555 1_555
+C12 C5 1_555 1_555
+C13 S1 1_555 1_555
+H8 C13 1_555 1_555
+C14 C8 1_555 1_555
+H9 C14 1_555 1_555
+H10 C14 1_555 1_555
+H11 C14 1_555 1_555
+C15 O4 1_555 1_555
+H12 C15 1_555 1_555
+H13 C15 1_555 1_555
+H14 C15 1_555 1_555
+C7 C11 1_555 1_555
+C9 C13 1_555 1_555
+C10 C12 1_555 1_555
+
+#END

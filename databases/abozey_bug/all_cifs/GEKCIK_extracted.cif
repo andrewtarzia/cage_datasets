@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_GEKCIK
+_chemical_formula_moiety         'C14 H10 I2 N2 O3,C1 H4 O1'
+_chemical_name_systematic        
+"4-Hydroxy-N'-(2-hydroxy-3,5-diiodobenzylidene)benzohydrazide methanol solvate"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   7.886(1)
+_cell_length_b                   19.584(1)
+_cell_length_c                   11.933(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 104.696(1)
+_cell_angle_gamma                90
+_cell_volume                     1782.64
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+_chemical_properties_physical    air-sensitive
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.54451(4) 1.207341(13) 1.00835(3)
+I2 I 0.73077(4) 1.066171(17) 1.46895(2)
+N1 N 0.1749(3) 0.96294(13) 0.9801(2)
+N2 N 0.0694(4) 0.90920(14) 0.9356(2)
+O1 O 0.3084(4) 1.07935(13) 0.9528(2)
+O2 O -0.0123(3) 0.96206(12) 0.7620(2)
+O3 O -0.4501(4) 0.69065(12) 0.6258(2)
+H1 H -0.4609 0.6631 0.6752
+C1 C 0.3811(4) 1.01725(16) 1.1335(3)
+C2 C 0.3982(4) 1.07338(16) 1.0640(3)
+C3 C 0.5135(4) 1.12554(16) 1.1137(3)
+C4 C 0.6079(4) 1.12308(18) 1.2271(3)
+H3 H 0.6848 1.1582 1.2583
+C5 C 0.5877(4) 1.06763(18) 1.2949(3)
+C6 C 0.4753(4) 1.01526(17) 1.2489(3)
+H4 H 0.4624 0.9784 1.2951
+C7 C 0.2650(4) 0.96036(16) 1.0854(3)
+H5 H 0.2569 0.9226 1.1310
+C8 C -0.0195(4) 0.91201(15) 0.8216(3)
+C9 C -0.1272(4) 0.85100(15) 0.7745(3)
+C10 C -0.2225(4) 0.85352(16) 0.6596(3)
+H6 H -0.2139 0.8915 0.6146
+C11 C -0.3306(5) 0.79945(16) 0.6118(3)
+H7 H -0.3954 0.8016 0.5350
+C12 C -0.3423(4) 0.74275(15) 0.6773(3)
+C13 C -0.2475(5) 0.73926(17) 0.7914(3)
+H8 H -0.2548 0.7008 0.8358
+C14 C -0.1413(5) 0.79359(17) 0.8393(3)
+H9 H -0.0782 0.7915 0.9165
+H13 H 0.064(7) 0.8723(17) 0.979(4)
+H14 H 0.241(6) 1.0452(17) 0.938(5)
+O4 O 0.4961(4) 0.59842(13) 0.7750(2)
+H2 H 0.4893 0.5592 0.7503
+C15 C 0.3467(6) 0.6134(2) 0.8153(4)
+H10 H 0.3825 0.6251 0.8960
+H11 H 0.2714 0.5742 0.8050
+H12 H 0.2848 0.6511 0.7722
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+I1 C3 1_555 1_555
+I2 C5 1_555 1_555
+N1 N2 1_555 1_555
+N2 C8 1_555 1_555
+O1 C2 1_555 1_555
+O2 C8 1_555 1_555
+O3 H1 1_555 1_555
+O4 H2 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 H3 1_555 1_555
+C5 C4 1_555 1_555
+C6 C1 1_555 1_555
+H4 C6 1_555 1_555
+C7 N1 1_555 1_555
+H5 C7 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 H6 1_555 1_555
+C11 C10 1_555 1_555
+H7 C11 1_555 1_555
+C12 O3 1_555 1_555
+C13 C12 1_555 1_555
+H8 C13 1_555 1_555
+C14 C9 1_555 1_555
+H9 C14 1_555 1_555
+C15 O4 1_555 1_555
+H10 C15 1_555 1_555
+H11 C15 1_555 1_555
+H12 C15 1_555 1_555
+H13 N2 1_555 1_555
+H14 O1 1_555 1_555
+C1 C7 1_555 1_555
+C5 C6 1_555 1_555
+C11 C12 1_555 1_555
+C13 C14 1_555 1_555
+
+#END

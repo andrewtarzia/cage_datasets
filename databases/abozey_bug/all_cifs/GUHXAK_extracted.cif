@@ -1,0 +1,79 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_GUHXAK
+_chemical_formula_moiety         'C5 H8 O2'
+_chemical_name_systematic        'pent-2-enoic acid'
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   6.7336(13)
+_cell_length_b                   6.7821(13)
+_cell_length_c                   7.2349(14)
+_cell_angle_alpha                67.743(2)
+_cell_angle_beta                 75.518(2)
+_cell_angle_gamma                64.401(2)
+_cell_volume                     274.288
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prism
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.36613(18) 0.77456(19) 0.59878(16)
+C2 C 0.25933(18) 0.6065(2) 0.66526(16)
+H1 H 0.1507 0.6289 0.5893
+C3 C 0.31028(18) 0.4243(2) 0.82842(16)
+H2 H 0.4190 0.4066 0.9018
+C4 C 0.2111(2) 0.2446(2) 0.90640(17)
+H3 H 0.1414 0.2401 1.0450
+H4 H 0.3320 0.0930 0.9135
+C5 C 0.0389(2) 0.2791(2) 0.78294(19)
+H5 H -0.0864 0.4244 0.7812
+H6 H -0.0133 0.1517 0.8430
+H7 H 0.1055 0.2834 0.6452
+O1 O 0.30172(15) 0.93766(15) 0.42861(12)
+O2 O 0.50223(14) 0.76619(15) 0.69113(12)
+H8 H 0.376(3) 1.039(4) 0.395(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+C3 C2 1_555 1_555
+H2 C3 1_555 1_555
+C4 C3 1_555 1_555
+H3 C4 1_555 1_555
+H4 C4 1_555 1_555
+C5 C4 1_555 1_555
+H5 C5 1_555 1_555
+H6 C5 1_555 1_555
+H7 C5 1_555 1_555
+O1 C1 1_555 1_555
+O2 C1 1_555 1_555
+H8 O1 1_555 1_555
+
+#END

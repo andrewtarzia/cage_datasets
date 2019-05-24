@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ILOZAK
+_chemical_formula_moiety         'C19 H13 N3 O1'
+_chemical_name_systematic        1-(2-Pyridoyl)-3-phenylimidazo(1,5-a)pyridine
+_chemical_properties_biological  'thromboxane A!2$ synthetase inhibitor'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,z
+8 x,1/2-y,1/2+z
+_cell_length_a                   12.2550(6)
+_cell_length_b                   7.6660(4)
+_cell_length_c                   31.2543(16)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2936.24
+_chemical_melting_point          '128-130 deg.C'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method 'ethyl acetate/hexanes'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.42451(10) -0.08062(17) 0.59238(4)
+N1 N 0.45833(8) -0.01415(14) 0.63100(3)
+C2 C 0.37016(10) 0.02923(17) 0.65243(4)
+N2 N 0.27656(8) -0.00588(14) 0.62853(3)
+C3 C 0.16717(11) 0.02764(18) 0.63639(5)
+C4 C 0.09245(11) -0.0188(2) 0.60694(5)
+C5 C 0.12419(11) -0.1007(2) 0.56828(5)
+C6 C 0.23153(11) -0.12821(18) 0.55967(4)
+C7 C 0.31089(10) -0.07729(16) 0.58990(4)
+C8 C 0.49730(11) -0.14878(18) 0.55977(4)
+O1 O 0.46389(8) -0.18858(17) 0.52405(3)
+C9 C 0.61681(10) -0.17183(17) 0.56940(4)
+C10 C 0.69217(11) -0.1182(2) 0.53905(4)
+C11 C 0.80171(12) -0.1447(2) 0.54720(5)
+C12 C 0.83114(11) -0.2267(2) 0.58442(5)
+C13 C 0.75072(12) -0.2774(2) 0.61237(5)
+N3 N 0.64403(9) -0.25025(16) 0.60600(4)
+C14 C 0.37091(11) 0.09850(17) 0.69614(4)
+C15 C 0.45710(12) 0.2050(2) 0.70866(5)
+C16 C 0.46568(15) 0.2604(2) 0.75040(6)
+C17 C 0.38946(16) 0.2125(3) 0.78053(6)
+C18 C 0.30382(15) 0.1074(3) 0.76858(5)
+C19 C 0.29425(12) 0.0496(2) 0.72669(5)
+H1 H 0.1450 0.0832 0.6625
+H2 H 0.0166 0.0040 0.6122
+H3 H 0.0697 -0.1370 0.5481
+H4 H 0.2532 -0.1818 0.5332
+H5 H 0.6688 -0.0639 0.5129
+H6 H 0.8561 -0.1065 0.5272
+H7 H 0.9066 -0.2482 0.5908
+H8 H 0.7724 -0.3361 0.6381
+H9 H 0.5109 0.2401 0.6881
+H10 H 0.5257 0.3335 0.7586
+H11 H 0.3960 0.2520 0.8096
+H12 H 0.2502 0.0737 0.7894
+H13 H 0.2344 -0.0244 0.7187
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 N1 1_555 1_555
+N1 C2 1_555 1_555
+C2 N2 1_555 1_555
+N2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C1 1_555 1_555
+C8 C1 1_555 1_555
+O1 C8 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+C12 C11 1_555 1_555
+C13 C12 1_555 1_555
+N3 C9 1_555 1_555
+C14 C2 1_555 1_555
+C15 C14 1_555 1_555
+C16 C15 1_555 1_555
+C17 C16 1_555 1_555
+C18 C17 1_555 1_555
+C19 C14 1_555 1_555
+H1 C3 1_555 1_555
+H2 C4 1_555 1_555
+H3 C5 1_555 1_555
+H4 C6 1_555 1_555
+H5 C10 1_555 1_555
+H6 C11 1_555 1_555
+H7 C12 1_555 1_555
+H8 C13 1_555 1_555
+H9 C15 1_555 1_555
+H10 C16 1_555 1_555
+H11 C17 1_555 1_555
+H12 C18 1_555 1_555
+H13 C19 1_555 1_555
+N2 C7 1_555 1_555
+C13 N3 1_555 1_555
+C18 C19 1_555 1_555
+
+#END

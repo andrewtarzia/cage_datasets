@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_UPUPAY
+_chemical_name_common            
+5-(4-Dimethylaminophenyl)benzo[c][1,2,5]thiadiazole
+_chemical_formula_moiety         'C14 H13 N3 S1'
+_chemical_name_systematic        
+4-(2,1,3-benzothiadiazol-5-yl)-N,N-dimethylaniline
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,z
+8 x,1/2-y,1/2+z
+_cell_length_a                   6.48560(10)
+_cell_length_b                   16.0610(4)
+_cell_length_c                   22.6793(6)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2362.39
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       needle
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method ethanol
+_exptl_crystal_preparation       
+'Crystals were grown by slowly cooling a hot ethanol solution.'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.24309(9) 0.68494(4) 0.17045(3)
+N1 N 0.2046(3) 0.70668(13) 0.10167(10)
+N2 N 0.0451(3) 0.72927(13) 0.20084(10)
+N3 N -1.0657(3) 1.04479(14) 0.13378(10)
+C1 C 0.0296(4) 0.75227(15) 0.09983(12)
+C2 C -0.0628(4) 0.76453(14) 0.15648(12)
+C3 C -0.2486(4) 0.81022(15) 0.16253(11)
+H1 H -0.3093 0.8176 0.2003
+C4 C -0.3402(4) 0.84377(14) 0.11318(11)
+C5 C -0.2460(4) 0.83018(15) 0.05687(11)
+H2 H -0.3111 0.8529 0.0230
+C6 C -0.0676(4) 0.78623(15) 0.04929(12)
+H3 H -0.0101 0.7786 0.0111
+C7 C -0.5327(3) 0.89379(14) 0.11781(11)
+C8 C -0.6449(4) 0.89851(15) 0.17027(11)
+H4 H -0.5984 0.8678 0.2035
+C9 C -0.8215(4) 0.94642(15) 0.17551(12)
+H5 H -0.8940 0.9472 0.2119
+C10 C -0.8953(4) 0.99398(15) 0.12794(12)
+C11 C -0.7847(4) 0.98900(16) 0.07508(12)
+H6 H -0.8305 1.0198 0.0418
+C12 C -0.6099(4) 0.94008(16) 0.07039(12)
+H7 H -0.5397 0.9378 0.0337
+C13 C -1.1796(4) 1.04611(17) 0.18863(12)
+H8 H -1.2411 0.9913 0.1956
+H9 H -1.2889 1.0881 0.1863
+H10 H -1.0859 1.0598 0.2211
+C14 C -1.1607(4) 1.08205(17) 0.08254(13)
+H11 H -1.0685 1.1245 0.0661
+H12 H -1.2916 1.1080 0.0939
+H13 H -1.1865 1.0390 0.0528
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 N1 1_555 1_555
+N1 C1 1_555 1_555
+N2 S1 1_555 1_555
+N3 C10 1_555 1_555
+C1 C2 1_555 1_555
+C2 N2 1_555 1_555
+C3 C2 1_555 1_555
+H1 C3 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+H2 C5 1_555 1_555
+C6 C1 1_555 1_555
+H3 C6 1_555 1_555
+C7 C4 1_555 1_555
+C8 C7 1_555 1_555
+H4 C8 1_555 1_555
+C9 C8 1_555 1_555
+H5 C9 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+H6 C11 1_555 1_555
+C12 C7 1_555 1_555
+H7 C12 1_555 1_555
+C13 N3 1_555 1_555
+H8 C13 1_555 1_555
+H9 C13 1_555 1_555
+H10 C13 1_555 1_555
+C14 N3 1_555 1_555
+H11 C14 1_555 1_555
+H12 C14 1_555 1_555
+H13 C14 1_555 1_555
+C5 C6 1_555 1_555
+C11 C12 1_555 1_555
+
+#END

@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WURVOU
+_chemical_formula_moiety         'C2 H10 B10 I2'
+_chemical_name_systematic        
+9,12-diiodo-1,2-dicarba-closo-dodecaborane(12)
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a                   7.126(3)
+_cell_length_b                   12.320(4)
+_cell_length_c                   13.905(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1220.75
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          466-467K
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method hexane/acetone
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.26319(3) 0.303961(16) 0.068963(14)
+I2 I -0.14555(3) 0.53312(2) -0.006576(16)
+C1 C 0.3072(5) 0.5824(3) 0.3006(3)
+H1 H 0.3886 0.5932 0.3584
+C2 C 0.1499(5) 0.6720(3) 0.2712(2)
+H2 H 0.1317 0.7391 0.3106
+B1 B 0.3527(6) 0.6641(3) 0.2028(3)
+H3 H 0.4648 0.7277 0.1988
+B2 B 0.4045(5) 0.5227(3) 0.2029(3)
+H4 H 0.5525 0.4925 0.1983
+B3 B 0.2339(6) 0.4544(3) 0.2755(2)
+H5 H 0.2705 0.3800 0.3178
+B4 B 0.0755(6) 0.5530(3) 0.3205(3)
+H6 H 0.0086 0.5447 0.3931
+B5 B 0.1270(5) 0.6823(3) 0.1492(3)
+H7 H 0.0907 0.7581 0.1088
+B6 B 0.2876(5) 0.5841(3) 0.1030(3)
+H8 H 0.3572 0.5942 0.0313
+B7 B 0.2135(5) 0.4544(3) 0.1479(2)
+B8 B 0.0094(5) 0.4729(3) 0.2217(3)
+H9 H -0.1035 0.4099 0.2275
+B9 B -0.0428(6) 0.6141(3) 0.2223(3)
+H10 H -0.1895 0.6458 0.2294
+B10 B 0.0429(5) 0.5524(3) 0.1152(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+I1 B7 1_555 1_555
+I2 B10 1_555 1_555
+C1 H1 1_555 1_555
+C2 C1 1_555 1_555
+H2 C2 1_555 1_555
+B1 C1 1_555 1_555
+H3 B1 1_555 1_555
+B2 C1 1_555 1_555
+H4 B2 1_555 1_555
+B3 C1 1_555 1_555
+H5 B3 1_555 1_555
+B4 C1 1_555 1_555
+H6 B4 1_555 1_555
+B5 C2 1_555 1_555
+H7 B5 1_555 1_555
+B6 B1 1_555 1_555
+H8 B6 1_555 1_555
+B7 B2 1_555 1_555
+B8 B3 1_555 1_555
+H9 B8 1_555 1_555
+B9 C2 1_555 1_555
+H10 B9 1_555 1_555
+B10 B5 1_555 1_555
+C2 B1 1_555 1_555
+C2 B4 1_555 1_555
+B1 B5 1_555 1_555
+B1 B2 1_555 1_555
+B2 B3 1_555 1_555
+B2 B6 1_555 1_555
+B3 B7 1_555 1_555
+B3 B4 1_555 1_555
+B4 B8 1_555 1_555
+B4 B9 1_555 1_555
+B5 B9 1_555 1_555
+B5 B6 1_555 1_555
+B6 B7 1_555 1_555
+B6 B10 1_555 1_555
+B7 B10 1_555 1_555
+B7 B8 1_555 1_555
+B8 B10 1_555 1_555
+B8 B9 1_555 1_555
+B9 B10 1_555 1_555
+
+#END

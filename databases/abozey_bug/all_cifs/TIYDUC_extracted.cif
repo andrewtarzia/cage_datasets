@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TIYDUC
+_chemical_formula_moiety         'C4 Br2 Cl2 N8 O8'
+_chemical_name_systematic        
+1,1'-Diazene-1,2-diylbis(2-bromo-N-chloro-2,2-dinitroethanimine)
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   7.9255(8)
+_cell_length_b                   7.1177(7)
+_cell_length_c                   12.8665(12)
+_cell_angle_alpha                90
+_cell_angle_beta                 102.1130(10)
+_cell_angle_gamma                90
+_cell_volume                     709.657
+_exptl_crystal_colour            purple
+_exptl_crystal_description       plate
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.8914(2) 0.54103(18) 0.62611(9)
+Cl1 Cl 0.3025(10) 0.7503(16) 0.6687(10)
+O1 O 0.7477(4) 1.0668(3) 0.5888(2)
+O2 O 0.8990(3) 0.8034(4) 0.4438(2)
+O3 O 0.8920(4) 0.9099(4) 0.7240(2)
+O4 O 0.6181(3) 0.8118(4) 0.39715(19)
+N1 N 0.8016(4) 0.9239(4) 0.6360(2)
+N2 N 0.4603(4) 0.5442(3) 0.5296(2)
+N3 N 0.7546(4) 0.7875(4) 0.4602(2)
+N4 N 0.4997(3) 0.8004(4) 0.6499(2)
+C1 C 0.7422(4) 0.7378(4) 0.5750(2)
+C2 C 0.5567(4) 0.6960(4) 0.5844(2)
+Br1B Br 0.1086(2) 0.45897(18) 0.37389(9)
+Cl1B Cl 0.6975(10) 0.2497(16) 0.3313(10)
+O1B O 0.2523(4) -0.0668(3) 0.4112(2)
+O2B O 0.1010(3) 0.1966(4) 0.5562(2)
+O3B O 0.1080(4) 0.0901(4) 0.2760(2)
+O4B O 0.3819(3) 0.1882(4) 0.60285(19)
+N1B N 0.1984(4) 0.0761(4) 0.3640(2)
+N2B N 0.5397(4) 0.4558(3) 0.4704(2)
+N3B N 0.2454(4) 0.2125(4) 0.5398(2)
+N4B N 0.5003(3) 0.1996(4) 0.3501(2)
+C1B C 0.2578(4) 0.2622(4) 0.4250(2)
+C2B C 0.4433(4) 0.3040(4) 0.4156(2)
+Cl2? Cl 0.883(3) 0.558(3) 0.6393(16)
+Br2? Br 0.286(3) 0.753(4) 0.675(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 C1 1_555 1_555
+Cl1 N4 1_555 1_555
+O1 N1 1_555 1_555
+O2 N3 1_555 1_555
+O3 N1 1_555 1_555
+O4 N3 1_555 1_555
+N1 C1 1_555 1_555
+N2 C2 1_555 1_555
+N3 C1 1_555 1_555
+N4 C2 1_555 1_555
+C1 C2 1_555 1_555
+Br1B C1B 1_555 1_555
+Cl1B N4B 1_555 1_555
+O1B N1B 1_555 1_555
+O2B N3B 1_555 1_555
+O3B N1B 1_555 1_555
+O4B N3B 1_555 1_555
+N1B C1B 1_555 1_555
+N2B N2 1_555 1_555
+N3B C1B 1_555 1_555
+N4B C2B 1_555 1_555
+C1B C2B 1_555 1_555
+C2B N2B 1_555 1_555
+
+#END

@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_QOWSOK
+_chemical_formula_moiety         '2(C1 H6 N3 1+),C6 H4 O6 S2 2-,2(C8 H10)'
+_chemical_name_systematic        
+'bis(Guanidinium) 1,4-benzenedisulfonate bis(o-xylene) clathrate'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,y,1/2-z
+3 1/2-x,1/2+y,z
+4 x,1/2-y,1/2+z
+5 -x,-y,-z
+6 1/2-x,-y,1/2+z
+7 1/2+x,1/2-y,-z
+8 -x,1/2+y,1/2-z
+_cell_length_a                   13.1459(8)
+_cell_length_b                   12.4292(8)
+_cell_length_c                   18.8824(12)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     3085.25
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.07967(4) 0.01685(4) 0.15676(3)
+O1 O 0.17939(11) -0.03395(12) 0.15925(8)
+C1 C 0.03595(15) 0.00637(16) 0.06833(11)
+O2 O 0.00448(12) -0.03829(11) 0.20033(8)
+C2 C 0.09343(16) -0.04480(18) 0.01744(12)
+H5 H 0.1573 -0.0754 0.0295
+O3 O 0.08488(11) 0.13165(12) 0.17206(8)
+C3 C -0.05753(17) 0.05127(19) 0.05124(12)
+H8 H -0.0967 0.0864 0.0866
+C3D C 0.05753(17) -0.05127(19) -0.05124(12)
+C1D C -0.03595(15) -0.00637(16) -0.06833(11)
+S1D S -0.07967(4) -0.01685(4) -0.15676(3)
+O1D O -0.17939(11) 0.03395(12) -0.15925(8)
+O2D O -0.00448(12) 0.03829(11) -0.20033(8)
+O3D O -0.08488(11) -0.13165(12) -0.17206(8)
+C2D C -0.09343(16) 0.04480(18) -0.01744(12)
+H5D H -0.1573 0.0754 -0.0295
+H8D H 0.0967 -0.0864 -0.0866
+N1 N 0.21809(15) -0.25927(15) 0.18429(11)
+H1 H 0.2111 -0.1903 0.1751
+H2 H 0.2732 -0.2936 0.1705
+N2 N 0.06288(14) -0.26062(15) 0.23975(10)
+H3 H 0.0554 -0.1916 0.2307
+H4 H 0.0151 -0.2958 0.2627
+N3 N 0.15744(15) -0.41485(14) 0.23298(11)
+H6 H 0.1099 -0.4498 0.2563
+H7 H 0.2127 -0.4487 0.2191
+C4 C 0.14588(17) -0.31135(17) 0.21882(12)
+C5 C 0.1472(2) 0.0299(3) 0.41793(19)
+C6 C 0.1377(2) 0.0181(3) 0.49034(18)
+C7 C 0.1202(3) 0.1094(4) 0.5311(3)
+H9 H 0.1137 0.1025 0.5810
+C8 C 0.1123(4) 0.2079(5) 0.5011(5)
+H10 H 0.1014 0.2693 0.5300
+C9 C 0.1201(4) 0.2194(4) 0.4278(5)
+H11 H 0.1125 0.2882 0.4065
+C10 C 0.1387(3) 0.1307(4) 0.3868(3)
+H12 H 0.1459 0.1381 0.3370
+C11 C 0.1646(4) -0.0646(4) 0.3731(2)
+H13 H 0.2306 -0.0966 0.3849
+H14 H 0.1642 -0.0428 0.3232
+H15 H 0.1106 -0.1175 0.3813
+C12 C 0.1475(3) -0.0875(3) 0.5250(2)
+H16 H 0.1134 -0.1423 0.4962
+H17 H 0.1159 -0.0847 0.5720
+H18 H 0.2197 -0.1059 0.5299
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 O1 1_555 1_555
+N1 H1 1_555 1_555
+H2 N1 1_555 1_555
+C1 S1 1_555 1_555
+O2 S1 1_555 1_555
+N2 H3 1_555 1_555
+H4 N2 1_555 1_555
+C2 C1 1_555 1_555
+H5 C2 1_555 1_555
+O3 S1 1_555 1_555
+N3 H6 1_555 1_555
+H7 N3 1_555 1_555
+C3 C1 1_555 1_555
+H8 C3 1_555 1_555
+C4 N1 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 H9 1_555 1_555
+C8 C7 1_555 1_555
+H10 C8 1_555 1_555
+C9 C8 1_555 1_555
+H11 C9 1_555 1_555
+C10 C5 1_555 1_555
+H12 C10 1_555 1_555
+C11 C5 1_555 1_555
+H13 C11 1_555 1_555
+H14 C11 1_555 1_555
+H15 C11 1_555 1_555
+C12 C6 1_555 1_555
+H16 C12 1_555 1_555
+H17 C12 1_555 1_555
+H18 C12 1_555 1_555
+C3D C2 1_555 1_555
+C1D C3D 1_555 1_555
+S1D C1D 1_555 1_555
+O1D S1D 1_555 1_555
+O2D S1D 1_555 1_555
+O3D S1D 1_555 1_555
+C2D C3 1_555 1_555
+H5D C2D 1_555 1_555
+H8D C3D 1_555 1_555
+N2 C4 1_555 1_555
+N3 C4 1_555 1_555
+C9 C10 1_555 1_555
+C1D C2D 1_555 1_555
+
+#END

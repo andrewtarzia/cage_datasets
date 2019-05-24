@@ -1,0 +1,94 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_HMNCXA
+_chemical_formula_moiety         'C14 H14 O3'
+_chemical_name_systematic        
+'1,2,3,4,4a,5,8,8a-Octahydro-1,4:5,8-exo,exo-dimethano-naphthalene-4a,8a-dicarboxylic anhydride'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,1/2-y,1/2+z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 1/2+x,1/2-y,-z
+7 -x,1/2+y,1/2-z
+8 1/2+x,y,1/2-z
+_cell_length_a                   13.843(4)
+_cell_length_b                   14.369(6)
+_cell_length_c                   11.364(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2260.41
+_chemical_melting_point          191-3deg.C
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.64380 1.04350 0.77180
+C2 C 0.57980 1.07280 0.66620
+C3 C 0.49180 1.02890 0.67910
+C4 C 0.49870 0.97060 0.79210
+C5 C 0.56840 0.88760 0.76050
+C6 C 0.58970 0.80870 0.85230
+C7 C 0.65460 0.73700 0.78820
+C8 C 0.75270 0.78440 0.77570
+C9 C 0.73490 0.88200 0.83250
+C10 C 0.66830 0.93580 0.74620
+C11 C 0.66680 0.85330 0.93340
+C12 C 0.56420 1.03630 0.86640
+C13 C 0.69400 0.92150 0.62020
+C14 C 0.54570 0.84910 0.64100
+O1 O 0.62150 0.87000 0.56290
+O2 O 0.76130 0.94690 0.56500
+O3 O 0.47780 0.80890 0.60500
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 C1 1_555 1_555
+C11 C6 1_555 1_555
+C12 C1 1_555 1_555
+C13 C10 1_555 1_555
+C14 C5 1_555 1_555
+O1 C13 1_555 1_555
+O2 C13 1_555 1_555
+O3 C14 1_555 1_555
+C4 C12 1_555 1_555
+C5 C10 1_555 1_555
+C9 C11 1_555 1_555
+C14 O1 1_555 1_555
+
+#END

@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ABIVAL
+_chemical_formula_moiety         'C17 H17 N1 O4'
+_chemical_name_systematic        
+2-ethyl-7,9-dimethoxy-1-methylpyrrolo[1,2-b]isoquinoline-3,5-dione
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P c c n'
+_symmetry_Int_Tables_number      56
+_space_group_name_Hall           '-P 2ab 2ac'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,-y,1/2-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,1/2-y,z
+5 -x,-y,-z
+6 1/2-x,y,1/2+z
+7 x,1/2-y,1/2+z
+8 1/2+x,1/2+y,-z
+_cell_length_a                   16.6112(11)
+_cell_length_b                   24.0764(16)
+_cell_length_c                   7.0730(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2828.76
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       needle
+_chemical_melting_point          '470.15-472.15 K'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method 'Vapour deposition'
+_exptl_crystal_preparation       ', Luminescent'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.23259(9) 0.45571(6) 0.8954(2)
+C1 C 0.23294(12) 0.39856(8) 0.8381(3)
+C2 C 0.31880(12) 0.38320(8) 0.8203(3)
+C3 C 0.36458(12) 0.42736(8) 0.8634(3)
+C4 C 0.31258(11) 0.47407(8) 0.9110(3)
+C5 C 0.33034(11) 0.52640(8) 0.9597(3)
+H1 H 0.3848 0.5381 0.9687
+C6 C 0.26595(11) 0.56478(7) 0.9982(3)
+C7 C 0.28112(11) 0.62070(8) 1.0478(3)
+C8 C 0.21843(11) 0.65613(8) 1.0869(3)
+H2 H 0.2290 0.6937 1.1191
+C9 C 0.13898(11) 0.63672(8) 1.0792(3)
+C10 C 0.12147(12) 0.58281(8) 1.0283(3)
+H3 H 0.0674 0.5702 1.0218
+C11 C 0.18574(11) 0.54718(8) 0.9863(3)
+C12 C 0.16518(12) 0.48950(8) 0.9289(3)
+C13 C 0.34267(13) 0.32543(8) 0.7642(3)
+H4 H 0.3011 0.3102 0.6783
+H5 H 0.3939 0.3272 0.6930
+C14 C 0.3529(2) 0.28690(10) 0.9260(4)
+H6 H 0.3634 0.2493 0.8786
+H7 H 0.3037 0.2867 1.0025
+H8 H 0.3983 0.2992 1.0039
+C15 C 0.45391(12) 0.43288(8) 0.8679(3)
+H9 H 0.4786 0.3972 0.8352
+H10 H 0.4711 0.4439 0.9951
+H11 H 0.4708 0.4612 0.7766
+C16 C 0.37886(12) 0.69222(8) 1.0916(3)
+H12 H 0.4373 0.6977 1.0858
+H13 H 0.3594 0.7018 1.2182
+H14 H 0.3526 0.7161 0.9978
+C17 C 0.00160(12) 0.65594(9) 1.1513(3)
+H15 H -0.0332 0.6869 1.1893
+H16 H 0.0010 0.6273 1.2498
+H17 H -0.0181 0.6401 1.0324
+O1 O 0.17391(8) 0.37019(5) 0.8118(2)
+O2 O 0.36029(8) 0.63538(5) 1.0520(2)
+O3 O 0.08234(8) 0.67576(5) 1.1256(2)
+O4 O 0.09671(8) 0.47228(6) 0.9128(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 N1 1_555 1_555
+C5 C4 1_555 1_555
+H1 C5 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+H2 C8 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+H3 C10 1_555 1_555
+C11 C6 1_555 1_555
+C12 N1 1_555 1_555
+C13 C2 1_555 1_555
+H4 C13 1_555 1_555
+H5 C13 1_555 1_555
+C14 C13 1_555 1_555
+H6 C14 1_555 1_555
+H7 C14 1_555 1_555
+H8 C14 1_555 1_555
+C15 C3 1_555 1_555
+H9 C15 1_555 1_555
+H10 C15 1_555 1_555
+H11 C15 1_555 1_555
+C16 H12 1_555 1_555
+H13 C16 1_555 1_555
+H14 C16 1_555 1_555
+C17 H15 1_555 1_555
+H16 C17 1_555 1_555
+H17 C17 1_555 1_555
+O1 C1 1_555 1_555
+O2 C7 1_555 1_555
+O3 C9 1_555 1_555
+O4 C12 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+C16 O2 1_555 1_555
+C17 O3 1_555 1_555
+
+#END

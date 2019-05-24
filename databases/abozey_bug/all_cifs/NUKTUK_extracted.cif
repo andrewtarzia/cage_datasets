@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_NUKTUK
+_chemical_formula_moiety         'C20 H16 N4'
+_chemical_name_systematic        
+(2-cyano-5-(methyl(phenyl)amino)-5-(methyl(phenyl)iminio)pent-1-en-3-yn-1-ylidene)azanide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,1/2+z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   9.9723(7)
+_cell_length_b                   12.8713(9)
+_cell_length_c                   13.0649(9)
+_cell_angle_alpha                90
+_cell_angle_beta                 100.191(3)
+_cell_angle_gamma                90
+_cell_volume                     1650.51
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       prism
+_chemical_melting_point          '507 K'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 'dichloromethane/n- hexane'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.15770(10) 0.93894(7) 0.10890(8)
+N2 N 0.10375(9) 0.47500(7) 0.30807(7)
+C1 C -0.08687(11) 0.89289(8) 0.17187(8)
+C2 C 0.0000 0.83641(11) 0.2500
+C3 C 0.0000 0.72926(12) 0.2500
+C4 C 0.0000 0.63496(12) 0.2500
+C5 C 0.0000 0.52645(11) 0.2500
+C6 C 0.08271(11) 0.37487(8) 0.35187(8)
+C7 C 0.16776(11) 0.29262(8) 0.33917(9)
+H1 H 0.2388 0.3013 0.3001
+C8 C 0.14826(12) 0.19746(9) 0.38405(9)
+H2 H 0.2069 0.1409 0.3765
+C9 C 0.04352(12) 0.18458(9) 0.43993(9)
+H3 H 0.0292 0.1189 0.4693
+C10 C -0.04003(12) 0.26751(9) 0.45286(9)
+H4 H -0.1113 0.2587 0.4917
+C11 C -0.02037(12) 0.36339(9) 0.40952(8)
+H5 H -0.0770 0.4206 0.4192
+C12 C 0.22987(11) 0.52990(9) 0.35131(9)
+H6 H 0.2501 0.5815 0.3011
+H7 H 0.3050 0.4800 0.3659
+H8 H 0.2188 0.5649 0.4159
+N1A N 0.15770(10) 0.93894(7) 0.39110(8)
+N2A N -0.10375(9) 0.47500(7) 0.19193(7)
+C1A C 0.08687(11) 0.89289(8) 0.32813(8)
+C6A C -0.08271(11) 0.37487(8) 0.14813(8)
+C7A C -0.16776(11) 0.29262(8) 0.16083(9)
+H1A H -0.2388 0.3013 0.1999
+C8A C -0.14826(12) 0.19746(9) 0.11595(9)
+H2A H -0.2069 0.1409 0.1235
+C9A C -0.04352(12) 0.18458(9) 0.06007(9)
+H3A H -0.0292 0.1189 0.0307
+C10A C 0.04003(12) 0.26751(9) 0.04714(9)
+H4A H 0.1113 0.2587 0.0083
+C11A C 0.02037(12) 0.36339(9) 0.09048(8)
+H5A H 0.0770 0.4206 0.0808
+C12A C -0.22987(11) 0.52990(9) 0.14869(9)
+H6A H -0.2501 0.5815 0.1989
+H7A H -0.3050 0.4800 0.1341
+H8A H -0.2188 0.5649 0.0841
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+N2 C5 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 N2A 1_555 1_555
+C6 N2 1_555 1_555
+C7 C6 1_555 1_555
+H1 C7 1_555 1_555
+C8 C7 1_555 1_555
+H2 C8 1_555 1_555
+C9 C8 1_555 1_555
+H3 C9 1_555 1_555
+C10 C9 1_555 1_555
+H4 C10 1_555 1_555
+C11 C6 1_555 1_555
+H5 C11 1_555 1_555
+C12 N2 1_555 1_555
+H6 C12 1_555 1_555
+H7 C12 1_555 1_555
+H8 C12 1_555 1_555
+N1A C1A 1_555 1_555
+N2A C6A 1_555 1_555
+C1A C2 1_555 1_555
+C6A C7A 1_555 1_555
+C7A H1A 1_555 1_555
+C8A C7A 1_555 1_555
+H2A C8A 1_555 1_555
+C9A C8A 1_555 1_555
+H3A C9A 1_555 1_555
+C10A C9A 1_555 1_555
+H4A C10A 1_555 1_555
+C11A C6A 1_555 1_555
+H5A C11A 1_555 1_555
+C12A N2A 1_555 1_555
+H6A C12A 1_555 1_555
+H7A C12A 1_555 1_555
+H8A C12A 1_555 1_555
+C10 C11 1_555 1_555
+C10A C11A 1_555 1_555
+
+#END

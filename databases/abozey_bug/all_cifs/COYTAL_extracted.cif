@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_COYTAL
+_chemical_formula_moiety         'C10 H12 Se4 1+,C10 H12 Se4,F2 O2 P1 1-'
+_chemical_name_systematic        
+"bis(3,3',4,4'-Tetramethyl-2,2',5,5'-tetraselenafulvalenium) difluorophosphate"
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   7.271(1)
+_cell_length_b                   7.704(1)
+_cell_length_c                   13.361(2)
+_cell_angle_alpha                84.28(1)
+_cell_angle_beta                 86.70(1)
+_cell_angle_gamma                70.50(1)
+_cell_volume                     701.75
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se 0.7029(1) 0.6579(1) 0.3854(1)
+Se2 Se 0.8353(1) 0.2512(1) 0.4892(1)
+Se3 Se 0.7704(1) 0.4207(1) 0.7196(1)
+Se4 Se 0.6277(1) 0.8280(1) 0.6148(1)
+C1 C 0.7469(8) 0.5061(8) 0.5070(5)
+C2 C 0.7772(8) 0.4581(9) 0.3018(5)
+C3 C 0.8333(8) 0.2865(10) 0.3459(5)
+C4 C 0.7678(14) 0.5148(13) 0.1916(6)
+C5 C 0.8970(12) 0.1103(11) 0.2941(7)
+C6 C 0.7185(8) 0.5740(9) 0.5974(5)
+C7 C 0.6907(9) 0.6209(10) 0.8011(5)
+C8 C 0.6272(9) 0.7944(10) 0.7572(5)
+C9 C 0.6991(14) 0.5737(14) 0.9124(6)
+C10 C 0.5570(15) 0.9672(13) 0.8095(7)
+H1 H 0.806(12) 0.643(13) 0.1711(65)
+H2 H 0.632(12) 0.603(12) 0.1686(64)
+H3 H 0.817(13) 0.421(14) 0.1664(73)
+H4 H 0.910(13) 0.000(13) 0.3335(70)
+H5 H 0.763(12) 0.077(12) 0.2927(66)
+H6 H 1.026(13) 0.072(13) 0.2888(75)
+H7 H 0.560(12) 0.631(12) 0.9388(66)
+H8 H 0.671(13) 0.464(13) 0.9397(71)
+H9 H 0.791(12) 0.626(13) 0.9378(69)
+H10 H 0.594(11) 1.084(13) 0.7698(67)
+H11 H 0.424(13) 1.051(12) 0.7911(71)
+H12 H 0.576(14) 0.959(14) 0.8607(78)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Se1 C1 1_555 1_555
+Se2 C1 1_555 1_555
+Se3 C6 1_555 1_555
+Se4 C6 1_555 1_555
+C1 C6 1_555 1_555
+C2 Se1 1_555 1_555
+C3 Se2 1_555 1_555
+C4 C2 1_555 1_555
+C5 C3 1_555 1_555
+C7 Se3 1_555 1_555
+C8 Se4 1_555 1_555
+C9 C7 1_555 1_555
+C10 C8 1_555 1_555
+H1 C4 1_555 1_555
+H2 C4 1_555 1_555
+H3 C4 1_555 1_555
+H4 C5 1_555 1_555
+H5 C5 1_555 1_555
+H6 C5 1_555 1_555
+H7 C9 1_555 1_555
+H8 C9 1_555 1_555
+H9 C9 1_555 1_555
+H10 C10 1_555 1_555
+H11 C10 1_555 1_555
+H12 C10 1_555 1_555
+C2 C3 1_555 1_555
+C7 C8 1_555 1_555
+
+#END

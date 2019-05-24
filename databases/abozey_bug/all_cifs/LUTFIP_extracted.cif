@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_LUTFIP
+_chemical_name_common            1-(2-pyridyl)-orthocarborane
+_chemical_formula_moiety         'C7 H15 B10 N1'
+_chemical_name_systematic        
+1-(2-Pyridyl)-1,2-dicarba-closo-dodecaborane(11)
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 1/2-x,1/2+y,1/2-z
+_cell_length_a                   7.057(3)
+_cell_length_b                   18.029(3)
+_cell_length_c                   9.899(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 92.54(4)
+_cell_angle_gamma                90
+_cell_volume                     1258.22
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '377-378 K'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method acetonitrile
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2223(3) 0.11035(12) 0.0397(2)
+C1 C 0.2758(4) 0.11033(12) 0.2811(2)
+C2 C 0.2240(4) 0.19849(13) 0.2741(3)
+H1 H 0.174(3) 0.2159(14) 0.186(3)
+C3 C 0.2561(4) 0.06829(14) 0.1490(2)
+C4 C 0.2772(4) -0.00782(14) 0.1450(3)
+H2 H 0.2996 -0.0356 0.2256
+C5 C 0.2647(4) -0.04239(15) 0.0201(3)
+H3 H 0.2788 -0.0946 0.0133
+C6 C 0.2316(4) -0.00001(17) -0.0939(3)
+H4 H 0.2230 -0.0224 -0.1808
+C7 C 0.2111(4) 0.07529(17) -0.0801(3)
+H5 H 0.1877 0.1041 -0.1594
+B1 B 0.4573(5) 0.17422(16) 0.2893(3)
+H6 H 0.5634 0.1819 0.2096
+B2 B 0.4578(5) 0.09511(18) 0.3953(3)
+H7 H 0.5658 0.0500 0.3868
+B3 B 0.2199(5) 0.07445(17) 0.4329(3)
+H8 H 0.1719 0.0160 0.4488
+B4 B 0.0686(5) 0.14064(16) 0.3512(3)
+H9 H -0.0784 0.1266 0.3121
+B5 B 0.3658(5) 0.25000(18) 0.3791(3)
+H10 H 0.4122 0.3082 0.3590
+B6 B 0.5162(5) 0.1843(2) 0.4624(3)
+H11 H 0.6638 0.1987 0.4998
+B7 B 0.3699(5) 0.1228(2) 0.5520(3)
+H12 H 0.4215 0.0965 0.6493
+B8 B 0.1294(5) 0.15050(18) 0.5251(3)
+H13 H 0.0222 0.1426 0.6039
+B9 B 0.1272(5) 0.22965(17) 0.4173(3)
+H14 H 0.0176 0.2744 0.4222
+B10 B 0.3129(5) 0.2187(2) 0.5427(3)
+H15 H 0.3261 0.2560 0.6331
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C3 1_555 1_555
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+C3 C1 1_555 1_555
+C4 C3 1_555 1_555
+H2 C4 1_555 1_555
+C5 C4 1_555 1_555
+H3 C5 1_555 1_555
+C6 C5 1_555 1_555
+H4 C6 1_555 1_555
+C7 N1 1_555 1_555
+H5 C7 1_555 1_555
+B1 C1 1_555 1_555
+H6 B1 1_555 1_555
+B2 C1 1_555 1_555
+H7 B2 1_555 1_555
+B3 C1 1_555 1_555
+H8 B3 1_555 1_555
+B4 C1 1_555 1_555
+H9 B4 1_555 1_555
+B5 C2 1_555 1_555
+H10 B5 1_555 1_555
+B6 B1 1_555 1_555
+H11 B6 1_555 1_555
+B7 B2 1_555 1_555
+H12 B7 1_555 1_555
+B8 B3 1_555 1_555
+H13 B8 1_555 1_555
+B9 C2 1_555 1_555
+H14 B9 1_555 1_555
+B10 B5 1_555 1_555
+H15 B10 1_555 1_555
+C2 B1 1_555 1_555
+C2 B4 1_555 1_555
+C6 C7 1_555 1_555
+B1 B5 1_555 1_555
+B1 B2 1_555 1_555
+B2 B6 1_555 1_555
+B2 B3 1_555 1_555
+B3 B7 1_555 1_555
+B3 B4 1_555 1_555
+B4 B9 1_555 1_555
+B4 B8 1_555 1_555
+B5 B9 1_555 1_555
+B5 B6 1_555 1_555
+B6 B10 1_555 1_555
+B6 B7 1_555 1_555
+B7 B8 1_555 1_555
+B7 B10 1_555 1_555
+B8 B9 1_555 1_555
+B8 B10 1_555 1_555
+B9 B10 1_555 1_555
+
+#END

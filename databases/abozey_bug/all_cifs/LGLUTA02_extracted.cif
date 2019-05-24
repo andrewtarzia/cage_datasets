@@ -1,0 +1,94 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_LGLUTA02
+_chemical_name_common            'L-Glutamic acid hydrochloride'
+_chemical_formula_moiety         'C5 H10 N1 O4 1+,Cl1 1-'
+_chemical_name_systematic        '(S)-1,3-Dicarboxypropanaminium chloride'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a                   5.10160(10)
+_cell_length_b                   11.6386(4)
+_cell_length_c                   13.2500(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     786.725
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       Block
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method water
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 1.05471(5) 0.93130(2) 0.26203(2)
+O1 O 0.4387(2) 0.53632(7) 0.07337(7)
+H1 H 0.3341 0.5102 0.0301
+O2 O 0.20701(18) 0.69846(7) 0.05162(7)
+O3 O 0.4214(2) 0.55251(8) 0.45585(6)
+O4 O 0.70041(18) 0.67059(8) 0.53439(6)
+H2 H 0.6454 0.6361 0.5859
+N1 N 0.5606(2) 0.82410(8) 0.15658(7)
+H3 H 0.6701 0.8569 0.2025
+H4 H 0.3939 0.8490 0.1676
+H5 H 0.6117 0.8442 0.0932
+C1 C 0.3864(2) 0.64491(10) 0.08985(9)
+C2 C 0.5705(2) 0.69659(9) 0.16728(8)
+H6 H 0.7532 0.6689 0.1547
+C3 C 0.4798(2) 0.65720(10) 0.27187(8)
+H7 H 0.3074 0.6926 0.2863
+H8 H 0.4550 0.5728 0.2705
+C4 C 0.6668(2) 0.68690(10) 0.35714(8)
+H9 H 0.8458 0.6610 0.3395
+H10 H 0.6712 0.7713 0.3666
+C5 C 0.5815(3) 0.63012(9) 0.45392(8)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 H1 1_555 1_555
+O2 C1 1_555 1_555
+O3 C5 1_555 1_555
+O4 H2 1_555 1_555
+N1 H3 1_555 1_555
+H4 N1 1_555 1_555
+H5 N1 1_555 1_555
+C1 O1 1_555 1_555
+C2 N1 1_555 1_555
+H6 C2 1_555 1_555
+C3 C2 1_555 1_555
+H7 C3 1_555 1_555
+H8 C3 1_555 1_555
+C4 C3 1_555 1_555
+H9 C4 1_555 1_555
+H10 C4 1_555 1_555
+C5 O4 1_555 1_555
+C1 C2 1_555 1_555
+C4 C5 1_555 1_555
+
+#END

@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_FUGVEJ
+_chemical_formula_moiety         'C5 H9 N5 O5'
+_chemical_name_systematic        1-(3,5-Dinitro-1,3,5-triazinan-1-yl)ethanone
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   8.8972(18)
+_cell_length_b                   10.061(2)
+_cell_length_c                   9.890(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 100.42(3)
+_cell_angle_gamma                90
+_cell_volume                     870.701
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '431 K'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method nitromethane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.47469(19) 0.41301(16) 0.32195(16)
+H1 H 0.5005 0.3837 0.4168
+H2 H 0.4000 0.4839 0.3170
+C2 C 0.72467(19) 0.35894(19) 0.26987(18)
+H3 H 0.8044 0.3941 0.2248
+H4 H 0.7713 0.3329 0.3624
+C3 C 0.51659(19) 0.19589(16) 0.23350(19)
+H5 H 0.4708 0.1292 0.1680
+H6 H 0.5392 0.1547 0.3236
+C4 C 0.26587(18) 0.29469(17) 0.16314(15)
+C5 C 0.1604(2) 0.4079(2) 0.1715(2)
+H7 H 0.0627 0.3892 0.1158
+H8 H 0.2020 0.4873 0.1390
+H9 H 0.1485 0.4201 0.2653
+N1 N 0.41055(15) 0.30361(13) 0.23592(13)
+N2 N 0.61111(16) 0.46206(14) 0.27642(13)
+N3 N 0.65682(16) 0.24375(17) 0.19558(16)
+N4 N 0.5835(2) 0.54679(16) 0.16262(16)
+N5 N 0.69287(18) 0.21008(15) 0.07159(15)
+O1 O 0.6820(2) 0.55437(17) 0.09159(16)
+O2 O 0.22571(14) 0.19538(13) 0.09572(13)
+O3 O 0.6163(2) 0.12455(17) 0.00671(15)
+O4 O 0.80447(17) 0.26203(18) 0.03929(15)
+O5 O 0.4676(2) 0.61206(16) 0.14783(19)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 H1 1_555 1_555
+H2 C1 1_555 1_555
+C2 H3 1_555 1_555
+H4 C2 1_555 1_555
+C3 H5 1_555 1_555
+H6 C3 1_555 1_555
+C4 C5 1_555 1_555
+C5 H7 1_555 1_555
+H8 C5 1_555 1_555
+H9 C5 1_555 1_555
+N1 C1 1_555 1_555
+N2 C1 1_555 1_555
+N3 C2 1_555 1_555
+N4 N2 1_555 1_555
+N5 N3 1_555 1_555
+O1 N4 1_555 1_555
+O2 C4 1_555 1_555
+O3 N5 1_555 1_555
+O4 N5 1_555 1_555
+O5 N4 1_555 1_555
+C2 N2 1_555 1_555
+C3 N1 1_555 1_555
+C3 N3 1_555 1_555
+C4 N1 1_555 1_555
+
+#END

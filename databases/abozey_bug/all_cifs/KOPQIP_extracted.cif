@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_KOPQIP
+_chemical_formula_moiety         'C12 H14 Br4 N2 Si1'
+_chemical_name_systematic        Tetrabromobis(4-methypyridine)silicon
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P m n a'
+_symmetry_Int_Tables_number      53
+_space_group_name_Hall           '-P 2ac 2'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,y,1/2-z
+3 1/2+x,-y,1/2+z
+4 -x,y,z
+5 -x,-y,-z
+6 1/2-x,-y,1/2+z
+7 1/2-x,y,1/2-z
+8 x,-y,-z
+_cell_length_a                   7.3298(2)
+_cell_length_b                   8.2819(3)
+_cell_length_c                   13.4126(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     814.207
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.23257(4) 0.16177(4) 0.42619(3)
+Si1 Si 0.0000 0.0000 0.5000
+N1 N 0.0000 0.1415(5) 0.6189(3)
+C1 C 0.0000 0.3052(6) 0.6088(4)
+H1 H 0.0000 0.3504 0.5437
+C2 C 0.0000 0.4080(6) 0.6901(4)
+H2 H 0.0000 0.5215 0.6800
+C3 C 0.0000 0.3460(6) 0.7870(4)
+C4 C 0.0000 0.4520(6) 0.8766(4)
+H3 H 0.0000 0.5668 0.8598
+H4 H -0.1025 0.4225 0.9185
+C5 C 0.0000 0.1782(6) 0.7964(4)
+H7 H 0.0000 0.1307 0.8608
+C6 C 0.0000 0.0803(6) 0.7130(4)
+H8 H 0.0000 -0.0335 0.7217
+Br1C Br -0.23257(4) 0.16177(4) 0.42619(3)
+Br1D Br -0.23257(4) -0.16177(4) 0.57381(3)
+Br1G Br 0.23257(4) -0.16177(4) 0.57381(3)
+H4C H 0.1025 0.4225 0.9185
+N1D N 0.0000 -0.1415(5) 0.3811(3)
+C1D C 0.0000 -0.3052(6) 0.3912(4)
+H1D H 0.0000 -0.3504 0.4563
+C2D C 0.0000 -0.4080(6) 0.3099(4)
+H2D H 0.0000 -0.5215 0.3200
+C3D C 0.0000 -0.3460(6) 0.2130(4)
+C4D C 0.0000 -0.4520(6) 0.1234(4)
+H3D H 0.0000 -0.5668 0.1402
+H4D H 0.1025 -0.4225 0.0815
+H4G H -0.1025 -0.4225 0.0815
+C5D C 0.0000 -0.1782(6) 0.2036(4)
+H7D H 0.0000 -0.1307 0.1392
+C6D C 0.0000 -0.0803(6) 0.2870(4)
+H8D H 0.0000 0.0335 0.2783
+H5? H 0.0000 0.3881 0.9369
+H6? H -0.1071 0.5224 0.8759
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 Si1 1_555 1_555
+Si1 N1 1_555 1_555
+N1 C1 1_555 1_555
+C1 H1 1_555 1_555
+C2 C1 1_555 1_555
+H2 C2 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+H3 C4 1_555 1_555
+H4 C4 1_555 1_555
+C5 C3 1_555 1_555
+H7 C5 1_555 1_555
+C6 N1 1_555 1_555
+H8 C6 1_555 1_555
+Br1C Si1 1_555 1_555
+Br1D Si1 1_555 1_555
+Br1G Si1 1_555 1_555
+H4C C4 1_555 1_555
+N1D Si1 1_555 1_555
+C1D N1D 1_555 1_555
+H1D C1D 1_555 1_555
+C2D C1D 1_555 1_555
+H2D C2D 1_555 1_555
+C3D C2D 1_555 1_555
+C4D C3D 1_555 1_555
+H3D C4D 1_555 1_555
+H4D C4D 1_555 1_555
+H4G C4D 1_555 1_555
+C5D C3D 1_555 1_555
+H7D C5D 1_555 1_555
+C6D N1D 1_555 1_555
+H8D C6D 1_555 1_555
+C5 C6 1_555 1_555
+C5D C6D 1_555 1_555
+
+#END

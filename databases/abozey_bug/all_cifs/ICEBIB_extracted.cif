@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ICEBIB
+_chemical_formula_moiety         'C16 H34 B10 O2 Si2'
+_chemical_name_systematic        
+1-(Dimethyl(hydroxy)silyl)-2-(dimethyl(3-oxo-1-phenylbutyl)silyl)-1,2-dicarba-closo-dodecaborane(10)
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a                   9.1047(19)
+_cell_length_b                   10.7504(17)
+_cell_length_c                   26.495(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2593.31
+_chemical_melting_point          '139 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method hexane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 0.2826(1) 0.4834(1) 0.1295(1)
+Si2 Si 0.4845(2) 0.8088(1) 0.1291(1)
+O1 O 0.4472(4) 0.7204(3) 0.0816(1)
+B1 B 0.2177(7) 0.8170(6) 0.2719(2)
+B2 B 0.0787(6) 0.7874(6) 0.2264(2)
+B3 B 0.3208(6) 0.6799(6) 0.2803(2)
+B4 B 0.1285(6) 0.6722(6) 0.2720(2)
+B5 B 0.2399(6) 0.8645(5) 0.2084(2)
+B6 B 0.3906(6) 0.7971(6) 0.2411(2)
+B7 B 0.1659(5) 0.7477(5) 0.1689(2)
+B8 B 0.4054(5) 0.6412(5) 0.2219(2)
+B9 B 0.2444(5) 0.5635(5) 0.2417(2)
+B10 B 0.0946(5) 0.6283(5) 0.2082(2)
+C1 C 0.3521(4) 0.7545(4) 0.1807(1)
+C2 C 0.2641(4) 0.6125(3) 0.1802(1)
+C3 C 0.1901(6) 0.3419(4) 0.1545(2)
+C4 C 0.4778(5) 0.4427(5) 0.1188(2)
+C5 C 0.4438(9) 0.9733(5) 0.1136(2)
+C6 C 0.6748(6) 0.7860(8) 0.1502(2)
+C7 C 0.1854(4) 0.5340(4) 0.0698(1)
+C8 C 0.0180(5) 0.5363(5) 0.0744(2)
+C9 C -0.0554(5) 0.6102(4) 0.0335(2)
+C10 C -0.2139(7) 0.5864(9) 0.0237(3)
+C11 C 0.2332(5) 0.4590(4) 0.0238(1)
+C12 C 0.3359(6) 0.5036(5) -0.0092(2)
+C13 C 0.3763(8) 0.4400(7) -0.0523(2)
+C14 C 0.3131(10) 0.3288(8) -0.0635(2)
+C15 C 0.2145(10) 0.2820(6) -0.0310(2)
+C16 C 0.1715(7) 0.3446(5) 0.0124(2)
+O2 O 0.0113(4) 0.6877(3) 0.0100(1)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Si1 C2 1_555 1_555
+Si2 O1 1_555 1_555
+B1 B2 1_555 1_555
+B2 B4 1_555 1_555
+B3 B1 1_555 1_555
+B4 B1 1_555 1_555
+B5 B1 1_555 1_555
+B6 B1 1_555 1_555
+B7 B2 1_555 1_555
+B8 B3 1_555 1_555
+B9 B3 1_555 1_555
+B10 B2 1_555 1_555
+C1 Si2 1_555 1_555
+C2 B7 1_555 1_555
+C3 Si1 1_555 1_555
+C4 Si1 1_555 1_555
+C5 Si2 1_555 1_555
+C6 Si2 1_555 1_555
+C7 Si1 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C7 1_555 1_555
+C12 C11 1_555 1_555
+C13 C12 1_555 1_555
+C14 C13 1_555 1_555
+C15 C14 1_555 1_555
+C16 C11 1_555 1_555
+O2 C9 1_555 1_555
+B2 B5 1_555 1_555
+B3 B4 1_555 1_555
+B3 B6 1_555 1_555
+B4 B9 1_555 1_555
+B4 B10 1_555 1_555
+B5 B6 1_555 1_555
+B5 B7 1_555 1_555
+B5 C1 1_555 1_555
+B6 C1 1_555 1_555
+B6 B8 1_555 1_555
+B7 B10 1_555 1_555
+B7 C1 1_555 1_555
+B8 B9 1_555 1_555
+B8 C2 1_555 1_555
+B8 C1 1_555 1_555
+B9 B10 1_555 1_555
+B9 C2 1_555 1_555
+B10 C2 1_555 1_555
+C1 C2 1_555 1_555
+C15 C16 1_555 1_555
+
+#END

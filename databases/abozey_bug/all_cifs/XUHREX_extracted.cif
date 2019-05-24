@@ -1,0 +1,100 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_XUHREX
+_chemical_formula_moiety         'C8 H7 N3 O4'
+_chemical_name_systematic        
+5-(5-Nitroisoxazolyl)-3-vinyl-4,5-dihydroisoxazole
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   5.5716(12)
+_cell_length_b                   14.765(3)
+_cell_length_c                   11.296(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 102.298(4)
+_cell_angle_gamma                90
+_cell_volume                     907.938
+_exptl_crystal_colour            white
+_exptl_crystal_description       plate
+_chemical_melting_point          84-85deg.C
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 'diethyl ether'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3000(4) 0.65035(17) 0.4497(2)
+C2 C 0.4477(4) 0.61378(17) 0.5461(2)
+H1 H 0.6221 0.6132 0.5664
+C3 C 0.2799(4) 0.57593(17) 0.6112(2)
+C4 C 0.3333(5) 0.52557(18) 0.7284(3)
+H2 H 0.2049 0.4783 0.7284
+C5 C 0.3544(5) 0.58588(18) 0.8388(2)
+H3 H 0.3203 0.6500 0.8155
+H4 H 0.2424 0.5660 0.8909
+C6 C 0.6186(5) 0.57202(17) 0.8999(2)
+C7 C 0.7412(5) 0.61452(18) 1.0131(3)
+H5 H 0.9113 0.6032 1.0425
+C8 C 0.6269(6) 0.66787(19) 1.0763(3)
+H6 H 0.4568 0.6802 1.0486
+H7 H 0.7144 0.6941 1.1497
+N1 N 0.3504(4) 0.70095(15) 0.3490(2)
+N2 N 0.0523(4) 0.59069(16) 0.5560(2)
+N3 N 0.7337(4) 0.51649(15) 0.8448(2)
+O1 O 0.5666(4) 0.71925(13) 0.35493(19)
+O2 O 0.1792(4) 0.72201(14) 0.26709(19)
+O3 O 0.0617(3) 0.63883(12) 0.44952(17)
+O4 O 0.5744(3) 0.48273(13) 0.74047(18)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+H2 C4 1_555 1_555
+C5 C4 1_555 1_555
+H3 C5 1_555 1_555
+H4 C5 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+H5 C7 1_555 1_555
+C8 C7 1_555 1_555
+H6 C8 1_555 1_555
+H7 C8 1_555 1_555
+N1 C1 1_555 1_555
+N2 C3 1_555 1_555
+N3 C6 1_555 1_555
+O1 N1 1_555 1_555
+O2 N1 1_555 1_555
+O3 C1 1_555 1_555
+O4 C4 1_555 1_555
+N2 O3 1_555 1_555
+N3 O4 1_555 1_555
+
+#END

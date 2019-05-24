@@ -1,0 +1,97 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_JIRXUG
+_chemical_name_common            4-mercapto-2,2'-bipyridine
+_chemical_formula_moiety         'C10 H8 N2 S1'
+_chemical_name_systematic        "[2,2'-bipyridine]-4(1H)-thione"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   7.0306(5)
+_cell_length_b                   10.2510(7)
+_cell_length_c                   12.9104(10)
+_cell_angle_alpha                90
+_cell_angle_beta                 101.624(4)
+_cell_angle_gamma                90
+_cell_volume                     911.378
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       rectangle
+_cell_formula_units_Z            4
+_chemical_properties_physical    ', Air-sensitive,Moisture-sensitive'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 1.02440(7) 0.08927(5) 0.37988(4)
+N1 N 0.6769(2) 0.02724(16) -0.11323(13)
+N2 N 0.7355(2) 0.19448(15) 0.04861(13)
+C1 C 0.6392(3) -0.0535(2) -0.19615(17)
+H1 H 0.5935(3) -0.0178(2) -0.26273(17)
+C2 C 0.6642(3) -0.1866(2) -0.18851(17)
+H2 H 0.6382(3) -0.2388(2) -0.24862(17)
+C3 C 0.7284(3) -0.2409(2) -0.09038(17)
+H3 H 0.7436(3) -0.3307(2) -0.08267(17)
+C4 C 0.7702(3) -0.15922(19) -0.00287(17)
+H4 H 0.8149(3) -0.19333(19) 0.06438(17)
+C5 C 0.7441(2) -0.02557(18) -0.01765(15)
+C6 C 0.7883(2) 0.06840(17) 0.07160(15)
+C7 C 0.8771(2) 0.03728(17) 0.17216(15)
+H5 H 0.9133(2) -0.04893(17) 0.18753(15)
+C8 C 0.9166(2) 0.13111(18) 0.25462(15)
+C9 C 0.8590(2) 0.26025(18) 0.22420(15)
+H6 H 0.8829(2) 0.32680(18) 0.27409(15)
+C10 C 0.7696(3) 0.28842(18) 0.12353(15)
+H7 H 0.7311(3) 0.37369(18) 0.10576(15)
+H8 H 0.677(3) 0.212(2) -0.0141(17)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C8 1_555 1_555
+N1 C1 1_555 1_555
+N2 C6 1_555 1_555
+C1 H1 1_555 1_555
+C2 C1 1_555 1_555
+H2 C2 1_555 1_555
+C3 C2 1_555 1_555
+H3 C3 1_555 1_555
+C4 C3 1_555 1_555
+H4 C4 1_555 1_555
+C5 N1 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+H5 C7 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+H6 C9 1_555 1_555
+C10 N2 1_555 1_555
+H7 C10 1_555 1_555
+H8 N2 1_555 1_555
+C4 C5 1_555 1_555
+C9 C10 1_555 1_555
+
+#END

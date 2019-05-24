@@ -1,0 +1,87 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_PYMELL12
+_chemical_formula_moiety         'C10 H6 O8,2(H2 O1)'
+_chemical_name_systematic        '1,2,4,5-Benzenetetracarboxylic acid dihydrate'
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   5.4804(19)
+_cell_length_b                   6.475(2)
+_cell_length_c                   9.138(3)
+_cell_angle_alpha                72.114(4)
+_cell_angle_beta                 88.896(5)
+_cell_angle_gamma                73.436(5)
+_cell_volume                     294.959
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       grain
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.7389(3) 1.5940(3) 1.1156(1)
+O2 O 1.3268(3) 1.7841(3) 1.0871(1)
+O3 O 1.3488(3) 1.2955(3) 1.1907(1)
+O4 O 1.1149(3) 1.1945(3) 1.3875(2)
+C1 C 1.5149(3) 1.6566(3) 1.1679(2)
+C2 C 1.2799(3) 1.2940(3) 1.3181(2)
+C3 C 1.5145(3) 1.5660(3) 1.3403(2)
+C4 C 1.3881(3) 1.4049(3) 1.4115(2)
+C5 C 1.6256(3) 1.6590(3) 1.4295(2)
+O1A O 1.2611(3) 1.4060(3) 1.8844(1)
+O2A O 1.6732(3) 1.2159(3) 1.9129(1)
+O3A O 1.6512(3) 1.7045(3) 1.8093(1)
+O4A O 1.8851(3) 1.8055(3) 1.6125(2)
+C1A C 1.4851(3) 1.3434(3) 1.8321(2)
+C2A C 1.7201(3) 1.7060(3) 1.6819(2)
+C3A C 1.4855(3) 1.4340(3) 1.6597(2)
+C4A C 1.6119(3) 1.5951(3) 1.5885(2)
+C5A C 1.3744(3) 1.3410(3) 1.5705(2)
+O5 O 0.9212(2) 1.0181(2) 1.2192(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C1 1_555 1_555
+O3 C2 1_555 1_555
+O4 C2 1_555 1_555
+C1 C3 1_555 1_555
+C2 C4 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5A 1_555 1_555
+C5 C3 1_555 1_555
+O1A C1A 1_555 1_555
+O2A C1A 1_555 1_555
+O3A C2A 1_555 1_555
+O4A C2A 1_555 1_555
+C1A C3A 1_555 1_555
+C2A C4A 1_555 1_555
+C3A C4A 1_555 1_555
+C4A C5 1_555 1_555
+C5A C3A 1_555 1_555
+
+#END

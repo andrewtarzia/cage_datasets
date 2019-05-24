@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_YESNIU
+_chemical_name_common            'Pyridine-4-carbaldehyde isoniazid'
+_chemical_formula_moiety         'C12 H10 N4 O1'
+_chemical_name_systematic        
+'Pyridine-4-carbaldehyde isonicotinoylhydrazone'
+_chemical_properties_biological  'potential antimicrobial activity'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   7.7010(18)
+_cell_length_b                   14.657(3)
+_cell_length_c                   10.238(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 109.014(4)
+_cell_angle_gamma                90
+_cell_volume                     1092.55
+_exptl_crystal_colour            'pale yellow'
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method 'glacial acetic acid'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6752(3) 0.04148(11) 0.43584(18)
+N1 N 1.3160(3) 0.19558(15) 1.1157(2)
+N2 N 0.9366(3) 0.02352(12) 0.68775(19)
+N3 N 0.8672(3) -0.04846(13) 0.60030(19)
+H1 H 0.905(3) -0.100(2) 0.628(3)
+N4 N 0.5352(3) -0.26999(12) 0.2267(2)
+C1 C 1.3529(4) 0.10703(18) 1.1298(3)
+H2 H 1.441(4) 0.087(2) 1.220(3)
+C2 C 1.2702(4) 0.04280(16) 1.0303(3)
+H3 H 1.295(4) -0.024(2) 1.049(3)
+C3 C 1.1375(3) 0.07050(15) 0.9088(2)
+C4 C 1.0954(3) 0.16273(15) 0.8934(2)
+H4 H 1.008(4) 0.1864(17) 0.813(3)
+C5 C 1.1882(4) 0.22169(17) 0.9979(3)
+H5 H 1.159(5) 0.287(3) 0.989(4)
+C6 C 1.0507(3) 0.00213(16) 0.8036(2)
+H6 H 1.078(4) -0.059(2) 0.832(3)
+C7 C 0.7372(3) -0.03323(14) 0.4766(2)
+C8 C 0.6717(3) -0.11762(13) 0.3920(2)
+C9 C 0.7840(3) -0.19105(14) 0.3908(2)
+H7 H 0.910(4) -0.1895(18) 0.439(3)
+C10 C 0.7095(3) -0.26457(15) 0.3070(2)
+H8 H 0.790(4) -0.3155(18) 0.307(3)
+C11 C 0.4292(3) -0.19845(16) 0.2280(2)
+H9 H 0.304(4) -0.2040(18) 0.175(3)
+C12 C 0.4901(3) -0.12158(15) 0.3069(2)
+H10 H 0.403(4) -0.075(2) 0.311(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C7 1_555 1_555
+N1 C1 1_555 1_555
+N2 N3 1_555 1_555
+N3 H1 1_555 1_555
+N4 C10 1_555 1_555
+C1 H2 1_555 1_555
+C2 C1 1_555 1_555
+H3 C2 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+H4 C4 1_555 1_555
+C5 N1 1_555 1_555
+H5 C5 1_555 1_555
+C6 N2 1_555 1_555
+H6 C6 1_555 1_555
+C7 N3 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+H7 C9 1_555 1_555
+C10 C9 1_555 1_555
+H8 C10 1_555 1_555
+C11 N4 1_555 1_555
+H9 C11 1_555 1_555
+C12 C8 1_555 1_555
+H10 C12 1_555 1_555
+C3 C6 1_555 1_555
+C4 C5 1_555 1_555
+C11 C12 1_555 1_555
+
+#END

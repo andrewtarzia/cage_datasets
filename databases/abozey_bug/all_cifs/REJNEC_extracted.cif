@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_REJNEC
+_chemical_formula_moiety         'C2 N12 O4 2-,C2 H10 N2 2+,H2 O1'
+_chemical_name_systematic        
+"ethylenediammonium 1,1'-dinitramino-5,5'-bitetrazolate monohydrate"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   6.7417(5)
+_cell_length_b                   11.6146(9)
+_cell_length_c                   8.286(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 90.1410(10)
+_cell_angle_gamma                90
+_cell_volume                     648.81
+_exptl_crystal_colour            white
+_exptl_crystal_description       block
+_cell_formula_units_Z            2
+_chemical_properties_physical    
+', This compound may be sensitive to impact, friction and other external stimuli.'
+_exptl_crystal_recrystallization_method water
+_exptl_crystal_preparation       ', energetic properties'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2068(3) 0.4420(2) 0.0966(2)
+N2 N 0.2049(4) 0.3465(2) 0.0042(3)
+N3 N 0.2289(4) 0.3822(2) -0.1431(3)
+N4 N 0.2464(5) 0.4985(2) -0.1502(3)
+N5 N 0.2374(3) 0.7446(2) -0.0409(3)
+N6 N 0.2507(4) 0.8386(2) 0.0500(3)
+N7 N 0.2636(4) 0.8036(2) 0.1990(3)
+N8 N 0.2620(4) 0.6869(2) 0.2064(3)
+N9 N 0.1714(3) 0.4340(2) 0.2622(3)
+N10 N 0.3386(4) 0.4458(2) 0.3422(3)
+N11 N 0.1988(4) 0.7512(2) -0.2067(3)
+N12 N 0.3635(3) 0.7231(2) -0.2856(3)
+O1 O 0.3269(4) 0.4382(2) 0.4908(2)
+O2 O 0.5023(3) 0.46471(19) 0.2737(2)
+O3 O 0.3440(4) 0.7237(2) -0.4362(2)
+O4 O 0.5234(3) 0.6992(2) -0.2199(3)
+C1 C 0.2325(4) 0.5335(2) 0.0014(3)
+C2 C 0.2439(4) 0.6523(2) 0.0565(3)
+N13 N 0.1712(4) -0.0523(3) 0.5109(3)
+H1 H 0.2773 -0.0500 0.5750
+H2 H 0.1800 -0.1127 0.4452
+H3 H 0.0623 -0.0584 0.5707
+N14 N 0.3062(4) 0.1904(2) 0.6161(3)
+H4 H 0.2927 0.2548 0.6708
+H5 H 0.4307 0.1939 0.5848
+H6 H 0.3362 0.1436 0.6960
+C3 C 0.1326(5) 0.1610(3) 0.5140(4)
+H7 H 0.1052 0.2249 0.4419
+H8 H 0.0177 0.1508 0.5828
+C4 C 0.1615(6) 0.0536(3) 0.4150(4)
+H9 H 0.0529 0.0471 0.3385
+H10 H 0.2833 0.0610 0.3538
+O5 O 0.7862(4) 0.5933(2) 0.0674(3)
+H11 H 0.7200 0.5400 0.0247
+H12 H 0.7357 0.6403 0.0020
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 N2 1_555 1_555
+N2 N3 1_555 1_555
+N3 N4 1_555 1_555
+N4 C1 1_555 1_555
+N5 N6 1_555 1_555
+N6 N7 1_555 1_555
+N7 N8 1_555 1_555
+N8 C2 1_555 1_555
+N9 N1 1_555 1_555
+N10 N9 1_555 1_555
+N11 N5 1_555 1_555
+N12 N11 1_555 1_555
+O1 N10 1_555 1_555
+O2 N10 1_555 1_555
+O3 N12 1_555 1_555
+O4 N12 1_555 1_555
+C1 N1 1_555 1_555
+C2 N5 1_555 1_555
+N13 H1 1_555 1_555
+H2 N13 1_555 1_555
+H3 N13 1_555 1_555
+N14 H4 1_555 1_555
+H5 N14 1_555 1_555
+H6 N14 1_555 1_555
+C3 N14 1_555 1_555
+H7 C3 1_555 1_555
+H8 C3 1_555 1_555
+C4 N13 1_555 1_555
+H9 C4 1_555 1_555
+H10 C4 1_555 1_555
+O5 H11 1_555 1_555
+H12 O5 1_555 1_555
+C1 C2 1_555 1_555
+C3 C4 1_555 1_555
+
+#END

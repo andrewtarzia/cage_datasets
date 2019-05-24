@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ICEBEX
+_chemical_formula_moiety         'C14 H27 B10 N1 O1 Si2'
+_chemical_name_systematic        
+1,2-(1,1,4,4-Tetramethyl-3-(4-cyanophenyl)-2-oxa-1,4-disilabutane-1,4-diyl)-1,2-dicarba-closo-dodecaborane(10)
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'A b a 2'
+_symmetry_Int_Tables_number      41
+_space_group_name_Hall           'A 2 -2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2-x,1/2+y,z
+4 1/2+x,1/2-y,z
+5 x,1/2+y,1/2+z
+6 -x,1/2-y,1/2+z
+7 1/2-x,y,1/2+z
+8 1/2+x,-y,1/2+z
+_cell_length_a                   21.704(4)
+_cell_length_b                   17.575(3)
+_cell_length_c                   11.997(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     4576.23
+_chemical_melting_point          '173 deg.C'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method hexane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 0.4738(1) 0.1842(1) 0.1087(7)
+Si2 Si 0.3259(1) 0.2741(1) 0.1086(8)
+O1 O 0.4489(3) 0.2710(3) 0.1160(20)
+N1 N 0.3919(5) 0.6953(5) 0.1120(40)
+B1 B 0.2797(9) 0.1128(12) 0.0310(20)
+B2 B 0.3557(9) 0.1195(11) -0.0060(20)
+B3 B 0.3195(12) 0.0259(12) -0.0040(30)
+B4 B 0.2729(5) 0.0240(7) 0.1090(50)
+B5 B 0.3458(6) -0.0191(7) 0.1110(30)
+B6 B 0.3207(7) 0.0340(13) 0.2350(20)
+B7 B 0.3960(8) 0.0412(10) 0.1757(19)
+B8 B 0.3985(10) 0.0378(9) 0.0290(20)
+B9 B 0.3587(9) 0.1240(11) 0.2298(18)
+B10 B 0.2789(9) 0.1094(12) 0.1780(20)
+C1 C 0.4011(3) 0.1223(5) 0.1064(18)
+C2 C 0.3314(3) 0.1660(4) 0.1080(20)
+C3 C 0.5146(8) 0.1687(11) 0.2357(19)
+C4 C 0.5199(7) 0.1638(11) -0.0189(17)
+C5 C 0.2858(18) 0.3033(12) -0.0040(30)
+C6 C 0.2880(20) 0.3079(17) 0.2400(40)
+C7 C 0.4052(4) 0.3085(5) 0.1110(60)
+C8 C 0.4111(7) 0.3955(8) 0.0950(30)
+C9 C 0.4255(9) 0.4246(11) 0.1740(20)
+C10 C 0.4080(18) 0.5134(13) 0.2110(20)
+C11 C 0.4059(4) 0.5504(5) 0.1060(30)
+C12 C 0.4099(15) 0.5120(13) 0.0230(20)
+C13 C 0.3944(7) 0.4404(8) -0.0080(16)
+C14 C 0.3996(4) 0.6316(6) 0.1100(30)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Si1 O1 1_555 1_555
+Si2 C2 1_555 1_555
+O1 C7 1_555 1_555
+N1 C14 1_555 1_555
+B1 B2 1_555 1_555
+B2 B3 1_555 1_555
+B3 B1 1_555 1_555
+B4 B1 1_555 1_555
+B5 B3 1_555 1_555
+B6 B4 1_555 1_555
+B7 B5 1_555 1_555
+B8 B2 1_555 1_555
+B9 B6 1_555 1_555
+B10 B1 1_555 1_555
+C1 Si1 1_555 1_555
+C2 B1 1_555 1_555
+C3 Si1 1_555 1_555
+C4 Si1 1_555 1_555
+C5 Si2 1_555 1_555
+C6 Si2 1_555 1_555
+C7 Si2 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+C12 C11 1_555 1_555
+C13 C8 1_555 1_555
+C14 C11 1_555 1_555
+B2 C1 1_555 1_555
+B2 C2 1_555 1_555
+B3 B4 1_555 1_555
+B3 B8 1_555 1_555
+B4 B5 1_555 1_555
+B4 B10 1_555 1_555
+B5 B6 1_555 1_555
+B5 B8 1_555 1_555
+B6 B7 1_555 1_555
+B6 B10 1_555 1_555
+B7 B8 1_555 1_555
+B7 B9 1_555 1_555
+B7 C1 1_555 1_555
+B8 C1 1_555 1_555
+B9 B10 1_555 1_555
+B9 C1 1_555 1_555
+B9 C2 1_555 1_555
+B10 C2 1_555 1_555
+C1 C2 1_555 1_555
+C12 C13 1_555 1_555
+
+#END

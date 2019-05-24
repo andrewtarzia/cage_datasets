@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WEJMAA
+_chemical_name_common            1-Diamantanol
+_chemical_formula_moiety         'C14 H20 O1'
+_chemical_name_systematic        1-Hydroxydiamantane
+_chemical_properties_biological  'potential pharmaceutical activity'
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'P 42/n'
+_symmetry_Int_Tables_number      86
+_space_group_name_Hall           '-P 4bc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,1/2+x,1/2+z
+3 1/2+y,-x,1/2+z
+4 1/2-x,1/2-y,z
+5 -x,-y,-z
+6 y,1/2-x,1/2-z
+7 1/2-y,x,1/2-z
+8 1/2+x,1/2+y,-z
+_cell_length_a                   16.572(2)
+_cell_length_b                   16.572(2)
+_cell_length_c                   7.7879(16)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2138.8
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prism
+_chemical_melting_point          '564-565 K'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method acetone
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.21864(6) 0.36342(5) 0.25158(12)
+H1 H 0.1911 0.3231 0.2346
+C1 C 0.20814(7) 0.41896(7) 0.11212(15)
+C2 C 0.13216(7) 0.46972(7) 0.14299(16)
+H2 H 0.0852 0.4339 0.1479
+C3 C 0.13844(9) 0.51636(8) 0.31214(18)
+H3 H 0.0896 0.5474 0.3306
+H4 H 0.1445 0.4789 0.4069
+C4 C 0.21070(9) 0.57251(8) 0.30507(18)
+H5 H 0.2149 0.6025 0.4132
+C5 C 0.20162(9) 0.63153(8) 0.1562(2)
+H6 H 0.2480 0.6672 0.1522
+H7 H 0.1537 0.6642 0.1729
+C6 C 0.19492(7) 0.58492(7) -0.01275(17)
+H8 H 0.1886 0.6233 -0.1076
+C7 C 0.12217(7) 0.52821(7) -0.00894(17)
+H9 H 0.0731 0.5602 0.0083
+C8 C 0.11517(9) 0.48238(8) -0.17846(18)
+H10 H 0.0684 0.4472 -0.1755
+H11 H 0.1083 0.5202 -0.2724
+C9 C 0.19141(9) 0.43253(8) -0.20667(17)
+H12 H 0.1872 0.4027 -0.3150
+C10 C 0.26376(9) 0.48820(9) -0.21231(19)
+H13 H 0.2579 0.5261 -0.3064
+H14 H 0.3124 0.4570 -0.2314
+C11 C 0.27042(7) 0.53398(8) -0.04300(17)
+H15 H 0.3175 0.5697 -0.0480
+C12 C 0.28047(7) 0.47589(7) 0.10885(17)
+H16 H 0.3298 0.4442 0.0923
+C13 C 0.20136(8) 0.37350(7) -0.05767(18)
+H17 H 0.1553 0.3374 -0.0537
+H18 H 0.2495 0.3412 -0.0753
+C14 C 0.28683(8) 0.52240(8) 0.27801(19)
+H19 H 0.2934 0.4848 0.3725
+H20 H 0.3336 0.5575 0.2752
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 H1 1_555 1_555
+C1 O1 1_555 1_555
+C2 C1 1_555 1_555
+H2 C2 1_555 1_555
+C3 C2 1_555 1_555
+H3 C3 1_555 1_555
+H4 C3 1_555 1_555
+C4 C3 1_555 1_555
+H5 C4 1_555 1_555
+C5 C4 1_555 1_555
+H6 C5 1_555 1_555
+H7 C5 1_555 1_555
+C6 C5 1_555 1_555
+H8 C6 1_555 1_555
+C7 C2 1_555 1_555
+H9 C7 1_555 1_555
+C8 C7 1_555 1_555
+H10 C8 1_555 1_555
+H11 C8 1_555 1_555
+C9 C8 1_555 1_555
+H12 C9 1_555 1_555
+C10 C9 1_555 1_555
+H13 C10 1_555 1_555
+H14 C10 1_555 1_555
+C11 C6 1_555 1_555
+H15 C11 1_555 1_555
+C12 C1 1_555 1_555
+H16 C12 1_555 1_555
+C13 C1 1_555 1_555
+H17 C13 1_555 1_555
+H18 C13 1_555 1_555
+C14 C4 1_555 1_555
+H19 C14 1_555 1_555
+H20 C14 1_555 1_555
+C6 C7 1_555 1_555
+C9 C13 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+C12 C14 1_555 1_555
+
+#END

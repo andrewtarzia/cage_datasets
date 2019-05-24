@@ -1,0 +1,75 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DIHIXL10
+_chemical_formula_moiety         'C4 H4 N2 O2'
+_chemical_name_systematic        3a,6a-Dihydro-isoxazolo(5,4)isoxazole
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   8.24
+_cell_length_b                   11.18
+_cell_length_c                   5.35
+_cell_angle_alpha                90
+_cell_angle_beta                 102.76
+_cell_angle_gamma                90
+_cell_volume                     480.687
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.05810 0.15980 1.06510
+C2 C -0.00410 0.28610 1.03420
+C3 C 0.03010 0.31820 0.78020
+C4 C 0.16060 0.41040 0.85410
+O1 O 0.09710 0.20990 0.68970
+O2 O 0.10020 0.36440 1.21920
+N1 N 0.11510 0.12200 0.88140
+N2 N 0.20090 0.43300 1.08980
+H1 H 0.05600 0.10500 1.19500
+H2 H -0.12100 0.29300 1.05300
+H3 H -0.06000 0.34800 0.63200
+H4 H 0.21100 0.45900 0.72600
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 N2 1_555 1_555
+O1 C3 1_555 1_555
+O2 C2 1_555 1_555
+N1 C1 1_555 1_555
+N2 O2 1_555 1_555
+H1 C1 1_555 1_555
+H2 C2 1_555 1_555
+H3 C3 1_555 1_555
+H4 C4 1_555 1_555
+O1 N1 1_555 1_555
+
+#END

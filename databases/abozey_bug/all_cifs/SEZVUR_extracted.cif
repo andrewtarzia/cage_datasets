@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SEZVUR
+_chemical_name_common            'acetamidinium perchlorate'
+_chemical_formula_moiety         'C2 H7 N2 1+,Cl1 O4 1-'
+_chemical_name_systematic        '1-aminoethan-1-iminium perchlorate'
+_symmetry_cell_setting           cubic
+_symmetry_space_group_name_H-M   'P m -3 m'
+_symmetry_Int_Tables_number      221
+_space_group_name_Hall           '-P 4 2 3'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x,z
+3 -x,-y,z
+4 y,-x,z
+5 x,-z,y
+6 x,-y,-z
+7 x,z,-y
+8 z,y,-x
+9 -x,y,-z
+10 -z,y,x
+11 z,x,y
+12 y,z,x
+13 -y,-z,x
+14 z,-x,-y
+15 -y,z,-x
+16 -z,-x,y
+17 -z,x,-y
+18 y,-z,-x
+19 y,x,-z
+20 -y,-x,-z
+21 -x,z,y
+22 -x,-z,-y
+23 z,-y,x
+24 -z,-y,-x
+25 -x,-y,-z
+26 y,-x,-z
+27 x,y,-z
+28 -y,x,-z
+29 -x,z,-y
+30 -x,y,z
+31 -x,-z,y
+32 -z,-y,x
+33 x,-y,z
+34 z,-y,-x
+35 -z,-x,-y
+36 -y,-z,-x
+37 y,z,-x
+38 -z,x,y
+39 y,-z,x
+40 z,x,-y
+41 z,-x,y
+42 -y,z,x
+43 -y,-x,z
+44 y,x,z
+45 x,-z,-y
+46 x,z,y
+47 -z,y,-x
+48 z,y,x
+_cell_length_a                   5.5893(4)
+_cell_length_b                   5.5893(4)
+_cell_length_c                   5.5893(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     174.611
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.475(6) 0.546(5) 0.487(6)
+O1 O 0.214(5) 0.559(6) 0.487(8)
+O2 O 0.564(8) 0.554(7) 0.734(5)
+O3 O 0.576(7) 0.745(5) 0.351(5)
+O4 O 0.551(7) 0.318(5) 0.377(8)
+C1 C 0.22(2) 1.05(2) -0.102(14)
+H1 H 0.203557 1.023422 -0.270838
+H2 H 0.368707 0.976772 -0.049018
+H3 H 0.226427 1.217592 -0.069698
+N1 N -0.136(10) 0.810(16) -0.070(16)
+H4 H -0.230853 0.715794 0.006682
+H5 H -0.135083 0.809584 -0.223668
+N2 N 0.032(14) 0.956(13) 0.274(6)
+H6 H -0.062878 0.862372 0.350632
+H7 H 0.126262 1.050142 0.350301
+C2 C 0.019(7) 0.953(7) 0.039(6)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 O1 1_555 1_555
+O2 Cl1 1_555 1_555
+O3 Cl1 1_555 1_555
+O4 Cl1 1_555 1_555
+C1 H1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C1 1_555 1_555
+N1 H4 1_555 1_555
+H5 N1 1_555 1_555
+N2 H6 1_555 1_555
+H7 N2 1_555 1_555
+C2 C1 1_555 1_555
+N1 C2 1_555 1_555
+N2 C2 1_555 1_555
+
+#END

@@ -1,0 +1,91 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_UDUWEX
+_chemical_name_common            'L-Serine hydrogen peroxide solvate hydrate'
+_chemical_formula_moiety         'C3 H7 N1 O3,0.91(H2 O2),0.09(H2 O1)'
+_chemical_name_systematic        
+'(S)-2-Ammonio-3-hydroxypropanoate hydrogen peroxide solvate hydrate'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a                   4.8586(5)
+_cell_length_b                   9.1220(9)
+_cell_length_c                   13.2223(14)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     586.014
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.7068(2) 0.77829(11) 0.67058(7)
+O4 O 0.9045(2) 0.80868(11) 0.88850(7)
+H5 H 0.946(5) 0.716(2) 0.8714(13)
+O5 O 0.78295(19) 1.12839(10) 0.79720(7)
+O6 O 1.00559(19) 1.02532(10) 0.66883(7)
+C1 C 0.8230(2) 1.02588(12) 0.73622(9)
+C2 C 0.6312(2) 0.89362(12) 0.74570(8)
+H6 H 0.4401 0.9273 0.7299
+C3 C 0.6316(3) 0.83400(13) 0.85314(9)
+H7 H 0.5388 0.9049 0.8984
+H8 H 0.5267 0.7410 0.8552
+H9 H 0.717(4) 0.8165(18) 0.6062(11)
+H10 H 0.574(4) 0.708(2) 0.6725(13)
+H11 H 0.887(4) 0.740(2) 0.6817(14)
+O1 O 0.7505(3) 0.59494(14) 0.49517(9)
+O2 O 1.0070(2) 0.51705(14) 0.47208(8)
+H1 H 0.647(5) 0.567(2) 0.4474(17)
+H2 H 1.004(4) 0.458(2) 0.5146(15)
+O3? O 0.875(5) 0.5740(19) 0.4926(12)
+H3? H 0.7662 0.5457 0.4461
+H4? H 0.9344 0.5008 0.5258
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 O2 1_555 1_555
+O2 H2 1_555 1_555
+H1 O1 1_555 1_555
+N1 C2 1_555 1_555
+O4 H5 1_555 1_555
+O5 C1 1_555 1_555
+O6 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 H6 1_555 1_555
+C3 O4 1_555 1_555
+H7 C3 1_555 1_555
+H8 C3 1_555 1_555
+H9 N1 1_555 1_555
+H10 N1 1_555 1_555
+H11 N1 1_555 1_555
+C2 C3 1_555 1_555
+
+#END

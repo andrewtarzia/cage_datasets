@@ -1,0 +1,77 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BAWNIW08
+_chemical_name_common            Chlorothalonil
+_chemical_formula_moiety         'C8 Cl4 N2'
+_chemical_name_systematic        2,4,5,6-Tetrachloroisophthalonitrile
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   8.6003(10)
+_cell_length_b                   9.2382(11)
+_cell_length_c                   6.3024(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 96.2152(60)
+_cell_angle_gamma                90
+_cell_volume                     497.791
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2911(56) 0.3928(10) -0.0950(35)
+C2 C 0.2125(34) 0.3919(57) 0.0917(10)
+C3 C 0.1728(17) 0.5246(28) 0.1859(25)
+C4 C 0.2117(28) 0.6581(21) 0.0935(39)
+C5 C 0.2903(33) 0.6597(35) -0.0932(32)
+C6 C 0.3300(14) 0.5263(52) -0.1874(19)
+C7 C 0.0928(17) 0.5237(26) 0.3802(57)
+C8 C 0.3309(30) 0.2556(40) -0.1936(25)
+Cl1 Cl 0.4244(18) 0.5279(17) -0.4148(33)
+Cl2 Cl 0.3380(46) 0.8206(15) -0.2037(19)
+Cl3 Cl 0.1659(14) 0.8187(24) 0.2089(14)
+Cl4 Cl 0.1660(26) 0.2303(14) 0.2043(38)
+N1 N 0.0287(44) 0.5230(26) 0.5342(18)
+N2 N 0.3623(17) 0.1474(46) -0.2714(36)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 C3 1_555 1_555
+C8 C1 1_555 1_555
+Cl1 C6 1_555 1_555
+Cl2 C5 1_555 1_555
+Cl3 C4 1_555 1_555
+Cl4 C2 1_555 1_555
+N1 C7 1_555 1_555
+N2 C8 1_555 1_555
+
+#END

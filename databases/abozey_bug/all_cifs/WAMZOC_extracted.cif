@@ -1,0 +1,152 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WAMZOC
+_chemical_name_common            Diphenylthienoisoindigo
+_chemical_formula_moiety         'C24 H14 N2 O2 S2'
+_chemical_name_systematic        
+6-(5-oxo-2-phenyl-4,5-dihydro-6H-thieno[3,2-b]pyrrol-6-ylidene)-2-phenyl-4,6-dihydro-5H-thieno[3,2-b]pyrrol-5-one
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,z
+8 x,1/2-y,1/2+z
+_cell_length_a                   7.88168(10)
+_cell_length_b                   7.13603(10)
+_cell_length_c                   35.6666(9)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2006.03
+_exptl_crystal_colour            black
+_exptl_crystal_description       plate
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method Sublimation
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.42040(9) 0.31542(12) 0.41751(2)
+O1 O 0.8065(3) 0.5660(3) 0.52571(6)
+N1 N 0.8369(3) 0.4264(4) 0.46750(7)
+C1 C 0.7471(4) 0.4948(5) 0.49709(9)
+C2 C 0.5622(4) 0.4729(5) 0.48780(8)
+C3 C 0.5598(4) 0.3917(5) 0.45123(9)
+C4 C 0.7258(4) 0.3658(5) 0.43934(9)
+C5 C 0.7439(4) 0.2880(5) 0.40418(9)
+C6 C 0.5864(4) 0.2519(5) 0.38841(9)
+C7 C 0.5523(5) 0.1700(5) 0.35135(9)
+C8 C 0.4104(5) 0.0589(6) 0.34449(11)
+C9 C 0.3821(6) -0.0183(7) 0.30947(12)
+C10 C 0.4940(6) 0.0144(6) 0.28058(12)
+C11 C 0.6340(6) 0.1256(6) 0.28705(12)
+C12 C 0.6636(5) 0.1999(5) 0.32164(10)
+H1 H 0.9458 0.4213 0.4663
+H2 H 0.8473 0.2633 0.3926
+H3 H 0.3336 0.0362 0.3637
+H4 H 0.2870 -0.0927 0.3054
+H5 H 0.4755 -0.0378 0.2570
+H6 H 0.7092 0.1502 0.2676
+H7 H 0.7603 0.2721 0.3255
+S1D S 0.57960(9) 0.68458(12) 0.58249(2)
+O1D O 0.1935(3) 0.4340(3) 0.47429(6)
+N1D N 0.1631(3) 0.5736(4) 0.53250(7)
+C1D C 0.2529(4) 0.5052(5) 0.50291(9)
+C2D C 0.4378(4) 0.5271(5) 0.51220(8)
+C3D C 0.4402(4) 0.6083(5) 0.54877(9)
+C4D C 0.2742(4) 0.6342(5) 0.56066(9)
+C5D C 0.2561(4) 0.7120(5) 0.59582(9)
+C6D C 0.4136(4) 0.7481(5) 0.61159(9)
+C7D C 0.4477(5) 0.8300(5) 0.64865(9)
+C8D C 0.5896(5) 0.9411(6) 0.65551(11)
+C9D C 0.6179(6) 1.0183(7) 0.69053(12)
+C10D C 0.5060(6) 0.9856(6) 0.71942(12)
+C11D C 0.3660(6) 0.8744(6) 0.71295(12)
+C12D C 0.3364(5) 0.8001(5) 0.67836(10)
+H1D H 0.0542 0.5787 0.5337
+H2D H 0.1527 0.7367 0.6074
+H3D H 0.6664 0.9638 0.6363
+H4D H 0.7130 1.0927 0.6946
+H5D H 0.5245 1.0378 0.7430
+H6D H 0.2908 0.8498 0.7324
+H7D H 0.2397 0.7279 0.6745
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C3 1_555 1_555
+O1 C1 1_555 1_555
+N1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 N1 1_555 1_555
+C5 C4 1_555 1_555
+C6 S1 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C10 1_555 1_555
+C12 C7 1_555 1_555
+H1 N1 1_555 1_555
+H2 C5 1_555 1_555
+H3 C8 1_555 1_555
+H4 C9 1_555 1_555
+H5 C10 1_555 1_555
+H6 C11 1_555 1_555
+H7 C12 1_555 1_555
+S1D C3D 1_555 1_555
+O1D C1D 1_555 1_555
+N1D C1D 1_555 1_555
+C1D C2D 1_555 1_555
+C2D C2 1_555 1_555
+C3D C2D 1_555 1_555
+C4D N1D 1_555 1_555
+C5D C4D 1_555 1_555
+C6D S1D 1_555 1_555
+C7D C6D 1_555 1_555
+C8D C7D 1_555 1_555
+C9D C8D 1_555 1_555
+C10D C9D 1_555 1_555
+C11D C10D 1_555 1_555
+C12D C7D 1_555 1_555
+H1D N1D 1_555 1_555
+H2D C5D 1_555 1_555
+H3D C8D 1_555 1_555
+H4D C9D 1_555 1_555
+H5D C10D 1_555 1_555
+H6D C11D 1_555 1_555
+H7D C12D 1_555 1_555
+C5 C6 1_555 1_555
+C11 C12 1_555 1_555
+C3D C4D 1_555 1_555
+C5D C6D 1_555 1_555
+C11D C12D 1_555 1_555
+
+#END

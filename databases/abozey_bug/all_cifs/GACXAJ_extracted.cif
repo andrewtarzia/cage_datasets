@@ -1,0 +1,96 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_GACXAJ
+_chemical_formula_moiety         'C13 H8 Br1 N1 O2 S1'
+_chemical_name_systematic        
+6-(3-Bromophenyl)-3-cyano-4-thiomethyl-2H-pyran-2-one
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,1/2+z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   36.59(3)
+_cell_length_b                   4.719(4)
+_cell_length_c                   14.368(12)
+_cell_angle_alpha                90
+_cell_angle_beta                 93.89(7)
+_cell_angle_gamma                90
+_cell_volume                     2475.18
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       needles
+_chemical_melting_point          233-235deg.C
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method acetone
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.2294(1) -0.0056(2) 0.1637(1)
+S1 S 0.0390(1) -1.2170(4) -0.0354(1)
+O1 O 0.1304(1) -0.8108(11) 0.1430(3)
+O2 O 0.1181(2) -1.0805(13) 0.2630(4)
+N1 N 0.0430(3) -1.5371(15) 0.1896(6)
+C1 C 0.1991(2) -0.1858(15) 0.0688(5)
+C2 C 0.2017(2) -0.1153(18) -0.0238(6)
+C3 C 0.1789(2) -0.2408(18) -0.0903(6)
+C4 C 0.1538(2) -0.4386(17) -0.0667(6)
+C5 C 0.1515(2) -0.5185(13) 0.0249(5)
+C6 C 0.1749(2) -0.3894(16) 0.0939(5)
+C7 C 0.1251(2) -0.7341(15) 0.0511(5)
+C8 C 0.0981(2) -0.8486(15) -0.0041(5)
+C9 C 0.0746(2) -1.0614(14) 0.0301(5)
+C10 C 0.0814(2) -1.1458(15) 0.1218(5)
+C11 C 0.1099(2) -1.0266(14) 0.1820(5)
+C12 C 0.0602(2) -1.3661(17) 0.1605(6)
+C13 C 0.0336(3) -1.0059(16) -0.1389(6)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 C1 1_555 1_555
+S1 C9 1_555 1_555
+O1 C7 1_555 1_555
+O2 C11 1_555 1_555
+N1 C12 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 C5 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 O1 1_555 1_555
+C12 C10 1_555 1_555
+C13 S1 1_555 1_555
+C10 C11 1_555 1_555
+
+#END

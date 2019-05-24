@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_RAHZUX
+_chemical_formula_moiety         'C11 H12 N2 2+,H2 O1,2(Br1 1-)'
+_chemical_name_systematic        
+"1,1'-methylenedipyridinium dibromide monohydrate"
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'F d d 2'
+_symmetry_Int_Tables_number      43
+_space_group_name_Hall           'F 2 -2d'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/4-x,1/4+y,1/4+z
+4 3/4+x,3/4-y,1/4+z
+5 x,1/2+y,1/2+z
+6 -x,1/2-y,1/2+z
+7 1/4-x,3/4+y,3/4+z
+8 3/4+x,1/4-y,3/4+z
+9 1/2+x,y,1/2+z
+10 1/2-x,-y,1/2+z
+11 3/4-x,1/4+y,3/4+z
+12 1/4+x,3/4-y,3/4+z
+13 1/2+x,1/2+y,z
+14 1/2-x,1/2-y,z
+15 3/4-x,3/4+y,1/4+z
+16 1/4+x,1/4-y,1/4+z
+_cell_length_a                   19.364(3)
+_cell_length_b                   16.814(2)
+_cell_length_c                   8.1486(9)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2653.07
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.21711(12) 0.18908(12) 0.2544(3)
+C1 C 0.25046(18) 0.12053(15) 0.2837(5)
+H1 H 0.2943 0.1120 0.2407
+C2 C 0.21918(15) 0.06308(14) 0.3777(6)
+H2 H 0.2422 0.0156 0.3987
+C3 C 0.15538(16) 0.07487(17) 0.4401(4)
+H3 H 0.1347 0.0361 0.5052
+C4 C 0.12104(15) 0.14503(18) 0.4063(5)
+H4 H 0.0766 0.1535 0.4461
+C5 C 0.15312(13) 0.20156(15) 0.3140(4)
+H5 H 0.1306 0.2492 0.2919
+C6 C 0.2500 0.2500 0.1526(5)
+H6 H 0.2156 0.2746 0.0827
+N1M N 0.28289(12) 0.31092(12) 0.2544(3)
+C1M C 0.24954(18) 0.37947(15) 0.2837(5)
+H1M H 0.2057 0.3880 0.2407
+C2M C 0.28082(15) 0.43692(14) 0.3777(6)
+H2M H 0.2578 0.4844 0.3987
+C3M C 0.34462(16) 0.42513(17) 0.4401(4)
+H3M H 0.3653 0.4639 0.5052
+C4M C 0.37896(15) 0.35497(18) 0.4063(5)
+H4M H 0.4234 0.3465 0.4461
+C5M C 0.34688(13) 0.29844(15) 0.3140(4)
+H5M H 0.3694 0.2508 0.2919
+H6M H 0.2844 0.2254 0.0827
+Br1 Br 0.324450(15) 0.375409(13) -0.13613(11)
+O1 O 0.2500 0.2500 0.5981(4)
+H7 H 0.2500 0.2500 0.4938
+H8? H 0.2689 0.2818 0.6656
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 H1 1_555 1_555
+C2 C1 1_555 1_555
+H2 C2 1_555 1_555
+C3 C2 1_555 1_555
+H3 C3 1_555 1_555
+C4 C3 1_555 1_555
+H4 C4 1_555 1_555
+C5 N1 1_555 1_555
+H5 C5 1_555 1_555
+C6 N1 1_555 1_555
+H6 C6 1_555 1_555
+O1 H7 1_555 1_555
+N1M C6 1_555 1_555
+C1M N1M 1_555 1_555
+H1M C1M 1_555 1_555
+C2M C1M 1_555 1_555
+H2M C2M 1_555 1_555
+C3M C2M 1_555 1_555
+H3M C3M 1_555 1_555
+C4M C3M 1_555 1_555
+H4M C4M 1_555 1_555
+C5M N1M 1_555 1_555
+H5M C5M 1_555 1_555
+H6M C6 1_555 1_555
+C4 C5 1_555 1_555
+C4M C5M 1_555 1_555
+
+#END

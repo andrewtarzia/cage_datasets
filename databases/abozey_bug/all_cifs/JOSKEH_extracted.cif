@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_JOSKEH
+_chemical_formula_moiety         'C22 H20 S8 2+,2(Cl1 O4 1-),C1 H2 Cl2'
+_chemical_name_systematic        
+'tetrakis(3-Methylthiolato-2-thienyl)ethylene diperchlorate dichloromethane solvate'
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'P 4/n'
+_symmetry_Int_Tables_number      85
+_space_group_name_Hall           '-P 4a'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-y,x,z
+3 1/2-x,1/2-y,z
+4 y,1/2-x,z
+5 -x,-y,-z
+6 1/2+y,-x,-z
+7 1/2+x,1/2+y,-z
+8 -y,1/2+x,-z
+_cell_length_a                   10.819(2)
+_cell_length_b                   10.819(2)
+_cell_length_c                   14.202(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1662.35
+_exptl_crystal_colour            'dark purple'
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl2 Cl 0.7500 0.2500 0.5000
+O4 O 0.842(2) 0.284(2) 0.561(1)
+O4E O 0.784(2) 0.158(2) 0.439(1)
+O4B O 0.658(2) 0.216(2) 0.561(1)
+O4G O 0.716(2) 0.342(2) 0.439(1)
+S1 S 0.8466(3) 0.1383(3) 0.7875(2)
+S2 S 1.0518(4) -0.0250(4) 0.7140(3)
+C1 C 0.8447(12) 0.1895(12) 0.9000(9)
+C2 C 0.9632(11) 0.1520(12) 0.9477(9)
+C3 C 1.0409(13) 0.0804(14) 0.8886(11)
+C4 C 0.9843(11) 0.0645(12) 0.7958(9)
+C5 C 0.7500 0.2500 0.9468(12)
+C6 C 0.9314(18) -0.0415(18) 0.6284(11)
+C1B C 0.6553(12) 0.3105(12) 0.9000(9)
+C5E C 0.7500 0.2500 1.0532(12)
+S1B S 0.6534(3) 0.3617(3) 0.7875(2)
+C2B C 0.5368(11) 0.3480(12) 0.9477(9)
+C1E C 0.6895(12) 0.1553(12) 1.1000(9)
+C1G C 0.8105(12) 0.3447(12) 1.1000(9)
+C4B C 0.5157(11) 0.4355(12) 0.7958(9)
+C3B C 0.4591(13) 0.4196(14) 0.8886(11)
+S1E S 0.6383(3) 0.1534(3) 1.2125(2)
+C2E C 0.6520(12) 0.0368(11) 1.0523(9)
+S1G S 0.8617(3) 0.3466(3) 1.2125(2)
+C2G C 0.8480(12) 0.4632(11) 1.0523(9)
+S2B S 0.4482(4) 0.5250(4) 0.7140(3)
+C4E C 0.5645(12) 0.0157(11) 1.2042(9)
+C3E C 0.5804(14) -0.0409(13) 1.1114(11)
+C4G C 0.9355(12) 0.4843(11) 1.2042(9)
+C3G C 0.9196(14) 0.5409(13) 1.1114(11)
+C6B C 0.5686(18) 0.5415(18) 0.6284(11)
+S2E S 0.4750(4) -0.0518(4) 1.2860(3)
+S2G S 1.0250(4) 0.5518(4) 1.2860(3)
+C6E C 0.4585(18) 0.0686(18) 1.3716(11)
+C6G C 1.0415(18) 0.4314(18) 1.3716(11)
+Cl1 Cl 0.2500 0.2500 0.1325(6)
+O3 O 0.2500 0.2500 0.234(3)
+Cl3? Cl 0.2500 0.2500 0.7331(7)
+Cl4? Cl 0.248(22) 0.292(56) 0.5416(17)
+C7? C 0.204 0.209 0.619
+O1? O 0.163(3) 0.149(3) 0.099(2)
+O2? O 0.360(8) 0.209(10) 0.131(5)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 O3 1_555 1_555
+Cl2 O4 1_555 1_555
+S1 C1 1_555 1_555
+S2 C4 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 S1 1_555 1_555
+C5 C1 1_555 1_555
+C6 S2 1_555 1_555
+O4E Cl2 1_555 1_555
+O4B Cl2 1_555 1_555
+O4G Cl2 1_555 1_555
+C1B C5 1_555 1_555
+C5E C5 1_555 1_555
+S1B C1B 1_555 1_555
+C2B C1B 1_555 1_555
+C1E C5E 1_555 1_555
+C1G C5E 1_555 1_555
+C4B S1B 1_555 1_555
+C3B C2B 1_555 1_555
+S1E C1E 1_555 1_555
+C2E C1E 1_555 1_555
+S1G C1G 1_555 1_555
+C2G C1G 1_555 1_555
+S2B C4B 1_555 1_555
+C4E S1E 1_555 1_555
+C3E C2E 1_555 1_555
+C4G S1G 1_555 1_555
+C3G C2G 1_555 1_555
+C6B S2B 1_555 1_555
+S2E C4E 1_555 1_555
+S2G C4G 1_555 1_555
+C6E S2E 1_555 1_555
+C6G S2G 1_555 1_555
+C4B C3B 1_555 1_555
+C4E C3E 1_555 1_555
+C4G C3G 1_555 1_555
+
+#END

@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_TUQFIV
+_chemical_formula_moiety         'C13 H9 N3 O1 S1'
+_chemical_name_systematic        
+N'-(4-Cyanobenzylidene)thiophene-2-carbohydrazide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   6.3966(13)
+_cell_length_b                   16.340(3)
+_cell_length_c                   11.494(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90.66(3)
+_cell_angle_gamma                90
+_cell_volume                     1201.28
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method ethanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2706(3) 0.38738(12) 0.84452(15)
+N2 N 0.1294(3) 0.44128(12) 0.88894(14)
+H1 H 0.1499 0.4603 0.9579
+O1 O -0.1694(3) 0.51089(11) 0.87605(12)
+C1 C 0.8862(4) 0.20156(14) 0.79598(18)
+C2 C -0.0408(4) 0.46559(14) 0.82840(17)
+C3 C 0.7596(4) 0.29587(15) 0.93785(18)
+H2 H 0.7759 0.3224 1.0089
+C4 C 0.4290(4) 0.37040(14) 0.90796(18)
+H3 H 0.4457 0.3960 0.9797
+C5 C 0.7082(4) 0.21428(16) 0.72907(19)
+H4 H 0.6895 0.1858 0.6597
+C6 C 0.5847(4) 0.31123(13) 0.86961(17)
+C7 C -0.0772(4) 0.43914(14) 0.70730(17)
+C8 C 0.9102(4) 0.24155(15) 0.90156(19)
+H5 H 1.0278 0.2318 0.9479
+C9 C -0.0822(5) 0.38914(16) 0.5070(2)
+H6 H -0.0568 0.3664 0.4344
+C10 C 0.5585(4) 0.26912(15) 0.76500(19)
+H7 H 0.4397 0.2780 0.7193
+C11 C -0.2581(4) 0.45925(15) 0.64795(18)
+H8 H -0.3673 0.4888 0.6802
+C12 C -0.2588(5) 0.43005(16) 0.5330(2)
+H9 H -0.3688 0.4380 0.4806
+S1 S 0.08838(11) 0.38350(4) 0.62050(5)
+N3 N 1.1789(4) 0.10803(16) 0.7206(2)
+C13 C 1.0483(4) 0.14800(17) 0.7545(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 N2 1_555 1_555
+N2 H1 1_555 1_555
+O1 C2 1_555 1_555
+C1 C5 1_555 1_555
+C2 N2 1_555 1_555
+C3 H2 1_555 1_555
+C4 N1 1_555 1_555
+H3 C4 1_555 1_555
+C5 H4 1_555 1_555
+C6 C3 1_555 1_555
+C7 C2 1_555 1_555
+C8 C1 1_555 1_555
+H5 C8 1_555 1_555
+C9 H6 1_555 1_555
+C10 C5 1_555 1_555
+H7 C10 1_555 1_555
+C11 C7 1_555 1_555
+H8 C11 1_555 1_555
+C12 C9 1_555 1_555
+H9 C12 1_555 1_555
+S1 C7 1_555 1_555
+N3 C13 1_555 1_555
+C13 C1 1_555 1_555
+C3 C8 1_555 1_555
+C4 C6 1_555 1_555
+C6 C10 1_555 1_555
+C9 S1 1_555 1_555
+C11 C12 1_555 1_555
+
+#END

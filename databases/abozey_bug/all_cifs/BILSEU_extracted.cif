@@ -1,0 +1,100 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BILSEU
+_chemical_name_common            Asulam
+_chemical_formula_moiety         'C8 H10 N2 O4 S1'
+_chemical_name_systematic        'N-Methoxycarbonyl sulfanilamide'
+_chemical_properties_biological  'herbicidal activity'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/a'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,z
+_cell_length_a                   7.465(2)
+_cell_length_b                   17.873(5)
+_cell_length_c                   8.081(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 98.11(2)
+_cell_angle_gamma                90
+_cell_volume                     1067.4
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.75820 0.31760 0.81710
+O1 O 0.67140 0.35410 0.94150
+O2 O 0.80100 0.23940 0.83570
+O3 O 0.86000 0.47750 0.78950
+O4 O 1.15230 0.44760 0.78970
+N1 N 0.95990 0.35690 0.81740
+N2 N 0.34330 0.37120 0.15080
+C1 C 0.63740 0.33370 0.62010
+C2 C 0.50250 0.38790 0.59880
+C3 C 0.40610 0.40050 0.44460
+C4 C 0.44220 0.35870 0.30580
+C5 C 0.57720 0.30360 0.32870
+C6 C 0.67380 0.29110 0.48290
+C7 C 0.98010 0.43290 0.79720
+C8 C 1.19770 0.52760 0.76520
+H1 H 0.47500 0.42400 0.68400
+H2 H 0.31300 0.43900 0.43100
+H3 H 0.62000 0.27000 0.23600
+H4 H 0.77900 0.25300 0.48700
+H5 H 0.25600 0.41300 0.12400
+H6 H 0.37800 0.34800 0.05800
+H7 H 1.06400 0.32800 0.82200
+H8 H 1.14200 0.54500 0.64500
+H9 H 1.33200 0.52200 0.79100
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 O1 1_555 1_555
+O2 S1 1_555 1_555
+O3 C7 1_555 1_555
+O4 C7 1_555 1_555
+N1 S1 1_555 1_555
+N2 C4 1_555 1_555
+C1 S1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+C6 C1 1_555 1_555
+C7 N1 1_555 1_555
+C8 O4 1_555 1_555
+H1 C2 1_555 1_555
+H2 C3 1_555 1_555
+H3 C5 1_555 1_555
+H4 C6 1_555 1_555
+H5 N2 1_555 1_555
+H6 N2 1_555 1_555
+H7 N1 1_555 1_555
+H8 C8 1_555 1_555
+H9 C8 1_555 1_555
+C5 C6 1_555 1_555
+
+#END

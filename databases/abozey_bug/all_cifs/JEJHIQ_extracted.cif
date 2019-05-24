@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_JEJHIQ
+_chemical_name_common            N-(2-(5-Fluorouracil-1-yl)acetyl)glycine
+_chemical_formula_moiety         'C8 H8 F1 N3 O5'
+_chemical_name_systematic        
+N-((5-Fluoro-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)acetyl)glycine
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   10.2065(13)
+_cell_length_b                   4.5723(6)
+_cell_length_c                   22.760(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 112.007(5)
+_cell_angle_gamma                90
+_cell_volume                     984.755
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       sheet
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method '95% ethanol'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+F1 F 0.1062(2) 0.8185(5) 0.91472(9)
+O1 O 0.3501(2) 0.8671(6) 0.56914(12)
+O2 O 0.1802(2) 1.1905(5) 0.52692(10)
+H1 H 0.2315 1.2437 0.5086
+O3 O 0.1032(2) 0.8470(6) 0.70812(10)
+O4 O 0.5116(2) 0.8277(5) 0.82011(10)
+O5 O 0.3460(2) 1.1529(5) 0.96719(10)
+N1 N 0.2251(3) 0.6774(6) 0.65147(11)
+H2 H 0.2914 0.5635 0.6506
+N2 N 0.3033(2) 0.6378(5) 0.81781(10)
+N3 N 0.4277(2) 0.9718(6) 0.89481(11)
+H3 H 0.5033 1.0731 0.9125
+C1 C 0.2384(3) 0.9664(7) 0.56365(13)
+C2 C 0.1473(3) 0.8526(8) 0.59638(15)
+H4 H 0.1039 1.0160 0.6094
+H5 H 0.0723 0.7349 0.5669
+C3 C 0.1951(3) 0.6910(6) 0.70311(13)
+C4 C 0.2800(3) 0.4920(7) 0.75764(12)
+H6 H 0.2292 0.3104 0.7553
+H7 H 0.3701 0.4462 0.7547
+C5 C 0.4210(3) 0.8117(7) 0.84270(13)
+C6 C 0.3290(3) 0.9904(7) 0.92221(13)
+C7 C 0.2091(3) 0.8101(7) 0.89110(14)
+C8 C 0.1971(3) 0.6465(7) 0.84115(14)
+H8 H 0.1158 0.5362 0.8217
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+F1 C7 1_555 1_555
+O1 C1 1_555 1_555
+O2 H1 1_555 1_555
+O3 C3 1_555 1_555
+O4 C5 1_555 1_555
+O5 C6 1_555 1_555
+N1 H2 1_555 1_555
+N2 C4 1_555 1_555
+N3 H3 1_555 1_555
+C1 O2 1_555 1_555
+C2 N1 1_555 1_555
+H4 C2 1_555 1_555
+H5 C2 1_555 1_555
+C3 N1 1_555 1_555
+C4 C3 1_555 1_555
+H6 C4 1_555 1_555
+H7 C4 1_555 1_555
+C5 N2 1_555 1_555
+C6 N3 1_555 1_555
+C7 C6 1_555 1_555
+C8 N2 1_555 1_555
+H8 C8 1_555 1_555
+N3 C5 1_555 1_555
+C1 C2 1_555 1_555
+C7 C8 1_555 1_555
+
+#END

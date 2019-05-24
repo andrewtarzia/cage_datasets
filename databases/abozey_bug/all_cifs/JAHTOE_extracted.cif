@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_JAHTOE
+_chemical_compound_source        
+'methylated product from compound extracted from the heartwood of a Hainan Thespesia populnea (L.) Sol. ex Correa (Malvaceae)'
+_chemical_name_common            3-O-methylthespesilactam
+_chemical_formula_moiety         'C16 H17 N1 O3'
+_chemical_name_systematic        
+5-isopropyl-3-methoxy-7-methylbenzo[cd]indole-2,8-diol
+_chemical_properties_biological  'inhibits cell viability'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P n a 21'
+_symmetry_Int_Tables_number      33
+_space_group_name_Hall           'P 2c -2n'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a                   16.3624(3)
+_cell_length_b                   12.0754(2)
+_cell_length_c                   7.19120(10)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1420.86
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.06855(11) 0.17751(17) 0.1603(3)
+H1 H 0.0286 0.1451 0.2026
+O2 O 0.06179(10) -0.06669(15) 0.7902(3)
+H2 H 0.0848 -0.0739 0.8908
+O3 O 0.22817(11) -0.02631(16) 1.0001(3)
+N1 N 0.07171(11) 0.04161(17) 0.5285(4)
+C1 C 0.10115(13) -0.00044(19) 0.6914(4)
+C2 C 0.18320(14) 0.04425(18) 0.7147(4)
+C3 C 0.24421(14) 0.0342(2) 0.8480(4)
+C4 C 0.31876(15) 0.0893(2) 0.8127(4)
+H3 H 0.3606 0.0822 0.8996
+C5 C 0.33333(14) 0.1536(2) 0.6558(4)
+C6 C 0.27109(14) 0.16648(19) 0.5205(4)
+C7 C 0.27089(15) 0.2279(2) 0.3525(4)
+H4 H 0.3176 0.2670 0.3192
+C8 C 0.20378(15) 0.23165(19) 0.2369(4)
+C9 C 0.13093(14) 0.1702(2) 0.2814(4)
+C10 C 0.13003(13) 0.11083(19) 0.4426(4)
+C11 C 0.19915(13) 0.10974(19) 0.5592(4)
+C12 C 0.20309(18) 0.2987(3) 0.0615(5)
+H5 H 0.2547 0.3355 0.0472
+H6 H 0.1602 0.3528 0.0679
+H7 H 0.1939 0.2507 -0.0429
+C13 C 0.41663(16) 0.2081(3) 0.6281(6)
+H8 H 0.4081 0.2740 0.5508
+C14 C 0.4555(4) 0.2448(8) 0.8009(9)
+H9 H 0.5070 0.2791 0.7729
+H10 H 0.4643 0.1822 0.8806
+H11 H 0.4207 0.2973 0.8625
+C15 C 0.4709(3) 0.1303(5) 0.5203(14)
+H12 H 0.5231 0.1645 0.5004
+H13 H 0.4461 0.1139 0.4025
+H14 H 0.4780 0.0630 0.5894
+C16 C 0.2917(2) -0.0476(3) 1.1300(5)
+H15 H 0.2707 -0.0911 1.2309
+H16 H 0.3124 0.0213 1.1773
+H17 H 0.3351 -0.0873 1.0697
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 H1 1_555 1_555
+O2 H2 1_555 1_555
+O3 C3 1_555 1_555
+N1 C1 1_555 1_555
+C1 O2 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+C4 C3 1_555 1_555
+H3 C4 1_555 1_555
+C5 C4 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+H4 C7 1_555 1_555
+C8 C7 1_555 1_555
+C9 O1 1_555 1_555
+C10 N1 1_555 1_555
+C11 C2 1_555 1_555
+C12 C8 1_555 1_555
+H5 C12 1_555 1_555
+H6 C12 1_555 1_555
+H7 C12 1_555 1_555
+C13 C5 1_555 1_555
+H8 C13 1_555 1_555
+C14 C13 1_555 1_555
+H9 C14 1_555 1_555
+H10 C14 1_555 1_555
+H11 C14 1_555 1_555
+C15 C13 1_555 1_555
+H12 C15 1_555 1_555
+H13 C15 1_555 1_555
+H14 C15 1_555 1_555
+C16 O3 1_555 1_555
+H15 C16 1_555 1_555
+H16 C16 1_555 1_555
+H17 C16 1_555 1_555
+C6 C11 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 C11 1_555 1_555
+
+#END

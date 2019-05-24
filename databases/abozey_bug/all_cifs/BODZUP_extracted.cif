@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BODZUP
+_chemical_formula_moiety         'C8 H10 N6 O1,C6 H8 N2 O2,2(H2 O1)'
+_chemical_name_systematic        
+'3-(Adenin-9-yl)-propionamide 1-methylthymine dihydrate'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   11.368(1)
+_cell_length_b                   6.909(1)
+_cell_length_c                   12.708(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 114.49(1)
+_cell_angle_gamma                90
+_cell_volume                     908.31
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.64780 0.16600 0.58570
+C1 C 0.56400 0.16700 0.47300
+N2 N 0.43440 0.18400 0.42800
+C2 C 0.39300 0.20800 0.51300
+C3 C 0.47020 0.20700 0.63200
+C4 C 0.60300 0.18600 0.66800
+N3 N 0.68990 0.19000 0.78030
+N4 N 0.39310 0.24000 0.69210
+C5 C 0.27450 0.25300 0.61090
+N5 N 0.26850 0.24400 0.49960
+C6 C 0.15350 0.26300 0.38990
+C7 C 0.11400 0.05800 0.33500
+C8 C 0.06400 -0.06800 0.40900
+N6 N 0.10660 -0.25600 0.43220
+O1 O -0.01990 0.00100 0.43830
+N7 N 0.35050 0.24700 1.07150
+C9 C 0.23300 0.21500 1.10100
+C10 C 0.32600 0.25500 0.95510
+O2 O 0.21950 0.25000 0.87780
+N8 N 0.43610 0.26300 0.93400
+C11 C 0.56200 0.26200 1.01750
+O3 O 0.65190 0.27000 0.98650
+C12 C 0.58010 0.26000 1.13430
+C13 C 0.71600 0.26900 1.22660
+C14 C 0.47400 0.24500 1.15700
+O4 O 1.07190 -0.24200 0.93500
+O5 O 0.97310 0.14000 0.86380
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 N2 1_555 1_555
+N2 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 N1 1_555 1_555
+N3 C4 1_555 1_555
+N4 C3 1_555 1_555
+C5 N4 1_555 1_555
+N5 C2 1_555 1_555
+C6 N5 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+N6 C8 1_555 1_555
+O1 C8 1_555 1_555
+N7 C9 1_555 1_555
+C10 N7 1_555 1_555
+O2 C10 1_555 1_555
+N8 C10 1_555 1_555
+C11 N8 1_555 1_555
+O3 C11 1_555 1_555
+C12 C11 1_555 1_555
+C13 C12 1_555 1_555
+C14 N7 1_555 1_555
+C5 N5 1_555 1_555
+C12 C14 1_555 1_555
+
+#END

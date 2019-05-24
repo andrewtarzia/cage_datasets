@@ -1,0 +1,91 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_XINQEQ
+_chemical_formula_moiety         'C13 H19 N1 O2'
+_chemical_name_systematic        
+N-(2,7-Epoxytricyclo(7.2.1.0^2,7^)dodec-12-yl)formamide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c 1 1'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2xac'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,-y,1/2-z
+3 -x,-y,-z
+4 1/2-x,y,1/2+z
+_cell_length_a                   10.083(3)
+_cell_length_b                   8.732(2)
+_cell_length_c                   13.843(3)
+_cell_angle_alpha                98.882(5)
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1204.19
+_exptl_crystal_description       prism
+_chemical_melting_point          '73-75 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method ether/dichloromethane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1360(1) 0.0687(2) 0.1129(1)
+O2 O 0.0263(2) 0.6018(2) 0.2070(1)
+N1 N 0.0715(2) 0.3568(2) 0.1711(1)
+C1 C 0.2045(2) 0.1327(3) 0.0377(2)
+C2 C 0.1888(2) 0.3067(3) 0.0243(2)
+C3 C 0.3207(2) 0.3713(3) -0.0009(2)
+C4 C 0.4106(2) 0.3874(3) 0.0968(2)
+C5 C 0.3224(2) 0.3548(3) 0.1749(2)
+C6 C 0.3335(3) 0.1921(3) 0.2088(2)
+C7 C 0.2804(2) 0.0810(2) 0.1297(2)
+C8 C 0.3479(2) -0.0756(3) 0.1339(3)
+C9 C 0.2886(4) -0.1772(4) 0.0452(3)
+C10 C 0.2778(4) -0.0973(4) -0.0469(3)
+C11 C 0.1924(2) 0.0391(3) -0.0538(2)
+C12 C 0.1830(2) 0.3902(2) 0.1207(2)
+C13 C 0.048(2) 0.4654(3) 0.2113(2)
+H1 H 0.060(2) 0.267(3) 0.186(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C13 1_555 1_555
+N1 C12 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 O1 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C1 1_555 1_555
+C12 C2 1_555 1_555
+C13 N1 1_555 1_555
+H1 N1 1_555 1_555
+C1 C7 1_555 1_555
+C5 C12 1_555 1_555
+C10 C11 1_555 1_555
+
+#END

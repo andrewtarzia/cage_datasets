@@ -1,0 +1,93 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BRLCTB
+_chemical_formula_moiety         'C12 H12 O5'
+_chemical_name_systematic        
+5-Carboxyl-11-hydroxy-2-oxatetracyclo(5.5.0.0^4,12^.0^6,10^)dodec-8-ene-3-one
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,1/2-y,1/2+z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 1/2+x,1/2-y,-z
+7 -x,1/2+y,1/2-z
+8 1/2+x,y,1/2-z
+_cell_length_a                   9.042(2)
+_cell_length_b                   10.154(2)
+_cell_length_c                   21.828(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2004.08
+_chemical_melting_point          223deg.C
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.41530 0.19050 0.24219
+O2 O 0.50440 0.48760 0.18596
+O3 O 0.71950 0.39090 0.20812
+O4 O 0.58820 0.02900 0.05586
+O5 O 0.81860 0.09300 0.07740
+C1 C 0.34650 0.15020 0.18490
+C2 C 0.29250 0.27060 0.14750
+C3 C 0.16580 0.22760 0.10670
+C4 C 0.21730 0.18460 0.05330
+C5 C 0.38340 0.19130 0.05270
+C6 C 0.41340 0.30380 0.09980
+C7 C 0.57220 0.29990 0.12620
+C8 C 0.61220 0.15620 0.14450
+C9 C 0.46810 0.07640 0.14900
+C10 C 0.43980 0.06010 0.07970
+C11 C 0.60550 0.39500 0.17830
+C12 C 0.68950 0.09190 0.09100
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C11 1_555 1_555
+O3 C11 1_555 1_555
+O4 C10 1_555 1_555
+O5 C12 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C2 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C1 1_555 1_555
+C10 C5 1_555 1_555
+C11 C7 1_555 1_555
+C12 O4 1_555 1_555
+C8 C9 1_555 1_555
+C8 C12 1_555 1_555
+C9 C10 1_555 1_555
+
+#END

@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_EVAXOP
+_chemical_compound_source        'Mangrove endophytic fungus phomposis sp'
+_chemical_name_common            'Sclerotinin A'
+_chemical_formula_moiety         'C13 H16 O5'
+_chemical_name_systematic        
+3,6,8-Trihydroxy-3,4,5,7-tetramethyl-3,4-dihydro-1H-isochromen-1-one
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a                   7.4731(3)
+_cell_length_b                   9.9742(7)
+_cell_length_c                   16.4066(12)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1222.92
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method methanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.50038(12) 0.41865(9) 0.52036(5)
+O2 O 0.26458(13) 0.35748(9) 0.43613(5)
+H1 H 0.2619 0.2802 0.4564
+O3 O 0.77901(13) 0.38899(10) 0.48436(6)
+C1 C 0.74508(17) 0.54758(12) 0.34132(7)
+O4 O 0.53133(15) 0.79291(11) 0.20856(6)
+H2 H 0.6232 0.7996 0.1793
+O5 O 0.90385(13) 0.48275(9) 0.34758(6)
+H3 H 0.9037 0.4346 0.3896
+C2 C 0.72242(18) 0.63290(12) 0.27480(7)
+C3 C 0.60748(17) 0.53081(12) 0.39893(7)
+C4 C 0.42314(18) 0.69223(13) 0.32709(8)
+C5 C 0.63436(17) 0.44348(12) 0.46828(7)
+C6 C 0.56276(19) 0.70428(13) 0.26991(8)
+C7 C 0.44607(16) 0.60298(12) 0.39092(7)
+C8 C 0.30879(17) 0.58956(12) 0.45805(7)
+H4 H 0.1876 0.6020 0.4333
+C9 C 0.3370(2) 0.70133(14) 0.52100(9)
+H5 H 0.4485 0.6850 0.5509
+H6 H 0.2364 0.7024 0.5593
+H7 H 0.3443 0.7880 0.4930
+C10 C 0.8647(2) 0.64783(16) 0.21033(8)
+H8 H 0.8158 0.6215 0.1573
+H9 H 0.9668 0.5903 0.2238
+H10 H 0.9041 0.7415 0.2080
+C11 C 0.31545(17) 0.44997(13) 0.49601(7)
+C12 C 0.20825(19) 0.43331(14) 0.57328(8)
+H11 H 0.2544 0.4943 0.6151
+H12 H 0.2184 0.3406 0.5925
+H13 H 0.0823 0.4542 0.5624
+C13 C 0.2588(2) 0.77862(17) 0.31733(10)
+H14 H 0.1546 0.7315 0.3396
+H15 H 0.2390 0.7972 0.2594
+H16 H 0.2759 0.8633 0.3466
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C5 1_555 1_555
+O2 H1 1_555 1_555
+O3 C5 1_555 1_555
+C1 O5 1_555 1_555
+O4 H2 1_555 1_555
+O5 H3 1_555 1_555
+C2 C1 1_555 1_555
+C3 C1 1_555 1_555
+C4 C6 1_555 1_555
+C5 C3 1_555 1_555
+C6 O4 1_555 1_555
+C7 C3 1_555 1_555
+C8 C7 1_555 1_555
+H4 C8 1_555 1_555
+C9 C8 1_555 1_555
+H5 C9 1_555 1_555
+H6 C9 1_555 1_555
+H7 C9 1_555 1_555
+C10 C2 1_555 1_555
+H8 C10 1_555 1_555
+H9 C10 1_555 1_555
+H10 C10 1_555 1_555
+C11 O1 1_555 1_555
+C12 C11 1_555 1_555
+H11 C12 1_555 1_555
+H12 C12 1_555 1_555
+H13 C12 1_555 1_555
+C13 C4 1_555 1_555
+H14 C13 1_555 1_555
+H15 C13 1_555 1_555
+H16 C13 1_555 1_555
+O2 C11 1_555 1_555
+C2 C6 1_555 1_555
+C4 C7 1_555 1_555
+C8 C11 1_555 1_555
+
+#END

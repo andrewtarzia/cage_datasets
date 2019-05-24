@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_JAZQIN
+_chemical_name_common            'urea m-cresol'
+_chemical_formula_moiety         'C7 H8 O1,C1 H4 N2 O1'
+_chemical_name_systematic        'urea 3-methylphenol'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,z
+8 x,1/2-y,1/2+z
+_cell_length_a                   11.2502(5)
+_cell_length_b                   7.1880(4)
+_cell_length_c                   21.7868(15)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1761.82
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          '344.85 K'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method 'cooling crystallization'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.76466(12) 0.1040(2) 0.30323(7)
+N1 N 0.59241(16) -0.0568(3) 0.31313(8)
+H1 H 0.6290 -0.1609 0.3084
+H2 H 0.5168 -0.0555 0.3188
+N2 N 0.59343(16) 0.2627(3) 0.31860(8)
+H3 H 0.6309 0.3669 0.3174
+H4 H 0.5178 0.2614 0.3243
+C1 C 0.65289(18) 0.1024(3) 0.31159(9)
+O2 O 0.84775(12) 0.0980(2) 0.18650(7)
+H5 H 0.8105 0.0924 0.2188
+C2 C 0.81762(19) 0.1075(3) 0.07974(10)
+H6 H 0.8997 0.1045 0.0750
+C3 C 0.64672(18) 0.1061(3) 0.14635(10)
+H7 H 0.6140 0.1023 0.1855
+C4 C 0.7450(2) 0.1157(3) 0.02809(11)
+C5 C 0.76936(19) 0.1037(3) 0.13798(10)
+C6 C 0.6219(2) 0.1209(3) 0.03659(11)
+H8 H 0.5718 0.1290 0.0027
+C7 C 0.57435(19) 0.1141(3) 0.09474(11)
+H9 H 0.4922 0.1149 0.0996
+C8 C 0.7993(2) 0.1188(4) -0.03530(12)
+H10 H 0.8484 0.2273 -0.0396
+H11 H 0.7373 0.1219 -0.0655
+H12 H 0.8468 0.0093 -0.0411
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+N1 H1 1_555 1_555
+H2 N1 1_555 1_555
+N2 H3 1_555 1_555
+H4 N2 1_555 1_555
+C1 N1 1_555 1_555
+O2 H5 1_555 1_555
+C2 H6 1_555 1_555
+C3 H7 1_555 1_555
+C4 C2 1_555 1_555
+C5 O2 1_555 1_555
+C6 C4 1_555 1_555
+H8 C6 1_555 1_555
+C7 C3 1_555 1_555
+H9 C7 1_555 1_555
+C8 C4 1_555 1_555
+H10 C8 1_555 1_555
+H11 C8 1_555 1_555
+H12 C8 1_555 1_555
+N2 C1 1_555 1_555
+C2 C5 1_555 1_555
+C3 C5 1_555 1_555
+C6 C7 1_555 1_555
+
+#END

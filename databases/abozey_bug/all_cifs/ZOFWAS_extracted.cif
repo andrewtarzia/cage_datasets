@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ZOFWAS
+_chemical_name_common            Methyleno-tetracyclopentyl-14-crown-4
+_chemical_formula_moiety         'C27 H44 O4'
+_chemical_name_systematic        
+2,3,9,10-tetrakis(Spirocyclopentane)-6-methylene-1,4,8,11-tetraoxacyclotetradecane
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   13.350(5)
+_cell_length_b                   10.250(2)
+_cell_length_c                   9.500(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 109.47(2)
+_cell_angle_gamma                90
+_cell_volume                     1225.62
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3556(2) 0.1258(3) 0.9583(3)
+O2 O 0.3112(2) -0.1515(3) 0.8803(3)
+C1 C 0.2669(3) 0.0555(4) 0.9769(4)
+C2 C 0.2373(3) -0.0436(4) 0.8480(4)
+C3 C 0.4117(3) -0.1343(5) 0.8638(5)
+C4 C 0.4838(3) -0.2449(4) 0.9391(5)
+C5 C 0.4048(3) 0.2257(5) 1.0645(5)
+C6 C 0.2967(3) -0.0125(5) 1.1296(4)
+C7 C 0.2370(4) 0.0633(7) 1.2178(5)
+C8 C 0.1384(3) 0.1087(6) 1.1001(5)
+C9 C 0.1752(3) 0.1489(5) 0.9721(4)
+C10 C 0.1307(3) -0.1126(5) 0.8188(5)
+C11 C 0.0991(4) -0.1624(6) 0.6610(5)
+C12 C 0.1620(4) -0.0855(6) 0.5826(5)
+C13 C 0.2254(3) 0.0149(4) 0.6954(4)
+C14 C 0.4563(7) -0.346(1) 0.980(1)
+C5B C 0.5952(3) -0.2257(5) 0.9355(5)
+O1B O 0.6444(2) -0.1258(3) 1.0417(3)
+C1B C 0.7331(3) -0.0555(4) 1.0231(4)
+C2B C 0.7627(3) 0.0436(4) 1.1520(4)
+O2B O 0.6888(2) 0.1515(3) 1.1197(3)
+C3B C 0.5883(3) 0.1343(5) 1.1362(5)
+C4B C 0.5162(3) 0.2449(4) 1.0609(5)
+C14B C 0.5437(7) 0.346(1) 1.020(1)
+C10B C 0.8693(3) 0.1126(5) 1.1812(5)
+C11B C 0.9009(4) 0.1624(6) 1.3390(5)
+C12B C 0.8380(4) 0.0855(6) 1.4174(5)
+C13B C 0.7746(3) -0.0149(4) 1.3046(4)
+C6B C 0.7033(3) 0.0125(5) 0.8704(4)
+C7B C 0.7630(4) -0.0633(7) 0.7822(5)
+C8B C 0.8616(3) -0.1087(6) 0.8999(5)
+C9B C 0.8248(3) -0.1489(5) 1.0279(4)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+O2 C2 1_555 1_555
+C1 C2 1_555 1_555
+C2 C10 1_555 1_555
+C3 O2 1_555 1_555
+C4 C3 1_555 1_555
+C5 O1 1_555 1_555
+C6 C1 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C1 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+C12 C13 1_555 1_555
+C13 C2 1_555 1_555
+C14 C4 1_555 1_555
+C5B C4 1_555 1_555
+O1B C5B 1_555 1_555
+C1B O1B 1_555 1_555
+C2B C1B 1_555 1_555
+O2B C2B 1_555 1_555
+C3B O2B 1_555 1_555
+C4B C5 1_555 1_555
+C14B C4B 1_555 1_555
+C10B C2B 1_555 1_555
+C11B C10B 1_555 1_555
+C12B C11B 1_555 1_555
+C13B C2B 1_555 1_555
+C6B C1B 1_555 1_555
+C7B C6B 1_555 1_555
+C8B C7B 1_555 1_555
+C9B C1B 1_555 1_555
+C8 C9 1_555 1_555
+C3B C4B 1_555 1_555
+C12B C13B 1_555 1_555
+C8B C9B 1_555 1_555
+
+#END

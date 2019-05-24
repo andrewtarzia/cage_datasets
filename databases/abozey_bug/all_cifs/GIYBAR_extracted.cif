@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_GIYBAR
+_chemical_formula_moiety         'C10 H20 Br2 O1 S1 Si2'
+_chemical_name_systematic        
+'2,5-bis(Trimethylsilyl)-2,5-dibromothiolene mono-oxide'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   6.777(1)
+_cell_length_b                   12.292(8)
+_cell_length_c                   20.117(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 93.85(1)
+_cell_angle_gamma                90
+_cell_volume                     1672.02
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_chemical_melting_point          98deg.C
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.6602(1) -0.06737(7) 0.25000(5)
+Br2 Br 0.8389(1) -0.00035(8) 0.07648(5)
+S1 S 0.7456(3) 0.1615(2) 0.19025(9)
+Si1 Si 0.4601(3) 0.1437(2) 0.3030(1)
+Si2 Si 0.7177(3) 0.2413(2) 0.0445(1)
+O1 O 0.9457(7) 0.1211(5) 0.2113(3)
+C1 C 0.552(1) 0.0775(6) 0.2247(4)
+C2 C 0.4047(10) 0.0669(7) 0.1670(4)
+C3 C 0.464(1) 0.0893(6) 0.1075(4)
+C4 C 0.675(1) 0.1231(6) 0.1032(3)
+C5 C 0.679(1) 0.1663(8) 0.3623(4)
+C6 C 0.278(1) 0.0510(8) 0.3366(4)
+C7 C 0.346(1) 0.2732(7) 0.2757(4)
+C8 C 0.979(1) 0.2831(9) 0.0568(5)
+C9 C 0.655(2) 0.1952(9) -0.0413(5)
+C10 C 0.554(2) 0.3538(8) 0.0665(5)
+H1 H 0.2701 0.0447 0.1728
+H2 H 0.3747 0.0834 0.0682
+H3 H 0.7422 0.0974 0.3728
+H4 H 0.7717 0.2141 0.3415
+H5 H 0.6369 0.2000 0.4023
+H6 H 0.2292 0.0815 0.3769
+H7 H 0.1697 0.0384 0.3041
+H8 H 0.3423 -0.0190 0.3480
+H9 H 0.4401 0.3181 0.2560
+H10 H 0.2345 0.2576 0.2434
+H11 H 0.2942 0.3092 0.3141
+H12 H 1.0631 0.2250 0.0439
+H13 H 0.9997 0.3470 0.0288
+H14 H 1.0088 0.3025 0.1028
+H15 H 0.5196 0.1708 -0.0462
+H16 H 0.6718 0.2560 -0.0723
+H17 H 0.7429 0.1367 -0.0528
+H18 H 0.5844 0.3720 0.1141
+H19 H 0.5775 0.4162 0.0400
+H20 H 0.4182 0.3307 0.0609
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 C1 1_555 1_555
+Br2 C4 1_555 1_555
+S1 O1 1_555 1_555
+Si1 C1 1_555 1_555
+Si2 C4 1_555 1_555
+C1 S1 1_555 1_555
+C2 C1 1_555 1_555
+C3 C2 1_555 1_555
+C4 S1 1_555 1_555
+C5 Si1 1_555 1_555
+C6 Si1 1_555 1_555
+C7 Si1 1_555 1_555
+C8 Si2 1_555 1_555
+C9 Si2 1_555 1_555
+C10 Si2 1_555 1_555
+H1 C2 1_555 1_555
+H2 C3 1_555 1_555
+H3 C5 1_555 1_555
+H4 C5 1_555 1_555
+H5 C5 1_555 1_555
+H6 C6 1_555 1_555
+H7 C6 1_555 1_555
+H8 C6 1_555 1_555
+H9 C7 1_555 1_555
+H10 C7 1_555 1_555
+H11 C7 1_555 1_555
+H12 C8 1_555 1_555
+H13 C8 1_555 1_555
+H14 C8 1_555 1_555
+H15 C9 1_555 1_555
+H16 C9 1_555 1_555
+H17 C9 1_555 1_555
+H18 C10 1_555 1_555
+H19 C10 1_555 1_555
+H20 C10 1_555 1_555
+C3 C4 1_555 1_555
+
+#END

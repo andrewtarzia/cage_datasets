@@ -1,0 +1,154 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_OKUPEQ
+_chemical_formula_moiety         'C14 H8 S2'
+_chemical_name_systematic        Thieno[2',3':5,6]naphtho[1,2-b]thiophene
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   17.973(5)
+_cell_length_b                   7.4851(18)
+_cell_length_c                   8.244(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 93.482(15)
+_cell_angle_gamma                90
+_cell_volume                     1107.02
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       platelet
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.68590(7) 0.45503(17) 0.12217(17)
+C1 C 0.4628(2) 0.5189(4) 0.0145(4)
+C2 C 0.4433(2) 0.5798(4) 0.1711(5)
+C3 C 0.4943(3) 0.5959(5) 0.2964(5)
+C4 C 0.5726(3) 0.5576(4) 0.2747(5)
+C5 C 0.6309(3) 0.5667(5) 0.3736(6)
+C6 C 0.6989(3) 0.5109(7) 0.3208(7)
+C7 C 0.5903(2) 0.5026(4) 0.1237(4)
+H1 H 0.3921 0.6103 0.1871
+H2 H 0.4790 0.6353 0.3989
+H3 H 0.6271 0.6143 0.4789
+H4 H 0.7454 0.5091 0.3820
+S1B S 0.31410(7) 0.54497(17) -0.12217(17)
+C1B C 0.5372(2) 0.4811(4) -0.0145(4)
+C2B C 0.5567(2) 0.4202(4) -0.1711(5)
+C3B C 0.5057(3) 0.4041(5) -0.2964(5)
+C4B C 0.4274(3) 0.4424(4) -0.2747(5)
+C5B C 0.3691(3) 0.4333(5) -0.3736(6)
+C6B C 0.3011(3) 0.4891(7) -0.3208(7)
+C7B C 0.4097(2) 0.4974(4) -0.1237(4)
+H1B H 0.6079 0.3897 -0.1871
+H2B H 0.5210 0.3647 -0.3989
+H3B H 0.3729 0.3857 -0.4789
+H4B H 0.2546 0.4909 -0.3820
+S2 S 0.84574(7) 0.71952(15) 0.62791(14)
+C8 C 1.0229(2) 0.4242(4) 0.4933(4)
+C9 C 1.0023(3) 0.2571(4) 0.5630(5)
+C10 C 0.9392(3) 0.2425(5) 0.6426(5)
+C11 C 0.8919(3) 0.3918(5) 0.6604(4)
+C12 C 0.8246(3) 0.4065(6) 0.7461(6)
+C13 C 0.7938(3) 0.5732(7) 0.7378(6)
+C14 C 0.9108(2) 0.5526(4) 0.5918(4)
+H5 H 1.0331 0.1544 0.5521
+H6 H 0.9259 0.1278 0.6857
+H7 H 0.8032 0.3103 0.8036
+H8 H 0.7479 0.6069 0.7875
+S2B S 1.15426(7) 0.28048(15) 0.37209(14)
+C8B C 0.9771(2) 0.5758(4) 0.5067(4)
+C9B C 0.9977(3) 0.7429(4) 0.4370(5)
+C10B C 1.0608(3) 0.7575(5) 0.3574(5)
+C11B C 1.1081(3) 0.6082(5) 0.3396(4)
+C12B C 1.1754(3) 0.5935(6) 0.2539(6)
+C13B C 1.2062(3) 0.4268(7) 0.2622(6)
+C14B C 1.0892(2) 0.4474(4) 0.4082(4)
+H5B H 0.9669 0.8456 0.4479
+H6B H 1.0741 0.8722 0.3143
+H7B H 1.1968 0.6897 0.1964
+H8B H 1.2521 0.3931 0.2125
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C6 1_555 1_555
+S2 C13 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 H4 1_555 1_555
+C7 S1 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+C12 C13 1_555 1_555
+C13 H8 1_555 1_555
+C14 S2 1_555 1_555
+H1 C2 1_555 1_555
+H2 C3 1_555 1_555
+H3 C5 1_555 1_555
+H5 C9 1_555 1_555
+H6 C10 1_555 1_555
+H7 C12 1_555 1_555
+S1B C6B 1_555 1_555
+S2B C13B 1_555 1_555
+C1B C1 1_555 1_555
+C2B C1B 1_555 1_555
+C3B C2B 1_555 1_555
+C4B C3B 1_555 1_555
+C5B C4B 1_555 1_555
+C6B C5B 1_555 1_555
+C7B C1 1_555 1_555
+C8B C8 1_555 1_555
+C9B C8B 1_555 1_555
+C10B C9B 1_555 1_555
+C11B C10B 1_555 1_555
+C12B C11B 1_555 1_555
+C13B C12B 1_555 1_555
+C14B C8 1_555 1_555
+H1B C2B 1_555 1_555
+H2B C3B 1_555 1_555
+H3B C5B 1_555 1_555
+H4B C6B 1_555 1_555
+H5B C9B 1_555 1_555
+H6B C10B 1_555 1_555
+H7B C12B 1_555 1_555
+H8B C13B 1_555 1_555
+C4 C7 1_555 1_555
+C7 C1B 1_555 1_555
+C11 C14 1_555 1_555
+C14 C8B 1_555 1_555
+S1B C7B 1_555 1_555
+S2B C14B 1_555 1_555
+C4B C7B 1_555 1_555
+C11B C14B 1_555 1_555
+
+#END

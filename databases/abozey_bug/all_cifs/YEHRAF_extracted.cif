@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_YEHRAF
+_chemical_formula_moiety         'C18 H22 N2 O2'
+_chemical_name_systematic        
+1-Acetyl-3-cyclohexyl-5-methyl-4-phenyl-4-imidazolin-2-one
+_chemical_properties_biological  
+'4-imidazolin-2-ones have multiple agrochemical and pharmaceutical applications; some exhibit bactericidal and herbicidal activity'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   10.273(2)
+_cell_length_b                   9.052(2)
+_cell_length_c                   17.894(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 98.13(2)
+_cell_angle_gamma                90
+_cell_volume                     1647.26
+_exptl_crystal_colour            colorless
+_chemical_melting_point          118deg.C
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.3973(2) 0.3717(2) 0.6515(1)
+C1 C 0.4442(3) 0.3011(3) 0.5901(2)
+N2 N 0.5729(2) 0.3392(3) 0.5960(1)
+C2 C 0.6065(3) 0.4324(3) 0.6582(1)
+C3 C 0.5013(3) 0.4525(3) 0.6931(1)
+C4 C 0.2694(3) 0.3573(4) 0.6710(2)
+O1 O 0.2508(2) 0.3882(4) 0.7337(1)
+C5 C 0.1619(4) 0.3090(5) 0.6108(3)
+O2 O 0.3825(2) 0.2204(3) 0.5436(1)
+C6 C 0.6676(3) 0.2783(4) 0.5490(2)
+C7 C 0.6374(4) 0.3181(4) 0.4684(2)
+C8 C 0.7404(5) 0.2635(5) 0.4228(2)
+C9 C 0.7796(5) 0.1097(5) 0.4373(2)
+C10 C 0.8099(4) 0.0722(5) 0.5202(2)
+C11 C 0.6996(4) 0.1217(5) 0.5633(2)
+C12 C 0.7391(3) 0.5012(3) 0.6750(2)
+C13 C 0.8252(3) 0.4570(4) 0.7371(2)
+C14 C 0.9492(4) 0.5220(6) 0.7505(2)
+C15 C 0.9858(4) 0.6279(5) 0.7035(3)
+C16 C 0.8998(4) 0.6716(5) 0.6420(3)
+C17 C 0.7767(3) 0.6097(4) 0.6278(2)
+C18 C 0.4875(4) 0.5524(4) 0.7575(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+C1 N2 1_555 1_555
+N2 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 N1 1_555 1_555
+C4 N1 1_555 1_555
+O1 C4 1_555 1_555
+C5 C4 1_555 1_555
+O2 C1 1_555 1_555
+C6 N2 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+C11 C6 1_555 1_555
+C12 C2 1_555 1_555
+C13 C12 1_555 1_555
+C14 C13 1_555 1_555
+C15 C14 1_555 1_555
+C16 C15 1_555 1_555
+C17 C12 1_555 1_555
+C18 C3 1_555 1_555
+C10 C11 1_555 1_555
+C16 C17 1_555 1_555
+
+#END

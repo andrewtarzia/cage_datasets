@@ -1,0 +1,88 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_DENVAW
+_chemical_name_common            'Alaninium nitrate'
+_chemical_formula_moiety         'C3 H8 N1 O2 1+,N1 O3 1-'
+_chemical_name_systematic        '1-carboxyethan-1-aminium nitrate'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a                   5.6597(3)
+_cell_length_b                   7.4660(5)
+_cell_length_c                   16.1333(9)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     681.718
+_exptl_crystal_colour            'light colorless'
+_chemical_melting_point          '431 K'
+_cell_formula_units_Z            4
+_exptl_crystal_preparation       combustable
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.0832(7) -0.3726(5) -0.4814(2)
+C1 C 0.1054(9) -0.4500(6) -0.4821(3)
+O2 O 0.2127(9) -0.5098(8) -0.4165(2)
+N1 N 0.1682(8) -0.3693(6) -0.6264(2)
+H1 H 0.2148 -0.2592 -0.6131
+H2 H 0.0119 -0.3707 -0.6327
+H3 H 0.2368 -0.4024 -0.6736
+C2 C 0.2363(8) -0.4953(7) -0.5595(3)
+H4 H 0.4062 -0.4838 -0.5491
+C3 C 0.1835(16) -0.6861(8) -0.5874(4)
+H5 H 0.0189 -0.6966 -0.6008
+H6 H 0.2220 -0.7680 -0.5436
+H7 H 0.2766 -0.7139 -0.6355
+H8 H 0.13(2) -0.509(15) -0.367(6)
+N2 N 0.6575(9) -0.4823(7) -0.7381(3)
+O3 O 0.4513(8) -0.4904(9) -0.7648(2)
+O4 O 0.6860(8) -0.4209(8) -0.6665(2)
+O5 O 0.8242(10) -0.5318(7) -0.7797(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C1 1_555 1_555
+C1 O2 1_555 1_555
+O2 H8 1_555 1_555
+N1 H1 1_555 1_555
+H2 N1 1_555 1_555
+H3 N1 1_555 1_555
+C2 C1 1_555 1_555
+H4 C2 1_555 1_555
+C3 C2 1_555 1_555
+H5 C3 1_555 1_555
+H6 C3 1_555 1_555
+H7 C3 1_555 1_555
+N2 O3 1_555 1_555
+O4 N2 1_555 1_555
+O5 N2 1_555 1_555
+N1 C2 1_555 1_555
+
+#END

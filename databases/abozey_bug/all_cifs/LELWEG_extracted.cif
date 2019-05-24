@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_LELWEG
+_chemical_name_common            
+'Sulfadiazinium chloride ethylene glycol solvate'
+_chemical_formula_moiety         'C10 H11 N4 O2 S1 1+,Cl1 1-,0.5(C2 H6 O2)'
+_chemical_name_systematic        
+'((4-Aminophenyl)sulfonyl)(pyrimidin-2-yl)azanide chloride ethylene glycol solvate'
+_chemical_properties_biological  'Sulfadiazine is a sulfonamide antibiotic'
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   5.62460(10)
+_cell_length_b                   11.3239(2)
+_cell_length_c                   11.9912(2)
+_cell_angle_alpha                63.8005(7)
+_cell_angle_beta                 79.0909(10)
+_cell_angle_gamma                76.8061(9)
+_cell_volume                     663.762
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       brick
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.75817(3) 0.879198(18) 0.140898(18)
+S1 S 0.39982(3) 0.223884(16) 0.226937(16)
+O1 O 0.65151(11) 0.18182(6) 0.18659(5)
+O2 O 0.21331(13) 0.20727(6) 0.16991(6)
+N1 N 0.17909(11) 0.05788(6) 0.56963(5)
+H1 H 0.322(3) 0.0005(15) 0.5909(15)
+N2 N -0.03185(12) 0.24071(6) 0.41160(6)
+N3 N 0.38344(11) 0.14404(6) 0.37561(5)
+N4 N 0.31691(12) 0.81220(6) 0.05484(6)
+H2 H 0.320(3) 0.8433(17) -0.0266(13)
+H3 H 0.447(3) 0.8426(17) 0.0677(16)
+H4 H 0.163(3) 0.8499(17) 0.0750(16)
+C1 C 0.17294(12) 0.15133(6) 0.44867(6)
+C2 C -0.01433(14) 0.05189(7) 0.65636(6)
+H5 H -0.0043 -0.0134 0.7399
+C3 C -0.22616(15) 0.14158(8) 0.62223(7)
+H6 H -0.3671 0.1407 0.6803
+C4 C -0.22349(14) 0.23454(8) 0.49715(7)
+H7 H -0.3684 0.2975 0.4716
+C5 C 0.36887(12) 0.39702(6) 0.18572(6)
+C6 C 0.17314(13) 0.48204(7) 0.11966(7)
+H8 H 0.0515 0.4466 0.1042
+C7 C 0.15721(13) 0.61935(7) 0.07640(7)
+H9 H 0.0274 0.6789 0.0292
+C8 C 0.33443(13) 0.66772(6) 0.10342(6)
+C9 C 0.52775(14) 0.58346(7) 0.17123(7)
+H10 H 0.6448 0.6189 0.1900
+C10 C 0.54750(13) 0.44617(7) 0.21132(7)
+H11 H 0.6811 0.3869 0.2555
+O3 O -0.20273(17) 0.65356(8) 0.42119(8)
+H12 H -0.2043 0.7097 0.3464
+C11 C 0.0020(2) 0.54926(9) 0.43207(9)
+H13 H -0.0407 0.5068 0.3825
+H14 H 0.1521 0.5846 0.3915
+O3A O 0.20273(17) 0.34644(8) 0.57881(8)
+H12A H 0.2043 0.2903 0.6536
+C11A C -0.0020(2) 0.45074(9) 0.56793(9)
+H13A H 0.0407 0.4932 0.6175
+H14A H -0.1521 0.4154 0.6085
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 O1 1_555 1_555
+O2 S1 1_555 1_555
+N1 H1 1_555 1_555
+N2 C1 1_555 1_555
+N3 S1 1_555 1_555
+N4 H2 1_555 1_555
+H3 N4 1_555 1_555
+H4 N4 1_555 1_555
+C1 N1 1_555 1_555
+C2 N1 1_555 1_555
+H5 C2 1_555 1_555
+C3 C2 1_555 1_555
+H6 C3 1_555 1_555
+C4 N2 1_555 1_555
+H7 C4 1_555 1_555
+C5 S1 1_555 1_555
+C6 C5 1_555 1_555
+H8 C6 1_555 1_555
+C7 C6 1_555 1_555
+H9 C7 1_555 1_555
+C8 N4 1_555 1_555
+C9 C8 1_555 1_555
+H10 C9 1_555 1_555
+C10 C5 1_555 1_555
+H11 C10 1_555 1_555
+O3 H12 1_555 1_555
+C11 O3 1_555 1_555
+H13 C11 1_555 1_555
+H14 C11 1_555 1_555
+O3A H12A 1_555 1_555
+C11A C11 1_555 1_555
+H13A C11A 1_555 1_555
+H14A C11A 1_555 1_555
+N3 C1 1_555 1_555
+C3 C4 1_555 1_555
+C7 C8 1_555 1_555
+C9 C10 1_555 1_555
+O3A C11A 1_555 1_555
+
+#END

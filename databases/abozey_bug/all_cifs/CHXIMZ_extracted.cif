@@ -1,0 +1,87 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CHXIMZ
+_chemical_formula_moiety         'C13 H25 N2 O1 S1 1+,I1 1-'
+_chemical_name_systematic        
+'1-Cyclohexyl-4-methoxy-5,5-dimethyl-2-methylthio-imidazoline hydroiodide'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   20.462(10)
+_cell_length_b                   8.659(4)
+_cell_length_c                   9.847(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 99.20(3)
+_cell_angle_gamma                90
+_cell_volume                     1722.25
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.11100 -0.40390 0.28620
+C1 C -0.14610 0.11220 0.36050
+C2 C -0.21760 0.17070 0.34860
+C3 C -0.24650 0.11960 0.47800
+C4 C -0.24180 -0.05800 0.49430
+C5 C -0.17020 -0.11250 0.50570
+C6 C -0.14040 -0.06000 0.37550
+C7 C -0.13480 0.15000 0.11040
+N1 N -0.11470 0.16890 0.24440
+C8 C -0.05870 0.28040 0.26750
+C9 C -0.03700 0.28390 0.12450
+N2 N -0.09560 0.22180 0.03500
+C10 C -0.08340 0.44540 0.30110
+C11 C -0.00290 0.22270 0.38240
+O1 O 0.01800 0.19020 0.11620
+C12 C 0.04590 0.21690 0.00000
+S1 S -0.20330 0.04310 0.04040
+C13 C -0.19890 0.04160 -0.14030
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 N1 1_555 1_555
+N1 C1 1_555 1_555
+C8 N1 1_555 1_555
+C9 C8 1_555 1_555
+N2 C7 1_555 1_555
+C10 C8 1_555 1_555
+C11 C8 1_555 1_555
+O1 C9 1_555 1_555
+C12 O1 1_555 1_555
+S1 C7 1_555 1_555
+C13 S1 1_555 1_555
+C9 N2 1_555 1_555
+
+#END

@@ -1,0 +1,98 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SABYUQ
+_chemical_compound_source        'red alga Rhodomela confervoides'
+_chemical_formula_moiety         'C10 H8 Br2 O3'
+_chemical_name_systematic        
+4-(2,3-Dibromo-4,5-dihydroxyphenyl)but-3-en-2-one
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/a'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,z
+_cell_length_a                   7.371(1)
+_cell_length_b                   12.271(1)
+_cell_length_c                   12.234(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 83.12(1)
+_cell_angle_gamma                90
+_cell_volume                     1098.59
+_exptl_crystal_colour            brown
+_exptl_crystal_description       needles
+_chemical_melting_point          '165-166 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method methanol/water
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.1328(4) 0.7019(2) 0.4460(1)
+Br2 Br 0.1828(4) 0.9684(2) 0.3946(1)
+O1 O 0.3442(21) 1.0103(10) 0.1635(12)
+O2 O 0.4722(22) 0.8683(11) 0.0023(11)
+O3 O 0.402(3) 0.3037(13) 0.1218(13)
+C1 C 0.284(3) 0.6737(15) 0.2257(14)
+C2 C 0.236(3) 0.7476(16) 0.3013(14)
+C3 C 0.255(3) 0.8611(18) 0.2872(20)
+C4 C 0.328(3) 0.9036(16) 0.1814(17)
+C5 C 0.386(3) 0.8245(17) 0.1027(17)
+C6 C 0.368(3) 0.7162(16) 0.1218(17)
+C7 C 0.266(3) 0.5595(18) 0.2369(15)
+C8 C 0.343(3) 0.4800(17) 0.1734(18)
+C9 C 0.322(3) 0.3635(16) 0.1881(17)
+C10 C 0.197(4) 0.3204(21) 0.2859(20)
+H1 H 0.422 0.660 0.056
+H2 H 0.173 0.534 0.310
+H3 H 0.432 0.506 0.101
+H4 H 0.132 0.398 0.311
+H5 H 0.305 0.306 0.338
+H6 H 0.115 0.252 0.264
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 C2 1_555 1_555
+Br2 C3 1_555 1_555
+O1 C4 1_555 1_555
+O2 C5 1_555 1_555
+O3 C9 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 C1 1_555 1_555
+C8 C7 1_555 1_555
+C9 C8 1_555 1_555
+C10 C9 1_555 1_555
+H1 C6 1_555 1_555
+H2 C7 1_555 1_555
+H3 C8 1_555 1_555
+H4 C10 1_555 1_555
+H5 C10 1_555 1_555
+H6 C10 1_555 1_555
+
+#END

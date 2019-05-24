@@ -1,0 +1,74 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WODXUJ
+_chemical_formula_moiety         'Rb1 1+,C1 H4 O3 P1 1-,2(H2 O1)'
+_chemical_name_systematic        'Rubidium methane phosphonate dihydrate'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 2/c'
+_symmetry_Int_Tables_number      13
+_space_group_name_Hall           '-P 2yc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 -x,-y,-z
+4 x,-y,1/2+z
+_cell_length_a                   9.3452(8)
+_cell_length_b                   9.3142(8)
+_cell_length_c                   7.5021(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 101.120(2)
+_cell_angle_gamma                90
+_cell_volume                     640.746
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Rb1 Rb 0.267018 0.374187 0.088308
+P1 P 0.151763 0.747294 0.057155
+O1 O 0.278253 0.695003 -0.023589
+O3 O 0.123591 0.640415 0.205882
+O4 O 0.008673 0.766836 -0.081429
+C1 C 0.198429 0.91677 0.164617
+H2 H 0.216552 0.990514 0.075422
+H4 H 0.312629 0.910439 0.257234
+H5 H 0.15792 0.939939 0.236901
+O2 O 0.491145 0.138144 0.065842
+H1 H 0.562454 0.160255 0.042188
+O5 O 0.50000 0.576423 0.25000
+H3 H 0.451851 0.636746 0.173537
+H3A H 0.548149 0.636746 0.326463
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+P1 O1 1_555 1_555
+O2 H1 1_555 1_555
+O3 P1 1_555 1_555
+O4 P1 1_555 1_555
+O5 H3 1_555 1_555
+C1 P1 1_555 1_555
+H2 C1 1_555 1_555
+H4 C1 1_555 1_555
+H5 C1 1_555 1_555
+H3A O5 1_555 1_555
+
+#END

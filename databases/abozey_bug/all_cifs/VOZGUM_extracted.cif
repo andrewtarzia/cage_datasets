@@ -1,0 +1,82 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_VOZGUM
+_chemical_formula_moiety         'C10 H22 N3 P1 S1'
+_chemical_name_systematic        
+(+)-(1R,3S,5S)-3-N,N-Dimethylamino-3-thioxo-1,8,8-trimethyl-2,4,3-diazaphosphabicyclo(3.2.1)octane
+_chemical_properties_biological  'strong herbicidal activity'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   7.656(1)
+_cell_length_b                   8.248(1)
+_cell_length_c                   10.750(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 91.31(1)
+_cell_angle_gamma                90
+_cell_volume                     678.649
+_exptl_crystal_colour            colorless
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.4027(4) 0.359 1.0073(3)
+P1 P 0.6504(3) 0.352(1) 1.0620(3)
+N1 N 0.714(1) 0.208(1) 1.1554(9)
+N2 N 0.709(1) 0.523(2) 1.146(1)
+N3 N 0.775(1) 0.346(3) 0.9395(9)
+C1 C 0.747(2) 0.057(2) 1.344(2)
+C2 C 0.691(2) 0.214(2) 1.292(1)
+C3 C 0.512(2) 0.278(2) 1.338(2)
+C4 C 0.519(2) 0.466(2) 1.313(2)
+C5 C 0.716(2) 0.500(3) 1.277(2)
+C6 C 0.806(2) 0.348(3) 1.339(1)
+C7 C 0.807(2) 0.360(5) 1.487(1)
+C8 C 1.002(1) 0.375(3) 1.294(1)
+C9 C 0.971(2) 0.333(4) 0.954(1)
+C10 C 0.722(2) 0.346(6) 0.811(1)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 P1 1_555 1_555
+P1 N1 1_555 1_555
+N1 C2 1_555 1_555
+N2 P1 1_555 1_555
+N3 P1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 N2 1_555 1_555
+C6 C2 1_555 1_555
+C7 C6 1_555 1_555
+C8 C6 1_555 1_555
+C9 N3 1_555 1_555
+C10 N3 1_555 1_555
+C5 C6 1_555 1_555
+
+#END

@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_MERPOO
+_chemical_formula_moiety         'C1 H6 N3 1+,C6 H5 O3 S1 1-,C8 H11 N1'
+_chemical_name_systematic        
+'Guanidinium (benzenesulfonate) (N,N-dimethylaniline) clathrate'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a                   11.972(2)
+_cell_length_b                   19.544(4)
+_cell_length_c                   7.5080(14)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1756.73
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.34869(3) 0.812343(19) 0.26177(5)
+O1 O 0.40293(10) 0.78685(6) 0.42234(15)
+C1 C 0.36221(12) 0.90220(8) 0.2662(2)
+O2 O 0.22952(8) 0.79762(6) 0.26063(16)
+C2 C 0.45248(16) 0.93338(10) 0.1830(2)
+H5 H 0.5067 0.9066 0.1226
+O3 O 0.40457(11) 0.78888(6) 0.10021(15)
+C3 C 0.46266(19) 1.00418(11) 0.1890(3)
+H8 H 0.5239 1.0260 0.1322
+C4 C 0.38405(18) 1.04259(9) 0.2773(3)
+H9 H 0.3911 1.0910 0.2807
+C5 C 0.29522(19) 1.01156(11) 0.3607(3)
+H10 H 0.2419 1.0386 0.4225
+C6 C 0.28295(16) 0.94120(9) 0.3552(2)
+H11 H 0.2211 0.9198 0.4116
+N1 N 0.28734(10) 0.79552(7) 0.76257(19)
+H1 H 0.3220 0.8022 0.8645
+H2 H 0.3230 0.8020 0.6615
+N2 N 0.12798(13) 0.76591(8) 0.91361(19)
+H3 H 0.1627 0.7726 1.0155
+H4 H 0.0577 0.7527 0.9129
+N3 N 0.12889(13) 0.76685(8) 0.60784(19)
+H6 H 0.0582 0.7545 0.6069
+H7 H 0.1646 0.7734 0.5068
+C7 C 0.18153(12) 0.77566(7) 0.7614(2)
+N4 N 0.34503(14) 0.42222(8) 0.7079(2)
+C8 C 0.37163(15) 0.49094(9) 0.7067(2)
+C9 C 0.46770(15) 0.51550(10) 0.7922(3)
+H12 H 0.5145 0.4846 0.8551
+C10 C 0.49511(16) 0.58433(10) 0.7861(3)
+H13 H 0.5610 0.5997 0.8440
+C11 C 0.42892(19) 0.63081(10) 0.6978(3)
+H14 H 0.4489 0.6778 0.6933
+C12 C 0.33279(18) 0.60763(10) 0.6159(3)
+H15 H 0.2861 0.6393 0.5554
+C13 C 0.30313(17) 0.53938(10) 0.6199(3)
+H16 H 0.2360 0.5249 0.5639
+C14 C 0.24562(18) 0.39754(11) 0.6216(3)
+H17 H 0.1803 0.4211 0.6707
+H18 H 0.2384 0.3482 0.6418
+H19 H 0.2505 0.4065 0.4934
+C15 C 0.41866(17) 0.37385(9) 0.7920(3)
+H20 H 0.4917 0.3750 0.7332
+H21 H 0.3870 0.3278 0.7822
+H22 H 0.4275 0.3858 0.9180
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 O1 1_555 1_555
+N1 H1 1_555 1_555
+H2 N1 1_555 1_555
+C1 S1 1_555 1_555
+O2 S1 1_555 1_555
+N2 H3 1_555 1_555
+H4 N2 1_555 1_555
+C2 C1 1_555 1_555
+H5 C2 1_555 1_555
+O3 S1 1_555 1_555
+N3 H6 1_555 1_555
+H7 N3 1_555 1_555
+C3 C2 1_555 1_555
+H8 C3 1_555 1_555
+N4 C8 1_555 1_555
+C4 C3 1_555 1_555
+H9 C4 1_555 1_555
+C5 C4 1_555 1_555
+H10 C5 1_555 1_555
+C6 C1 1_555 1_555
+H11 C6 1_555 1_555
+C7 N1 1_555 1_555
+C8 C9 1_555 1_555
+C9 H12 1_555 1_555
+C10 C9 1_555 1_555
+H13 C10 1_555 1_555
+C11 C10 1_555 1_555
+H14 C11 1_555 1_555
+C12 C11 1_555 1_555
+H15 C12 1_555 1_555
+C13 C8 1_555 1_555
+H16 C13 1_555 1_555
+C14 N4 1_555 1_555
+H17 C14 1_555 1_555
+H18 C14 1_555 1_555
+H19 C14 1_555 1_555
+C15 N4 1_555 1_555
+H20 C15 1_555 1_555
+H21 C15 1_555 1_555
+H22 C15 1_555 1_555
+N2 C7 1_555 1_555
+N3 C7 1_555 1_555
+C5 C6 1_555 1_555
+C12 C13 1_555 1_555
+
+#END

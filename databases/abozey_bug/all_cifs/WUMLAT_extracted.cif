@@ -1,0 +1,82 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WUMLAT
+_chemical_formula_moiety         'C7 H2 Cl4 O2'
+_chemical_name_systematic        '2,3,4,5-tetrachlorobenzoic acid'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   7.073(8)
+_cell_length_b                   3.852(4)
+_cell_length_c                   32.74(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 95.60(2)
+_cell_angle_gamma                90
+_cell_volume                     887.751
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prism
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl -0.0121(2) 0.0723(4) 0.29659(4)
+Cl2 Cl 0.51715(19) -0.4172(4) 0.44724(4)
+Cl3 Cl 0.64252(18) -0.4900(4) 0.36070(5)
+Cl4 Cl 0.3844(2) -0.2487(4) 0.28520(4)
+C1 C 0.4257(6) -0.3166(12) 0.36761(15)
+C2 C 0.1130(7) -0.0831(13) 0.45090(15)
+C3 C 0.1348(7) -0.0658(12) 0.33789(14)
+C4 C 0.1908(6) -0.1350(12) 0.41076(14)
+C5 C 0.3111(7) -0.2076(12) 0.33277(14)
+C6 C 0.0790(7) -0.0314(12) 0.37617(14)
+H1 H -0.0392 0.0658 0.3791
+C7 C 0.3682(6) -0.2809(12) 0.40629(14)
+O1 O 0.1825(6) -0.2077(12) 0.48286(11)
+O2 O -0.0355(6) 0.1001(12) 0.44825(11)
+H2 H -0.1001 0.1629 0.4704
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C3 1_555 1_555
+Cl2 C7 1_555 1_555
+Cl3 C1 1_555 1_555
+Cl4 C5 1_555 1_555
+C1 C5 1_555 1_555
+C2 C4 1_555 1_555
+C3 C5 1_555 1_555
+C4 C6 1_555 1_555
+C6 C3 1_555 1_555
+H1 C6 1_555 1_555
+C7 C1 1_555 1_555
+O1 C2 1_555 1_555
+O2 C2 1_555 1_555
+H2 O2 1_555 1_555
+C4 C7 1_555 1_555
+
+#END

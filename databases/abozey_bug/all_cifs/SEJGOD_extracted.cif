@@ -1,0 +1,165 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_SEJGOD
+_chemical_formula_moiety         'C18 H24 N6 1+,B1 F4 1-'
+_chemical_name_systematic        
+'Hexa-azaoctadecahydrocoronene radical cation tetrafluoroborate'
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'I b a m'
+_symmetry_Int_Tables_number      72
+_space_group_name_Hall           '-I 2 2c'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,1/2+z
+3 -x,-y,z
+4 1/2-x,1/2-y,1/2+z
+5 1/2+x,1/2-y,-z
+6 x,-y,1/2-z
+7 1/2-x,1/2+y,-z
+8 -x,y,1/2-z
+9 -x,-y,-z
+10 1/2-x,1/2-y,1/2-z
+11 x,y,-z
+12 1/2+x,1/2+y,1/2-z
+13 1/2-x,1/2+y,z
+14 -x,y,1/2+z
+15 1/2+x,1/2-y,z
+16 x,-y,1/2+z
+_cell_length_a                   8.653(1)
+_cell_length_b                   9.948(3)
+_cell_length_c                   21.804(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     1876.89
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.0671(5) 0.3749(5) 0.1107(2)
+N2 N 0.1438(7) 0.2461(7) 0.0000
+C1 C 0.0347(5) 0.4340(5) 0.0554(2)
+C2 C 0.0699(7) 0.3738(7) 0.0000
+C3 C 0.0647(7) 0.4499(8) 0.1664(3)
+C4 C 0.1605(7) 0.2523(7) 0.1097(3)
+C5 C 0.1200(7) 0.1690(6) 0.0557(4)
+H1 H 0.167 0.492 0.171
+H2 H 0.054 0.384 0.200
+H3 H 0.141 0.202 0.147
+H4 H 0.269 0.277 0.108
+H5 H 0.186 0.090 0.055
+H6 H 0.013 0.142 0.058
+C1B C -0.0347(5) 0.5660(5) 0.0554(2)
+C1J C 0.0347(5) 0.4340(5) -0.0554(2)
+C5J C 0.1200(7) 0.1690(6) -0.0557(4)
+C3B C -0.0647(7) 0.5501(8) 0.1664(3)
+N1B N -0.0671(5) 0.6251(5) 0.1107(2)
+C2H C -0.0699(7) 0.6262(7) 0.0000
+N1J N 0.0671(5) 0.3749(5) -0.1107(2)
+C1H C -0.0347(5) 0.5660(5) -0.0554(2)
+C4J C 0.1605(7) 0.2523(7) -0.1097(3)
+H5J H 0.186 0.090 -0.055
+H6J H 0.013 0.142 -0.058
+H1B H -0.167 0.508 0.171
+H2B H -0.054 0.616 0.200
+C4B C -0.1605(7) 0.7477(7) 0.1097(3)
+N2H N -0.1438(7) 0.7539(7) 0.0000
+C3J C 0.0647(7) 0.4499(8) -0.1664(3)
+N1H N -0.0671(5) 0.6251(5) -0.1107(2)
+H3J H 0.141 0.202 -0.147
+H4J H 0.269 0.277 -0.108
+C5B C -0.1200(7) 0.8310(6) 0.0557(4)
+H3B H -0.141 0.798 0.147
+H4B H -0.269 0.723 0.108
+C5H C -0.1200(7) 0.8310(6) -0.0557(4)
+C3H C -0.0647(7) 0.5501(8) -0.1664(3)
+H1J H 0.167 0.492 -0.171
+H2J H 0.054 0.384 -0.200
+C4H C -0.1605(7) 0.7477(7) -0.1097(3)
+H5B H -0.186 0.910 0.055
+H6B H -0.013 0.858 0.058
+H5H H -0.186 0.910 -0.055
+H6H H -0.013 0.858 -0.058
+H1H H -0.167 0.508 -0.171
+H2H H -0.054 0.616 -0.200
+H3H H -0.141 0.798 -0.147
+H4H H -0.269 0.723 -0.108
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 C1 1_555 1_555
+N2 C2 1_555 1_555
+C1 C2 1_555 1_555
+C2 C1J 1_555 1_555
+C3 N1 1_555 1_555
+C4 N1 1_555 1_555
+C5 N2 1_555 1_555
+H1 C3 1_555 1_555
+H2 C3 1_555 1_555
+H3 C4 1_555 1_555
+H4 C4 1_555 1_555
+H5 C5 1_555 1_555
+H6 C5 1_555 1_555
+C1B C1 1_555 1_555
+C1J N1J 1_555 1_555
+C5J N2 1_555 1_555
+C3B C3 1_555 1_555
+N1B C1B 1_555 1_555
+C2H C1B 1_555 1_555
+N1J C4J 1_555 1_555
+C1H C1J 1_555 1_555
+C4J C5J 1_555 1_555
+H5J C5J 1_555 1_555
+H6J C5J 1_555 1_555
+H1B C3B 1_555 1_555
+H2B C3B 1_555 1_555
+C4B N1B 1_555 1_555
+N2H C2H 1_555 1_555
+C3J N1J 1_555 1_555
+N1H C1H 1_555 1_555
+H3J C4J 1_555 1_555
+H4J C4J 1_555 1_555
+C5B C4B 1_555 1_555
+H3B C4B 1_555 1_555
+H4B C4B 1_555 1_555
+C5H N2H 1_555 1_555
+C3H C3J 1_555 1_555
+H1J C3J 1_555 1_555
+H2J C3J 1_555 1_555
+C4H N1H 1_555 1_555
+H5B C5B 1_555 1_555
+H6B C5B 1_555 1_555
+H5H C5H 1_555 1_555
+H6H C5H 1_555 1_555
+H1H C3H 1_555 1_555
+H2H C3H 1_555 1_555
+H3H C4H 1_555 1_555
+H4H C4H 1_555 1_555
+C4 C5 1_555 1_555
+C3B N1B 1_555 1_555
+C2H C1H 1_555 1_555
+N2H C5B 1_555 1_555
+N1H C3H 1_555 1_555
+C5H C4H 1_555 1_555
+
+#END

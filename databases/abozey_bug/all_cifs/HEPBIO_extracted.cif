@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_HEPBIO
+_chemical_name_common            
+1,12-trans-bis(2-Chloroethenyl)-1,12-dicarbadodecaborane
+_chemical_formula_moiety         'C6 H14 B10 Cl2'
+_chemical_name_systematic        
+1,12-bis(trans-2-Chloroethenyl)-para-carborane
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   7.1733(3)
+_cell_length_b                   7.2766(3)
+_cell_length_c                   7.3405(3)
+_cell_angle_alpha                91.555(2)
+_cell_angle_beta                 91.039(2)
+_cell_angle_gamma                119.321(2)
+_cell_volume                     333.728
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       plate
+_cell_formula_units_Z            1
+_exptl_crystal_recrystallization_method dichloromethane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.17658(5) 0.34940(4) 0.02726(4)
+C1 C -0.33488(17) 0.06473(16) -0.33617(15)
+C2 C -0.18378(18) 0.12133(17) -0.17499(16)
+C3 C 0.0101(2) 0.2838(2) -0.16627(17)
+B1 B -0.2430(2) 0.0809(2) -0.55387(18)
+B2 B -0.4066(2) -0.16875(19) -0.45707(18)
+B3 B -0.5894(2) -0.14152(19) -0.31186(17)
+B4 B -0.5399(2) 0.1230(2) -0.31811(18)
+B5 B -0.3264(2) 0.26046(19) -0.46768(18)
+H1 H -0.243(3) 0.027(3) -0.063(3)
+H2 H 0.073(3) 0.379(3) -0.258(3)
+H3 H -0.081(3) 0.131(3) -0.575(2)
+H4 H -0.339(3) -0.262(2) -0.421(2)
+H5 H -0.630(3) -0.224(2) -0.179(2)
+H6 H -0.547(2) 0.204(2) -0.192(2)
+H7 H -0.208(2) 0.421(2) -0.434(2)
+Cl1A Cl -1.17658(5) -0.34940(4) -1.02726(4)
+C1A C -0.66512(17) -0.06473(16) -0.66383(15)
+C2A C -0.81622(18) -0.12133(17) -0.82501(16)
+C3A C -1.0101(2) -0.2838(2) -0.83373(17)
+B1A B -0.7570(2) -0.0809(2) -0.44613(18)
+B2A B -0.5934(2) 0.16875(19) -0.54293(18)
+B3A B -0.4106(2) 0.14152(19) -0.68814(17)
+B4A B -0.4601(2) -0.1230(2) -0.68189(18)
+B5A B -0.6736(2) -0.26046(19) -0.53232(18)
+H1A H -0.757(3) -0.027(3) -0.937(3)
+H2A H -1.073(3) -0.379(3) -0.742(3)
+H3A H -0.919(3) -0.131(3) -0.425(2)
+H4A H -0.661(3) 0.262(2) -0.579(2)
+H5A H -0.370(3) 0.224(2) -0.821(2)
+H6A H -0.453(2) -0.204(2) -0.808(2)
+H7A H -0.792(2) -0.421(2) -0.566(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C3 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 H2 1_555 1_555
+B1 C1 1_555 1_555
+B2 C1 1_555 1_555
+B3 C1 1_555 1_555
+B4 C1 1_555 1_555
+B5 C1 1_555 1_555
+H1 C2 1_555 1_555
+H3 B1 1_555 1_555
+H4 B2 1_555 1_555
+H5 B3 1_555 1_555
+H6 B4 1_555 1_555
+H7 B5 1_555 1_555
+Cl1A C3A 1_555 1_555
+C1A C2A 1_555 1_555
+C2A C3A 1_555 1_555
+C3A H2A 1_555 1_555
+B1A B3 1_555 1_555
+B2A B4 1_555 1_555
+B3A B1 1_555 1_555
+B4A B1 1_555 1_555
+B5A B2 1_555 1_555
+H1A C2A 1_555 1_555
+H3A B1A 1_555 1_555
+H4A B2A 1_555 1_555
+H5A B3A 1_555 1_555
+H6A B4A 1_555 1_555
+H7A B5A 1_555 1_555
+B1 B2 1_555 1_555
+B1 B5 1_555 1_555
+B2 B3 1_555 1_555
+B2 B4A 1_555 1_555
+B3 B4 1_555 1_555
+B3 B5A 1_555 1_555
+B4 B5 1_555 1_555
+B4 B1A 1_555 1_555
+B5 B2A 1_555 1_555
+B5 B3A 1_555 1_555
+C1A B1A 1_555 1_555
+C1A B2A 1_555 1_555
+C1A B3A 1_555 1_555
+C1A B4A 1_555 1_555
+C1A B5A 1_555 1_555
+B1A B2A 1_555 1_555
+B1A B5A 1_555 1_555
+B2A B3A 1_555 1_555
+B3A B4A 1_555 1_555
+B4A B5A 1_555 1_555
+
+#END

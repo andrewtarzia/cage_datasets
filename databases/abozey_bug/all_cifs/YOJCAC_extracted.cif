@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_YOJCAC
+_chemical_formula_moiety         'C20 F14 S2'
+_chemical_name_systematic        
+1,2,4,6,7,8,10,12-Octafluoro-3,9-bis(trifluoromethyl)benzo[b][1]benzothieno[2,3-f][1]benzothiophene
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/m'
+_symmetry_Int_Tables_number      12
+_space_group_name_Hall           '-C 2y'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,-z
+7 x,-y,z
+8 1/2+x,1/2-y,z
+_cell_length_a                   7.7116(15)
+_cell_length_b                   6.3972(13)
+_cell_length_c                   17.574(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 98.04(3)
+_cell_angle_gamma                90
+_cell_volume                     858.45
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       'very thin flake'
+_chemical_melting_point          '270 deg.C'
+_cell_formula_units_Z            2
+_exptl_crystal_recrystallization_method toluene
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.1709(6) 0.0000 0.3778(3)
+F1 F 0.0788(15) 0.0000 0.2080(6)
+F2 F 0.6666(16) 0.0000 0.1594(6)
+F3 F 0.7776(15) 0.0000 0.3069(6)
+F4 F 0.8171(13) 0.0000 0.4542(6)
+F5 F 0.3859(13) 0.1640(14) 0.0619(5)
+F6 F 0.1469(17) 0.0000 0.0713(6)
+C1 C 0.314(3) 0.0000 0.3074(10)
+C2 C 0.249(3) 0.0000 0.2299(10)
+C3 C 0.372(3) 0.0000 0.1765(11)
+C4 C 0.545(3) 0.0000 0.2075(11)
+C5 C 0.613(3) 0.0000 0.2862(10)
+C6 C 0.495(2) 0.0000 0.3370(10)
+C7 C 0.513(3) 0.0000 0.4222(10)
+C8 C 0.345(2) 0.0000 0.4473(10)
+C9 C 0.663(2) 0.0000 0.4751(10)
+C10 C 0.320(3) 0.0000 0.0926(11)
+S1D S 0.8291(6) 0.0000 0.6222(3)
+F1D F 0.9212(15) 0.0000 0.7920(6)
+F2D F 0.3334(16) 0.0000 0.8406(6)
+F3D F 0.2224(15) 0.0000 0.6931(6)
+F4D F 0.1829(13) 0.0000 0.5458(6)
+F5D F 0.6141(13) -0.1640(14) 0.9381(5)
+F5B F 0.6141(13) 0.1640(14) 0.9381(5)
+F5F F 0.3859(13) -0.1640(14) 0.0619(5)
+F6D F 0.8531(17) 0.0000 0.9287(6)
+C1D C 0.686(3) 0.0000 0.6926(10)
+C2D C 0.751(3) 0.0000 0.7701(10)
+C3D C 0.628(3) 0.0000 0.8235(11)
+C4D C 0.455(3) 0.0000 0.7925(11)
+C5D C 0.387(3) 0.0000 0.7138(10)
+C6D C 0.505(2) 0.0000 0.6630(10)
+C7D C 0.487(3) 0.0000 0.5778(10)
+C8D C 0.655(2) 0.0000 0.5527(10)
+C9D C 0.337(2) 0.0000 0.5249(10)
+C10D C 0.680(3) 0.0000 0.9074(11)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 C1 1_555 1_555
+F1 C2 1_555 1_555
+F2 C4 1_555 1_555
+F3 C5 1_555 1_555
+F4 C9 1_555 1_555
+F5 C10 1_555 1_555
+F6 C10 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 C6 1_555 1_555
+C8 S1 1_555 1_555
+C9 C7 1_555 1_555
+C10 C3 1_555 1_555
+S1D C1D 1_555 1_555
+F1D C2D 1_555 1_555
+F2D C4D 1_555 1_555
+F3D C5D 1_555 1_555
+F4D C9D 1_555 1_555
+F5D C10D 1_555 1_555
+F5B C10D 1_555 1_555
+F5F C10 1_555 1_555
+F6D C10D 1_555 1_555
+C1D C2D 1_555 1_555
+C2D C3D 1_555 1_555
+C3D C4D 1_555 1_555
+C4D C5D 1_555 1_555
+C5D C6D 1_555 1_555
+C6D C1D 1_555 1_555
+C7D C6D 1_555 1_555
+C8D C9 1_555 1_555
+C9D C8 1_555 1_555
+C10D C3D 1_555 1_555
+C7 C8 1_555 1_555
+S1D C8D 1_555 1_555
+C7D C8D 1_555 1_555
+C7D C9D 1_555 1_555
+
+#END

@@ -1,0 +1,152 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_NUDREK
+_chemical_formula_moiety         'C18 H18 Br6'
+_chemical_name_systematic        
+1,4,5,8,9,12-Hexabromo-1,2,3,4,5,6,7,8,9,10,11,12-dodecahydrotriphenylene
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'I 41/a'
+_symmetry_Int_Tables_number      88
+_space_group_name_Hall           '-I 4ad'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 3/4-y,1/4+x,1/4+z
+4 3/4+y,3/4-x,3/4+z
+5 1/2+x,1/2+y,1/2+z
+6 -x,1/2-y,z
+7 1/4-y,3/4+x,3/4+z
+8 1/4+y,1/4-x,1/4+z
+9 -x,-y,-z
+10 1/2+x,y,1/2-z
+11 1/4+y,3/4-x,3/4-z
+12 1/4-y,1/4+x,1/4-z
+13 1/2-x,1/2-y,1/2-z
+14 x,1/2+y,-z
+15 3/4+y,1/4-x,1/4-z
+16 3/4-y,3/4+x,3/4-z
+_cell_length_a                   10.724(2)
+_cell_length_b                   10.724(2)
+_cell_length_c                   36.099(14)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     4151.54
+_chemical_melting_point          'decomposed at 150deg.C'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method 'petroleum ether/ethyl acetate'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.52715(7) 0.46286(8) 0.05213(2)
+Br2 Br 0.15061(7) 0.36164(8) 0.16165(2)
+Br3 Br 0.50796(8) 0.51838(8) 0.22184(2)
+C1 C 0.4533(6) 0.2966(6) 0.11096(15)
+C2 C 0.4027(6) 0.3469(6) 0.07483(17)
+H1 H 0.3900 0.2767 0.0579
+C3 C 0.2813(6) 0.4176(6) 0.07811(18)
+H2 H 0.2644 0.4604 0.0550
+H3 H 0.2139 0.3591 0.0825
+C4 C 0.2856(7) 0.5112(6) 0.10920(19)
+H4 H 0.2068 0.5555 0.1105
+H5 H 0.3510 0.5716 0.1045
+C5 C 0.3104(6) 0.4448(6) 0.14584(18)
+H6 H 0.3335 0.5071 0.1645
+C6 C 0.4099(6) 0.3449(6) 0.14469(16)
+C7 C 0.4571(6) 0.2988(6) 0.17888(16)
+C8 C 0.4144(7) 0.3570(6) 0.21487(17)
+H7 H 0.3253 0.3760 0.2129
+C9 C 0.4344(7) 0.2766(8) 0.24859(17)
+H8 H 0.3742 0.2091 0.2487
+H9 H 0.4217 0.3260 0.2708
+Br1E Br 0.47285(7) 0.03714(8) 0.05213(2)
+Br2E Br 0.84939(7) 0.13836(8) 0.16165(2)
+Br3E Br 0.49204(8) -0.01838(8) 0.22184(2)
+C1E C 0.5467(6) 0.2034(6) 0.11096(15)
+C2E C 0.5973(6) 0.1531(6) 0.07483(17)
+H1E H 0.6100 0.2233 0.0579
+C3E C 0.7187(6) 0.0824(6) 0.07811(18)
+H2E H 0.7356 0.0396 0.0550
+H3E H 0.7861 0.1409 0.0825
+C4E C 0.7144(7) -0.0112(6) 0.10920(19)
+H4E H 0.7932 -0.0555 0.1105
+H5E H 0.6490 -0.0716 0.1045
+C5E C 0.6896(6) 0.0552(6) 0.14584(18)
+H6E H 0.6665 -0.0071 0.1645
+C6E C 0.5901(6) 0.1551(6) 0.14469(16)
+C7E C 0.5429(6) 0.2012(6) 0.17888(16)
+C8E C 0.5856(7) 0.1430(6) 0.21487(17)
+H7E H 0.6747 0.1240 0.2129
+C9E C 0.5656(7) 0.2234(8) 0.24859(17)
+H8E H 0.6258 0.2909 0.2487
+H9E H 0.5783 0.1740 0.2708
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Br1 C2 1_555 1_555
+Br2 C5 1_555 1_555
+Br3 C8 1_555 1_555
+C1 C2 1_555 1_555
+C2 H1 1_555 1_555
+C3 C2 1_555 1_555
+H2 C3 1_555 1_555
+H3 C3 1_555 1_555
+C4 C3 1_555 1_555
+H4 C4 1_555 1_555
+H5 C4 1_555 1_555
+C5 C4 1_555 1_555
+H6 C5 1_555 1_555
+C6 C1 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+H7 C8 1_555 1_555
+C9 C8 1_555 1_555
+H8 C9 1_555 1_555
+H9 C9 1_555 1_555
+Br1E C2E 1_555 1_555
+Br2E C5E 1_555 1_555
+Br3E C8E 1_555 1_555
+C1E C1 1_555 1_555
+C2E C1E 1_555 1_555
+H1E C2E 1_555 1_555
+C3E C2E 1_555 1_555
+H2E C3E 1_555 1_555
+H3E C3E 1_555 1_555
+C4E C3E 1_555 1_555
+H4E C4E 1_555 1_555
+H5E C4E 1_555 1_555
+C5E C4E 1_555 1_555
+H6E C5E 1_555 1_555
+C6E C1E 1_555 1_555
+C7E C7 1_555 1_555
+C8E C7E 1_555 1_555
+H7E C8E 1_555 1_555
+C9E C9 1_555 1_555
+H8E C9E 1_555 1_555
+H9E C9E 1_555 1_555
+C5 C6 1_555 1_555
+C5E C6E 1_555 1_555
+C6E C7E 1_555 1_555
+C8E C9E 1_555 1_555
+
+#END

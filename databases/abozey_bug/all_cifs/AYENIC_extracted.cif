@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_AYENIC
+_chemical_compound_source        'Peganum harmala'
+_chemical_name_common            vasicinone
+_chemical_formula_moiety         'C11 H10 N2 O2'
+_chemical_name_systematic        
+3-Hydroxy-2,3-dihydropyrrolo[2,1-b]quinazolin-9(1H)-one
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   7.2142(3)
+_cell_length_b                   10.3663(4)
+_cell_length_c                   12.6175(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 103.771(4)
+_cell_angle_gamma                90
+_cell_volume                     916.47
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prism
+_chemical_melting_point          '494 K'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method methanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3290(2) 0.51972(16) 0.71643(10)
+N1 N 0.2322(2) 0.63750(16) 0.39777(12)
+C1 C 0.2785(3) 0.71270(19) 0.48039(14)
+N2 N 0.3109(2) 0.67491(16) 0.58781(12)
+C2 C 0.3002(3) 0.54946(19) 0.61938(14)
+C3 C 0.2508(2) 0.46013(19) 0.52841(14)
+C4 C 0.2320(3) 0.3279(2) 0.54603(18)
+H1 H 0.2543 0.2963 0.6169
+C5 C 0.1808(3) 0.2446(2) 0.4596(2)
+H2 H 0.1692 0.1568 0.4720
+C6 C 0.1464(3) 0.2913(2) 0.3536(2)
+H3 H 0.1111 0.2343 0.2954
+C7 C 0.1637(3) 0.4198(2) 0.33361(16)
+H4 H 0.1403 0.4495 0.2621
+C8 C 0.2170(2) 0.50746(19) 0.42103(14)
+C9 C 0.3090(3) 0.8567(2) 0.47684(16)
+H5 H 0.4378 0.8733 0.4673
+C10 C 0.2976(3) 0.9007(2) 0.59092(17)
+H6 H 0.3829 0.9728 0.6151
+H7 H 0.1686 0.9266 0.5913
+C11 C 0.3576(3) 0.7846(2) 0.66398(16)
+H8 H 0.4931 0.7871 0.6981
+H9 H 0.2868 0.7799 0.7203
+O2 O 0.1770(3) 0.92042(15) 0.39512(13)
+H10 H 0.2256 0.9367 0.3442
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+O1 C2 1_555 1_555
+N1 C1 1_555 1_555
+C1 N2 1_555 1_555
+N2 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 H1 1_555 1_555
+C5 C4 1_555 1_555
+H2 C5 1_555 1_555
+C6 C5 1_555 1_555
+H3 C6 1_555 1_555
+C7 C6 1_555 1_555
+H4 C7 1_555 1_555
+C8 N1 1_555 1_555
+C9 C1 1_555 1_555
+H5 C9 1_555 1_555
+C10 C9 1_555 1_555
+H6 C10 1_555 1_555
+H7 C10 1_555 1_555
+C11 N2 1_555 1_555
+H8 C11 1_555 1_555
+H9 C11 1_555 1_555
+O2 C9 1_555 1_555
+H10 O2 1_555 1_555
+C3 C8 1_555 1_555
+C7 C8 1_555 1_555
+C10 C11 1_555 1_555
+
+#END

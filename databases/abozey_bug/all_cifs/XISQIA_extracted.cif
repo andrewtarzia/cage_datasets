@@ -1,0 +1,88 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_XISQIA
+_chemical_formula_moiety         'C8 H8 Br1 I1'
+_chemical_name_systematic        2-Bromo-5-iodo-1,3-dimethylbenzene
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P n m a'
+_symmetry_Int_Tables_number      62
+_space_group_name_Hall           '-P 2ac 2n'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,-z
+4 1/2+x,1/2-y,1/2-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 x,1/2-y,z
+8 1/2-x,1/2+y,1/2+z
+_cell_length_a                   16.686(3)
+_cell_length_b                   7.0640(14)
+_cell_length_c                   8.2130(16)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     968.066
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       needle
+_chemical_melting_point          '307 K'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method ethanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.25441(7) 0.2500 1.15579(9)
+Br1 Br -0.08058(5) 0.2500 0.69651(7)
+C1 C 0.0160(4) 0.2500 0.8282(5)
+C2 C 0.0066(4) 0.2500 0.9955(6)
+C3 C 0.0768(4) 0.2500 1.0850(6)
+H1 H 0.0740 0.2500 1.1981
+C4 C 0.1500(5) 0.2500 1.0117(6)
+C5 C 0.1580(5) 0.2500 0.8449(5)
+H2 H 0.2085 0.2500 0.7972
+C6 C 0.0897(4) 0.2500 0.7489(5)
+C7 C 0.0984(4) 0.2500 0.5721(4)
+C8 C -0.0730(4) 0.2500 1.0755(6)
+H3? H 0.0947 0.1226 0.5322
+H4? H 0.1496 0.3022 0.5434
+H5? H 0.0567 0.3252 0.5244
+H6? H -0.0672 0.2878 1.1871
+H7? H -0.0955 0.1251 1.0709
+H8? H -0.1078 0.3371 1.0203
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+I1 C4 1_555 1_555
+Br1 C1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 H1 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+H2 C5 1_555 1_555
+C6 C1 1_555 1_555
+C7 C6 1_555 1_555
+C8 C2 1_555 1_555
+C5 C6 1_555 1_555
+
+#END

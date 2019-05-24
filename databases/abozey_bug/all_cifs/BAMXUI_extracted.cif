@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BAMXUI
+_chemical_formula_moiety         'C42 H40 P4'
+_chemical_name_systematic        
+cis,cis,cis-2,6,13,17-Tetraphenyl-2,16,13,17-tetraphosphatricyclo(16.4.0.0^7,12^)docosa-7(12),8,10,1(18),19,21-hexaene
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   9.634(1)
+_cell_length_b                   11.586(2)
+_cell_length_c                   8.746(1)
+_cell_angle_alpha                100.86(1)
+_cell_angle_beta                 104.70(1)
+_cell_angle_gamma                107.31(1)
+_cell_volume                     863.904
+_exptl_crystal_colour            white
+_chemical_melting_point          214-6deg.C
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+P1 P 0.21886 0.27078 0.03453
+P2 P -0.30619 -0.07148 -0.20112
+C1 C 0.00890 0.18000 -0.04230
+C2 C -0.05920 0.11620 -0.22800
+C3 C -0.23580 0.05960 -0.28810
+C4 C -0.27940 -0.20350 -0.32960
+C5 C 0.24890 0.29600 0.25820
+C6 C 0.23640 0.39990 0.35600
+C7 C 0.24650 0.40980 0.51820
+C8 C 0.27130 0.31640 0.58740
+C9 C -0.28930 -0.21490 -0.49430
+C10 C 0.23140 0.42850 0.00990
+C11 C 0.11510 0.44740 -0.10240
+C12 C 0.14020 0.56440 -0.13260
+C13 C 0.28170 0.66240 -0.05060
+C14 C 0.39810 0.64350 0.06160
+C15 C 0.37290 0.52640 0.09190
+C16 C -0.51700 -0.11200 -0.28180
+C17 C -0.61980 -0.22680 -0.39330
+C18 C -0.77780 -0.25440 -0.43410
+C19 C -0.83300 -0.16710 -0.36340
+C20 C -0.73020 -0.05230 -0.25200
+C21 C -0.57220 -0.02470 -0.21120
+C5A C -0.24890 -0.29600 -0.25820
+C4A C 0.27940 0.20350 0.32960
+C9A C 0.28930 0.21490 0.49430
+C8A C -0.27130 -0.31640 -0.58740
+P1A P -0.21886 -0.27078 -0.03453
+C6A C -0.23640 -0.39990 -0.35600
+P2A P 0.30619 0.07148 0.20112
+C7A C -0.24650 -0.40980 -0.51820
+C1A C -0.00890 -0.18000 0.04230
+C10A C -0.23140 -0.42850 -0.00990
+C3A C 0.23580 -0.05960 0.28810
+C16A C 0.51700 0.11200 0.28180
+C2A C 0.05920 -0.11620 0.22800
+C11A C -0.11510 -0.44740 0.10240
+C15A C -0.37290 -0.52640 -0.09190
+C17A C 0.61980 0.22680 0.39330
+C21A C 0.57220 0.02470 0.21120
+C12A C -0.14020 -0.56440 0.13260
+C14A C -0.39810 -0.64350 -0.06160
+C18A C 0.77780 0.25440 0.43410
+C20A C 0.73020 0.05230 0.25200
+C13A C -0.28170 -0.66240 0.05060
+C19A C 0.83300 0.16710 0.36340
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+P1 C1 1_555 1_555
+P2 C3 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C4 P2 1_555 1_555
+C5 P1 1_555 1_555
+C6 C5 1_555 1_555
+C7 C6 1_555 1_555
+C8 C7 1_555 1_555
+C9 C4 1_555 1_555
+C10 P1 1_555 1_555
+C11 C10 1_555 1_555
+C12 C11 1_555 1_555
+C13 C12 1_555 1_555
+C14 C13 1_555 1_555
+C15 C10 1_555 1_555
+C16 P2 1_555 1_555
+C17 C16 1_555 1_555
+C18 C17 1_555 1_555
+C19 C18 1_555 1_555
+C20 C19 1_555 1_555
+C21 C16 1_555 1_555
+C5A C4 1_555 1_555
+C4A C5 1_555 1_555
+C9A C8 1_555 1_555
+C8A C9 1_555 1_555
+P1A C5A 1_555 1_555
+C6A C5A 1_555 1_555
+P2A C4A 1_555 1_555
+C7A C8A 1_555 1_555
+C1A P1A 1_555 1_555
+C10A P1A 1_555 1_555
+C3A P2A 1_555 1_555
+C16A P2A 1_555 1_555
+C2A C1A 1_555 1_555
+C11A C10A 1_555 1_555
+C15A C10A 1_555 1_555
+C17A C16A 1_555 1_555
+C21A C16A 1_555 1_555
+C12A C11A 1_555 1_555
+C14A C15A 1_555 1_555
+C18A C17A 1_555 1_555
+C20A C21A 1_555 1_555
+C13A C12A 1_555 1_555
+C19A C18A 1_555 1_555
+C14 C15 1_555 1_555
+C20 C21 1_555 1_555
+C4A C9A 1_555 1_555
+C6A C7A 1_555 1_555
+C3A C2A 1_555 1_555
+C14A C13A 1_555 1_555
+C20A C19A 1_555 1_555
+
+#END

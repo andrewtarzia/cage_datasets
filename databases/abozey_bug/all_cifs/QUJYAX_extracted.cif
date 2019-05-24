@@ -1,0 +1,94 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_QUJYAX
+_chemical_name_common            3-Methyl-1-(3-cyanoguanidino)-1,2,3-triazole
+_chemical_formula_moiety         'C5 H7 N7'
+_chemical_name_systematic        
+(N'-Cyanocarbamimidoyl)(3-methyl-1H-1,2,3-triazol-3-ium-1-yl)azanide
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   9.378(4)
+_cell_length_b                   10.135(4)
+_cell_length_c                   8.824(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 113.553(4)
+_cell_angle_gamma                90
+_cell_volume                     768.816
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       Prism
+_chemical_melting_point          '8.6 deg.C'
+_cell_formula_units_Z            4
+_exptl_crystal_recrystallization_method methanol
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.18578(15) 0.65181(11) 0.88243(14)
+N2 N 0.14354(15) 0.53842(11) 0.80152(15)
+N3 N 0.26665(14) 0.50444(11) 0.77292(14)
+N4 N 0.26670(16) 0.37997(11) 0.70765(15)
+N5 N 0.28436(14) 0.49413(11) 0.48293(14)
+N6 N 0.28897(16) 0.48063(12) 0.20513(15)
+N7 N 0.27493(17) 0.26133(12) 0.49649(17)
+C1 C 0.33062(17) 0.68878(14) 0.90500(18)
+H1 H 0.3843 0.7659 0.9596
+C2 C 0.38434(18) 0.59258(14) 0.83328(17)
+H2 H 0.4830 0.5884 0.8270
+C3 C 0.07847(19) 0.71678(16) 0.9414(2)
+H3 H -0.0263 0.7173 0.8531
+H4 H 0.1127 0.8077 0.9734
+H5 H 0.0770 0.6689 1.0373
+C4 C 0.27550(16) 0.38178(13) 0.56067(17)
+C5 C 0.28692(16) 0.48174(13) 0.33597(17)
+H6 H 0.275(2) 0.2520(17) 0.397(2)
+H7 H 0.266(2) 0.194(2) 0.555(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 N2 1_555 1_555
+N2 N3 1_555 1_555
+N3 N4 1_555 1_555
+N4 C4 1_555 1_555
+N5 C4 1_555 1_555
+N6 C5 1_555 1_555
+N7 C4 1_555 1_555
+C1 N1 1_555 1_555
+H1 C1 1_555 1_555
+C2 N3 1_555 1_555
+H2 C2 1_555 1_555
+C3 N1 1_555 1_555
+H3 C3 1_555 1_555
+H4 C3 1_555 1_555
+H5 C3 1_555 1_555
+C5 N5 1_555 1_555
+H6 N7 1_555 1_555
+H7 N7 1_555 1_555
+C1 C2 1_555 1_555
+
+#END

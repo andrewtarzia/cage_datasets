@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_UKAKIA
+_chemical_name_common            Letrozole
+_chemical_formula_moiety         'C17 H11 N5'
+_chemical_name_systematic        
+4,4'-(1H-1,2,4-triazol-1-yl)methylenebis(benzonitrile)
+_chemical_properties_biological  'oral non-steroidal aromatase inhibitor'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/n'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a                   7.0300(14)
+_cell_length_b                   16.170(3)
+_cell_length_c                   13.360(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 104.80(3)
+_cell_angle_gamma                90
+_cell_volume                     1468.31
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2070(3) 0.17353(13) 0.18031(15)
+C1 C 0.0901(4) 0.25764(15) 0.30459(17)
+N2 N 0.3434(4) 0.22359(15) 0.15522(18)
+C2 C -0.1136(4) 0.26995(16) 0.27956(19)
+H1 H -0.1977 0.2268 0.2514
+C3 C 0.1706(4) 0.17391(15) 0.28344(18)
+H2 H 0.0660 0.1335 0.2817
+C4 C 0.2138(4) 0.32229(17) 0.3455(2)
+H3 H 0.3495 0.3149 0.3614
+C5 C 0.1370(4) 0.39786(17) 0.3629(2)
+H4 H 0.2209 0.4411 0.3911
+C6 C 0.3477(4) 0.14552(15) 0.36711(18)
+C7 C -0.0644(4) 0.40953(17) 0.33848(18)
+C8 C -0.1415(4) 0.48902(19) 0.3582(2)
+C9 C 0.4981(4) 0.12074(17) 0.5478(2)
+H5 H 0.4932 0.1241 0.6165
+C10 C 0.5101(4) 0.11168(17) 0.3435(2)
+H6 H 0.5149 0.1083 0.2747
+C11 C 0.3255(5) 0.2032(2) 0.0577(2)
+H7 H 0.4033 0.2268 0.0186
+C12 C -0.1901(4) 0.34533(17) 0.2963(2)
+H8 H -0.3256 0.3533 0.2795
+C13 C 0.6609(4) 0.08693(16) 0.5227(2)
+C14 C 0.6680(4) 0.08238(18) 0.4211(2)
+H9 H 0.7774 0.0599 0.4041
+N3 N -0.1967(4) 0.55282(18) 0.3724(2)
+C15 C 0.3433(4) 0.14940(17) 0.4699(2)
+H10 H 0.2338 0.1718 0.4869
+C16 C 0.8203(5) 0.05474(18) 0.6031(3)
+N4 N 0.1880(4) 0.1463(2) 0.01856(19)
+C17 C 0.1181(4) 0.1293(2) 0.0982(2)
+H11 H 0.0189 0.0910 0.0972
+N5 N 0.9503(5) 0.02783(18) 0.6646(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 N2 1_555 1_555
+C1 C2 1_555 1_555
+N2 C11 1_555 1_555
+C2 H1 1_555 1_555
+C3 N1 1_555 1_555
+H2 C3 1_555 1_555
+C4 C1 1_555 1_555
+H3 C4 1_555 1_555
+C5 C4 1_555 1_555
+H4 C5 1_555 1_555
+C6 C3 1_555 1_555
+C7 C5 1_555 1_555
+C8 C7 1_555 1_555
+C9 H5 1_555 1_555
+C10 C6 1_555 1_555
+H6 C10 1_555 1_555
+C11 H7 1_555 1_555
+C12 C2 1_555 1_555
+H8 C12 1_555 1_555
+C13 C9 1_555 1_555
+C14 C10 1_555 1_555
+H9 C14 1_555 1_555
+N3 C8 1_555 1_555
+C15 C6 1_555 1_555
+H10 C15 1_555 1_555
+C16 C13 1_555 1_555
+N4 C11 1_555 1_555
+C17 N1 1_555 1_555
+H11 C17 1_555 1_555
+N5 C16 1_555 1_555
+C1 C3 1_555 1_555
+C7 C12 1_555 1_555
+C9 C15 1_555 1_555
+C13 C14 1_555 1_555
+N4 C17 1_555 1_555
+
+#END

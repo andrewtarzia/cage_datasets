@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_QOPTIA
+_chemical_name_common            
+5-(2,6-dichloropyrimidin-4-yl)-3-phenyl-1,2,4-oxadiazole
+_chemical_formula_moiety         'C12 H6 Cl2 N4 O1'
+_chemical_name_systematic        
+2,4-dichloro-6-(3-phenyl-1,2,4-oxadiazol-5-yl)pyrimidine
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P n'
+_symmetry_Int_Tables_number      7
+_space_group_name_Hall           'P -2yac'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,-y,1/2+z
+_cell_length_a                   8.4275(13)
+_cell_length_b                   5.4088(8)
+_cell_length_c                   13.493(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 99.768(3)
+_cell_angle_gamma                90
+_cell_volume                     606.13
+_exptl_crystal_colour            yellow
+_exptl_crystal_description       block
+_cell_formula_units_Z            2
+_chemical_properties_physical    Heat-sensitive
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0466(5) -0.1927(7) 0.1449(3)
+C2 C 0.1179(5) -0.1786(7) 0.3108(3)
+C3 C 0.2085(4) 0.0299(7) 0.3034(3)
+H1 H 0.2637 0.1102 0.3598
+C4 C 0.2124(4) 0.1126(6) 0.2072(3)
+C5 C 0.3152(4) 0.3183(6) 0.1893(3)
+C6 C 0.4736(4) 0.6169(7) 0.1980(3)
+C7 C 0.5839(4) 0.8158(7) 0.2394(3)
+C8 C 0.6272(5) 0.8482(7) 0.3422(3)
+H2 H 0.5872 0.7416 0.3861
+C9 C 0.7289(5) 1.0367(8) 0.3798(3)
+H3 H 0.7581 1.0564 0.4489
+C10 C 0.7882(5) 1.1977(8) 0.3151(4)
+H4 H 0.8556 1.3270 0.3408
+C11 C 0.7474(5) 1.1660(7) 0.2136(4)
+H5 H 0.7887 1.2723 0.1701
+C12 C 0.6449(5) 0.9766(7) 0.1750(3)
+H6 H 0.6167 0.9569 0.1058
+Cl1 Cl -0.05936(12) -0.34436(19) 0.04100(7)
+Cl2 Cl 0.10969(11) -0.3068(2) 0.42654(7)
+N1 N 0.1293(4) -0.0003(6) 0.1252(2)
+N2 N 0.0354(4) -0.2959(5) 0.2324(3)
+N3 N 0.4372(4) 0.5735(6) 0.1014(2)
+N4 N 0.3993(3) 0.4612(5) 0.2564(2)
+O1 O 0.3296(3) 0.3747(5) 0.09488(19)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 Cl1 1_555 1_555
+C2 C3 1_555 1_555
+C3 H1 1_555 1_555
+C4 C3 1_555 1_555
+C5 C4 1_555 1_555
+C6 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 H2 1_555 1_555
+C9 C8 1_555 1_555
+H3 C9 1_555 1_555
+C10 C9 1_555 1_555
+H4 C10 1_555 1_555
+C11 C10 1_555 1_555
+H5 C11 1_555 1_555
+C12 C7 1_555 1_555
+H6 C12 1_555 1_555
+Cl2 C2 1_555 1_555
+N1 C1 1_555 1_555
+N2 C1 1_555 1_555
+N3 C6 1_555 1_555
+N4 C5 1_555 1_555
+O1 C5 1_555 1_555
+C2 N2 1_555 1_555
+C4 N1 1_555 1_555
+C6 N4 1_555 1_555
+C11 C12 1_555 1_555
+N3 O1 1_555 1_555
+
+#END

@@ -1,0 +1,154 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_FISHAQ10
+_chemical_name_common            Dithiatopazine
+_chemical_formula_moiety         'C16 H24 O4 S2'
+_chemical_name_systematic        
+(4aR,5aS,7aR,11aS,12aS,14aS)-Dodecahydro-6H,13H-12a-epidithiopyrano(3,2-b)pyrano(2',3':6,7)oxepino(2,3-f)oxepin
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P b c a'
+_symmetry_Int_Tables_number      61
+_space_group_name_Hall           '-P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,1/2-y,1/2+z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 1/2+x,1/2-y,-z
+7 -x,1/2+y,1/2-z
+8 1/2+x,y,1/2-z
+_cell_length_a                   9.549(1)
+_cell_length_b                   12.024(1)
+_cell_length_c                   28.659(1)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     3290.55
+_exptl_crystal_colour            yellow-orange
+_chemical_melting_point          134-135deg.C
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.7501(1) 0.9137(1) 0.92312(4)
+S2 S 0.8028(1) 0.7900(1) 0.87529(4)
+C1 C 0.6149(6) 0.9478(6) 0.7005(2)
+C2 C 0.6508(6) 0.8253(5) 0.7000(2)
+C3 C 0.6255(5) 0.8320(4) 0.7860(1)
+C4 C 0.5878(5) 0.7675(4) 0.7425(2)
+C5 C 0.6066(4) 0.7842(4) 0.8701(1)
+C6 C 0.5559(5) 0.6801(4) 0.8946(2)
+C7 C 0.3964(5) 0.6649(4) 0.8935(2)
+C8 C 0.3199(5) 0.7311(4) 0.9307(1)
+C9 C 0.0925(5) 0.7524(5) 0.9621(2)
+C10 C 0.1022(5) 0.8768(5) 0.9619(2)
+C11 C 0.2559(5) 0.9140(4) 0.9647(2)
+C12 C 0.3399(4) 0.8546(4) 0.9272(1)
+C13 C 0.5753(4) 0.8955(4) 0.8968(1)
+C14 C 0.5324(5) 0.9955(4) 0.8675(2)
+C15 C 0.5836(5) 0.9526(4) 0.7823(2)
+C16 C 0.6214(5) 1.0229(4) 0.8243(2)
+O1 O 0.6554(4) 0.9995(3) 0.7431(1)
+O2 O 0.5559(3) 0.7778(2) 0.82439(9)
+O3 O 0.1743(3) 0.7059(3) 0.9250(1)
+O4 O 0.4848(3) 0.8824(2) 0.93544(9)
+H1 H 0.6584 0.9843 0.6742
+H2 H 0.5139 0.9555 0.6958
+H3 H 0.6183 0.7900 0.6718
+H4 H 0.7509 0.8168 0.7010
+H5 H 0.7254 0.8325 0.7897
+H6 H 0.4868 0.7627 0.7394
+H7 H 0.6208 0.6909 0.7449
+H8 H 0.6003 0.6165 0.8801
+H9 H 0.5865 0.6821 0.9264
+H10 H 0.3585 0.7109 0.9606
+H11 H 0.3630 0.6875 0.8635
+H12 H 0.3749 0.5872 0.8973
+H13 H 0.1271 0.7253 0.9915
+H14 H -0.0026 0.7294 0.9590
+H15 H 0.0493 0.9066 0.9877
+H16 H 0.0603 0.9046 0.9337
+H17 H 0.2946 0.8960 0.9949
+H18 H 0.2641 0.9934 0.9608
+H19 H 0.3070 0.8755 0.8964
+H20 H 0.5294 1.0590 0.8876
+H21 H 0.4372 0.9824 0.8567
+H22 H 0.4819 0.9527 0.7804
+H23 H 0.6106 1.1008 0.8164
+H24 H 0.7183 1.0114 0.8317
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+S1 S2 1_555 1_555
+S2 C5 1_555 1_555
+C1 C2 1_555 1_555
+C2 C4 1_555 1_555
+C3 C4 1_555 1_555
+C4 H6 1_555 1_555
+C5 C6 1_555 1_555
+C6 C7 1_555 1_555
+C7 C8 1_555 1_555
+C8 C12 1_555 1_555
+C9 C10 1_555 1_555
+C10 C11 1_555 1_555
+C11 C12 1_555 1_555
+C12 O4 1_555 1_555
+C13 S1 1_555 1_555
+C14 C13 1_555 1_555
+C15 C3 1_555 1_555
+C16 C14 1_555 1_555
+O1 C1 1_555 1_555
+O2 C3 1_555 1_555
+O3 C8 1_555 1_555
+O4 C13 1_555 1_555
+H1 C1 1_555 1_555
+H2 C1 1_555 1_555
+H3 C2 1_555 1_555
+H4 C2 1_555 1_555
+H5 C3 1_555 1_555
+H7 C4 1_555 1_555
+H8 C6 1_555 1_555
+H9 C6 1_555 1_555
+H10 C8 1_555 1_555
+H11 C7 1_555 1_555
+H12 C7 1_555 1_555
+H13 C9 1_555 1_555
+H14 C9 1_555 1_555
+H15 C10 1_555 1_555
+H16 C10 1_555 1_555
+H17 C11 1_555 1_555
+H18 C11 1_555 1_555
+H19 C12 1_555 1_555
+H20 C14 1_555 1_555
+H21 C14 1_555 1_555
+H22 C15 1_555 1_555
+H23 C16 1_555 1_555
+H24 C16 1_555 1_555
+C5 C13 1_555 1_555
+C5 O2 1_555 1_555
+C9 O3 1_555 1_555
+C15 C16 1_555 1_555
+C15 O1 1_555 1_555
+
+#END

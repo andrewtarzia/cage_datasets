@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CARZEC
+_chemical_formula_moiety         'C16 H16 Cl1 N3'
+_chemical_name_systematic        
+(Z)-2-(3-Chloro-3-(4-(diethylamino)phenyl)prop-2-en-1-ylidene)malononitrile
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 2/c'
+_symmetry_Int_Tables_number      15
+_space_group_name_Hall           '-C 2yn'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 1/2-x,1/2-y,-z
+7 x,-y,1/2+z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a                   30.7437(13)
+_cell_length_b                   7.5271(3)
+_cell_length_c                   12.4040(6)
+_cell_angle_alpha                90
+_cell_angle_beta                 95.221(2)
+_cell_angle_gamma                90
+_cell_volume                     2858.51
+_exptl_crystal_colour            'dark red'
+_exptl_crystal_description       rod
+_chemical_melting_point          '171.5-172.3 deg.C'
+_cell_formula_units_Z            8
+_exptl_crystal_recrystallization_method dichloromethane/pentane
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.244010(15) 0.82068(7) 0.78039(4)
+N1 N 0.41604(5) 1.2392(2) 1.02267(13)
+N2 N 0.14898(6) 0.9521(3) 1.19785(14)
+N3 N 0.06561(6) 0.7078(3) 0.93409(16)
+C1 C 0.29139(6) 1.0213(2) 0.93016(15)
+C2 C 0.30136(6) 1.1017(3) 1.03234(15)
+C3 C 0.34165(6) 1.1744(3) 1.06308(16)
+C4 C 0.37537(6) 1.1735(2) 0.99219(15)
+C5 C 0.36473(6) 1.1013(3) 0.88778(15)
+C6 C 0.32469(6) 1.0268(3) 0.85879(15)
+C7 C 0.42703(6) 1.3167(3) 1.12987(16)
+C8 C 0.43904(8) 1.1778(3) 1.21677(18)
+C9 C 0.45300(6) 1.2096(3) 0.95757(17)
+C10 C 0.45897(7) 1.3599(3) 0.87837(19)
+C11 C 0.24963(6) 0.9370(2) 0.90245(14)
+C12 C 0.21502(6) 0.9348(3) 0.96442(15)
+C13 C 0.17417(6) 0.8538(2) 0.93409(16)
+C14 C 0.14067(6) 0.8429(3) 0.99960(16)
+C15 C 0.14510(6) 0.9045(3) 1.10941(16)
+C16 C 0.09924(7) 0.7662(3) 0.96300(16)
+H1 H 0.2784(9) 1.104(3) 1.083(2)
+H2 H 0.3459(8) 1.222(3) 1.131(2)
+H3 H 0.3866(8) 1.105(3) 0.8380(19)
+H4 H 0.3190(7) 0.975(3) 0.7875(18)
+H5 H 0.4020(8) 1.388(3) 1.1511(18)
+H6 H 0.4520(8) 1.405(3) 1.1220(18)
+H7 H 0.4129(8) 1.102(3) 1.2227(19)
+H8 H 0.4621(9) 1.106(4) 1.198(2)
+H9 H 0.4466(10) 1.246(4) 1.288(3)
+H10 H 0.4798(8) 1.194(3) 1.0127(18)
+H11 H 0.4488(8) 1.091(3) 0.9224(19)
+H12 H 0.4329(10) 1.366(4) 0.826(2)
+H13 H 0.4860(9) 1.333(3) 0.838(2)
+H14 H 0.4616(9) 1.473(4) 0.918(2)
+H15 H 0.2179(7) 0.990(3) 1.0328(17)
+H16 H 0.1693(7) 0.805(3) 0.8628(17)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cl1 C11 1_555 1_555
+N1 C4 1_555 1_555
+N2 C15 1_555 1_555
+N3 C16 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 C6 1_555 1_555
+C6 C1 1_555 1_555
+C7 N1 1_555 1_555
+C8 C7 1_555 1_555
+C9 N1 1_555 1_555
+C10 C9 1_555 1_555
+C11 C1 1_555 1_555
+C12 C11 1_555 1_555
+C13 C12 1_555 1_555
+C14 C13 1_555 1_555
+C15 C14 1_555 1_555
+C16 C14 1_555 1_555
+H1 C2 1_555 1_555
+H2 C3 1_555 1_555
+H3 C5 1_555 1_555
+H4 C6 1_555 1_555
+H5 C7 1_555 1_555
+H6 C7 1_555 1_555
+H7 C8 1_555 1_555
+H8 C8 1_555 1_555
+H9 C8 1_555 1_555
+H10 C9 1_555 1_555
+H11 C9 1_555 1_555
+H12 C10 1_555 1_555
+H13 C10 1_555 1_555
+H14 C10 1_555 1_555
+H15 C12 1_555 1_555
+H16 C13 1_555 1_555
+
+#END

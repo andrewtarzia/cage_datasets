@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CIBVIV
+_chemical_formula_moiety         '2(C1 H7 N4 O1 1+),C8 N12 O8 2-'
+_chemical_name_systematic        
+"bis(2-(hydrazinecarbonyl)hydrazinium) 4,4'-((5,5'-bi(1,2,4-oxadiazole))-3,3'-diyl)bis(1,2,5-oxadiazol-3-nitramide)"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   10.2856(12)
+_cell_length_b                   9.1849(11)
+_cell_length_c                   11.2424(10)
+_cell_angle_alpha                90
+_cell_angle_beta                 96.905(4)
+_cell_angle_gamma                90
+_cell_volume                     1054.39
+_exptl_crystal_description       plate
+_cell_formula_units_Z            2
+_chemical_properties_physical    explosive
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3795(3) 0.7053(3) 0.8419(2)
+C2 C 0.4638(3) 0.5452(3) 0.9541(2)
+C3 C 0.2703(3) 0.8892(3) 0.6817(2)
+C4 C 0.3512(3) 0.8498(3) 0.7905(3)
+N1 N 0.3359(2) 0.5855(3) 0.7878(2)
+N2 N 0.4605(2) 0.6855(3) 0.9479(2)
+N3 N 0.2835(2) 1.0303(3) 0.6645(2)
+N4 N 0.4096(3) 0.9642(3) 0.8392(2)
+N5 N 0.1952(2) 0.7853(3) 0.6171(2)
+N6 N 0.1364(2) 0.8286(3) 0.5120(2)
+O1 O 0.3935(2) 0.4748(2) 0.86333(18)
+O2 O 0.3698(2) 1.0780(2) 0.76368(17)
+O3 O 0.0678(2) 0.7357(2) 0.45018(18)
+O4 O 0.1486(2) 0.9533(2) 0.47194(18)
+C1B C 0.6205(3) 0.2947(3) 1.1581(2)
+C2B C 0.5362(3) 0.4548(3) 1.0459(2)
+C3B C 0.7297(3) 0.1108(3) 1.3183(2)
+C4B C 0.6488(3) 0.1502(3) 1.2095(3)
+N1B N 0.6641(2) 0.4145(3) 1.2122(2)
+N2B N 0.5395(2) 0.3145(3) 1.0521(2)
+N3B N 0.7165(2) -0.0303(3) 1.3355(2)
+N4B N 0.5904(3) 0.0358(3) 1.1608(2)
+N5B N 0.8048(2) 0.2147(3) 1.3829(2)
+N6B N 0.8636(2) 0.1714(3) 1.4880(2)
+O1B O 0.6065(2) 0.5252(2) 1.13667(18)
+O2B O 0.6302(2) -0.0780(2) 1.23632(17)
+O3B O 0.9322(2) 0.2643(2) 1.54982(18)
+O4B O 0.8514(2) 0.0467(2) 1.52806(18)
+C5 C 0.1361(3) 0.2965(3) 0.3769(2)
+N7 N -0.0321(3) 0.4290(3) 0.2705(2)
+H1 H -0.100(2) 0.383(3) 0.305(2)
+H2 H -0.051(3) 0.522(2) 0.238(2)
+H3 H -0.017(3) 0.367(3) 0.206(2)
+N8 N 0.0830(2) 0.4332(3) 0.3552(2)
+H4 H 0.079(3) 0.491(3) 0.414(3)
+N9 N 0.2171(3) 0.2806(3) 0.4773(2)
+H5 H 0.243(3) 0.193(3) 0.496(3)
+N10 N 0.2284(3) 0.3933(3) 0.5631(2)
+H6 H 0.313(3) 0.424(4) 0.567(3)
+H7 H 0.215(3) 0.350(3) 0.633(3)
+O5 O 0.1139(2) 0.1998(2) 0.29973(17)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C4 1_555 1_555
+C2 N2 1_555 1_555
+C3 C4 1_555 1_555
+C4 N4 1_555 1_555
+N1 C1 1_555 1_555
+N2 C1 1_555 1_555
+N3 C3 1_555 1_555
+N4 O2 1_555 1_555
+N5 C3 1_555 1_555
+N6 N5 1_555 1_555
+O1 C2 1_555 1_555
+O2 N3 1_555 1_555
+O3 N6 1_555 1_555
+O4 N6 1_555 1_555
+C5 N8 1_555 1_555
+N7 H1 1_555 1_555
+H2 N7 1_555 1_555
+H3 N7 1_555 1_555
+N8 N7 1_555 1_555
+H4 N8 1_555 1_555
+N9 C5 1_555 1_555
+H5 N9 1_555 1_555
+N10 N9 1_555 1_555
+H6 N10 1_555 1_555
+H7 N10 1_555 1_555
+O5 C5 1_555 1_555
+C1B C4B 1_555 1_555
+C2B C2 1_555 1_555
+C3B C4B 1_555 1_555
+C4B N4B 1_555 1_555
+N1B C1B 1_555 1_555
+N2B C1B 1_555 1_555
+N3B C3B 1_555 1_555
+N4B O2B 1_555 1_555
+N5B C3B 1_555 1_555
+N6B N5B 1_555 1_555
+O1B C2B 1_555 1_555
+O2B N3B 1_555 1_555
+O3B N6B 1_555 1_555
+O4B N6B 1_555 1_555
+N1 O1 1_555 1_555
+C2B N2B 1_555 1_555
+N1B O1B 1_555 1_555
+
+#END

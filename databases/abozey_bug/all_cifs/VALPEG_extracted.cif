@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_VALPEG
+_chemical_name_common            
+"bis(Semicarbazidium) 1H,1'H-5,5'-bitetrazole-1,1'-diolate"
+_chemical_formula_moiety         '2(C1 H6 N3 O1 1+),C2 N8 O2 2-'
+_chemical_name_systematic        
+"bis(Carbamoylhydrazinium) 1H,1'H-5,5'-bitetrazole-1,1'-diolate"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   10.2389(9)
+_cell_length_b                   6.9576(6)
+_cell_length_c                   8.9756(7)
+_cell_angle_alpha                90
+_cell_angle_beta                 99.099(2)
+_cell_angle_gamma                90
+_cell_volume                     631.359
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.57916(15) 0.4392(2) 0.83454(17)
+N2 N 0.52110(17) 0.4179(3) 0.69138(18)
+N3 N 0.39418(17) 0.4451(3) 0.6923(2)
+N4 N 0.36960(16) 0.4844(2) 0.83102(19)
+O1 O 0.70885(12) 0.4193(2) 0.87345(15)
+C1 C 0.48649(18) 0.4809(3) 0.9199(2)
+N1B N 0.42084(15) 0.5608(2) 1.16546(17)
+N2B N 0.47890(17) 0.5821(3) 1.30862(18)
+N3B N 0.60582(17) 0.5549(3) 1.3077(2)
+N4B N 0.63040(16) 0.5156(2) 1.16898(19)
+O1B O 0.29115(12) 0.5807(2) 1.12655(15)
+C1B C 0.51351(18) 0.5191(3) 1.0801(2)
+N5 N 0.82763(16) 0.4789(2) 0.54063(18)
+H1 H 0.7894 0.4956 0.4491
+N6 N 0.81420(14) 0.3054(2) 0.62029(17)
+H2 H 0.8940 0.2590 0.6560
+H3 H 0.7697 0.2199 0.5582
+H4 H 0.7705 0.3286 0.6966
+N7 N 0.90391(18) 0.7882(2) 0.55085(19)
+H5 H 0.9543 0.8787 0.5921
+H6 H 0.8531 0.8081 0.4664
+O2 O 0.97537(13) 0.57940(19) 0.73932(15)
+C2 C 0.90452(16) 0.6170(2) 0.61784(19)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 N2 1_555 1_555
+N2 N3 1_555 1_555
+N3 N4 1_555 1_555
+N4 C1 1_555 1_555
+O1 N1 1_555 1_555
+C1 N1 1_555 1_555
+N5 H1 1_555 1_555
+N6 N5 1_555 1_555
+H2 N6 1_555 1_555
+H3 N6 1_555 1_555
+H4 N6 1_555 1_555
+N7 H5 1_555 1_555
+H6 N7 1_555 1_555
+O2 C2 1_555 1_555
+C2 N5 1_555 1_555
+N1B N2B 1_555 1_555
+N2B N3B 1_555 1_555
+N3B N4B 1_555 1_555
+N4B C1B 1_555 1_555
+O1B N1B 1_555 1_555
+C1B C1 1_555 1_555
+N7 C2 1_555 1_555
+N1B C1B 1_555 1_555
+
+#END

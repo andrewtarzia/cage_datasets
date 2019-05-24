@@ -1,0 +1,80 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BALWEQ
+_chemical_name_common            
+'bis(2,3,6,7-Tetramethyl-1,4,5,8-tetraselenafulvalenium) perchlorate'
+_chemical_formula_moiety         'C10 H12 Se4 1+,C10 H12 Se4,Cl1 O4 1-'
+_chemical_name_systematic        
+"4,4',5,5'-bis(Tetramethyl-tetraselenafulvalenium) perchlorate"
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   7.266
+_cell_length_b                   7.678
+_cell_length_c                   13.275
+_cell_angle_alpha                84.58
+_cell_angle_beta                 86.73
+_cell_angle_gamma                70.43
+_cell_volume                     694.434
+_cell_formula_units_Z            1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se 0.29730 0.34260 0.61500
+Se2 Se 0.16390 0.74960 0.51100
+Se3 Se 0.37300 0.17070 0.38400
+Se4 Se 0.22950 0.57840 0.27930
+C1 C 0.22250 0.54300 0.69970
+C2 C 0.16530 0.71640 0.65290
+C3 C 0.25270 0.49420 0.49440
+C4 C 0.10030 0.89280 0.70330
+C5 C 0.23380 0.48760 0.80870
+C6 C 0.37100 0.20370 0.24200
+C7 C 0.31180 0.37850 0.19570
+C8 C 0.28150 0.42620 0.39860
+C9 C 0.29860 0.42710 0.08420
+C10 C 0.44480 0.02800 0.18780
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Se1 C1 1_555 1_555
+Se2 C2 1_555 1_555
+Se3 C6 1_555 1_555
+Se4 C7 1_555 1_555
+C1 C2 1_555 1_555
+C2 C4 1_555 1_555
+C3 Se1 1_555 1_555
+C5 C1 1_555 1_555
+C6 C7 1_555 1_555
+C7 C9 1_555 1_555
+C8 Se3 1_555 1_555
+C10 C6 1_555 1_555
+Se2 C3 1_555 1_555
+Se4 C8 1_555 1_555
+C3 C8 1_555 1_555
+
+#END
