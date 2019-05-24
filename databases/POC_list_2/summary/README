@@ -97,6 +97,21 @@ Andrew Tarzia
     - assumes that any remaining CIFs must be accepted
     - have 5907 CIFs at this stage
 
+6) Initial screen is done. Now run classify_structures.py to find cages, and output the porous molecules of those cages
+    - get CIFs from post_pw.gcd
+    - check CIF for a molecule that is a cage by this definition:
+        - pore_diameter_opt > 0.0 angstrom
+        - no_windows >= 2  # masterlerz definition
+    - output:
+        - classified.csv:
+            - refcode, molecule id, pore_diameter_opt, no_windows
+        - delete CIFs and PDBs that do not have a cage
+        - save cage molecules of each CIF
+
+
+
+---------------------
+
 6) load post_pw.gcd into conquest
     - visually select cages from the Conquest search results
         - also kept bowl/catenane/ring like porous molecules.
@@ -108,7 +123,16 @@ Andrew Tarzia
 
 7) delete CIFs/PDBs in DIR that are not in visual_selected.gcd
 
-8) 
+8) run extract_most_porous.py to save the pywindow results and structure file of the most porous molecule in each rebuilt pdb (of each CIF in visual_selected.gcd)
+    - save results to visual_selected.csv
+
+9) run classify_structures.py
+    - read in results in visual_selected.csv
+    - at this stage, I have done this automatically by using this definition of a cage:
+        - number of windows in the most porous molecule 
+    - classifications:
+        - M : mistake
+    - classified.csv
 
 -----------
 
