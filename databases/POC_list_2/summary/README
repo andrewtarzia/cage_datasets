@@ -52,7 +52,7 @@ Andrew Tarzia
     --> 67721 cifs found from 35 authors 
     --> REFCODEs in DB.gcd
 
-2) Using 'REFCODEs_to_CIFs.py' and CSD API.
+2) Using 'REFCODEs_to_CIFs.py' and CSD API. [IN FUTURE, REPLACE WITH: REFCODEs_to_PDBs.py]
     - get CIFs in DB DIR from REFCODEs in DB.gcd
     - save REFCODEs of entries with entry.has_3d_structure is False to misssing_struct.gcd
         - check for possible cross references to old REFCODEs
@@ -97,16 +97,19 @@ Andrew Tarzia
     - assumes that any remaining CIFs must be accepted
     - have 5907 CIFs at this stage
 
-6) Initial screen is done. Now run classify_structures.py to find cages, and output the porous molecules of those cages
-    - get CIFs from post_pw.gcd
-    - check CIF for a molecule that is a cage by this definition:
+6) Run REFCODEs_to_PDBs.py on post_pw.gcd to get _extracted.pdb of all REFCODEs
+    - get PDBs from post_pw.gcd
+
+7) Initial screen is done. Now run classify_structures.py to find cages, and output the porous molecules of those cages
+    - check PDB for molecules that are cages by this definition:
         - pore_diameter_opt > 0.0 angstrom
         - no_windows >= 2  # masterlerz definition
     - output:
         - classified.csv:
             - refcode, molecule id, pore_diameter_opt, no_windows
-        - delete CIFs and PDBs that do not have a cage
-        - save cage molecules of each CIF
+        - save cage molecules of each PDB to PDBs
+
+8) delete CIFs/PDBs in DIR that are not in classified.csv
 
 
 
