@@ -137,19 +137,18 @@ Andrew Tarzia
         - whether there is disorder in the cage (specifically not the solvent)
             - done visually
         - whether there is solvent present
-            - done visually
+            - done using solv_pres.py (checks if _rebuild.pdb has more atoms than _nosolv.pdb)
+            - output to solvent_pres.txt and added to DB_sheet.ods
         - whether squeeze or mask has been used
             - written (with other info) to solvent_prop.csv using get_solvent_info.py and CSD Python API
         - classify into a structure type
             - done visually
     In this process:
+***        - deleted undesired structure types (sheet: deleted)
+***        - fixed bugs with structures that required manual solvent removal (noted in full_DB sheet)
 
 
 
----------------------
-
-rm solvent -- check CAHTEM/CAHVAK -- buggy?
-delete structure types I do not want
 
 ---------------------
 
