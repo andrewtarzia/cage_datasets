@@ -110,8 +110,31 @@ Andrew Tarzia
         - save cage molecules of each PDB to PDBs
 
 8) delete CIFs/PDBs in DIR that are not in classified.csv
+    - any items in classified.csv with zeros in all columns (other than REFCODE) had their CIFs and PDBs removed.
+    - 3813 _extracted.pdb remaining
+    - INAGUA and JAQBOT had memory issues, and were skipped.
+
+9) Visualize the most porous molecule of each structure and manually filter for cage structures using ASE.
+    - performed with script: viz_structures_ase.py (this could be made much more efficient in the future.)
+    - this search is dependant on the usage of the DB. In this case, I have kept only cage-like structures.
+        - which means I have removed '1D'-macrocylic structures (i.e. ACAVAE)
+        - also removed spiral like structures
+    - any structures that showed buggy behaviour in ASE (i.e. the window COMs had large values) were removed.
+        - removed AKIFAB due to pore handling of connected rings in pywindow
+    - kept CAHTEM, CAHTEMXX, CAHVAK, CAHVAKXX
+        - pywindow did not handle guests well, which lead to a bug.
+    - save REFCODEs in to_keep --> viz_select.gcd
+
+10) Copy structures deemed to be cages into ./cage_subset/
+    - for all REFCODEs in viz_select.gcd:
+        - cp REFCODE* ./cage_subset/
 
 
+
+---------------------
+
+
+rm solvent -- check CAHTEM/CAHVAK -- buggy?
 
 ---------------------
 
