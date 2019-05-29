@@ -129,12 +129,27 @@ Andrew Tarzia
     - for all REFCODEs in viz_select.gcd:
         - cp REFCODE* ./cage_subset/
 
+11) Remove solvent using remove_solvent.py
+    - defines a solvent molecule as pore_diam_opt < 0 or no_windows < 2
+
+12) Fill in DB_sheet.ods
+    Info to gather:
+        - whether there is disorder in the cage (specifically not the solvent)
+            - done visually
+        - whether there is solvent present
+            - done visually
+        - whether squeeze or mask has been used
+            - written (with other info) to solvent_prop.csv using get_solvent_info.py and CSD Python API
+        - classify into a structure type
+            - done visually
+    In this process:
+
 
 
 ---------------------
 
-
 rm solvent -- check CAHTEM/CAHVAK -- buggy?
+delete structure types I do not want
 
 ---------------------
 
