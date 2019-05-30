@@ -146,32 +146,65 @@ Andrew Tarzia
     In this process:
         - deleted undesired structure types (sheet: deleted)
         - fixed bugs with structures that required manual solvent removal (noted in full_DB sheet):
+            - move each lot of files for the following REFCODEs to /cage_subset/originals/
+            - apply the following edits:
                 - CAHTEM
+                    - deleted all iodine atoms using ASE
                 - CAHTEM01
+                    - deleted all iodine atoms using ASE
                 - CAHTEM02
+                    - deleted all iodine atoms using ASE
                 - CAHTEM03
+                    - deleted all iodine atoms using ASE
                 - CAHTEM04
+                    - deleted all iodine atoms using ASE
                 - CAHVAK
+                    - deleted all iodine atoms using ASE
                 - CAHVAK01
+                    - deleted all iodine atoms using ASE
                 - CAHVAK02
+                    - deleted all iodine atoms using ASE
                 - CAHVAK03
+                    - deleted all iodine atoms using ASE
                 - CAHVAK04
+                    - deleted all iodine atoms using ASE
                 - MOTWAV
+                    - result of small cage not having windows by pywindow
+                    - delete this structure as it may give rise to an odd pore topology
                 - MOTWUP
-                - MOTWUP01
+                    - result of small cage not having windows by pywindow due to disorder
+                    - delete this structure as it may give rise to an odd pore topology
                 - MOTWUP02
+                    - result of small cage not having windows by pywindow due to disorder
+                    - delete this structure as it may give rise to an odd pore topology
                 - MOTWUP03
+                    - result of small cage not having windows by pywindow due to disorder
+                    - delete this structure as it may give rise to an odd pore topology
                 - MOTWUP04
+                    - result of small cage not having windows by pywindow due to disorder
+                    - delete this structure as it may give rise to an odd pore topology
                 - MOTWUP05
+                    - result of small cage not having windows by pywindow due to disorder
+                    - delete this structure as it may give rise to an odd pore topology
                 - MOTYUR
+                    - result of small cage not having windows by pywindow due to disorder
+                    - delete this structure as it may give rise to an odd pore topology
                 - MOTZEC
-                - MOTZOM
-                - PUZBUI
+                    - result of small cage not having windows by pywindow due to disorder
+                    - delete this structure as it may give rise to an odd pore topology
                 - TOBGIC
+                    - result of small cage not having windows by pywindow due to disorder
+                    - delete this structure as it may give rise to an odd pore topology
                 - TOBGUO
+                    - result of small cage not having windows by pywindow due to disorder
+                    - delete this structure as it may give rise to an odd pore topology
                 - VOTJOF
+                    - pywindow analysis fails on one of the molecules
+                    - delete this structure because it will fail in pore topology analysis
                 - WIQHOW
-    - end this step with 894 structures
+                    - multiple cages come up with negative pore diameters, pywindow does not give an error, but it behaves strangely.
+                    - delete this structure because it will fail in pore topology analysis
+    - end this step with 891 structures
 
 
 
