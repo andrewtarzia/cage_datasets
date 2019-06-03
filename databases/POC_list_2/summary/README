@@ -49,6 +49,8 @@ Andrew Tarzia
         - if entry.is_polymeric is True
         - if entry.is_powder_study is True
         - if entry.is_organometallic is True (ORGANIC CAGES ONLY) (NOTE THAT THE CSD IS NOT PERFECT AT GETTING THIS VALUE RIGHT - Mg is not considered metallic?)
+    - Note: this process entriely depends on the data available in the CSD you are searching.
+        - i.e. HIWHOM and VOFROZ do not have 3d_structures in the CSD on my local machine and therefore get skipped.
     --> 67721 cifs found from 35 authors 
     --> REFCODEs in DB.gcd
 
@@ -136,11 +138,11 @@ Andrew Tarzia
     Info to gather:
         - whether there is disorder in the cage (specifically not the solvent)
             - done visually
+        - whether squeeze or mask has been used
+            - written (with other info) to solvent_prop.csv using get_solvent_info.py and CSD Python API
         - whether there is solvent present
             - done using solv_pres.py (checks if _rebuild.pdb has more atoms than _nosolv.pdb)
             - output to solvent_pres.txt and added to DB_sheet.ods
-        - whether squeeze or mask has been used
-            - written (with other info) to solvent_prop.csv using get_solvent_info.py and CSD Python API
         - classify into a structure type
             - done visually
     In this process:
