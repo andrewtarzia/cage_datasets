@@ -80,7 +80,8 @@ Andrew Tarzia
     - these structures are likely broken due to disorder
     - structures tested:
 		* IYEMAC_extracted.cif — is cage — keep
-		* NEDBUW_extracted.cif — is cage — do not keep because is_organometallic fails
+		* NEDBUW_extracted.cif — is cage — do not keep because is_organometallic fails    
+        * NEXLAD_extracted.cif - nonporous -  do not keep
 		* PAWSEO_extracted.cif — is porous — keep (has Rb — suggesting it shouldn't have passed to this step?)
 		* QEFMUM_extracted.cif — is porous — keep
 		* TEKZER_extracted.cif — not porous — do not keep
@@ -97,7 +98,7 @@ Andrew Tarzia
 
 5) Write post_pw.gcd using CIFs_to_GCD.py
     - assumes that any remaining CIFs must be accepted
-    - have 5907 CIFs at this stage
+    - have 5907 CIFs at this stage (1414)
 
 6) Run REFCODEs_to_PDBs.py on post_pw.gcd to get _extracted.pdb of all REFCODEs
     - get PDBs from post_pw.gcd
@@ -113,7 +114,7 @@ Andrew Tarzia
 
 8) delete CIFs/PDBs in DIR that are not in classified.csv
     - any items in classified.csv with zeros in all columns (other than REFCODE) had their CIFs and PDBs removed.
-    - 3813 _extracted.pdb remaining
+    - 3813 _extracted.pdb remaining (1130)
     - INAGUA and JAQBOT had memory issues, and were skipped.
 
 9) Visualize the most porous molecule of each structure and manually filter for cage structures using ASE.
