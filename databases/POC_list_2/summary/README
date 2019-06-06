@@ -117,6 +117,7 @@ Andrew Tarzia
     - any items in classified.csv with zeros in all columns (other than REFCODE) had their CIFs and PDBs removed.
     - 3813 _extracted.pdb remaining (XXXXX, 1130)
     - INAGUA and JAQBOT had memory issues, and were skipped.
+    - ACDMNP behaved strangely with duplication of atoms in pywindow - noted in DB_sheet.ods
 
 9) Visualize the most porous molecule of each structure and manually filter for cage structures using ASE.
     - performed with script: viz_structures_ase.py (this could be made much more efficient in the future.)
