@@ -51,7 +51,7 @@ Andrew Tarzia
         - if entry.is_organometallic is True (ORGANIC CAGES ONLY) (NOTE THAT THE CSD IS NOT PERFECT AT GETTING THIS VALUE RIGHT - Mg is not considered metallic?)
     - Note: this process entriely depends on the data available in the CSD you are searching.
         - i.e. HIWHOM and VOFROZ do not have 3d_structures in the CSD on my local machine and therefore get skipped.
-    --> 67721 cifs found from 35 authors 
+    --> 67721 cifs found from 35 authors (FILL IN NO)
     --> REFCODEs in DB.gcd
 
 2) Using 'REFCODEs_to_CIFs.py' and CSD API. [IN FUTURE, REPLACE WITH: REFCODEs_to_PDBs.py]
@@ -92,15 +92,16 @@ Andrew Tarzia
 		* ZODXEX_extracted.cif — nonporous — do not keep
     - by:
         - delete all atoms in CIF with '?'
+            - note that if PDBs are used throughout, then this will need to be done manually in a structure modification software.
         - if this fails, then we do not keep that structure because any other changes require manual chemical modifications:
             - failed for PAWSEO_extracted.cif and QEFMUM_extracted.cif
         - copy .cif, .pdb and _rebuild.pdb from /memory/ to ../
 
-5) Write post_pw.gcd using CIFs_to_GCD.py
+5) Write post_pw.gcd using CIFs_to_GCD.py [IN FUTURE, REPLACE WITH: PDBs_to_GCD.py]
     - assumes that any remaining CIFs must be accepted
-    - have 5907 CIFs at this stage (1414)
+    - have 5907 CIFs at this stage (6623, 1414)
 
-6) Run REFCODEs_to_PDBs.py on post_pw.gcd to get _extracted.pdb of all REFCODEs
+6) Run REFCODEs_to_PDBs.py on post_pw.gcd to get _extracted.pdb of all REFCODEs [Not necessary if using PDBs_to_GCD.py]
     - get PDBs from post_pw.gcd
 
 7) Initial screen is done. Now run classify_structures.py to find cages, and output the porous molecules of those cages
@@ -114,7 +115,7 @@ Andrew Tarzia
 
 8) delete CIFs/PDBs in DIR that are not in classified.csv
     - any items in classified.csv with zeros in all columns (other than REFCODE) had their CIFs and PDBs removed.
-    - 3813 _extracted.pdb remaining (1130)
+    - 3813 _extracted.pdb remaining (XXXXX, 1130)
     - INAGUA and JAQBOT had memory issues, and were skipped.
 
 9) Visualize the most porous molecule of each structure and manually filter for cage structures using ASE.
@@ -126,6 +127,7 @@ Andrew Tarzia
         - removed AKIFAB due to pore handling of connected rings in pywindow
     - kept CAHTEM, CAHTEMXX, CAHVAK, CAHVAKXX
         - pywindow did not handle guests well, which lead to a bug.
+    - Ignored structures with multiple independant cavities in one discrete molecule
     - save REFCODEs in to_keep --> viz_select.gcd
 
 10) Copy structures deemed to be cages into ./cage_subset/
