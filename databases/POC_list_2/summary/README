@@ -1,45 +1,8 @@
 Andrew Tarzia
 
-== Authors used for search ==
+== Authors used for search in author_list_final.txt ==
 == Only used last names in search --> many more candidates... == 
 == Avoids ambiguity with initials. == 
-- r.banerjee
-- F.Beuerle
-- C.J.Chang
-- A.I.cooper
-- d.j.Cram
-- c.j.doonan
-- a.p.Davis
-- f.Diederich
-- J.Gawronski
-- B.Gole
-- K.E.jelfs
-- w.Kiggen
-- K.Kim
-- M.Kitta
-- J.M.lehn
-- m.mastalerz
-- p.s.mukherjee
-- j.Nelson
-- Y.Pan
-- H.Pang
-- c.j.Pedersen
-- R.Qiao
-- m.l.c.Quan
-- j.p.Sauvage
-- C.A.Schalley
-- K.Severin
-- P.Skowronek
-- a.g.slater
-- f.Vogtle
-- C.Wang
-- M.D.Ward
-- R.Warmuth
-- D.Yuan
-- L.Yuan
-- M.Zeller
-- W.Zhang
-***
 
 == Method == 
 1) searched the CSD using the CSD API and the script get_from_author.py:
@@ -51,16 +14,16 @@ Andrew Tarzia
         - if entry.is_organometallic is True (ORGANIC CAGES ONLY) (NOTE THAT THE CSD IS NOT PERFECT AT GETTING THIS VALUE RIGHT - Mg is not considered metallic?)
     - Note: this process entriely depends on the data available in the CSD you are searching.
         - i.e. HIWHOM and VOFROZ do not have 3d_structures in the CSD on my local machine and therefore get skipped.
-    --> 67721 cifs found from 35 authors (FILL IN NO)
-    --> REFCODEs in DB.gcd
+    --> 71183 cifs found from 49 authors
+    --> REFCODEs in DB_final.gcd
 
-2) Using 'REFCODEs_to_CIFs.py' and CSD API. [IN FUTURE, REPLACE WITH: REFCODEs_to_PDBs.py]
-    - get CIFs in DB DIR from REFCODEs in DB.gcd
-    - save REFCODEs of entries with entry.has_3d_structure is False to misssing_struct.gcd
+2) Using 'REFCODEs_to_PDBs.py' and CSD API.
+    - get PDBs in DB DIR from REFCODEs in DB_final.gcd
+    - save REFCODEs of entries with entry.has_3d_structure is False to misssing_struct_final.gcd
         - check for possible cross references to old REFCODEs
-        - save cross references to cross_refs.csv
-    --> structures missing: 1677 of 67721
-    --> cross refs used: 1889 of 67721
+        - save cross references to cross_refs_final.csv
+    --> structures missing: 1823 of 71183
+    --> cross refs used: 1968 of 71183
 
 3) Sort structures based on the presence of a porous molecule in the CIF
     - too many structures to visualize manually
@@ -75,8 +38,10 @@ Andrew Tarzia
         disordered, and they are moved to ./memory/
         - if 'Unknown' in .cif --> remove structure as it will fail.
     - THIS METHODOLOGY WILL REMOVE STRUCTURES THAT ARE CAGE-LIKE BUT NONPOROUS
+    -structues deleted: 61427 of 71183 ('Y')
+    -structues with 'M': 1941 of 71183
 
-4) Check structures in ./memory/ for simple fixes
+4) Check structures in ./memory_final/ for simple fixes
     - these structures are likely broken due to disorder
     - structures tested:
 		* IYEMAC_extracted.cif — is cage — keep
@@ -97,29 +62,26 @@ Andrew Tarzia
             - failed for PAWSEO_extracted.cif and QEFMUM_extracted.cif
         - copy .cif, .pdb and _rebuild.pdb from /memory/ to ../
 
-5) Write post_pw.gcd using CIFs_to_GCD.py [IN FUTURE, REPLACE WITH: PDBs_to_GCD.py]
-    - assumes that any remaining CIFs must be accepted
-    - have 5907 CIFs at this stage (6623, 1414)
+5) Write post_pw_final.gcd using PDBs_to_GCD.py
+    - assumes that any remaining PDBs must be accepted
+    - have 7816 PDBs at this stage
 
-6) Run REFCODEs_to_PDBs.py on post_pw.gcd to get _extracted.pdb of all REFCODEs [Not necessary if using PDBs_to_GCD.py]
-    - get PDBs from post_pw.gcd
-
-7) Initial screen is done. Now run classify_structures.py to find cages, and output the porous molecules of those cages
+6) Initial screen is done. Now run classify_structures.py to find cages, and output the porous molecules of those cages
     - check PDB for molecules that are cages by this definition:
         - pore_diameter_opt > 0.0 angstrom
         - no_windows >= 2  # masterlerz definition
     - output:
-        - classified.csv:
+        - classified_final.csv:
             - refcode, molecule id, pore_diameter_opt, no_windows
         - save cage molecules of each PDB to PDBs
 
-8) delete CIFs/PDBs in DIR that are not in classified.csv
+7) delete CIFs/PDBs in DIR that are not in classified.csv
     - any items in classified.csv with zeros in all columns (other than REFCODE) had their CIFs and PDBs removed.
-    - 3813 _extracted.pdb remaining (XXXXX, 1130)
+    - 5022 _extracted.pdb remaining
     - INAGUA and JAQBOT had memory issues, and were skipped.
     - ACDMNP behaved strangely with duplication of atoms in pywindow - noted in DB_sheet.ods
 
-9) Visualize the most porous molecule of each structure and manually filter for cage structures using ASE.
+8) Visualize the most porous molecule of each structure and manually filter for cage structures using ASE.
     - performed with script: viz_structures_ase.py (this could be made much more efficient in the future.)
     - this search is dependant on the usage of the DB. In this case, I have kept only cage-like structures.
         - which means I have removed '1D'-macrocylic structures (i.e. ACAVAE)
@@ -129,16 +91,19 @@ Andrew Tarzia
     - kept CAHTEM, CAHTEMXX, CAHVAK, CAHVAKXX
         - pywindow did not handle guests well, which lead to a bug.
     - Ignored structures with multiple independant cavities in one discrete molecule
-    - save REFCODEs in to_keep --> viz_select.gcd
+    - save REFCODEs in to_keep --> viz_select_final.gcd
+    - save REFCODEs that have been checked (kept or not) --> temp_done_final.gcd
 
-10) Copy structures deemed to be cages into ./cage_subset/
+9) Copy structures deemed to be cages into ./cage_subset/
     - for all REFCODEs in viz_select.gcd:
         - cp REFCODE* ./cage_subset/
+        - This is a dataset of cages!
+        - 1033 structures
 
-11) Remove solvent using remove_solvent.py
+10) Remove solvent using remove_solvent.py
     - defines a solvent molecule as pore_diam_opt < 0 or no_windows < 2
 
-12) Fill in DB_sheet.ods
+11) Fill in DB_sheet.ods
     Info to gather:
         - whether there is disorder in the cage (specifically not the solvent)
             - done visually
@@ -212,9 +177,9 @@ Andrew Tarzia
                 - WIQHOW
                     - multiple cages come up with negative pore diameters, pywindow does not give an error, but it behaves strangely.
                     - delete this structure because it will fail in pore topology analysis
-    - end this step with 880 structures
+    - end this step with 1033 structures
 
-13) Ran append_all_COMs.py on all _nosolv.pdb files in cage_subset/
+12) Ran append_all_COMs.py on all _nosolv.pdb files in cage_subset/
 
 
 
