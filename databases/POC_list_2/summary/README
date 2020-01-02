@@ -121,24 +121,34 @@ Andrew Tarzia
             - apply the following edits:
                 - CAHTEM
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - CAHTEM01
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - CAHTEM02
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - CAHTEM03
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - CAHTEM04
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - CAHVAK
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - CAHVAK01
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - CAHVAK02
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - CAHVAK03
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - CAHVAK04
                     - deleted all iodine atoms using ASE
+                    - [it looks like this was not actually done in the latest version on github, so the iodine atoms remain in the no_solv structures]
                 - MOTWAV
                     - result of small cage not having windows by pywindow
                     - delete this structure as it may give rise to an odd pore topology
@@ -177,10 +187,12 @@ Andrew Tarzia
                 - WIQHOW
                     - multiple cages come up with negative pore diameters, pywindow does not give an error, but it behaves strangely.
                     - delete this structure because it will fail in pore topology analysis
-    - end this step with 1033 structures
 
 12) Ran append_all_COMs.py on all _nosolv.pdb files in cage_subset/
     command: ''python ~/thesource/pore_topologies/append_all_COM.py '*_nosolv.pdb' NONE''
+
+13) Ran collate_window_sizes.py on all _nosolv_*.json to collate the window sizes of all cages of all CIFs.
+    command: ''python ~/thesource/pore_topologies/collate_window_sizes.py '*_nosolv*json' window_sizes.csv'
 
 
 
