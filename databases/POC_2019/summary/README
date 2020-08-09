@@ -94,14 +94,23 @@ Python code required can be found at https://github.com/andrewtarzia/cage_collec
     - kept CAHTEM, CAHTEMXX, CAHVAK, CAHVAKXX
         - pywindow did not handle guests well, which lead to a bug.
     - Ignored structures with multiple independant cavities in one discrete molecule
-    - save REFCODEs in to_keep --> ./viz_select_final.gcd
+    - save REFCODEs to be kept --> ../final_db/viz_select_final.gcd
     - save REFCODEs that have been checked (kept or not) --> ../final_db/temp_done_final.gcd
+    - on Aug 7/9 2020:
+        - This process was honed into to only cage-like molecules, i.e. cyclodextrins/cucurbitriuls were removed.
+        - Updated ../final_db/viz_select_final.gcd
+            - This file contains some REFCODEs that did not pass step 7 because all volumns in classified.csv were 0.
 
 9) Copy structures deemed to be cages into ../final_db/cage_subset/
     - for all REFCODEs in ./viz_select.gcd:
         - cp REFCODE* ../final_db/cage_subset/
         - This is a dataset of cages!
         - 1033 structures
+    - on Aug 7/9 2020:
+        - Updated based on new ../final_db/viz_select_final.gcd
+        - Only copied REFCODEs to ../final_db/cage_subset/ that are not already there
+        - Deleted items with REFCODE not in new ../final_db/viz_select_final.gcd
+        - Now 396 structures
 
 10) Remove solvent using $CODE/remove_solvent.py
     - defines a solvent molecule as pore_diam_opt < 0 or no_windows < 2
@@ -190,12 +199,14 @@ Python code required can be found at https://github.com/andrewtarzia/cage_collec
                 - WIQHOW
                     - multiple cages come up with negative pore diameters, pywindow does not give an error, but it behaves strangely.
                     - delete this structure because it will fail in pore topology analysis
+    - on Aug 7/9 2020:
+        - Added new structures and moved all deleted structures to 'deleted'
 
 12) Ran $CODE/pore_topologies/append_all_COMs.py on all _nosolv.pdb files in ../final_db/cage_subset/
     command: ''python $CODE/pore_topologies/append_all_COM.py '*_nosolv.pdb' NONE''
 
 13) Ran $CODE/pore_topologies/collate_window_sizes.py on all _nosolv_*.json to collate the window sizes of all cages of all CIFs.
-    command: ''python $CODE/pore_topologies/collate_window_sizes.py '*_nosolv*json' window_sizes.csv'
+    command: ''python $CODE/pore_topologies/collate_window_sizes.py '*_nosolv*json' window_sizes.csv pore_sizes.csv'
 
 14) List of REFCODEs where the solvent was not removed and had to be removed manually:
 > RIPKOR
@@ -213,4 +224,10 @@ Python code required can be found at https://github.com/andrewtarzia/cage_collec
 > CAHVAK02
 > CAHVAK03
 > CAHVAK04
+
+
+
+==========================================================================
+
+
 
